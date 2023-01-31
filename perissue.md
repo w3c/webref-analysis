@@ -2,7 +2,7 @@
 % Strudy
 % January 31, 2023
 
-537 specifications were crawled in this report.
+555 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -32,6 +32,8 @@
 - [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Proposal-array-find-from-last](https://tc39.es/proposal-array-find-from-last/)
+- [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [Regular Expression Pattern Modifiers for ECMAScript](https://tc39.es/proposal-regexp-modifiers/)
 - [Resizable ArrayBuffer and growable SharedArrayBuffer](https://tc39.es/proposal-resizablearraybuffer/)
 - [RFC 2397: The "data" URL scheme](https://www.rfc-editor.org/rfc/rfc2397)
@@ -45,6 +47,9 @@
 - [Set methods](https://tc39.es/proposal-set-methods/)
 - [ShadowRealm API](https://tc39.es/proposal-shadowrealm/)
 - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 - [Symbol as WeakMap Keys Proposal](https://tc39.es/proposal-symbols-as-weakmap-keys/)
 - [Temporal proposal](https://tc39.es/proposal-temporal/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
@@ -93,7 +98,7 @@
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - [Well-Formed Unicode Strings](https://tc39.es/proposal-is-usv-string/)
 
-=> 85 specifications found
+=> 90 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -894,18 +899,18 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but does not list it in its references
+- [Global Privacy Control (GPC)](https://privacycg.github.io/gpc-spec/) links to [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/) but does not list it in its references
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/) links to:
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but does not list it in its references
     * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/) but does not list it in its references
     * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
 - [Gyroscope](https://w3c.github.io/gyroscope/) links to [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
-- [High Resolution Time](https://w3c.github.io/hr-time/) links to [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
-    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/) but does not list it in its references
     * [`https://w3c.github.io/mathml-aam/`](https://w3c.github.io/mathml-aam/) but does not list it in its references
     * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/) but does not list it in its references
+    * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) links to:
     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/) but does not list it in its references
     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
@@ -931,7 +936,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but does not list it in its references
 - [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
 - [MathML Core](https://w3c.github.io/mathml-core/) links to:
-    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
@@ -961,7 +965,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/mini-app-white-paper/`](https://www.w3.org/TR/mini-app-white-paper/) but does not list it in its references
     * [`https://www.w3.org/TR/miniapp-manifest/`](https://www.w3.org/TR/miniapp-manifest/) but does not list it in its references
     * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/) but does not list it in its references
-- [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/) links to [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/) but does not list it in its references
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/) links to [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to:
     * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/) but does not list it in its references
@@ -990,19 +993,103 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view) but does not list it in its references
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/) links to:
-    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
-    * [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/) but does not list it in its references
+- [Payment Request API 1.1](https://w3c.github.io/payment-request/) links to [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/) but does not list it in its references
 - [Performance Timeline](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to:
     * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html) but does not list it in its references
     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/) but does not list it in its references
+    * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
     * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/) but does not list it in its references
 - [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
-- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/) links to:
-    * [`http://www.w3.org/TR/owl2-syntax/`](http://www.w3.org/TR/owl2-syntax/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/) but does not list it in its references
-- [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/) links to [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/) but does not list it in its references
+- [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/) links to:
+    * [`http://www.w3.org/TR/2011/WD-turtle-20110809/`](http://www.w3.org/TR/2011/WD-turtle-20110809/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/) but does not list it in its references
+    * [`http://www.w3.org/TR/2014/PR-turtle-20140109/`](http://www.w3.org/TR/2014/PR-turtle-20140109/) but does not list it in its references
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/) links to:
+    * [`https://w3c.github.io/rdf-concepts/spec/`](https://w3c.github.io/rdf-concepts/spec/) but does not list it in its references
+    * [`https://w3c.github.io/rdf-n-quads/spec/`](https://w3c.github.io/rdf-n-quads/spec/) but does not list it in its references
+    * [`https://w3c.github.io/rdf-n-triples/spec/`](https://w3c.github.io/rdf-n-triples/spec/) but does not list it in its references
+    * [`https://w3c.github.io/rdf-new/spec/`](https://w3c.github.io/rdf-new/spec/) but does not list it in its references
+    * [`https://w3c.github.io/rdf-primer/spec/`](https://w3c.github.io/rdf-primer/spec/) but does not list it in its references
+    * [`https://w3c.github.io/rdf-schema/spec/`](https://w3c.github.io/rdf-schema/spec/) but does not list it in its references
+    * [`https://w3c.github.io/rdf-semantics/spec/`](https://w3c.github.io/rdf-semantics/spec/) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt) but does not list it in its references
+    * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf) but does not list it in its references
+    * [`https://w3c.github.io/rdf-trig/spec/`](https://w3c.github.io/rdf-trig/spec/) but does not list it in its references
+    * [`https://w3c.github.io/rdf-turtle/spec/`](https://w3c.github.io/rdf-turtle/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-concepts/spec/`](https://w3c.github.io/sparql-concepts/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-entailment/spec/`](https://w3c.github.io/sparql-entailment/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-federated-query/spec/`](https://w3c.github.io/sparql-federated-query/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-graph-store-protocol/spec/`](https://w3c.github.io/sparql-graph-store-protocol/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-new/spec/`](https://w3c.github.io/sparql-new/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-protocol/spec/`](https://w3c.github.io/sparql-protocol/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-query/spec/`](https://w3c.github.io/sparql-query/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-results-csv-tsv/spec/`](https://w3c.github.io/sparql-results-csv-tsv/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-results-json/spec/`](https://w3c.github.io/sparql-results-json/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-results-xml/spec/`](https://w3c.github.io/sparql-results-xml/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-service-description/spec/`](https://w3c.github.io/sparql-service-description/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-update/spec/`](https://w3c.github.io/sparql-update/spec/) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc) but does not list it in its references
+    * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng) but does not list it in its references
+    * [`https://www.w3.org/TR/xml-infoset/`](https://www.w3.org/TR/xml-infoset/) but does not list it in its references
+    * [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/) but does not list it in its references
+    * [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/) but does not list it in its references
+    * [`https://www.w3.org/TR/xmlschema-1/`](https://www.w3.org/TR/xmlschema-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/xpath-10/`](https://www.w3.org/TR/xpath-10/) but does not list it in its references
+    * [`https://www.w3.org/TR/xpath-datamodel-30/`](https://www.w3.org/TR/xpath-datamodel-30/) but does not list it in its references
+    * [`https://www.w3.org/TR/xpath-functions-30/`](https://www.w3.org/TR/xpath-functions-30/) but does not list it in its references
 - [Region Capture](https://w3c.github.io/mediacapture-region/) links to [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/) but does not list it in its references
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/) links to:
     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
@@ -1098,6 +1185,157 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/payment-handler/`](https://w3c.github.io/payment-handler/) but does not list it in its references
     * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/) but does not list it in its references
+- [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/) links to [`http://www.w3.org/TR/owl2-test/`](http://www.w3.org/TR/owl2-test/) but does not list it in its references
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/) links to:
+    * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/) but does not list it in its references
+    * [`http://www.w3.org/TR/2011/WD-sparql11-query-20110512/`](http://www.w3.org/TR/2011/WD-sparql11-query-20110512/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321`](http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
+    * [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/) but does not list it in its references
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/) links to:
+    * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/) but does not list it in its references
+    * [`http://www.w3.org/TR/2004/REC-webarch-20041215/`](http://www.w3.org/TR/2004/REC-webarch-20041215/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-update-20130321`](http://www.w3.org/TR/2013/REC-sparql11-update-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/html4/`](http://www.w3.org/TR/html4/) but does not list it in its references
+    * [`http://www.w3.org/TR/html4/interact/forms.html`](http://www.w3.org/TR/html4/interact/forms.html) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
+    * [`http://www.w3.org/TR/webarch/`](http://www.w3.org/TR/webarch/) but does not list it in its references
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/) links to:
+    * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/owl2-overview/`](http://www.w3.org/TR/owl2-overview/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/rif-overview/`](http://www.w3.org/TR/rif-overview/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-http-rdf-update/`](http://www.w3.org/TR/sparql11-http-rdf-update/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-service-description/`](http://www.w3.org/TR/sparql11-service-description/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
+    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/) links to:
+    * [`http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-update-20130321`](http://www.w3.org/TR/2013/REC-sparql11-update-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-concepts/`](http://www.w3.org/TR/rdf-concepts/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-http-rdf-update/`](http://www.w3.org/TR/sparql11-http-rdf-update/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
+    * [`http://www.w3.org/TR/turtle`](http://www.w3.org/TR/turtle) but does not list it in its references
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/) links to:
+    * [`http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/`](http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/) but does not list it in its references
+    * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/) but does not list it in its references
+    * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/) but does not list it in its references
+    * [`http://www.w3.org/TR/2004/REC-webarch-20041215/`](http://www.w3.org/TR/2004/REC-webarch-20041215/) but does not list it in its references
+    * [`http://www.w3.org/TR/2004/REC-xml11-20040204/`](http://www.w3.org/TR/2004/REC-xml11-20040204/) but does not list it in its references
+    * [`http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/) but does not list it in its references
+    * [`http://www.w3.org/TR/2005/REC-charmod-20050215/`](http://www.w3.org/TR/2005/REC-charmod-20050215/) but does not list it in its references
+    * [`http://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/`](http://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/) but does not list it in its references
+    * [`http://www.w3.org/TR/2006/REC-xml-names11-20060816/`](http://www.w3.org/TR/2006/REC-xml-names11-20060816/) but does not list it in its references
+    * [`http://www.w3.org/TR/2007/REC-xpath-functions-20070123/`](http://www.w3.org/TR/2007/REC-xpath-functions-20070123/) but does not list it in its references
+    * [`http://www.w3.org/TR/2007/REC-xpath20-20070123/`](http://www.w3.org/TR/2007/REC-xpath20-20070123/) but does not list it in its references
+    * [`http://www.w3.org/TR/2007/REC-xquery-20070123/`](http://www.w3.org/TR/2007/REC-xquery-20070123/) but does not list it in its references
+    * [`http://www.w3.org/TR/2009/WD-sparql-features-20090702/`](http://www.w3.org/TR/2009/WD-sparql-features-20090702/) but does not list it in its references
+    * [`http://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/`](http://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321`](http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/) but does not list it in its references
+    * [`http://www.w3.org/TR/curie/`](http://www.w3.org/TR/curie/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-concepts/`](http://www.w3.org/TR/rdf-concepts/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-dawg-uc/`](http://www.w3.org/TR/rdf-dawg-uc/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-mt`](http://www.w3.org/TR/rdf-mt) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql-features/`](http://www.w3.org/TR/sparql-features/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
+    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
+    * [`http://www.w3.org/TR/vcard-rdf`](http://www.w3.org/TR/vcard-rdf) but does not list it in its references
+    * [`http://www.w3.org/TR/webarch/`](http://www.w3.org/TR/webarch/) but does not list it in its references
+    * [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/) but does not list it in its references
+    * [`http://www.w3.org/TR/xmlschema-2/`](http://www.w3.org/TR/xmlschema-2/) but does not list it in its references
+    * [`http://www.w3.org/TR/xmlschema11-2/`](http://www.w3.org/TR/xmlschema11-2/) but does not list it in its references
+    * [`http://www.w3.org/TR/xpath-datamodel/`](http://www.w3.org/TR/xpath-datamodel/) but does not list it in its references
+    * [`http://www.w3.org/TR/xpath-functions/`](http://www.w3.org/TR/xpath-functions/) but does not list it in its references
+    * [`http://www.w3.org/TR/xpath20/`](http://www.w3.org/TR/xpath20/) but does not list it in its references
+    * [`http://www.w3.org/TR/xquery/`](http://www.w3.org/TR/xquery/) but does not list it in its references
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/) links to:
+    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/) links to:
+    * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-XMLres/output.srx`](http://www.w3.org/TR/rdf-sparql-XMLres/output.srx) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/) links to:
+    * [`http://www.w3.org/TR/2004/REC-xml-20040204/`](http://www.w3.org/TR/2004/REC-xml-20040204/) but does not list it in its references
+    * [`http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/) but does not list it in its references
+    * [`http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
+    * [`http://www.w3.org/TR/xmlschema-1/`](http://www.w3.org/TR/xmlschema-1/) but does not list it in its references
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/) links to:
+    * [`http://www.w3.org/TR/2011/NOTE-void-20110303/`](http://www.w3.org/TR/2011/NOTE-void-20110303/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321`](http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321`](http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/2013/REC-sparql11-update-20130321`](http://www.w3.org/TR/2013/REC-sparql11-update-20130321) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdfa-syntax/`](http://www.w3.org/TR/rdfa-syntax/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
+    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
+    * [`http://www.w3.org/TR/void/`](http://www.w3.org/TR/void/) but does not list it in its references
+    * [`http://www.w3.org/TR/webarch/`](http://www.w3.org/TR/webarch/) but does not list it in its references
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/) links to:
+    * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-concepts/`](http://www.w3.org/TR/rdf-concepts/) but does not list it in its references
+    * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-http-rdf-update/`](http://www.w3.org/TR/sparql11-http-rdf-update/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/) but does not list it in its references
+    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
+    * [`http://www.w3.org/TR/xml-names/`](http://www.w3.org/TR/xml-names/) but does not list it in its references
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/) links to [`http://www.w3.org/TR/powerful-features/`](http://www.w3.org/TR/powerful-features/) but does not list it in its references
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/) links to:
     * [`http://www.w3.org/TR/2012/WD-css-masking-20121115/`](http://www.w3.org/TR/2012/WD-css-masking-20121115/) but does not list it in its references
@@ -1141,16 +1379,10 @@ Basically all specifications have normative dependencies on some other specifica
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/) links to [`https://w3c.github.io/webappsec/specs/mixedcontent/`](https://w3c.github.io/webappsec/specs/mixedcontent/) but does not list it in its references
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) links to [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/) links to [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
-- [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/) links to:
-    * [`https://html.spec.whatwg.org/multipage/common-dom-interfaces.html`](https://html.spec.whatwg.org/multipage/common-dom-interfaces.html) but does not list it in its references
-    * [`https://html.spec.whatwg.org/multipage/common-microsyntaxes.html`](https://html.spec.whatwg.org/multipage/common-microsyntaxes.html) but does not list it in its references
-    * [`https://html.spec.whatwg.org/multipage/interaction.html`](https://html.spec.whatwg.org/multipage/interaction.html) but does not list it in its references
-    * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
+- [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/) links to [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/) but does not list it in its references
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/) links to [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/) but does not list it in its references
-- [Web App Launch Handler API](https://wicg.github.io/web-app-launch/) links to [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
-- [Web Application Manifest](https://w3c.github.io/manifest/) links to [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
 - [Web Audio API](https://webaudio.github.io/web-audio-api/) links to [`https://www.w3.org/TR/mediacapture-fromelement/`](https://www.w3.org/TR/mediacapture-fromelement/) but does not list it in its references
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/) links to:
     * [`https://w3c.github.io/IntersectionObserver/v2/`](https://w3c.github.io/IntersectionObserver/v2/) but does not list it in its references
@@ -1202,7 +1434,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 873 missing references for links found in 225 specifications
+=> 1091 missing references for links found in 233 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1638,7 +1870,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/mediastream-recording/`](https://www.w3.org/TR/mediastream-recording/) but related reference "MEDIASTREAM-RECORDING" uses URL [`https://w3c.github.io/mediacapture-record/`](https://w3c.github.io/mediacapture-record/)
     * [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/) but related reference "SECURE-CONTEXTS" uses URL [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
-- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "GETUSERMEDIA" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+- [Media Capture from DOM Elements](https://w3c.github.io/mediacapture-fromelement/) links to [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/) but related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/) links to [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/) but related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/) links to:
     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/) but related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
@@ -1669,25 +1901,8 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
     * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/) but related reference "REFERRER-POLICY" uses URL [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/) links to [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/) but related reference "REQUESTIDLECALLBACK" uses URL [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
-- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/) links to:
-    * [`http://www.w3.org/TR/1999/REC-xml-names-19990114/`](http://www.w3.org/TR/1999/REC-xml-names-19990114/) but related reference "XML-NAMES" uses URL [`http://www.w3.org/TR/xml-names`](http://www.w3.org/TR/xml-names)
-    * [`http://www.w3.org/TR/2000/REC-xml-20001006`](http://www.w3.org/TR/2000/REC-xml-20001006) but related reference "XML10" uses URL [`http://www.w3.org/TR/xml`](http://www.w3.org/TR/xml)
-    * [`http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/`](http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/) but related reference "XML-EXC-C14N" uses URL [`http://www.w3.org/TR/xml-exc-c14n`](http://www.w3.org/TR/xml-exc-c14n)
-    * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/) but related reference "RDF11-SCHEMA" uses URL [`http://www.w3.org/TR/2014/REC-rdf-schema-20140225/`](http://www.w3.org/TR/2014/REC-rdf-schema-20140225/)
-    * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/) but related reference "RDF11-XML" uses URL [`http://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/`](http://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/)
-    * [`http://www.w3.org/TR/rdf11-datasets/`](http://www.w3.org/TR/rdf11-datasets/) but related reference "RDF11-DATASETS" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/)
-    * [`http://www.w3.org/TR/rdf11-mt/`](http://www.w3.org/TR/rdf11-mt/) but related reference "RDF11-MT" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/)
-    * [`http://www.w3.org/TR/rdf11-new/`](http://www.w3.org/TR/rdf11-new/) but related reference "RDF11-NEW" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/)
-    * [`http://www.w3.org/TR/rdf11-primer/`](http://www.w3.org/TR/rdf11-primer/) but related reference "RDF11-PRIMER" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/)
-    * [`http://www.w3.org/TR/rdf11-testcases/`](http://www.w3.org/TR/rdf11-testcases/) but related reference "RDF11-TESTCASES" uses URL [`http://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/`](http://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/)
-    * [`http://www.w3.org/TR/trig/`](http://www.w3.org/TR/trig/) but related reference "TRIG" uses URL [`http://www.w3.org/TR/2014/REC-trig-20140225/`](http://www.w3.org/TR/2014/REC-trig-20140225/)
-    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
 - [RDF 1.1 N-Quads](https://www.w3.org/TR/n-quads/) links to:
     * [`http://www.w3.org/TR/n-triples/`](http://www.w3.org/TR/n-triples/) but related reference "N-TRIPLES" uses URL [`http://www.w3.org/TR/2014/REC-n-triples-20140225/`](http://www.w3.org/TR/2014/REC-n-triples-20140225/)
-    * [`http://www.w3.org/TR/rdf11-concepts/`](http://www.w3.org/TR/rdf11-concepts/) but related reference "RDF11-CONCEPTS" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
-    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
-- [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/) links to:
-    * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/) but related reference "RDF11-SCHEMA" uses URL [`http://www.w3.org/TR/2014/REC-rdf-schema-20140225/`](http://www.w3.org/TR/2014/REC-rdf-schema-20140225/)
     * [`http://www.w3.org/TR/rdf11-concepts/`](http://www.w3.org/TR/rdf11-concepts/) but related reference "RDF11-CONCEPTS" uses URL [`http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but related reference "TURTLE" uses URL [`http://www.w3.org/TR/2014/REC-turtle-20140225/`](http://www.w3.org/TR/2014/REC-turtle-20140225/)
 - [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/) links to [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
@@ -1821,7 +2036,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebOTP API](https://wicg.github.io/web-otp/) links to:
     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/) but related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "Permissions-Policy" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
-- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 - [WebXR Anchors Module](https://immersive-web.github.io/anchors/) links to [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/) links to:
     * [`https://www.w3.org/TR/compositing-1`](https://www.w3.org/TR/compositing-1) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
@@ -1836,7 +2050,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 510 inconsistent references for links found in 191 specifications
+=> 494 inconsistent references for links found in 188 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

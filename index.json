@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-01-31T12:45:19.286Z",
+  "date": "2023-01-31T17:22:08.367Z",
   "stats": {
-    "crawled": 537,
+    "crawled": 555,
     "errors": 0,
-    "studied": 537
+    "studied": 555
   },
   "results": [
     {
@@ -4330,6 +4330,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/paint-timing/",
               "title": "Paint Timing 1",
               "crawled": "https://w3c.github.io/paint-timing/"
@@ -4801,6 +4806,11 @@
               "url": "https://www.w3.org/TR/css-position-3/",
               "title": "CSS Positioned Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-position-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             }
           ],
           "informative": [
@@ -5224,6 +5234,11 @@
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
@@ -5553,6 +5568,11 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://quirks.spec.whatwg.org/",
@@ -5983,6 +6003,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://w3c.github.io/contentEditable/",
+              "title": "ContentEditable",
+              "crawled": "https://w3c.github.io/contentEditable/"
+            },
             {
               "url": "https://www.w3.org/TR/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
@@ -7212,6 +7237,21 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
             }
           ],
           "informative": [
@@ -9999,6 +10039,11 @@
               "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -10054,11 +10099,6 @@
               "url": "https://wicg.github.io/local-font-access/",
               "title": "Local Font Access API",
               "crawled": "https://wicg.github.io/local-font-access/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mathml-core/",
-              "title": "MathML Core",
-              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -16157,6 +16197,11 @@
               "url": "https://www.w3.org/TR/intersection-observer/",
               "title": "Intersection Observer",
               "crawled": "https://w3c.github.io/IntersectionObserver/"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
             }
           ],
           "informative": [
@@ -16673,6 +16718,11 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
             }
           ]
         },
@@ -19971,6 +20021,11 @@
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
+              "url": "https://www.w3.org/TR/selection-api/",
+              "title": "Selection API",
+              "crawled": "https://w3c.github.io/selection-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -20083,6 +20138,11 @@
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -20093,7 +20153,13 @@
               "crawled": "https://wicg.github.io/window-controls-overlay/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            }
+          ]
         },
         "ok": true
       }
@@ -20927,6 +20993,21 @@
               "crawled": "https://wicg.github.io/background-fetch/"
             },
             {
+              "url": "https://w3c.github.io/badging/",
+              "title": "Badging API",
+              "crawled": "https://w3c.github.io/badging/"
+            },
+            {
+              "url": "https://www.w3.org/TR/battery-status/",
+              "title": "Battery Status API",
+              "crawled": "https://w3c.github.io/battery/"
+            },
+            {
+              "url": "https://www.w3.org/TR/capture-handle-identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
@@ -20960,6 +21041,11 @@
               "url": "https://www.w3.org/TR/csp-embedded-enforcement/",
               "title": "Content Security Policy: Embedded Enforcement",
               "crawled": "https://w3c.github.io/webappsec-cspee/"
+            },
+            {
+              "url": "https://w3c.github.io/contentEditable/",
+              "title": "ContentEditable",
+              "crawled": "https://w3c.github.io/contentEditable/"
             },
             {
               "url": "https://wicg.github.io/cookie-store/",
@@ -21167,6 +21253,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
+              "url": "https://www.w3.org/TR/device-posture/",
+              "title": "Device Posture API",
+              "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
               "url": "https://www.w3.org/TR/orientation-event/",
               "title": "DeviceOrientation Event Specification",
               "crawled": "https://w3c.github.io/deviceorientation/"
@@ -21185,6 +21276,11 @@
               "url": "https://wicg.github.io/is-input-pending/",
               "title": "Early detection of input events",
               "crawled": "https://wicg.github.io/is-input-pending/"
+            },
+            {
+              "url": "https://www.w3.org/TR/edit-context/",
+              "title": "EditContext API",
+              "crawled": "https://w3c.github.io/edit-context/"
             },
             {
               "url": "https://wicg.github.io/element-timing/",
@@ -21242,6 +21338,16 @@
               "crawled": "https://fullscreen.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/gamepad/",
+              "title": "Gamepad",
+              "crawled": "https://w3c.github.io/gamepad/"
+            },
+            {
+              "url": "https://w3c.github.io/gamepad/extensions.html",
+              "title": "Gamepad Extensions",
+              "crawled": "https://w3c.github.io/gamepad/extensions.html"
+            },
+            {
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
@@ -21255,6 +21361,11 @@
               "url": "https://wicg.github.io/get-installed-related-apps/spec/",
               "title": "Get Installed Related Apps API",
               "crawled": "https://wicg.github.io/get-installed-related-apps/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/hr-time-3/",
+              "title": "High Resolution Time",
+              "crawled": "https://w3c.github.io/hr-time/"
             },
             {
               "url": "https://wicg.github.io/sanitizer-api/",
@@ -21297,6 +21408,11 @@
               "crawled": "https://w3c.github.io/IntersectionObserver/"
             },
             {
+              "url": "https://wicg.github.io/js-self-profiling/",
+              "title": "JS Self-Profiling API",
+              "crawled": "https://wicg.github.io/js-self-profiling/"
+            },
+            {
               "url": "https://www.w3.org/TR/json-ld11/",
               "title": "JSON-LD 1.1",
               "crawled": "https://w3c.github.io/json-ld-syntax/"
@@ -21337,6 +21453,11 @@
               "crawled": "https://w3c.github.io/longtasks/"
             },
             {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
+            },
+            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -21350,6 +21471,11 @@
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediacapture-streams/",
+              "title": "Media Capture and Streams",
+              "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
               "url": "https://www.w3.org/TR/media-source-2/",
@@ -21377,6 +21503,11 @@
               "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
+              "url": "https://www.w3.org/TR/navigation-timing-2/",
+              "title": "Navigation Timing Level 2",
+              "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
               "url": "https://wicg.github.io/netinfo/",
               "title": "Network Information API",
               "crawled": "https://wicg.github.io/netinfo/"
@@ -21400,6 +21531,16 @@
               "url": "https://www.w3.org/TR/paint-timing/",
               "title": "Paint Timing 1",
               "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-handler/",
+              "title": "Payment Handler API",
+              "crawled": "https://w3c.github.io/payment-handler/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "title": "Payment Request API 1.1",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/permissions/",
@@ -21462,6 +21603,11 @@
               "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
@@ -21470,6 +21616,11 @@
               "url": "https://www.w3.org/TR/referrer-policy/",
               "title": "Referrer Policy",
               "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediacapture-region/",
+              "title": "Region Capture",
+              "crawled": "https://w3c.github.io/mediacapture-region/"
             },
             {
               "url": "https://www.w3.org/TR/remote-playback/",
@@ -21492,6 +21643,11 @@
               "crawled": "https://drafts.csswg.org/resize-observer-1/"
             },
             {
+              "url": "https://www.w3.org/TR/resource-timing/",
+              "title": "Resource Timing",
+              "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
               "url": "https://wicg.github.io/savedata/",
               "title": "Save Data API",
               "crawled": "https://wicg.github.io/savedata/"
@@ -21500,6 +21656,16 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-wake-lock/",
+              "title": "Screen Wake Lock API",
+              "crawled": "https://w3c.github.io/screen-wake-lock/"
             },
             {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
@@ -21552,6 +21718,11 @@
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-handle/actions/",
+              "title": "The Capture-Handle Actions Mechanism",
+              "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
+            },
+            {
               "url": "https://privacycg.github.io/storage-access/",
               "title": "The Storage Access API",
               "crawled": "https://privacycg.github.io/storage-access/"
@@ -21577,6 +21748,11 @@
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
             },
             {
+              "url": "https://www.w3.org/TR/virtual-keyboard/",
+              "title": "VirtualKeyboard API",
+              "crawled": "https://w3c.github.io/virtual-keyboard/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -21585,6 +21761,11 @@
               "url": "https://drafts.csswg.org/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
             },
             {
               "url": "https://www.w3.org/TR/webaudio/",
@@ -21615,6 +21796,11 @@
               "url": "https://www.w3.org/TR/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://w3c.github.io/web-locks/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
             },
             {
               "url": "https://w3c.github.io/web-nfc/",
@@ -21722,6 +21908,11 @@
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
             },
             {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
+            },
+            {
               "url": "https://www.w3.org/2001/tag/doc/promises-guide",
               "title": "Writing Promise-Using Specifications",
               "crawled": "https://www.w3.org/2001/tag/doc/promises-guide"
@@ -21733,6 +21924,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/audio-output/",
+              "title": "Audio Output Devices API",
+              "crawled": "https://w3c.github.io/mediacapture-output/"
+            },
             {
               "url": "https://www.w3.org/TR/core-aam-1.2/",
               "title": "Core Accessibility API Mappings 1.2",
@@ -21779,6 +21975,16 @@
               "crawled": "https://wicg.github.io/digital-goods/"
             },
             {
+              "url": "https://www.w3.org/TR/html-aam-1.0/",
+              "title": "HTML Accessibility API Mappings 1.0",
+              "crawled": "https://w3c.github.io/html-aam/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-identity/",
+              "title": "Identity for WebRTC 1.0",
+              "crawled": "https://w3c.github.io/webrtc-identity/"
+            },
+            {
               "url": "https://infra.spec.whatwg.org/",
               "title": "Infra Standard",
               "crawled": "https://infra.spec.whatwg.org/"
@@ -21789,9 +21995,14 @@
               "crawled": "https://drafts.csswg.org/selectors-nonelement-1/"
             },
             {
-              "url": "https://www.w3.org/TR/rdf11-concepts/",
-              "title": "RDF 1.1 Concepts and Abstract Syntax",
-              "crawled": "https://www.w3.org/TR/rdf11-concepts/"
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/requestidlecallback/",
+              "title": "requestIdleCallback()",
+              "crawled": "https://w3c.github.io/requestidlecallback/"
             },
             {
               "url": "https://www.w3.org/TR/SVG11/",
@@ -21799,9 +22010,19 @@
               "crawled": "https://www.w3.org/TR/SVG11/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-capture/",
+              "title": "Screen Capture",
+              "crawled": "https://w3c.github.io/mediacapture-screen-share/"
+            },
+            {
               "url": "https://www.w3.org/TR/selectors-3/",
               "title": "Selectors Level 3",
               "crawled": "https://drafts.csswg.org/selectors-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
             }
           ]
         },
@@ -22215,6 +22436,11 @@
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
             },
             {
               "url": "https://www.w3.org/TR/screen-capture/",
@@ -22663,6 +22889,11 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
               "title": "Scripting Policy",
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
@@ -22703,6 +22934,11 @@
               "crawled": "https://w3c.github.io/web-nfc/"
             },
             {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
+            },
+            {
               "url": "https://www.w3.org/TR/wasm-js-api-2/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/spec/js-api/"
@@ -22738,6 +22974,11 @@
               "url": "https://streams.spec.whatwg.org/",
               "title": "Streams Standard",
               "crawled": "https://streams.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
             }
           ]
         },
@@ -23509,6 +23750,11 @@
               "crawled": "https://w3c.github.io/webrtc-identity/"
             },
             {
+              "url": "https://www.w3.org/TR/image-resource/",
+              "title": "Image Resource",
+              "crawled": "https://w3c.github.io/image-resource/"
+            },
+            {
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
@@ -23574,9 +23820,19 @@
               "crawled": "https://notifications.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "title": "Payment Request API 1.1",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -23644,6 +23900,11 @@
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
             },
             {
+              "url": "https://www.w3.org/TR/server-timing/",
+              "title": "Server Timing",
+              "crawled": "https://w3c.github.io/server-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
@@ -23679,9 +23940,24 @@
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
             },
             {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
+            },
+            {
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -23734,11 +24010,6 @@
               "url": "https://wicg.github.io/idle-detection/",
               "title": "Idle Detection API",
               "crawled": "https://wicg.github.io/idle-detection/"
-            },
-            {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
-              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -23936,6 +24207,11 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/reporting-1/",
               "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
@@ -23959,6 +24235,11 @@
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
               "crawled": "https://w3c.github.io/webauthn/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -24038,6 +24319,11 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
             }
           ],
           "informative": []
@@ -24086,6 +24372,11 @@
               "url": "https://wicg.github.io/file-system-access/",
               "title": "File System Access",
               "crawled": "https://wicg.github.io/file-system-access/"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
             }
           ],
           "informative": []
@@ -24952,6 +25243,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
+              "url": "https://www.w3.org/TR/edit-context/",
+              "title": "EditContext API",
+              "crawled": "https://w3c.github.io/edit-context/"
+            },
+            {
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
@@ -24992,6 +25288,11 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             },
             {
+              "url": "https://www.w3.org/TR/virtual-keyboard/",
+              "title": "VirtualKeyboard API",
+              "crawled": "https://w3c.github.io/virtual-keyboard/"
+            },
+            {
               "url": "https://www.w3.org/TR/webcodecs/",
               "title": "WebCodecs",
               "crawled": "https://w3c.github.io/webcodecs/"
@@ -25020,6 +25321,11 @@
               "url": "https://www.w3.org/TR/webxr-lighting-estimation-1/",
               "title": "WebXR Lighting Estimation API Level 1",
               "crawled": "https://immersive-web.github.io/lighting-estimation/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
             }
           ],
           "informative": [
@@ -25073,6 +25379,50 @@
           "informative": []
         },
         "ok": true
+      }
+    },
+    {
+      "title": "Global Privacy Control (GPC)",
+      "shortname": "gpc-spec",
+      "date": "30 January 2023",
+      "url": "https://privacycg.github.io/gpc-spec/",
+      "nightly": {
+        "url": "https://privacycg.github.io/gpc-spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/privacycg/gpc-spec",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://privacycg.github.io/gpc-spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Privacy Community Group",
+          "url": "https://www.w3.org/community/privacycg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/tracking-dnt/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
       }
     },
     {
@@ -25292,9 +25642,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://infra.spec.whatwg.org/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -25404,6 +25752,11 @@
               "crawled": "https://wicg.github.io/performance-measure-memory/"
             },
             {
+              "url": "https://w3c.github.io/media-playback-quality/",
+              "title": "Media Playback Quality",
+              "crawled": "https://w3c.github.io/media-playback-quality/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediastream-recording/",
               "title": "MediaStream Recording",
               "crawled": "https://w3c.github.io/mediacapture-record/"
@@ -25444,6 +25797,11 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/requestidlecallback/",
               "title": "requestIdleCallback()",
               "crawled": "https://w3c.github.io/requestidlecallback/"
@@ -25452,6 +25810,11 @@
               "url": "https://www.w3.org/TR/resource-timing/",
               "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/server-timing/",
+              "title": "Server Timing",
+              "crawled": "https://w3c.github.io/server-timing/"
             },
             {
               "url": "https://www.w3.org/TR/service-workers/",
@@ -25477,6 +25840,11 @@
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
@@ -25512,7 +25880,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -25554,10 +25922,10 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://dom.spec.whatwg.org/",
           "https://w3c.github.io/graphics-aam/",
           "https://w3c.github.io/mathml-aam/",
-          "https://www.w3.org/TR/core-aam-1.1/"
+          "https://www.w3.org/TR/core-aam-1.1/",
+          "https://www.w3.org/TR/wai-aria/"
         ],
         "inconsistentRef": [
           {
@@ -25870,9 +26238,29 @@
               "crawled": "https://wicg.github.io/background-fetch/"
             },
             {
+              "url": "https://w3c.github.io/badging/",
+              "title": "Badging API",
+              "crawled": "https://w3c.github.io/badging/"
+            },
+            {
+              "url": "https://www.w3.org/TR/battery-status/",
+              "title": "Battery Status API",
+              "crawled": "https://w3c.github.io/battery/"
+            },
+            {
+              "url": "https://www.w3.org/TR/beacon/",
+              "title": "Beacon",
+              "crawled": "https://w3c.github.io/beacon/"
+            },
+            {
               "url": "https://wicg.github.io/capability-delegation/spec.html",
               "title": "Capability Delegation",
               "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/capture-handle-identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
             },
             {
               "url": "https://www.w3.org/TR/clear-site-data/",
@@ -25933,6 +26321,11 @@
               "url": "https://www.w3.org/TR/csp-embedded-enforcement/",
               "title": "Content Security Policy: Embedded Enforcement",
               "crawled": "https://w3c.github.io/webappsec-cspee/"
+            },
+            {
+              "url": "https://w3c.github.io/contentEditable/",
+              "title": "ContentEditable",
+              "crawled": "https://w3c.github.io/contentEditable/"
             },
             {
               "url": "https://wicg.github.io/cookie-store/",
@@ -26255,6 +26648,11 @@
               "crawled": "https://wicg.github.io/is-input-pending/"
             },
             {
+              "url": "https://www.w3.org/TR/edit-context/",
+              "title": "EditContext API",
+              "crawled": "https://w3c.github.io/edit-context/"
+            },
+            {
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
@@ -26335,6 +26733,11 @@
               "crawled": "https://fullscreen.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/gamepad/",
+              "title": "Gamepad",
+              "crawled": "https://w3c.github.io/gamepad/"
+            },
+            {
               "url": "https://w3c.github.io/gamepad/extensions.html",
               "title": "Gamepad Extensions",
               "crawled": "https://w3c.github.io/gamepad/extensions.html"
@@ -26365,6 +26768,16 @@
               "crawled": "https://wicg.github.io/get-installed-related-apps/spec/"
             },
             {
+              "url": "https://privacycg.github.io/gpc-spec/",
+              "title": "Global Privacy Control (GPC)",
+              "crawled": "https://privacycg.github.io/gpc-spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/hr-time-3/",
+              "title": "High Resolution Time",
+              "crawled": "https://w3c.github.io/hr-time/"
+            },
+            {
               "url": "https://www.w3.org/TR/html-aam-1.0/",
               "title": "HTML Accessibility API Mappings 1.0",
               "crawled": "https://w3c.github.io/html-aam/"
@@ -26385,6 +26798,11 @@
               "crawled": "https://wicg.github.io/video-rvfc/"
             },
             {
+              "url": "https://w3c.github.io/webrtc-ice/",
+              "title": "IceTransport Extensions for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-ice/"
+            },
+            {
               "url": "https://www.w3.org/TR/webrtc-identity/",
               "title": "Identity for WebRTC 1.0",
               "crawled": "https://w3c.github.io/webrtc-identity/"
@@ -26393,6 +26811,11 @@
               "url": "https://wicg.github.io/idle-detection/",
               "title": "Idle Detection API",
               "crawled": "https://wicg.github.io/idle-detection/"
+            },
+            {
+              "url": "https://www.w3.org/TR/image-resource/",
+              "title": "Image Resource",
+              "crawled": "https://w3c.github.io/image-resource/"
             },
             {
               "url": "https://www.w3.org/TR/IndexedDB-3/",
@@ -26495,6 +26918,11 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
+              "url": "https://w3c.github.io/mediacapture-automation/",
+              "title": "Media Capture Automation",
+              "crawled": "https://w3c.github.io/mediacapture-automation/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-fromelement/",
               "title": "Media Capture from DOM Elements",
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
@@ -26538,6 +26966,11 @@
               "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
             },
             {
               "url": "https://www.w3.org/TR/miniapp-packaging/",
@@ -26615,6 +27048,11 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "title": "Payment Request API 1.1",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
               "url": "https://www.w3.org/TR/performance-timeline/",
               "title": "Performance Timeline",
               "crawled": "https://w3c.github.io/performance-timeline/"
@@ -26638,6 +27076,11 @@
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pointerlock-2/",
+              "title": "Pointer Lock 2.0",
+              "crawled": "https://w3c.github.io/pointerlock/"
             },
             {
               "url": "https://wicg.github.io/portals/",
@@ -26680,6 +27123,11 @@
               "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
@@ -26710,6 +27158,11 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
+              "url": "https://www.w3.org/TR/requestidlecallback/",
+              "title": "requestIdleCallback()",
+              "crawled": "https://w3c.github.io/requestidlecallback/"
+            },
+            {
               "url": "https://wicg.github.io/permissions-request/",
               "title": "Requesting Permissions",
               "crawled": "https://wicg.github.io/permissions-request/"
@@ -26728,6 +27181,11 @@
               "url": "https://www.w3.org/TR/resource-hints/",
               "title": "Resource Hints",
               "crawled": "https://w3c.github.io/resource-hints/"
+            },
+            {
+              "url": "https://www.w3.org/TR/resource-timing/",
+              "title": "Resource Timing",
+              "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
               "url": "https://wicg.github.io/responsive-image-client-hints/",
@@ -26753,6 +27211,11 @@
               "url": "https://www.w3.org/TR/screen-orientation/",
               "title": "Screen Orientation",
               "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-wake-lock/",
+              "title": "Screen Wake Lock API",
+              "crawled": "https://w3c.github.io/screen-wake-lock/"
             },
             {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
@@ -26790,9 +27253,24 @@
               "crawled": "https://drafts.csswg.org/selectors-4/"
             },
             {
+              "url": "https://www.w3.org/TR/server-timing/",
+              "title": "Server Timing",
+              "crawled": "https://w3c.github.io/server-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -26833,6 +27311,11 @@
               "url": "https://immersive-web.github.io/model-element/",
               "title": "The <model> element",
               "crawled": "https://immersive-web.github.io/model-element/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-handle/actions/",
+              "title": "The Capture-Handle Actions Mechanism",
+              "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             },
             {
               "url": "https://privacycg.github.io/storage-access/",
@@ -26885,9 +27368,19 @@
               "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
+              "url": "https://www.w3.org/TR/vibration/",
+              "title": "Vibration API (Second Edition)",
+              "crawled": "https://w3c.github.io/vibration/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
+              "url": "https://www.w3.org/TR/virtual-keyboard/",
+              "title": "VirtualKeyboard API",
+              "crawled": "https://w3c.github.io/virtual-keyboard/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
@@ -26945,9 +27438,19 @@
               "crawled": "https://w3c.github.io/web-locks/"
             },
             {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/webnn/",
               "title": "Web Neural Network API",
               "crawled": "https://webmachinelearning.github.io/webnn/"
+            },
+            {
+              "url": "https://w3c.github.io/web-nfc/",
+              "title": "Web NFC",
+              "crawled": "https://w3c.github.io/web-nfc/"
             },
             {
               "url": "https://wicg.github.io/periodic-background-sync/",
@@ -26958,6 +27461,11 @@
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
             },
             {
               "url": "https://w3c.github.io/web-share-target/",
@@ -27112,11 +27620,6 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://w3c.github.io/contentEditable/",
-              "title": "ContentEditable",
-              "crawled": "https://w3c.github.io/contentEditable/"
-            },
-            {
               "url": "https://drafts.csswg.org/css-anchor-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-1/"
@@ -27212,11 +27715,6 @@
               "crawled": "https://w3c.github.io/graphics-aam/"
             },
             {
-              "url": "https://www.w3.org/TR/hr-time-3/",
-              "title": "High Resolution Time",
-              "crawled": "https://w3c.github.io/hr-time/"
-            },
-            {
               "url": "https://www.w3.org/TR/html-aam-1.0/",
               "title": "HTML Accessibility API Mappings 1.0",
               "crawled": "https://w3c.github.io/html-aam/"
@@ -27237,6 +27735,11 @@
               "crawled": "https://mimesniff.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/miniapp-lifecycle/",
+              "title": "MiniApp Lifecycle",
+              "crawled": "https://w3c.github.io/miniapp-lifecycle/"
+            },
+            {
               "url": "https://www.w3.org/TR/fingerprinting-guidance/",
               "title": "Mitigating Browser Fingerprinting in Web Specifications",
               "crawled": "https://w3c.github.io/fingerprinting-guidance/"
@@ -27247,34 +27750,19 @@
               "crawled": "https://w3c.github.io/orientation-sensor/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
-              "crawled": "https://w3c.github.io/payment-request/"
-            },
-            {
               "url": "https://www.w3.org/TR/performance-timeline/",
               "title": "Performance Timeline",
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
-              "url": "https://www.w3.org/TR/push-api/",
-              "title": "Push API",
-              "crawled": "https://w3c.github.io/push-api/"
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://www.w3.org/TR/rdf11-concepts/",
-              "title": "RDF 1.1 Concepts and Abstract Syntax",
-              "crawled": "https://www.w3.org/TR/rdf11-concepts/"
-            },
-            {
-              "url": "https://www.w3.org/TR/requestidlecallback/",
-              "title": "requestIdleCallback()",
-              "crawled": "https://w3c.github.io/requestidlecallback/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing",
-              "crawled": "https://w3c.github.io/resource-timing/"
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc7538",
@@ -27665,6 +28153,11 @@
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
             }
           ],
           "informative": [
@@ -27672,6 +28165,11 @@
               "url": "https://www.w3.org/TR/mediasession/",
               "title": "Media Session Standard",
               "crawled": "https://w3c.github.io/mediasession/"
+            },
+            {
+              "url": "https://www.w3.org/TR/manifest-app-info/",
+              "title": "Web App Manifest - Application Information",
+              "crawled": "https://w3c.github.io/manifest-app-info/"
             }
           ]
         },
@@ -27915,6 +28413,11 @@
               "crawled": "https://w3c.github.io/ambient-light/"
             },
             {
+              "url": "https://www.w3.org/TR/html-aria/",
+              "title": "ARIA in HTML",
+              "crawled": "https://w3c.github.io/html-aria/"
+            },
+            {
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
@@ -27923,6 +28426,11 @@
               "url": "https://wicg.github.io/background-fetch/",
               "title": "Background Fetch",
               "crawled": "https://wicg.github.io/background-fetch/"
+            },
+            {
+              "url": "https://w3c.github.io/badging/",
+              "title": "Badging API",
+              "crawled": "https://w3c.github.io/badging/"
             },
             {
               "url": "https://wicg.github.io/capability-delegation/spec.html",
@@ -28160,6 +28668,11 @@
               "crawled": "https://wicg.github.io/custom-state-pseudo-class/"
             },
             {
+              "url": "https://www.w3.org/TR/device-posture/",
+              "title": "Device Posture API",
+              "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
               "url": "https://wicg.github.io/digital-goods/",
               "title": "Digital Goods API",
               "crawled": "https://wicg.github.io/digital-goods/"
@@ -28235,6 +28748,16 @@
               "crawled": "https://fullscreen.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/gamepad/",
+              "title": "Gamepad",
+              "crawled": "https://w3c.github.io/gamepad/"
+            },
+            {
+              "url": "https://w3c.github.io/gamepad/extensions.html",
+              "title": "Gamepad Extensions",
+              "crawled": "https://w3c.github.io/gamepad/extensions.html"
+            },
+            {
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
@@ -28260,6 +28783,11 @@
               "crawled": "https://w3c.github.io/gyroscope/"
             },
             {
+              "url": "https://www.w3.org/TR/hr-time-3/",
+              "title": "High Resolution Time",
+              "crawled": "https://w3c.github.io/hr-time/"
+            },
+            {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
@@ -28270,9 +28798,19 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            },
+            {
               "url": "https://wicg.github.io/idle-detection/",
               "title": "Idle Detection API",
               "crawled": "https://wicg.github.io/idle-detection/"
+            },
+            {
+              "url": "https://www.w3.org/TR/image-resource/",
+              "title": "Image Resource",
+              "crawled": "https://w3c.github.io/image-resource/"
             },
             {
               "url": "https://www.w3.org/TR/IndexedDB-3/",
@@ -28283,6 +28821,16 @@
               "url": "https://infra.spec.whatwg.org/",
               "title": "Infra Standard",
               "crawled": "https://infra.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/input-events-2/",
+              "title": "Input Events Level 2",
+              "crawled": "https://w3c.github.io/input-events/"
+            },
+            {
+              "url": "https://wicg.github.io/js-self-profiling/",
+              "title": "JS Self-Profiling API",
+              "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
               "url": "https://www.w3.org/TR/json-ld11/",
@@ -28325,6 +28873,16 @@
               "crawled": "https://w3c.github.io/magnetometer/"
             },
             {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://wicg.github.io/performance-measure-memory/",
               "title": "Measure Memory API",
               "crawled": "https://wicg.github.io/performance-measure-memory/"
@@ -28333,6 +28891,11 @@
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediacapture-streams/",
+              "title": "Media Capture and Streams",
+              "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
               "url": "https://www.w3.org/TR/mediasession/",
@@ -28395,9 +28958,19 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "title": "Payment Request API 1.1",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/performance-timeline/",
@@ -28455,6 +29028,11 @@
               "crawled": "https://w3c.github.io/proximity/"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/rdf-canon/",
               "title": "RDF Dataset Canonicalization",
               "crawled": "https://w3c.github.io/rdf-canon/spec/"
@@ -28475,6 +29053,26 @@
               "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
             },
             {
+              "url": "https://www.w3.org/TR/resource-timing/",
+              "title": "Resource Timing",
+              "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-capture/",
+              "title": "Screen Capture",
+              "crawled": "https://w3c.github.io/mediacapture-screen-share/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-wake-lock/",
+              "title": "Screen Wake Lock API",
+              "crawled": "https://w3c.github.io/screen-wake-lock/"
+            },
+            {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
               "title": "Scripting Policy",
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
@@ -28483,6 +29081,11 @@
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/selection-api/",
+              "title": "Selection API",
+              "crawled": "https://w3c.github.io/selection-api/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-4/",
@@ -28535,6 +29138,11 @@
               "crawled": "https://privacycg.github.io/storage-access/"
             },
             {
+              "url": "https://www.w3.org/TR/touch-events/",
+              "title": "Touch Events - Level 2",
+              "crawled": "https://w3c.github.io/touch-events/"
+            },
+            {
               "url": "https://www.w3.org/TR/trusted-types/",
               "title": "Trusted Types",
               "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
@@ -28560,14 +29168,34 @@
               "crawled": "https://wicg.github.io/user-preference-media-features-headers/"
             },
             {
+              "url": "https://www.w3.org/TR/user-timing/",
+              "title": "User Timing Level 3",
+              "crawled": "https://w3c.github.io/user-timing/"
+            },
+            {
               "url": "https://wicg.github.io/ua-client-hints/",
               "title": "User-Agent Client Hints",
               "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
             },
             {
               "url": "https://www.w3.org/TR/webaudio/",
@@ -28605,6 +29233,11 @@
               "crawled": "https://webmachinelearning.github.io/webnn/"
             },
             {
+              "url": "https://w3c.github.io/web-nfc/",
+              "title": "Web NFC",
+              "crawled": "https://w3c.github.io/web-nfc/"
+            },
+            {
               "url": "https://wicg.github.io/periodic-background-sync/",
               "title": "Web Periodic Background Synchronization",
               "crawled": "https://wicg.github.io/periodic-background-sync/"
@@ -28613,6 +29246,11 @@
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -28705,6 +29343,11 @@
               "crawled": "https://immersive-web.github.io/raw-camera-access/"
             },
             {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
+            },
+            {
               "url": "https://xhr.spec.whatwg.org/",
               "title": "XMLHttpRequest Standard",
               "crawled": "https://xhr.spec.whatwg.org/"
@@ -28722,9 +29365,9 @@
               "crawled": "https://drafts.csswg.org/css-text-4/"
             },
             {
-              "url": "https://www.w3.org/TR/input-events-2/",
-              "title": "Input Events Level 2",
-              "crawled": "https://w3c.github.io/input-events/"
+              "url": "https://www.w3.org/TR/html-aam-1.0/",
+              "title": "HTML Accessibility API Mappings 1.0",
+              "crawled": "https://w3c.github.io/html-aam/"
             },
             {
               "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -29417,6 +30060,16 @@
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
             }
           ]
         },
@@ -30122,7 +30775,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -30183,7 +30842,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "06 January 2023",
+      "date": "31 January 2023",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -30219,7 +30878,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://infra.spec.whatwg.org/",
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
@@ -30363,18 +31021,17 @@
               "crawled": "https://w3c.github.io/openscreenprotocol/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
+            },
+            {
               "url": "https://www.w3.org/TR/webcodecs/",
               "title": "WebCodecs",
               "crawled": "https://w3c.github.io/webcodecs/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/webrtc-svc/",
-              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
-              "crawled": "https://w3c.github.io/webrtc-svc/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -30432,6 +31089,11 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://www.w3.org/TR/capture-handle-identity/",
+              "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+              "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
               "url": "https://www.w3.org/TR/compute-pressure/",
               "title": "Compute Pressure Level 1",
               "crawled": "https://w3c.github.io/compute-pressure/"
@@ -30452,9 +31114,19 @@
               "crawled": "https://w3c.github.io/webrtc-stats/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc-identity/",
+              "title": "Identity for WebRTC 1.0",
+              "crawled": "https://w3c.github.io/webrtc-identity/"
+            },
+            {
               "url": "https://w3c.github.io/mediacapture-automation/",
               "title": "Media Capture Automation",
               "crawled": "https://w3c.github.io/mediacapture-automation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediacapture-fromelement/",
+              "title": "Media Capture from DOM Elements",
+              "crawled": "https://w3c.github.io/mediacapture-fromelement/"
             },
             {
               "url": "https://www.w3.org/TR/image-capture/",
@@ -30477,9 +31149,19 @@
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
             {
+              "url": "https://wicg.github.io/prefer-current-tab/",
+              "title": "preferCurrentTab",
+              "crawled": "https://wicg.github.io/prefer-current-tab/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediacapture-region/",
+              "title": "Region Capture",
+              "crawled": "https://w3c.github.io/mediacapture-region/"
             },
             {
               "url": "https://www.w3.org/TR/screen-capture/",
@@ -30490,6 +31172,11 @@
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors-4/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-handle/actions/",
+              "title": "The Capture-Handle Actions Mechanism",
+              "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
             },
             {
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
@@ -30651,7 +31338,7 @@
           {
             "link": "https://w3c.github.io/mediacapture-main/",
             "ref": {
-              "name": "GETUSERMEDIA",
+              "name": "mediacapture-streams",
               "url": "https://www.w3.org/TR/mediacapture-streams/"
             }
           }
@@ -31002,6 +31689,11 @@
               "url": "https://mimesniff.spec.whatwg.org/",
               "title": "MIME Sniffing Standard",
               "crawled": "https://mimesniff.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
             }
           ]
         },
@@ -31220,6 +31912,21 @@
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-orientation/",
+              "title": "Screen Orientation",
+              "crawled": "https://w3c.github.io/screen-orientation/"
+            },
+            {
               "url": "https://wicg.github.io/user-preference-media-features-headers/",
               "title": "User Preference Media Features Client Hints Headers",
               "crawled": "https://wicg.github.io/user-preference-media-features-headers/"
@@ -31228,6 +31935,11 @@
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
             }
           ],
           "informative": [
@@ -31250,11 +31962,6 @@
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/miniapp-manifest/",
-              "title": "MiniApp Manifest",
-              "crawled": "https://w3c.github.io/miniapp-manifest/"
             }
           ]
         },
@@ -31901,9 +32608,24 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/image-resource/",
+              "title": "Image Resource",
+              "crawled": "https://w3c.github.io/image-resource/"
+            },
+            {
+              "url": "https://www.w3.org/TR/input-events-2/",
+              "title": "Input Events Level 2",
+              "crawled": "https://w3c.github.io/input-events/"
+            },
+            {
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
+            },
+            {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
             },
             {
               "url": "https://www.w3.org/TR/media-capabilities/",
@@ -31936,6 +32658,11 @@
               "crawled": "https://webaudio.github.io/web-audio-api/"
             },
             {
+              "url": "https://w3c.github.io/web-nfc/",
+              "title": "Web NFC",
+              "crawled": "https://w3c.github.io/web-nfc/"
+            },
+            {
               "url": "https://www.w3.org/TR/webcodecs/",
               "title": "WebCodecs",
               "crawled": "https://w3c.github.io/webcodecs/"
@@ -31961,6 +32688,11 @@
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
               "title": "RFC 9110 - HTTP Semantics",
               "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
             }
           ]
         },
@@ -32063,9 +32795,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://url.spec.whatwg.org/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -32077,7 +32807,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -33434,9 +34164,19 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/payment-handler/",
+              "title": "Payment Handler API",
+              "crawled": "https://w3c.github.io/payment-handler/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "title": "Payment Request API 1.1",
+              "crawled": "https://w3c.github.io/payment-request/"
             },
             {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -33553,7 +34293,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://infra.spec.whatwg.org/",
           "https://www.w3.org/TR/2021/PR-payment-request-20210930/"
         ],
         "inconsistentRef": [],
@@ -33693,6 +34432,11 @@
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
+              "url": "https://www.w3.org/TR/resource-timing/",
+              "title": "Resource Timing",
+              "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/server-timing/",
               "title": "Server Timing",
               "crawled": "https://w3c.github.io/server-timing/"
@@ -33755,6 +34499,11 @@
               "crawled": "https://w3c.github.io/ambient-light/"
             },
             {
+              "url": "https://www.w3.org/TR/audio-output/",
+              "title": "Audio Output Devices API",
+              "crawled": "https://w3c.github.io/mediacapture-output/"
+            },
+            {
               "url": "https://wicg.github.io/background-fetch/",
               "title": "Background Fetch",
               "crawled": "https://wicg.github.io/background-fetch/"
@@ -33810,9 +34559,24 @@
               "crawled": "https://w3c.github.io/magnetometer/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-streams/",
+              "title": "Media Capture and Streams",
+              "crawled": "https://w3c.github.io/mediacapture-main/"
+            },
+            {
+              "url": "https://w3c.github.io/mediacapture-automation/",
+              "title": "Media Capture Automation",
+              "crawled": "https://w3c.github.io/mediacapture-automation/"
+            },
+            {
               "url": "https://www.w3.org/TR/image-capture/",
               "title": "MediaStream Image Capture",
               "crawled": "https://w3c.github.io/mediacapture-image/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-packaging/",
+              "title": "MiniApp Packaging",
+              "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
               "url": "https://www.w3.org/TR/window-placement/",
@@ -33890,6 +34654,16 @@
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
             },
             {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
+            },
+            {
               "url": "https://wicg.github.io/background-sync/spec/",
               "title": "Web Background Synchronization",
               "crawled": "https://wicg.github.io/background-sync/spec/"
@@ -33926,16 +34700,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/mediacapture-streams/",
-              "title": "Media Capture and Streams",
-              "crawled": "https://w3c.github.io/mediacapture-main/"
-            },
-            {
-              "url": "https://w3c.github.io/mediacapture-automation/",
-              "title": "Media Capture Automation",
-              "crawled": "https://w3c.github.io/mediacapture-automation/"
-            },
             {
               "url": "https://immersive-web.github.io/raw-camera-access/",
               "title": "WebXR Raw Camera Access Module",
@@ -34002,6 +34766,16 @@
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/audio-output/",
+              "title": "Audio Output Devices API",
+              "crawled": "https://w3c.github.io/mediacapture-output/"
+            },
+            {
+              "url": "https://www.w3.org/TR/battery-status/",
+              "title": "Battery Status API",
+              "crawled": "https://w3c.github.io/battery/"
             },
             {
               "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -34084,6 +34858,11 @@
               "crawled": "https://w3c.github.io/magnetometer/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-streams/",
+              "title": "Media Capture and Streams",
+              "crawled": "https://w3c.github.io/mediacapture-main/"
+            },
+            {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
@@ -34119,6 +34898,16 @@
               "crawled": "https://w3c.github.io/proximity/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-capture/",
+              "title": "Screen Capture",
+              "crawled": "https://w3c.github.io/mediacapture-screen-share/"
+            },
+            {
+              "url": "https://www.w3.org/TR/screen-wake-lock/",
+              "title": "Screen Wake Lock API",
+              "crawled": "https://w3c.github.io/screen-wake-lock/"
+            },
+            {
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "Text Fragments",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
@@ -34139,6 +34928,11 @@
               "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-viewport/",
+              "title": "Viewport Capture",
+              "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
               "crawled": "https://w3c.github.io/webauthn/"
@@ -34147,6 +34941,11 @@
               "url": "https://webbluetoothcg.github.io/web-bluetooth/",
               "title": "Web Bluetooth",
               "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
             },
             {
               "url": "https://www.w3.org/TR/webnn/",
@@ -34204,11 +35003,6 @@
               "url": "https://wicg.github.io/responsive-image-client-hints/",
               "title": "Responsive Image Client Hints",
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
-            },
-            {
-              "url": "https://www.w3.org/TR/screen-wake-lock/",
-              "title": "Screen Wake Lock API",
-              "crawled": "https://w3c.github.io/screen-wake-lock/"
             }
           ]
         },
@@ -34483,6 +35277,7 @@
         "missingLinkRef": [
           "http://www.w3.org/TR/2003/REC-PNG-20031110/index.html",
           "https://www.w3.org/TR/2003/REC-PNG-20031110/",
+          "https://www.w3.org/TR/i18n-glossary/",
           "https://www.w3.org/TR/png/"
         ],
         "inconsistentRef": [],
@@ -35225,170 +36020,6 @@
       }
     },
     {
-      "title": "RDF 1.1 Concepts and Abstract Syntax",
-      "shortname": "rdf11-concepts",
-      "date": "25 February 2014",
-      "url": "https://www.w3.org/TR/rdf11-concepts/",
-      "release": {
-        "url": "https://www.w3.org/TR/rdf11-concepts/",
-        "status": "Recommendation",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://www.w3.org/TR/rdf11-concepts/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "filename": "Overview.html"
-      },
-      "crawled": "https://www.w3.org/TR/rdf11-concepts/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "RDF Working Group",
-          "url": "https://www.w3.org/2011/rdf-wg/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/owl2-syntax/",
-          "http://www.w3.org/TR/rdf-sparql-query/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "http://www.w3.org/TR/1999/REC-xml-names-19990114/",
-            "ref": {
-              "name": "XML-NAMES",
-              "url": "http://www.w3.org/TR/xml-names"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/2000/REC-xml-20001006",
-            "ref": {
-              "name": "XML10",
-              "url": "http://www.w3.org/TR/xml"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/",
-            "ref": {
-              "name": "XML-EXC-C14N",
-              "url": "http://www.w3.org/TR/xml-exc-c14n"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/rdf-schema/",
-            "ref": {
-              "name": "RDF11-SCHEMA",
-              "url": "http://www.w3.org/TR/2014/REC-rdf-schema-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/rdf-syntax-grammar/",
-            "ref": {
-              "name": "RDF11-XML",
-              "url": "http://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/rdf11-datasets/",
-            "ref": {
-              "name": "RDF11-DATASETS",
-              "url": "http://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/rdf11-mt/",
-            "ref": {
-              "name": "RDF11-MT",
-              "url": "http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/rdf11-new/",
-            "ref": {
-              "name": "RDF11-NEW",
-              "url": "http://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/rdf11-primer/",
-            "ref": {
-              "name": "RDF11-PRIMER",
-              "url": "http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/rdf11-testcases/",
-            "ref": {
-              "name": "RDF11-TESTCASES",
-              "url": "http://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/trig/",
-            "ref": {
-              "name": "TRIG",
-              "url": "http://www.w3.org/TR/2014/REC-trig-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/turtle/",
-            "ref": {
-              "name": "TURTLE",
-              "url": "http://www.w3.org/TR/2014/REC-turtle-20140225/"
-            }
-          }
-        ],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/json-ld11/",
-              "title": "JSON-LD 1.1",
-              "crawled": "https://w3c.github.io/json-ld-syntax/"
-            },
-            {
-              "url": "https://www.w3.org/TR/json-ld11-framing/",
-              "title": "JSON-LD 1.1 Framing",
-              "crawled": "https://w3c.github.io/json-ld-framing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/json-ld11-api/",
-              "title": "JSON-LD 1.1 Processing Algorithms and API",
-              "crawled": "https://w3c.github.io/json-ld-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/n-quads/",
-              "title": "RDF 1.1 N-Quads",
-              "crawled": "https://www.w3.org/TR/n-quads/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf11-mt/",
-              "title": "RDF 1.1 Semantics",
-              "crawled": "https://www.w3.org/TR/rdf11-mt/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf-canon/",
-              "title": "RDF Dataset Canonicalization",
-              "crawled": "https://w3c.github.io/rdf-canon/spec/"
-            }
-          ],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "RDF 1.1 N-Quads",
       "shortname": "n-quads",
       "date": "25 February 2014",
@@ -35462,27 +36093,504 @@
       }
     },
     {
-      "title": "RDF 1.1 Semantics",
-      "shortname": "rdf11-mt",
-      "date": "25 February 2014",
-      "url": "https://www.w3.org/TR/rdf11-mt/",
-      "release": {
-        "url": "https://www.w3.org/TR/rdf11-mt/",
-        "status": "Recommendation",
-        "filename": "Overview.html"
-      },
+      "title": "RDF 1.2 Concepts and Abstract Syntax",
+      "shortname": "rdf12-concepts",
+      "date": "29 January 2023",
+      "url": "https://w3c.github.io/rdf-concepts/spec/",
       "nightly": {
-        "url": "https://www.w3.org/TR/rdf11-mt/",
+        "url": "https://w3c.github.io/rdf-concepts/spec/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "filename": "Overview.html"
+        "repository": "https://github.com/w3c/rdf-concepts",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
       },
-      "crawled": "https://www.w3.org/TR/rdf11-mt/",
+      "crawled": "https://w3c.github.io/rdf-concepts/spec/",
       "organization": "W3C",
       "groups": [
         {
-          "name": "RDF Working Group",
-          "url": "https://www.w3.org/2011/rdf-wg/"
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "RDF 1.2 N-Quads",
+      "shortname": "rdf12-n-quads",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/rdf-n-quads/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/rdf-n-quads/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/rdf-n-quads",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/rdf-n-quads/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "RDF 1.2 N-Triples",
+      "shortname": "rdf12-n-triples",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/rdf-n-triples/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/rdf-n-triples/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/rdf-n-triples",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/rdf-n-triples/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "RDF 1.2 Schema",
+      "shortname": "rdf12-schema",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/rdf-schema/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/rdf-schema/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/rdf-schema",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/rdf-schema/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "RDF 1.2 Semantics",
+      "shortname": "rdf12-semantics",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/rdf-semantics/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/rdf-semantics/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/rdf-semantics",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/rdf-semantics/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "RDF 1.2 TriG",
+      "shortname": "rdf12-trig",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/rdf-trig/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/rdf-trig/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/rdf-trig",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/rdf-trig/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "RDF 1.2 Turtle",
+      "shortname": "rdf12-turtle",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/rdf-turtle/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/rdf-turtle/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/rdf-turtle",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/rdf-turtle/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
         }
       ],
       "report": {
@@ -35498,59 +36606,217 @@
           "idl": []
         },
         "missingLinkRef": [
-          "http://www.w3.org/TR/xml11/"
+          "http://www.w3.org/TR/2011/WD-turtle-20110809/",
+          "http://www.w3.org/TR/2013/CR-turtle-20130219/",
+          "http://www.w3.org/TR/2014/PR-turtle-20140109/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "http://www.w3.org/TR/rdf-schema/",
-            "ref": {
-              "name": "RDF11-SCHEMA",
-              "url": "http://www.w3.org/TR/2014/REC-rdf-schema-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/rdf11-concepts/",
-            "ref": {
-              "name": "RDF11-CONCEPTS",
-              "url": "http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/"
-            }
-          },
-          {
-            "link": "http://www.w3.org/TR/turtle/",
-            "ref": {
-              "name": "TURTLE",
-              "url": "http://www.w3.org/TR/2014/REC-turtle-20140225/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/json-ld11/",
-              "title": "JSON-LD 1.1",
-              "crawled": "https://w3c.github.io/json-ld-syntax/"
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://www.w3.org/TR/json-ld11-api/",
-              "title": "JSON-LD 1.1 Processing Algorithms and API",
-              "crawled": "https://w3c.github.io/json-ld-api/"
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-              "title": "Prerendering Revamped",
-              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://www.w3.org/TR/rdf-canon/",
-              "title": "RDF Dataset Canonicalization",
-              "crawled": "https://w3c.github.io/rdf-canon/spec/"
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/rdf11-concepts/",
-              "title": "RDF 1.1 Concepts and Abstract Syntax",
-              "crawled": "https://www.w3.org/TR/rdf11-concepts/"
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "RDF 1.2 XML Syntax",
+      "shortname": "rdf12-xml",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/rdf-xml/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/rdf-xml/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/rdf-xml",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/rdf-xml/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/rdf-concepts/spec/",
+          "https://w3c.github.io/rdf-n-quads/spec/",
+          "https://w3c.github.io/rdf-n-triples/spec/",
+          "https://w3c.github.io/rdf-new/spec/",
+          "https://w3c.github.io/rdf-primer/spec/",
+          "https://w3c.github.io/rdf-schema/spec/",
+          "https://w3c.github.io/rdf-semantics/spec/",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt",
+          "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf",
+          "https://w3c.github.io/rdf-trig/spec/",
+          "https://w3c.github.io/rdf-turtle/spec/",
+          "https://w3c.github.io/sparql-concepts/spec/",
+          "https://w3c.github.io/sparql-entailment/spec/",
+          "https://w3c.github.io/sparql-federated-query/spec/",
+          "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+          "https://w3c.github.io/sparql-new/spec/",
+          "https://w3c.github.io/sparql-protocol/spec/",
+          "https://w3c.github.io/sparql-query/spec/",
+          "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+          "https://w3c.github.io/sparql-results-json/spec/",
+          "https://w3c.github.io/sparql-results-xml/spec/",
+          "https://w3c.github.io/sparql-service-description/spec/",
+          "https://w3c.github.io/sparql-update/spec/",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc",
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng",
+          "https://www.w3.org/TR/xml-infoset/",
+          "https://www.w3.org/TR/xml-names/",
+          "https://www.w3.org/TR/xml/",
+          "https://www.w3.org/TR/xmlschema-1/",
+          "https://www.w3.org/TR/xpath-10/",
+          "https://www.w3.org/TR/xpath-datamodel-30/",
+          "https://www.w3.org/TR/xpath-functions-30/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             }
           ]
         },
@@ -39994,6 +41260,16 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/image-resource/",
+              "title": "Image Resource",
+              "crawled": "https://w3c.github.io/image-resource/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
@@ -40109,11 +41385,6 @@
               "url": "https://www.w3.org/TR/graphics-aam-1.0/",
               "title": "Graphics Accessibility API Mappings",
               "crawled": "https://w3c.github.io/graphics-aam/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mathml-core/",
-              "title": "MathML Core",
-              "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -40737,6 +42008,11 @@
               "url": "https://wicg.github.io/background-sync/spec/",
               "title": "Web Background Synchronization",
               "crawled": "https://wicg.github.io/background-sync/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             }
           ],
           "informative": [
@@ -41347,6 +42623,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://w3c.github.io/badging/",
+              "title": "Badging API",
+              "crawled": "https://w3c.github.io/badging/"
+            },
+            {
               "url": "https://wicg.github.io/client-hints-infrastructure/",
               "title": "Client Hints Infrastructure",
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
@@ -41385,6 +42666,11 @@
               "url": "https://wicg.github.io/performance-measure-memory/",
               "title": "Measure Memory API",
               "crawled": "https://wicg.github.io/performance-measure-memory/"
+            },
+            {
+              "url": "https://www.w3.org/TR/navigation-timing-2/",
+              "title": "Navigation Timing Level 2",
+              "crawled": "https://w3c.github.io/navigation-timing/"
             },
             {
               "url": "https://notifications.spec.whatwg.org/",
@@ -41452,11 +42738,6 @@
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/navigation-timing-2/",
-              "title": "Navigation Timing Level 2",
-              "crawled": "https://w3c.github.io/navigation-timing/"
             },
             {
               "url": "https://streams.spec.whatwg.org/",
@@ -41607,6 +42888,1072 @@
               "url": "https://www.w3.org/TR/webgpu/",
               "title": "WebGPU",
               "crawled": "https://gpuweb.github.io/gpuweb/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Entailment Regimes",
+      "shortname": "sparql12-entailment",
+      "date": "30 January 2023",
+      "url": "https://w3c.github.io/sparql-entailment/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-entailment/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-entailment",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-entailment/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/owl2-test/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Federated Query",
+      "shortname": "sparql12-federated-query",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-federated-query/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-federated-query/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-federated-query",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-federated-query/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/",
+          "http://www.w3.org/TR/2011/WD-sparql11-query-20110512/",
+          "http://www.w3.org/TR/2013/CR-turtle-20130219/",
+          "http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
+          "http://www.w3.org/TR/charmod/",
+          "http://www.w3.org/TR/rdf-sparql-XMLres/",
+          "http://www.w3.org/TR/sparql11-protocol/",
+          "http://www.w3.org/TR/sparql11-query/",
+          "http://www.w3.org/TR/turtle/",
+          "http://www.w3.org/TR/xml11/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Graph Store Protocol",
+      "shortname": "sparql12-graph-store-protocol",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-graph-store-protocol",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2004/REC-rdf-mt-20040210/",
+          "http://www.w3.org/TR/2004/REC-webarch-20041215/",
+          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-update-20130321",
+          "http://www.w3.org/TR/html4/",
+          "http://www.w3.org/TR/html4/interact/forms.html",
+          "http://www.w3.org/TR/rdf-mt/",
+          "http://www.w3.org/TR/sparql11-query/",
+          "http://www.w3.org/TR/sparql11-update/",
+          "http://www.w3.org/TR/webarch/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Overview",
+      "shortname": "sparql12-concepts",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-concepts/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-concepts/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-concepts",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-concepts/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321",
+          "http://www.w3.org/TR/owl2-overview/",
+          "http://www.w3.org/TR/rdf-mt/",
+          "http://www.w3.org/TR/rdf-schema/",
+          "http://www.w3.org/TR/rdf-sparql-XMLres/",
+          "http://www.w3.org/TR/rdf-sparql-query/",
+          "http://www.w3.org/TR/rif-overview/",
+          "http://www.w3.org/TR/sparql11-entailment/",
+          "http://www.w3.org/TR/sparql11-federated-query/",
+          "http://www.w3.org/TR/sparql11-http-rdf-update/",
+          "http://www.w3.org/TR/sparql11-protocol/",
+          "http://www.w3.org/TR/sparql11-query/",
+          "http://www.w3.org/TR/sparql11-results-csv-tsv/",
+          "http://www.w3.org/TR/sparql11-results-json/",
+          "http://www.w3.org/TR/sparql11-service-description/",
+          "http://www.w3.org/TR/sparql11-update/",
+          "http://www.w3.org/TR/turtle/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Protocol",
+      "shortname": "sparql12-protocol",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-protocol/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-protocol/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-protocol",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-protocol/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/",
+          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-update-20130321",
+          "http://www.w3.org/TR/rdf-concepts/",
+          "http://www.w3.org/TR/rdf-sparql-XMLres/",
+          "http://www.w3.org/TR/rdf-syntax-grammar/",
+          "http://www.w3.org/TR/sparql11-http-rdf-update/",
+          "http://www.w3.org/TR/sparql11-query/",
+          "http://www.w3.org/TR/sparql11-results-csv-tsv/",
+          "http://www.w3.org/TR/sparql11-results-json/",
+          "http://www.w3.org/TR/sparql11-update/",
+          "http://www.w3.org/TR/turtle"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Query Language",
+      "shortname": "sparql12-query",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-query/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-query/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-query",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-query/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/",
+          "http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/",
+          "http://www.w3.org/TR/2004/REC-rdf-mt-20040210/",
+          "http://www.w3.org/TR/2004/REC-webarch-20041215/",
+          "http://www.w3.org/TR/2004/REC-xml11-20040204/",
+          "http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/",
+          "http://www.w3.org/TR/2005/REC-charmod-20050215/",
+          "http://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/",
+          "http://www.w3.org/TR/2006/REC-xml-names11-20060816/",
+          "http://www.w3.org/TR/2007/REC-xpath-functions-20070123/",
+          "http://www.w3.org/TR/2007/REC-xpath20-20070123/",
+          "http://www.w3.org/TR/2007/REC-xquery-20070123/",
+          "http://www.w3.org/TR/2009/WD-sparql-features-20090702/",
+          "http://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/",
+          "http://www.w3.org/TR/2013/CR-turtle-20130219/",
+          "http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321",
+          "http://www.w3.org/TR/charmod/",
+          "http://www.w3.org/TR/curie/",
+          "http://www.w3.org/TR/rdf-concepts/",
+          "http://www.w3.org/TR/rdf-dawg-uc/",
+          "http://www.w3.org/TR/rdf-mt",
+          "http://www.w3.org/TR/rdf-mt/",
+          "http://www.w3.org/TR/rdf-sparql-XMLres/",
+          "http://www.w3.org/TR/rdf-sparql-query/",
+          "http://www.w3.org/TR/rdf-syntax-grammar/",
+          "http://www.w3.org/TR/sparql-features/",
+          "http://www.w3.org/TR/sparql11-entailment/",
+          "http://www.w3.org/TR/sparql11-federated-query/",
+          "http://www.w3.org/TR/sparql11-protocol/",
+          "http://www.w3.org/TR/sparql11-results-csv-tsv/",
+          "http://www.w3.org/TR/sparql11-results-json/",
+          "http://www.w3.org/TR/sparql11-update/",
+          "http://www.w3.org/TR/turtle/",
+          "http://www.w3.org/TR/vcard-rdf",
+          "http://www.w3.org/TR/webarch/",
+          "http://www.w3.org/TR/xml11/",
+          "http://www.w3.org/TR/xmlschema-2/",
+          "http://www.w3.org/TR/xmlschema11-2/",
+          "http://www.w3.org/TR/xpath-datamodel/",
+          "http://www.w3.org/TR/xpath-functions/",
+          "http://www.w3.org/TR/xpath20/",
+          "http://www.w3.org/TR/xquery/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+      "shortname": "sparql12-results-csv-tsv",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-results-csv-tsv",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321",
+          "http://www.w3.org/TR/sparql11-query/",
+          "http://www.w3.org/TR/sparql11-results-json/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Query Results JSON Format",
+      "shortname": "sparql12-results-json",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-results-json/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-results-json/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-results-json",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-results-json/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321",
+          "http://www.w3.org/TR/rdf-sparql-XMLres/",
+          "http://www.w3.org/TR/rdf-sparql-XMLres/output.srx",
+          "http://www.w3.org/TR/sparql11-query/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Query Results XML Format",
+      "shortname": "sparql12-results-xml",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-results-xml/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-results-xml/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-results-xml",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-results-xml/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2004/REC-xml-20040204/",
+          "http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/",
+          "http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/",
+          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321",
+          "http://www.w3.org/TR/sparql11-query/",
+          "http://www.w3.org/TR/sparql11-results-csv-tsv/",
+          "http://www.w3.org/TR/sparql11-results-json/",
+          "http://www.w3.org/TR/xmlschema-1/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Service Description",
+      "shortname": "sparql12-service-description",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-service-description/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-service-description/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-service-description",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-service-description/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2011/NOTE-void-20110303/",
+          "http://www.w3.org/TR/2013/CR-turtle-20130219/",
+          "http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
+          "http://www.w3.org/TR/2013/REC-sparql11-update-20130321",
+          "http://www.w3.org/TR/rdf-sparql-query/",
+          "http://www.w3.org/TR/rdfa-syntax/",
+          "http://www.w3.org/TR/sparql11-entailment/",
+          "http://www.w3.org/TR/sparql11-federated-query/",
+          "http://www.w3.org/TR/sparql11-protocol/",
+          "http://www.w3.org/TR/sparql11-query/",
+          "http://www.w3.org/TR/sparql11-update/",
+          "http://www.w3.org/TR/turtle/",
+          "http://www.w3.org/TR/void/",
+          "http://www.w3.org/TR/webarch/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "SPARQL 1.2 Update",
+      "shortname": "sparql12-update",
+      "date": "27 January 2023",
+      "url": "https://w3c.github.io/sparql-update/spec/",
+      "nightly": {
+        "url": "https://w3c.github.io/sparql-update/spec/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/sparql-update",
+        "sourcePath": "spec/index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/sparql-update/spec/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "RDF-star Working Group",
+          "url": "https://www.w3.org/groups/wg/rdf-star"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/2004/REC-rdf-mt-20040210/",
+          "http://www.w3.org/TR/rdf-concepts/",
+          "http://www.w3.org/TR/rdf-mt/",
+          "http://www.w3.org/TR/sparql11-entailment/",
+          "http://www.w3.org/TR/sparql11-federated-query/",
+          "http://www.w3.org/TR/sparql11-http-rdf-update/",
+          "http://www.w3.org/TR/sparql11-protocol/",
+          "http://www.w3.org/TR/sparql11-query/",
+          "http://www.w3.org/TR/xml-names/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             }
           ]
         },
@@ -43397,6 +45744,11 @@
               "crawled": "https://wicg.github.io/background-fetch/"
             },
             {
+              "url": "https://www.w3.org/TR/beacon/",
+              "title": "Beacon",
+              "crawled": "https://w3c.github.io/beacon/"
+            },
+            {
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
@@ -43522,6 +45874,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/image-resource/",
+              "title": "Image Resource",
+              "crawled": "https://w3c.github.io/image-resource/"
+            },
+            {
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
@@ -43545,6 +45902,16 @@
               "url": "https://www.w3.org/TR/mediasession/",
               "title": "Media Session Standard",
               "crawled": "https://w3c.github.io/mediasession/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-packaging/",
+              "title": "MiniApp Packaging",
+              "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
               "url": "https://www.w3.org/TR/mixed-content/",
@@ -43587,6 +45954,11 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "title": "Payment Request API 1.1",
+              "crawled": "https://w3c.github.io/payment-request/"
+            },
+            {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
               "title": "Permissions Policy",
               "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
@@ -43622,6 +45994,11 @@
               "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
+              "url": "https://www.w3.org/TR/push-api/",
+              "title": "Push API",
+              "crawled": "https://w3c.github.io/push-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/referrer-policy/",
               "title": "Referrer Policy",
               "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
@@ -43655,6 +46032,11 @@
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/selection-api/",
+              "title": "Selection API",
+              "crawled": "https://w3c.github.io/selection-api/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-4/",
@@ -43707,6 +46089,11 @@
               "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {
+              "url": "https://wicg.github.io/web-app-launch/",
+              "title": "Web App Launch Handler API",
+              "crawled": "https://wicg.github.io/web-app-launch/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -43720,6 +46107,16 @@
               "url": "https://w3c.github.io/web-nfc/",
               "title": "Web NFC",
               "crawled": "https://w3c.github.io/web-nfc/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-share/",
+              "title": "Web Share API",
+              "crawled": "https://w3c.github.io/web-share/"
+            },
+            {
+              "url": "https://w3c.github.io/web-share-target/",
+              "title": "Web Share Target API",
+              "crawled": "https://w3c.github.io/web-share-target/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -44166,9 +46563,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://html.spec.whatwg.org/multipage/common-dom-interfaces.html",
-          "https://html.spec.whatwg.org/multipage/common-microsyntaxes.html",
-          "https://html.spec.whatwg.org/multipage/interaction.html",
           "https://w3c.github.io/webappsec-secure-contexts/"
         ],
         "inconsistentRef": [],
@@ -44801,15 +47195,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://infra.spec.whatwg.org/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -44909,12 +47301,15 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://infra.spec.whatwg.org/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://w3c.github.io/badging/",
+              "title": "Badging API",
+              "crawled": "https://w3c.github.io/badging/"
+            },
             {
               "url": "https://wicg.github.io/get-installed-related-apps/spec/",
               "title": "Get Installed Related Apps API",
@@ -44924,6 +47319,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/image-resource/",
+              "title": "Image Resource",
+              "crawled": "https://w3c.github.io/image-resource/"
             },
             {
               "url": "https://wicg.github.io/manifest-incubations/",
@@ -44976,10 +47376,15 @@
               "url": "https://www.w3.org/TR/manifest-app-info/",
               "title": "Web App Manifest - Application Information",
               "crawled": "https://w3c.github.io/manifest-app-info/"
+            },
+            {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -45052,6 +47457,11 @@
               "crawled": "https://w3c.github.io/autoplay/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-streams/",
+              "title": "Media Capture and Streams",
+              "crawled": "https://w3c.github.io/mediacapture-main/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-fromelement/",
               "title": "Media Capture from DOM Elements",
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
@@ -45072,11 +47482,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediacapture-streams/",
-              "title": "Media Capture and Streams",
-              "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
               "url": "https://www.w3.org/TR/webcodecs/",
@@ -45501,6 +47906,11 @@
               "crawled": "https://w3c.github.io/battery/"
             },
             {
+              "url": "https://www.w3.org/TR/beacon/",
+              "title": "Beacon",
+              "crawled": "https://w3c.github.io/beacon/"
+            },
+            {
               "url": "https://www.w3.org/TR/capture-handle-identity/",
               "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
@@ -45706,6 +48116,11 @@
               "crawled": "https://www.w3.org/TR/device-memory/"
             },
             {
+              "url": "https://www.w3.org/TR/device-posture/",
+              "title": "Device Posture API",
+              "crawled": "https://w3c.github.io/device-posture/"
+            },
+            {
               "url": "https://www.w3.org/TR/orientation-event/",
               "title": "DeviceOrientation Event Specification",
               "crawled": "https://w3c.github.io/deviceorientation/"
@@ -45744,6 +48159,11 @@
               "url": "https://www.w3.org/TR/encrypted-media/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
               "url": "https://www.w3.org/TR/event-timing/",
@@ -45836,6 +48256,11 @@
               "crawled": "https://drafts.fxtf.org/geometry-1/"
             },
             {
+              "url": "https://privacycg.github.io/gpc-spec/",
+              "title": "Global Privacy Control (GPC)",
+              "crawled": "https://privacycg.github.io/gpc-spec/"
+            },
+            {
               "url": "https://www.w3.org/TR/gyroscope/",
               "title": "Gyroscope",
               "crawled": "https://w3c.github.io/gyroscope/"
@@ -45886,6 +48311,11 @@
               "crawled": "https://wicg.github.io/idle-detection/"
             },
             {
+              "url": "https://www.w3.org/TR/image-resource/",
+              "title": "Image Resource",
+              "crawled": "https://w3c.github.io/image-resource/"
+            },
+            {
               "url": "https://www.w3.org/TR/IndexedDB-3/",
               "title": "Indexed Database API 3.0",
               "crawled": "https://w3c.github.io/IndexedDB/"
@@ -45894,6 +48324,11 @@
               "url": "https://infra.spec.whatwg.org/",
               "title": "Infra Standard",
               "crawled": "https://infra.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/input-device-capabilities/",
+              "title": "Input Device Capabilities",
+              "crawled": "https://wicg.github.io/input-device-capabilities/"
             },
             {
               "url": "https://www.w3.org/TR/input-events-2/",
@@ -45966,6 +48401,11 @@
               "crawled": "https://wicg.github.io/manifest-incubations/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
@@ -45984,6 +48424,11 @@
               "url": "https://www.w3.org/TR/mediacapture-fromelement/",
               "title": "Media Capture from DOM Elements",
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
+            },
+            {
+              "url": "https://w3c.github.io/media-playback-quality/",
+              "title": "Media Playback Quality",
+              "crawled": "https://w3c.github.io/media-playback-quality/"
             },
             {
               "url": "https://www.w3.org/TR/mediasession/",
@@ -46006,9 +48451,19 @@
               "crawled": "https://w3c.github.io/mediacapture-record/"
             },
             {
+              "url": "https://www.w3.org/TR/mst-content-hint/",
+              "title": "MediaStreamTrack Content Hints",
+              "crawled": "https://w3c.github.io/mst-content-hint/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
             },
             {
               "url": "https://www.w3.org/TR/window-placement/",
@@ -46024,6 +48479,11 @@
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
+              "url": "https://wicg.github.io/netinfo/",
+              "title": "Network Information API",
+              "crawled": "https://wicg.github.io/netinfo/"
             },
             {
               "url": "https://notifications.spec.whatwg.org/",
@@ -46076,6 +48536,16 @@
               "crawled": "https://w3c.github.io/pointerevents/"
             },
             {
+              "url": "https://www.w3.org/TR/pointerlock-2/",
+              "title": "Pointer Lock 2.0",
+              "crawled": "https://w3c.github.io/pointerlock/"
+            },
+            {
+              "url": "https://wicg.github.io/prefer-current-tab/",
+              "title": "preferCurrentTab",
+              "crawled": "https://wicg.github.io/prefer-current-tab/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
@@ -46126,6 +48596,11 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
+              "url": "https://www.w3.org/TR/requestidlecallback/",
+              "title": "requestIdleCallback()",
+              "crawled": "https://w3c.github.io/requestidlecallback/"
+            },
+            {
               "url": "https://wicg.github.io/permissions-request/",
               "title": "Requesting Permissions",
               "crawled": "https://wicg.github.io/permissions-request/"
@@ -46144,6 +48619,11 @@
               "url": "https://www.w3.org/TR/resource-timing/",
               "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
+              "url": "https://wicg.github.io/savedata/",
+              "title": "Save Data API",
+              "crawled": "https://wicg.github.io/savedata/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -46179,6 +48659,11 @@
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/selection-api/",
+              "title": "Selection API",
+              "crawled": "https://w3c.github.io/selection-api/"
             },
             {
               "url": "https://www.w3.org/TR/server-timing/",
@@ -46274,6 +48759,11 @@
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
+              "url": "https://www.w3.org/TR/virtual-keyboard/",
+              "title": "VirtualKeyboard API",
+              "crawled": "https://w3c.github.io/virtual-keyboard/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
@@ -46486,6 +48976,11 @@
               "crawled": "https://immersive-web.github.io/raw-camera-access/"
             },
             {
+              "url": "https://wicg.github.io/window-controls-overlay/",
+              "title": "Window Controls Overlay",
+              "crawled": "https://wicg.github.io/window-controls-overlay/"
+            },
+            {
               "url": "https://xhr.spec.whatwg.org/",
               "title": "XMLHttpRequest Standard",
               "crawled": "https://xhr.spec.whatwg.org/"
@@ -46493,24 +48988,29 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/epub-rs-33/",
-              "title": "EPUB Reading Systems 3.3",
-              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
-            },
-            {
               "url": "https://www.w3.org/TR/json-ld11/",
               "title": "JSON-LD 1.1",
               "crawled": "https://w3c.github.io/json-ld-syntax/"
             },
             {
-              "url": "https://www.w3.org/TR/mathml-core/",
-              "title": "MathML Core",
-              "crawled": "https://w3c.github.io/mathml-core/"
+              "url": "https://www.w3.org/TR/miniapp-lifecycle/",
+              "title": "MiniApp Lifecycle",
+              "crawled": "https://w3c.github.io/miniapp-lifecycle/"
+            },
+            {
+              "url": "https://wicg.github.io/overscroll-scrollend-events/",
+              "title": "overscroll and scrollend events",
+              "crawled": "https://wicg.github.io/overscroll-scrollend-events/"
             },
             {
               "url": "https://www.w3.org/TR/tracking-dnt/",
               "title": "Tracking Preference Expression (DNT)",
               "crawled": "https://w3c.github.io/dnt/drafts/tracking-dnt.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
             }
           ]
         },
@@ -49952,6 +52452,11 @@
               "crawled": "https://w3c.github.io/media-capabilities/"
             },
             {
+              "url": "https://www.w3.org/TR/mediacapture-streams/",
+              "title": "Media Capture and Streams",
+              "crawled": "https://w3c.github.io/mediacapture-main/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-fromelement/",
               "title": "Media Capture from DOM Elements",
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
@@ -49999,11 +52504,6 @@
               "crawled": "https://w3c.github.io/media-capabilities/"
             },
             {
-              "url": "https://www.w3.org/TR/mediacapture-streams/",
-              "title": "Media Capture and Streams",
-              "crawled": "https://w3c.github.io/mediacapture-main/"
-            },
-            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -50026,7 +52526,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "8 December 2022",
+      "date": "31 January 2023",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -50062,20 +52562,12 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/mediacapture-streams/",
-            "ref": {
-              "name": "MEDIACAPTURE-STREAMS",
-              "url": "https://w3c.github.io/mediacapture-main/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -50182,6 +52674,11 @@
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc/",
+              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "crawled": "https://w3c.github.io/webrtc-pc/"
             }
           ],
           "informative": [
@@ -51149,7 +53646,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -51466,6 +53969,11 @@
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc/",
+              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
               "url": "https://www.w3.org/2001/tag/doc/promises-guide",
