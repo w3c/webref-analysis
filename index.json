@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-01T06:37:33.740Z",
+  "date": "2023-02-01T12:44:49.869Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -4410,7 +4410,7 @@
     {
       "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
       "shortname": "css-ui-3",
-      "date": "15 January 2023",
+      "date": "29 June 2022",
       "url": "https://www.w3.org/TR/css-ui-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-3/",
@@ -4521,7 +4521,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "28 November 2022",
+      "date": "29 June 2022",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -13275,7 +13275,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "15 January 2023",
+      "date": "31 January 2023",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -13357,6 +13357,11 @@
               "url": "https://drafts.csswg.org/css-anchor-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-ui-3/",
+              "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
+              "crawled": "https://drafts.csswg.org/css-ui-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
@@ -13575,6 +13580,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
@@ -16213,7 +16223,7 @@
     {
       "title": "CSS Table Module Level 3",
       "shortname": "css-tables-3",
-      "date": "22 November 2022",
+      "date": "29 June 2022",
       "url": "https://www.w3.org/TR/css-tables-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-tables-3/",
@@ -22069,7 +22079,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "31 January 2023",
+      "date": "1 February 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -23085,7 +23095,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "23 January 2023",
+      "date": "01 February 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23156,7 +23166,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "23 January 2023",
+      "date": "01 February 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -30837,7 +30847,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "31 January 2023",
+      "date": "01 February 2023",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -35697,7 +35707,7 @@
     {
       "title": "Private Network Access",
       "shortname": "local-network-access",
-      "date": "11 January 2023",
+      "date": "1 February 2023",
       "url": "https://wicg.github.io/local-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-network-access/",
