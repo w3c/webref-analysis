@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-02T06:36:52.654Z",
+  "date": "2023-02-02T12:45:13.994Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -695,7 +695,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "21 December 2022",
+      "date": "02 February 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -2173,7 +2173,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "31 January 2023",
+      "date": "02 February 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -23090,7 +23090,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "01 February 2023",
+      "date": "02 February 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23161,7 +23161,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "01 February 2023",
+      "date": "02 February 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -31044,7 +31044,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "12 January 2023",
+      "date": "02 February 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -40284,7 +40284,7 @@
     {
       "title": "Save Data API",
       "shortname": "savedata",
-      "date": "31 May 2022",
+      "date": "02 February 2023",
       "url": "https://wicg.github.io/savedata/",
       "nightly": {
         "url": "https://wicg.github.io/savedata/",
