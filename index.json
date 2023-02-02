@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-02T12:45:13.994Z",
+  "date": "2023-02-02T18:47:12.886Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -112,7 +112,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -165,7 +165,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -985,7 +985,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1038,7 +1038,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -1892,9 +1892,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             }
           ],
           "informative": [
@@ -5485,9 +5485,9 @@
               "crawled": "https://drafts.csswg.org/cssom-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-page-3/",
@@ -5612,9 +5612,9 @@
               "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-4/",
-              "title": "CSS Overflow Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-overflow-4/"
+              "url": "https://www.w3.org/TR/css-overflow-3/",
+              "title": "CSS Overflow Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
               "url": "https://drafts.csswg.org/css-values-5/",
@@ -7278,7 +7278,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -12025,6 +12025,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
@@ -13275,7 +13280,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "31 January 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -13315,7 +13320,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-backgrounds/",
-          "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-text-decor-3/",
           "https://www.w3.org/TR/cssom/",
@@ -13323,10 +13327,24 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-text-3/",
+            "link": "https://www.w3.org/TR/2018/WD-css-overflow-3-20180731/",
             "ref": {
-              "name": "CSS-TEXT-3",
-              "url": "https://drafts.csswg.org/css-text-3/"
+              "name": "CSS-OVERFLOW-3",
+              "url": "https://drafts.csswg.org/css-overflow-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2020/WD-css-overflow-3-20200603/",
+            "ref": {
+              "name": "CSS-OVERFLOW-3",
+              "url": "https://drafts.csswg.org/css-overflow-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-overflow-3-20211202/",
+            "ref": {
+              "name": "CSS-OVERFLOW-3",
+              "url": "https://drafts.csswg.org/css-overflow-3/"
             }
           },
           {
@@ -13447,6 +13465,11 @@
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overflow-3/",
+              "title": "CSS Overflow Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -13613,7 +13636,7 @@
     {
       "title": "CSS Overflow Module Level 4",
       "shortname": "css-overflow-4",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/css-overflow-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -13651,12 +13674,27 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2017/WD-css-overflow-4-20170613/",
+            "ref": {
+              "name": "CSS-OVERFLOW-4",
+              "url": "https://drafts.csswg.org/css-overflow-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-text-3/",
+            "ref": {
+              "name": "CSS-TEXT-3",
+              "url": "https://drafts.csswg.org/css-text-3/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
@@ -13685,6 +13723,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-overflow-3/",
+              "title": "CSS Overflow Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
@@ -13702,9 +13745,9 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-4/",
@@ -14060,9 +14103,9 @@
               "crawled": "https://drafts.csswg.org/css-images-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-regions-1/",
@@ -16849,9 +16892,9 @@
               "crawled": "https://drafts.csswg.org/css-logical-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-page-3/",
@@ -16974,6 +17017,11 @@
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overflow-3/",
+              "title": "CSS Overflow Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -17160,9 +17208,9 @@
               "crawled": "https://drafts.csswg.org/css-size-adjust-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-page-3/",
@@ -19562,11 +19610,6 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
@@ -19677,6 +19720,11 @@
               "url": "https://www.w3.org/TR/css-inline-3/",
               "title": "CSS Inline Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-inline-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-overflow-3/",
+              "title": "CSS Overflow Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-overflow-3/"
             }
           ]
         },
@@ -22074,7 +22122,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -23418,7 +23466,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -24600,7 +24648,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -25554,7 +25602,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -25886,7 +25934,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "30 January 2023",
+      "date": "02 February 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -30479,7 +30527,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -33154,7 +33202,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -33713,7 +33761,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -36179,7 +36227,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "27 January 2023",
+      "date": "02 February 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -36218,11 +36266,6 @@
               "url": "https://w3c.github.io/rdf-concepts/spec/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
-              "title": "RDF 1.2 N-Quads",
-              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
               "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -36831,7 +36874,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "01 February 2023",
+      "date": "02 February 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -37420,7 +37463,7 @@
     {
       "title": "requestStorageAccessForOrigin API",
       "shortname": "requestStorageAccessForOrigin",
-      "date": "30 January 2023",
+      "date": "2 February 2023",
       "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
       "nightly": {
         "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
@@ -45237,7 +45280,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -46587,7 +46630,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -46640,7 +46683,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -46693,7 +46736,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -49718,7 +49761,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -49862,7 +49905,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
