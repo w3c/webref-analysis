@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-02T18:47:12.886Z",
+  "date": "2023-02-03T00:49:36.369Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -13327,27 +13327,6 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/2018/WD-css-overflow-3-20180731/",
-            "ref": {
-              "name": "CSS-OVERFLOW-3",
-              "url": "https://drafts.csswg.org/css-overflow-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2020/WD-css-overflow-3-20200603/",
-            "ref": {
-              "name": "CSS-OVERFLOW-3",
-              "url": "https://drafts.csswg.org/css-overflow-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-css-overflow-3-20211202/",
-            "ref": {
-              "name": "CSS-OVERFLOW-3",
-              "url": "https://drafts.csswg.org/css-overflow-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-ui-3/",
             "ref": {
               "name": "CSS-UI-3",
@@ -13465,11 +13444,6 @@
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -36300,7 +36274,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "27 January 2023",
+      "date": "02 February 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -36344,11 +36318,6 @@
               "url": "https://w3c.github.io/rdf-n-quads/spec/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
-              "title": "RDF 1.2 N-Triples",
-              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
               "url": "https://w3c.github.io/rdf-schema/spec/",
@@ -37505,7 +37474,7 @@
     {
       "title": "Resizable ArrayBuffer and growable SharedArrayBuffer",
       "shortname": "tc39-resizablearraybuffer",
-      "date": "3 December 2022",
+      "date": "2 February 2023",
       "url": "https://tc39.es/proposal-resizablearraybuffer/",
       "nightly": {
         "url": "https://tc39.es/proposal-resizablearraybuffer/",
@@ -37820,7 +37789,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -37912,7 +37881,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -38180,7 +38149,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -38287,7 +38256,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -38367,7 +38336,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -39170,7 +39139,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -39210,7 +39179,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -39393,7 +39362,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -39840,7 +39809,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -40279,7 +40248,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "2 February 2023",
+      "date": "3 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -44754,7 +44723,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "1 February 2023",
+      "date": "2 February 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
