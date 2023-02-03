@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-03T06:36:40.003Z",
+  "date": "2023-02-03T12:43:37.055Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -695,7 +695,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "02 February 2023",
+      "date": "03 February 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -1205,7 +1205,7 @@
     {
       "title": "Battery Status API",
       "shortname": "battery-status",
-      "date": "03 February 2022",
+      "date": "03 February 2023",
       "url": "https://www.w3.org/TR/battery-status/",
       "release": {
         "url": "https://www.w3.org/TR/battery-status/",
@@ -2173,7 +2173,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "02 February 2023",
+      "date": "03 February 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -23112,7 +23112,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "02 February 2023",
+      "date": "03 February 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23183,7 +23183,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "02 February 2023",
+      "date": "03 February 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -37465,7 +37465,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/first-party-sets/",
+              "title": "User Agent Interaction with First-Party Sets",
+              "crawled": "https://wicg.github.io/first-party-sets/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -46253,7 +46259,7 @@
     {
       "title": "User Agent Interaction with First-Party Sets",
       "shortname": "first-party-sets",
-      "date": "30 January 2023",
+      "date": "3 February 2023",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
@@ -48756,6 +48762,11 @@
               "url": "https://wicg.github.io/urlpattern/",
               "title": "URLPattern API",
               "crawled": "https://wicg.github.io/urlpattern/"
+            },
+            {
+              "url": "https://wicg.github.io/first-party-sets/",
+              "title": "User Agent Interaction with First-Party Sets",
+              "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {
               "url": "https://www.w3.org/TR/user-timing/",
