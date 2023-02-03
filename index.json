@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-03T12:43:37.055Z",
+  "date": "2023-02-03T18:35:01.568Z",
   "stats": {
     "crawled": 555,
-    "errors": 0,
+    "errors": 1,
     "studied": 555
   },
   "results": [
@@ -843,7 +843,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "24 January 2023",
+      "date": "3 February 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -885,7 +885,7 @@
     {
       "title": "Audio Output Devices API",
       "shortname": "audio-output",
-      "date": "10 February 2022",
+      "date": "03 February 2023",
       "url": "https://www.w3.org/TR/audio-output/",
       "release": {
         "url": "https://www.w3.org/TR/audio-output/",
@@ -3855,6 +3855,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers' Error: Loading https://drafts.csswg.org/css2/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/drafts.csswg.org!css2.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 383)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -36122,7 +36123,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "01 February 2023",
+      "date": "03 February 2023",
       "url": "https://w3c.github.io/rdf-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -36347,7 +36348,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "27 January 2023",
+      "date": "03 February 2023",
       "url": "https://w3c.github.io/rdf-schema/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-schema/spec/",
@@ -36514,7 +36515,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "27 January 2023",
+      "date": "03 February 2023",
       "url": "https://w3c.github.io/rdf-trig/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-trig/spec/",
@@ -36575,11 +36576,6 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
-              "title": "RDF 1.2 TriG",
-              "crawled": "https://w3c.github.io/rdf-trig/spec/"
-            },
-            {
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
@@ -36592,7 +36588,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "27 January 2023",
+      "date": "03 February 2023",
       "url": "https://w3c.github.io/rdf-turtle/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-turtle/spec/",
@@ -36622,11 +36618,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/2011/WD-turtle-20110809/",
-          "http://www.w3.org/TR/2013/CR-turtle-20130219/",
-          "http://www.w3.org/TR/2014/PR-turtle-20140109/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -36666,15 +36658,10 @@
               "url": "https://w3c.github.io/rdf-semantics/spec/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
-              "title": "RDF 1.2 Turtle",
-              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
