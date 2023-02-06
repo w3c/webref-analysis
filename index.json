@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-06T06:39:41.589Z",
+  "date": "2023-02-06T12:46:02.814Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -20973,7 +20973,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "16 January 2023",
+      "date": "5 February 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -24129,7 +24129,7 @@
     {
       "title": "File API",
       "shortname": "FileAPI",
-      "date": "30 November 2022",
+      "date": "6 February 2023",
       "url": "https://www.w3.org/TR/FileAPI/",
       "release": {
         "url": "https://www.w3.org/TR/FileAPI/",
@@ -26118,7 +26118,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "28 January 2023",
+      "date": "6 February 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -50300,7 +50300,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "23 January 2023",
+      "date": "6 February 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
