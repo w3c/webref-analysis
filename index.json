@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-06T00:49:13.336Z",
+  "date": "2023-02-06T06:39:41.589Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -2782,7 +2782,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -20551,7 +20551,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -31081,7 +31081,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "02 February 2023",
+      "date": "06 February 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -52488,7 +52488,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "11 January 2023",
+      "date": "06 February 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
