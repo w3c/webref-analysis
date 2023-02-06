@@ -96,7 +96,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Crawled URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
-- Crawled version: 2 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Shortname: tc39-explicit-resource-management
 
@@ -9741,7 +9741,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 2 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9770,7 +9770,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 2 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14636,7 +14636,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
 - Crawled URL: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
-- Crawled version: 07 September 2022
+- Crawled version: 06 February 2023
 - Editor's Draft: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
 - Latest published version: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
 - Shortname: navigation-timing-2
@@ -15773,7 +15773,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
 - Crawled URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
-- Crawled version: 9 December 2022
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
 - Shortname: local-font-access
 
@@ -16339,7 +16339,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Crawled URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
-- Crawled version: 3 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Shortname: first-party-sets
 

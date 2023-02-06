@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-06T12:46:02.814Z",
+  "date": "2023-02-06T18:36:30.244Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -22106,7 +22106,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "2 February 2023",
+      "date": "6 February 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -30611,7 +30611,7 @@
     {
       "title": "Local Font Access API",
       "shortname": "local-font-access",
-      "date": "9 December 2022",
+      "date": "6 February 2023",
       "url": "https://wicg.github.io/local-font-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-font-access/",
@@ -33350,7 +33350,7 @@
     {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
-      "date": "07 September 2022",
+      "date": "06 February 2023",
       "url": "https://www.w3.org/TR/navigation-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -46334,7 +46334,7 @@
     {
       "title": "User Agent Interaction with First-Party Sets",
       "shortname": "first-party-sets",
-      "date": "3 February 2023",
+      "date": "6 February 2023",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
@@ -52252,7 +52252,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "2 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -52319,7 +52319,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "2 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
