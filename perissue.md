@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 05, 2023
+% February 06, 2023
 
 555 specifications were crawled in this report.
 
@@ -33,7 +33,6 @@
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Proposal-array-find-from-last](https://tc39.es/proposal-array-find-from-last/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
-- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [Regular Expression Pattern Modifiers for ECMAScript](https://tc39.es/proposal-regexp-modifiers/)
 - [Resizable ArrayBuffer and growable SharedArrayBuffer](https://tc39.es/proposal-resizablearraybuffer/)
 - [RFC 2397: The "data" URL scheme](https://www.rfc-editor.org/rfc/rfc2397)
@@ -98,7 +97,7 @@
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - [Well-Formed Unicode Strings](https://tc39.es/proposal-is-usv-string/)
 
-=> 90 specifications found
+=> 89 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -1002,13 +1001,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/) but does not list it in its references
 - [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/) links to:
-    * [`https://w3c.github.io/rdf-concepts/spec/`](https://w3c.github.io/rdf-concepts/spec/) but does not list it in its references
-    * [`https://w3c.github.io/rdf-n-quads/spec/`](https://w3c.github.io/rdf-n-quads/spec/) but does not list it in its references
-    * [`https://w3c.github.io/rdf-n-triples/spec/`](https://w3c.github.io/rdf-n-triples/spec/) but does not list it in its references
-    * [`https://w3c.github.io/rdf-new/spec/`](https://w3c.github.io/rdf-new/spec/) but does not list it in its references
-    * [`https://w3c.github.io/rdf-primer/spec/`](https://w3c.github.io/rdf-primer/spec/) but does not list it in its references
-    * [`https://w3c.github.io/rdf-schema/spec/`](https://w3c.github.io/rdf-schema/spec/) but does not list it in its references
-    * [`https://w3c.github.io/rdf-semantics/spec/`](https://w3c.github.io/rdf-semantics/spec/) but does not list it in its references
     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf) but does not list it in its references
     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf) but does not list it in its references
     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt) but does not list it in its references
@@ -1035,20 +1027,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf) but does not list it in its references
     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt) but does not list it in its references
     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf) but does not list it in its references
-    * [`https://w3c.github.io/rdf-trig/spec/`](https://w3c.github.io/rdf-trig/spec/) but does not list it in its references
-    * [`https://w3c.github.io/rdf-turtle/spec/`](https://w3c.github.io/rdf-turtle/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-concepts/spec/`](https://w3c.github.io/sparql-concepts/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-entailment/spec/`](https://w3c.github.io/sparql-entailment/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-federated-query/spec/`](https://w3c.github.io/sparql-federated-query/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-graph-store-protocol/spec/`](https://w3c.github.io/sparql-graph-store-protocol/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-new/spec/`](https://w3c.github.io/sparql-new/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-protocol/spec/`](https://w3c.github.io/sparql-protocol/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-query/spec/`](https://w3c.github.io/sparql-query/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-results-csv-tsv/spec/`](https://w3c.github.io/sparql-results-csv-tsv/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-results-json/spec/`](https://w3c.github.io/sparql-results-json/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-results-xml/spec/`](https://w3c.github.io/sparql-results-xml/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-service-description/spec/`](https://w3c.github.io/sparql-service-description/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-update/spec/`](https://w3c.github.io/sparql-update/spec/) but does not list it in its references
     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt) but does not list it in its references
     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf) but does not list it in its references
     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt) but does not list it in its references
@@ -1079,13 +1057,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf) but does not list it in its references
     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc) but does not list it in its references
     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng) but does not list it in its references
-    * [`https://www.w3.org/TR/xml-infoset/`](https://www.w3.org/TR/xml-infoset/) but does not list it in its references
-    * [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/) but does not list it in its references
-    * [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/) but does not list it in its references
-    * [`https://www.w3.org/TR/xmlschema-1/`](https://www.w3.org/TR/xmlschema-1/) but does not list it in its references
-    * [`https://www.w3.org/TR/xpath-10/`](https://www.w3.org/TR/xpath-10/) but does not list it in its references
-    * [`https://www.w3.org/TR/xpath-datamodel-30/`](https://www.w3.org/TR/xpath-datamodel-30/) but does not list it in its references
-    * [`https://www.w3.org/TR/xpath-functions-30/`](https://www.w3.org/TR/xpath-functions-30/) but does not list it in its references
 - [Region Capture](https://w3c.github.io/mediacapture-region/) links to [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/) but does not list it in its references
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/) links to:
     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
@@ -1430,7 +1401,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1088 missing references for links found in 232 specifications
+=> 1060 missing references for links found in 232 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

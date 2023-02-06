@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 05, 2023
+% February 06, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -729,7 +729,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -759,7 +759,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1017,7 +1017,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1163,7 +1163,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1552,7 +1552,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1606,7 +1606,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1668,7 +1668,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1708,7 +1708,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1741,7 +1741,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1768,7 +1768,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 5 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -10193,6 +10193,7 @@ Normative references to this spec from:
 - [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
 - [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 Informative references to this spec from:
 
@@ -11176,7 +11177,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 02 February 2023
+- Crawled version: 05 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
@@ -11246,6 +11247,7 @@ Normative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 Informative references to this spec from:
@@ -11259,7 +11261,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
-- Crawled version: 02 February 2023
+- Crawled version: 05 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Shortname: rdf12-n-quads
 
@@ -11279,6 +11281,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 
 ### RDF 1.2 N-Triples {data-spec=true data-missingDfns=true data-ok=true}
@@ -11287,7 +11290,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
-- Crawled version: 02 February 2023
+- Crawled version: 05 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Shortname: rdf12-n-triples
 
@@ -11297,7 +11300,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 Informative references to this spec from:
 
@@ -11336,6 +11341,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 
 ### RDF 1.2 Semantics {data-spec=true data-missingDfns=true data-ok=true}
@@ -11357,6 +11363,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 Informative references to this spec from:
@@ -11386,7 +11393,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 Informative references to this spec from:
 
@@ -11419,6 +11428,7 @@ Normative references to this spec from:
 - [RDF 1.2 N-Quads](https://w3c.github.io/rdf-n-quads/spec/)
 - [RDF 1.2 N-Triples](https://w3c.github.io/rdf-n-triples/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 Informative references to this spec from:
@@ -11428,27 +11438,19 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 
 
-### RDF 1.2 XML Syntax {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+### RDF 1.2 XML Syntax {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 05 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Shortname: rdf12-xml
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
 - Missing references for links: 
-     * [`https://w3c.github.io/rdf-concepts/spec/`](https://w3c.github.io/rdf-concepts/spec/)
-     * [`https://w3c.github.io/rdf-n-quads/spec/`](https://w3c.github.io/rdf-n-quads/spec/)
-     * [`https://w3c.github.io/rdf-n-triples/spec/`](https://w3c.github.io/rdf-n-triples/spec/)
-     * [`https://w3c.github.io/rdf-new/spec/`](https://w3c.github.io/rdf-new/spec/)
-     * [`https://w3c.github.io/rdf-primer/spec/`](https://w3c.github.io/rdf-primer/spec/)
-     * [`https://w3c.github.io/rdf-schema/spec/`](https://w3c.github.io/rdf-schema/spec/)
-     * [`https://w3c.github.io/rdf-semantics/spec/`](https://w3c.github.io/rdf-semantics/spec/)
      * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf)
      * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf)
      * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt)
@@ -11475,20 +11477,6 @@ Informative references to this spec from:
      * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf)
      * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt)
      * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf)
-     * [`https://w3c.github.io/rdf-trig/spec/`](https://w3c.github.io/rdf-trig/spec/)
-     * [`https://w3c.github.io/rdf-turtle/spec/`](https://w3c.github.io/rdf-turtle/spec/)
-     * [`https://w3c.github.io/sparql-concepts/spec/`](https://w3c.github.io/sparql-concepts/spec/)
-     * [`https://w3c.github.io/sparql-entailment/spec/`](https://w3c.github.io/sparql-entailment/spec/)
-     * [`https://w3c.github.io/sparql-federated-query/spec/`](https://w3c.github.io/sparql-federated-query/spec/)
-     * [`https://w3c.github.io/sparql-graph-store-protocol/spec/`](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-     * [`https://w3c.github.io/sparql-new/spec/`](https://w3c.github.io/sparql-new/spec/)
-     * [`https://w3c.github.io/sparql-protocol/spec/`](https://w3c.github.io/sparql-protocol/spec/)
-     * [`https://w3c.github.io/sparql-query/spec/`](https://w3c.github.io/sparql-query/spec/)
-     * [`https://w3c.github.io/sparql-results-csv-tsv/spec/`](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-     * [`https://w3c.github.io/sparql-results-json/spec/`](https://w3c.github.io/sparql-results-json/spec/)
-     * [`https://w3c.github.io/sparql-results-xml/spec/`](https://w3c.github.io/sparql-results-xml/spec/)
-     * [`https://w3c.github.io/sparql-service-description/spec/`](https://w3c.github.io/sparql-service-description/spec/)
-     * [`https://w3c.github.io/sparql-update/spec/`](https://w3c.github.io/sparql-update/spec/)
      * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt)
      * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf)
      * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt)
@@ -11519,13 +11507,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf)
      * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc)
      * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng)
-     * [`https://www.w3.org/TR/xml-infoset/`](https://www.w3.org/TR/xml-infoset/)
-     * [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
-     * [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
-     * [`https://www.w3.org/TR/xmlschema-1/`](https://www.w3.org/TR/xmlschema-1/)
-     * [`https://www.w3.org/TR/xpath-10/`](https://www.w3.org/TR/xpath-10/)
-     * [`https://www.w3.org/TR/xpath-datamodel-30/`](https://www.w3.org/TR/xpath-datamodel-30/)
-     * [`https://www.w3.org/TR/xpath-functions-30/`](https://www.w3.org/TR/xpath-functions-30/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11571,6 +11552,7 @@ Informative references to this spec from:
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 
 ### SPARQL 1.2 Federated Query {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11612,6 +11594,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 
@@ -11654,6 +11637,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 
 ### SPARQL 1.2 Overview {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
@@ -11701,6 +11685,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 
@@ -11745,6 +11730,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 
 ### SPARQL 1.2 Query Language {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11821,6 +11807,7 @@ Informative references to this spec from:
 - [RDF 1.2 N-Quads](https://w3c.github.io/rdf-n-quads/spec/)
 - [RDF 1.2 N-Triples](https://w3c.github.io/rdf-n-triples/spec/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 
 ### SPARQL 1.2 Query Results CSV and TSV Formats {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11854,6 +11841,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 
@@ -11889,6 +11877,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 
@@ -11930,6 +11919,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 
@@ -11979,6 +11969,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 
 ### SPARQL 1.2 Update {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -12019,6 +12010,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 
 ## SVG Working Group {#group-svg_working_group}
@@ -12169,6 +12161,7 @@ Informative references to this spec from:
 - [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Selectors Level 3](https://drafts.csswg.org/selectors-3/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
@@ -12322,6 +12315,7 @@ Informative references to this spec from:
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
+- [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
 - [Selectors Level 3](https://drafts.csswg.org/selectors-3/)

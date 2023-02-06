@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-05T18:35:07.400Z",
+  "date": "2023-02-06T00:49:13.336Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -30095,6 +30095,11 @@
               "url": "https://w3c.github.io/rdf-concepts/spec/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ],
           "informative": [
@@ -36192,6 +36197,11 @@
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
@@ -36211,7 +36221,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "02 February 2023",
+      "date": "05 February 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -36275,6 +36285,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ]
         },
@@ -36284,7 +36299,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "02 February 2023",
+      "date": "05 February 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -36317,7 +36332,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -36426,6 +36447,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ]
         },
@@ -36473,6 +36499,11 @@
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -36557,7 +36588,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -36647,6 +36684,11 @@
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
@@ -36676,7 +36718,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "27 January 2023",
+      "date": "05 February 2023",
       "url": "https://w3c.github.io/rdf-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-xml/spec/",
@@ -36695,7 +36737,7 @@
         }
       ],
       "report": {
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -36707,13 +36749,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/rdf-concepts/spec/",
-          "https://w3c.github.io/rdf-n-quads/spec/",
-          "https://w3c.github.io/rdf-n-triples/spec/",
-          "https://w3c.github.io/rdf-new/spec/",
-          "https://w3c.github.io/rdf-primer/spec/",
-          "https://w3c.github.io/rdf-schema/spec/",
-          "https://w3c.github.io/rdf-semantics/spec/",
           "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf",
           "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf",
           "https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt",
@@ -36740,20 +36775,6 @@
           "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf",
           "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt",
           "https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf",
-          "https://w3c.github.io/rdf-trig/spec/",
-          "https://w3c.github.io/rdf-turtle/spec/",
-          "https://w3c.github.io/sparql-concepts/spec/",
-          "https://w3c.github.io/sparql-entailment/spec/",
-          "https://w3c.github.io/sparql-federated-query/spec/",
-          "https://w3c.github.io/sparql-graph-store-protocol/spec/",
-          "https://w3c.github.io/sparql-new/spec/",
-          "https://w3c.github.io/sparql-protocol/spec/",
-          "https://w3c.github.io/sparql-query/spec/",
-          "https://w3c.github.io/sparql-results-csv-tsv/spec/",
-          "https://w3c.github.io/sparql-results-json/spec/",
-          "https://w3c.github.io/sparql-results-xml/spec/",
-          "https://w3c.github.io/sparql-service-description/spec/",
-          "https://w3c.github.io/sparql-update/spec/",
           "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt",
           "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf",
           "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt",
@@ -36783,14 +36804,7 @@
           "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt",
           "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf",
           "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc",
-          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng",
-          "https://www.w3.org/TR/xml-infoset/",
-          "https://www.w3.org/TR/xml-names/",
-          "https://www.w3.org/TR/xml/",
-          "https://www.w3.org/TR/xmlschema-1/",
-          "https://www.w3.org/TR/xpath-10/",
-          "https://www.w3.org/TR/xpath-datamodel-30/",
-          "https://www.w3.org/TR/xpath-functions-30/"
+          "https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -36839,7 +36853,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "02 February 2023",
+      "date": "05 February 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -37791,7 +37805,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -37883,7 +37897,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -38151,7 +38165,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -38258,7 +38272,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -38338,7 +38352,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -39141,7 +39155,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -39181,7 +39195,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -39364,7 +39378,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -39811,7 +39825,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -40250,7 +40264,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "5 February 2023",
+      "date": "6 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -40718,6 +40732,11 @@
               "url": "https://www.w3.org/TR/geometry-1/",
               "title": "Geometry Interfaces Module Level 1",
               "crawled": "https://drafts.fxtf.org/geometry-1/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -41404,6 +41423,11 @@
               "url": "https://www.w3.org/TR/graphics-aam-1.0/",
               "title": "Graphics Accessibility API Mappings",
               "crawled": "https://w3c.github.io/graphics-aam/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -42988,6 +43012,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ]
         },
@@ -43079,6 +43108,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -43179,6 +43213,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ]
         },
@@ -43275,6 +43314,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -43377,6 +43421,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ]
         },
@@ -43507,6 +43556,11 @@
               "url": "https://w3c.github.io/rdf-schema/spec/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ]
         },
@@ -43590,6 +43644,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -43678,6 +43737,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -43772,6 +43836,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -43879,6 +43948,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ]
         },
@@ -43973,6 +44047,11 @@
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ]
         },
