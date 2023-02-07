@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-07T12:45:01.641Z",
+  "date": "2023-02-07T18:36:25.142Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -398,7 +398,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "08 December 2022",
+      "date": "07 February 2023",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -695,7 +695,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "03 February 2023",
+      "date": "07 February 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -7142,7 +7142,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "1 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7288,7 +7288,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "2 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -27315,11 +27315,6 @@
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
-            },
-            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -30668,7 +30663,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "14 April 2022",
+      "date": "7 February 2023",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -30704,22 +30699,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/hr-time/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://www.w3.org/TR/hr-time-2/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/performance-timeline/",
-            "ref": {
-              "name": "PERFORMANCE-TIMELINE",
-              "url": "https://www.w3.org/TR/performance-timeline/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -30735,7 +30715,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -36211,6 +36191,11 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -36227,7 +36212,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "05 February 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -36515,6 +36500,11 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -42981,6 +42971,11 @@
               "url": "https://w3c.github.io/rdf-semantics/spec/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -43073,7 +43068,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -43177,6 +43178,11 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -43279,7 +43285,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -43385,6 +43397,11 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -43436,7 +43453,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -43467,51 +43484,11 @@
           "idl": []
         },
         "missingLinkRef": [
-          "http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/",
           "http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/",
-          "http://www.w3.org/TR/2004/REC-rdf-mt-20040210/",
-          "http://www.w3.org/TR/2004/REC-webarch-20041215/",
-          "http://www.w3.org/TR/2004/REC-xml11-20040204/",
-          "http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/",
-          "http://www.w3.org/TR/2005/REC-charmod-20050215/",
-          "http://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/",
-          "http://www.w3.org/TR/2006/REC-xml-names11-20060816/",
-          "http://www.w3.org/TR/2007/REC-xpath-functions-20070123/",
-          "http://www.w3.org/TR/2007/REC-xpath20-20070123/",
-          "http://www.w3.org/TR/2007/REC-xquery-20070123/",
-          "http://www.w3.org/TR/2009/WD-sparql-features-20090702/",
-          "http://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/",
-          "http://www.w3.org/TR/2013/CR-turtle-20130219/",
-          "http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321",
-          "http://www.w3.org/TR/charmod/",
           "http://www.w3.org/TR/curie/",
-          "http://www.w3.org/TR/rdf-concepts/",
-          "http://www.w3.org/TR/rdf-dawg-uc/",
-          "http://www.w3.org/TR/rdf-mt",
-          "http://www.w3.org/TR/rdf-mt/",
-          "http://www.w3.org/TR/rdf-sparql-XMLres/",
-          "http://www.w3.org/TR/rdf-sparql-query/",
           "http://www.w3.org/TR/rdf-syntax-grammar/",
-          "http://www.w3.org/TR/sparql-features/",
-          "http://www.w3.org/TR/sparql11-entailment/",
-          "http://www.w3.org/TR/sparql11-federated-query/",
-          "http://www.w3.org/TR/sparql11-protocol/",
-          "http://www.w3.org/TR/sparql11-results-csv-tsv/",
-          "http://www.w3.org/TR/sparql11-results-json/",
-          "http://www.w3.org/TR/sparql11-update/",
-          "http://www.w3.org/TR/turtle/",
           "http://www.w3.org/TR/vcard-rdf",
-          "http://www.w3.org/TR/webarch/",
-          "http://www.w3.org/TR/xml11/",
-          "http://www.w3.org/TR/xmlschema-2/",
-          "http://www.w3.org/TR/xmlschema11-2/",
-          "http://www.w3.org/TR/xpath-datamodel/",
-          "http://www.w3.org/TR/xpath-functions/",
-          "http://www.w3.org/TR/xpath20/",
-          "http://www.w3.org/TR/xquery/"
+          "http://www.w3.org/TR/xpath-datamodel/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -43609,7 +43586,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -43702,7 +43685,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -43801,7 +43790,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -43912,6 +43907,11 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -44011,6 +44011,11 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -50301,7 +50306,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -52253,7 +52258,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -52320,7 +52325,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

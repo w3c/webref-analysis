@@ -2746,7 +2746,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 08 December 2022
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -3105,7 +3105,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 6 February 2023
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -4414,7 +4414,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 1 February 2023
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -4461,7 +4461,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 2 February 2023
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -9741,7 +9741,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 6 February 2023
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9770,7 +9770,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 6 February 2023
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -11249,6 +11249,7 @@ Normative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11261,7 +11262,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
-- Crawled version: 05 February 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Shortname: rdf12-n-quads
 
@@ -11365,6 +11366,7 @@ Normative references to this spec from:
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11543,6 +11545,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11583,7 +11586,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11627,6 +11632,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11674,7 +11680,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11720,6 +11728,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11739,58 +11748,18 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Shortname: sparql12-query
 
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/`](http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/)
      * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/)
-     * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/)
-     * [`http://www.w3.org/TR/2004/REC-webarch-20041215/`](http://www.w3.org/TR/2004/REC-webarch-20041215/)
-     * [`http://www.w3.org/TR/2004/REC-xml11-20040204/`](http://www.w3.org/TR/2004/REC-xml11-20040204/)
-     * [`http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/)
-     * [`http://www.w3.org/TR/2005/REC-charmod-20050215/`](http://www.w3.org/TR/2005/REC-charmod-20050215/)
-     * [`http://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/`](http://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/)
-     * [`http://www.w3.org/TR/2006/REC-xml-names11-20060816/`](http://www.w3.org/TR/2006/REC-xml-names11-20060816/)
-     * [`http://www.w3.org/TR/2007/REC-xpath-functions-20070123/`](http://www.w3.org/TR/2007/REC-xpath-functions-20070123/)
-     * [`http://www.w3.org/TR/2007/REC-xpath20-20070123/`](http://www.w3.org/TR/2007/REC-xpath20-20070123/)
-     * [`http://www.w3.org/TR/2007/REC-xquery-20070123/`](http://www.w3.org/TR/2007/REC-xquery-20070123/)
-     * [`http://www.w3.org/TR/2009/WD-sparql-features-20090702/`](http://www.w3.org/TR/2009/WD-sparql-features-20090702/)
-     * [`http://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/`](http://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/)
-     * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/)
-     * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321`](http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321)
-     * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/)
      * [`http://www.w3.org/TR/curie/`](http://www.w3.org/TR/curie/)
-     * [`http://www.w3.org/TR/rdf-concepts/`](http://www.w3.org/TR/rdf-concepts/)
-     * [`http://www.w3.org/TR/rdf-dawg-uc/`](http://www.w3.org/TR/rdf-dawg-uc/)
-     * [`http://www.w3.org/TR/rdf-mt`](http://www.w3.org/TR/rdf-mt)
-     * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/)
-     * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/)
-     * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/)
      * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/)
-     * [`http://www.w3.org/TR/sparql-features/`](http://www.w3.org/TR/sparql-features/)
-     * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/)
-     * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/)
-     * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/)
-     * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/)
-     * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/)
-     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/)
-     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/)
      * [`http://www.w3.org/TR/vcard-rdf`](http://www.w3.org/TR/vcard-rdf)
-     * [`http://www.w3.org/TR/webarch/`](http://www.w3.org/TR/webarch/)
-     * [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/)
-     * [`http://www.w3.org/TR/xmlschema-2/`](http://www.w3.org/TR/xmlschema-2/)
-     * [`http://www.w3.org/TR/xmlschema11-2/`](http://www.w3.org/TR/xmlschema11-2/)
      * [`http://www.w3.org/TR/xpath-datamodel/`](http://www.w3.org/TR/xpath-datamodel/)
-     * [`http://www.w3.org/TR/xpath-functions/`](http://www.w3.org/TR/xpath-functions/)
-     * [`http://www.w3.org/TR/xpath20/`](http://www.w3.org/TR/xpath20/)
-     * [`http://www.w3.org/TR/xquery/`](http://www.w3.org/TR/xquery/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11830,7 +11799,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11866,7 +11837,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11908,7 +11881,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11959,6 +11934,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -12000,6 +11976,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -13355,7 +13332,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
-- Crawled version: 03 February 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
 - Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Shortname: html-aria
@@ -14601,22 +14578,20 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Long Tasks API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Long Tasks API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Crawled URL: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
-- Crawled version: 14 April 2022
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 - Latest published version: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Shortname: longtasks-1
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
-     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18181,7 +18156,6 @@ Normative references to this spec from:
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)

@@ -1207,51 +1207,11 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
     * [`http://www.w3.org/TR/turtle`](http://www.w3.org/TR/turtle) but does not list it in its references
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/) links to:
-    * [`http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/`](http://www.w3.org/TR/2001/NOTE-vcard-rdf-20010222/) but does not list it in its references
     * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/) but does not list it in its references
-    * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/) but does not list it in its references
-    * [`http://www.w3.org/TR/2004/REC-webarch-20041215/`](http://www.w3.org/TR/2004/REC-webarch-20041215/) but does not list it in its references
-    * [`http://www.w3.org/TR/2004/REC-xml11-20040204/`](http://www.w3.org/TR/2004/REC-xml11-20040204/) but does not list it in its references
-    * [`http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/) but does not list it in its references
-    * [`http://www.w3.org/TR/2005/REC-charmod-20050215/`](http://www.w3.org/TR/2005/REC-charmod-20050215/) but does not list it in its references
-    * [`http://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/`](http://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/) but does not list it in its references
-    * [`http://www.w3.org/TR/2006/REC-xml-names11-20060816/`](http://www.w3.org/TR/2006/REC-xml-names11-20060816/) but does not list it in its references
-    * [`http://www.w3.org/TR/2007/REC-xpath-functions-20070123/`](http://www.w3.org/TR/2007/REC-xpath-functions-20070123/) but does not list it in its references
-    * [`http://www.w3.org/TR/2007/REC-xpath20-20070123/`](http://www.w3.org/TR/2007/REC-xpath20-20070123/) but does not list it in its references
-    * [`http://www.w3.org/TR/2007/REC-xquery-20070123/`](http://www.w3.org/TR/2007/REC-xquery-20070123/) but does not list it in its references
-    * [`http://www.w3.org/TR/2009/WD-sparql-features-20090702/`](http://www.w3.org/TR/2009/WD-sparql-features-20090702/) but does not list it in its references
-    * [`http://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/`](http://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321`](http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/) but does not list it in its references
     * [`http://www.w3.org/TR/curie/`](http://www.w3.org/TR/curie/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-concepts/`](http://www.w3.org/TR/rdf-concepts/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-dawg-uc/`](http://www.w3.org/TR/rdf-dawg-uc/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-mt`](http://www.w3.org/TR/rdf-mt) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/) but does not list it in its references
     * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql-features/`](http://www.w3.org/TR/sparql-features/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
-    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
     * [`http://www.w3.org/TR/vcard-rdf`](http://www.w3.org/TR/vcard-rdf) but does not list it in its references
-    * [`http://www.w3.org/TR/webarch/`](http://www.w3.org/TR/webarch/) but does not list it in its references
-    * [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/) but does not list it in its references
-    * [`http://www.w3.org/TR/xmlschema-2/`](http://www.w3.org/TR/xmlschema-2/) but does not list it in its references
-    * [`http://www.w3.org/TR/xmlschema11-2/`](http://www.w3.org/TR/xmlschema11-2/) but does not list it in its references
     * [`http://www.w3.org/TR/xpath-datamodel/`](http://www.w3.org/TR/xpath-datamodel/) but does not list it in its references
-    * [`http://www.w3.org/TR/xpath-functions/`](http://www.w3.org/TR/xpath-functions/) but does not list it in its references
-    * [`http://www.w3.org/TR/xpath20/`](http://www.w3.org/TR/xpath20/) but does not list it in its references
-    * [`http://www.w3.org/TR/xquery/`](http://www.w3.org/TR/xquery/) but does not list it in its references
 - [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/) links to:
     * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
     * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321) but does not list it in its references
@@ -1399,7 +1359,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1058 missing references for links found in 232 specifications
+=> 1018 missing references for links found in 232 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1827,9 +1787,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/) but related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
-- [Long Tasks API](https://w3c.github.io/longtasks/) links to:
-    * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
-    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
 - [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/) links to [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/) links to:
     * [`https://www.w3.org/TR/encrypted-media/`](https://www.w3.org/TR/encrypted-media/) but related reference "ENCRYPTED-MEDIA" uses URL [`https://w3c.github.io/encrypted-media/`](https://w3c.github.io/encrypted-media/)
@@ -2014,7 +1971,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 494 inconsistent references for links found in 188 specifications
+=> 492 inconsistent references for links found in 187 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
