@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-06T18:36:30.244Z",
+  "date": "2023-02-07T00:49:41.381Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -9083,6 +9083,11 @@
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
+              "url": "https://www.w3.org/TR/motion-1/",
+              "title": "Motion Path Module Level 1",
+              "crawled": "https://drafts.fxtf.org/motion-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-driven Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
@@ -11827,6 +11832,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/motion-1/",
+              "title": "Motion Path Module Level 1",
+              "crawled": "https://drafts.fxtf.org/motion-1/"
             }
           ],
           "informative": [
@@ -29908,7 +29918,7 @@
     {
       "title": "Iterator Helpers",
       "shortname": "tc39-iterator-helpers",
-      "date": "13 December 2022",
+      "date": "6 February 2023",
       "url": "https://tc39.es/proposal-iterator-helpers/",
       "nightly": {
         "url": "https://tc39.es/proposal-iterator-helpers/",
@@ -31401,7 +31411,7 @@
     {
       "title": "Media Feeds",
       "shortname": "media-feeds",
-      "date": "02 August 2022",
+      "date": "06 February 2023",
       "url": "https://wicg.github.io/media-feeds/",
       "nightly": {
         "url": "https://wicg.github.io/media-feeds/",
@@ -33101,7 +33111,7 @@
     {
       "title": "Motion Path Module Level 1",
       "shortname": "motion-1",
-      "date": "23 February 2022",
+      "date": "6 February 2023",
       "url": "https://www.w3.org/TR/motion-1/",
       "release": {
         "url": "https://www.w3.org/TR/motion-1/",
@@ -33139,8 +33149,6 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/",
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-display-3/",
-          "https://www.w3.org/TR/css3-images/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
@@ -33244,7 +33252,7 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "16 December 2022",
+      "date": "6 February 2023",
       "url": "https://www.w3.org/TR/window-placement/",
       "release": {
         "url": "https://www.w3.org/TR/window-placement/",
@@ -33288,13 +33296,6 @@
             "ref": {
               "name": "FINGERPRINTING-GUIDANCE",
               "url": "https://w3c.github.io/fingerprinting-guidance/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/hr-time-2/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://w3c.github.io/hr-time/"
             }
           }
         ],
@@ -36137,7 +36138,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "03 February 2023",
+      "date": "06 February 2023",
       "url": "https://w3c.github.io/rdf-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -37805,7 +37806,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -37897,7 +37898,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -38165,7 +38166,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -38272,7 +38273,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -38352,7 +38353,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -39155,7 +39156,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -39195,7 +39196,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -39378,7 +39379,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -39825,7 +39826,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -40264,7 +40265,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "6 February 2023",
+      "date": "7 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -41822,7 +41823,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "1 February 2023",
+      "date": "13 December 2022",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -41996,11 +41997,6 @@
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
-            },
-            {
-              "url": "https://wicg.github.io/media-feeds/",
-              "title": "Media Feeds",
-              "crawled": "https://wicg.github.io/media-feeds/"
             },
             {
               "url": "https://www.w3.org/TR/mixed-content/",
