@@ -9146,7 +9146,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
 - Crawled URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
-- Crawled version: 1 February 2023
+- Crawled version: 6 February 2023
 - Editor's Draft: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
 - Shortname: web-animations-2
 
@@ -11529,7 +11529,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
-- Crawled version: 30 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Shortname: sparql12-entailment
 
@@ -11561,7 +11561,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Shortname: sparql12-federated-query
 
@@ -11604,7 +11604,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Shortname: sparql12-graph-store-protocol
 
@@ -11646,7 +11646,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
 - Shortname: sparql12-concepts
 
@@ -11695,7 +11695,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Shortname: sparql12-protocol
 
@@ -11816,7 +11816,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Shortname: sparql12-results-csv-tsv
 
@@ -11851,7 +11851,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Shortname: sparql12-results-json
 
@@ -11887,7 +11887,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Shortname: sparql12-results-xml
 
@@ -11929,7 +11929,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Shortname: sparql12-service-description
 
@@ -11978,7 +11978,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 07 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Shortname: sparql12-update
 
@@ -17316,7 +17316,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 31 January 2023
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -17341,7 +17341,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 31 January 2023
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -17372,7 +17372,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 31 January 2023
+- Crawled version: 7 February 2023
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -18499,6 +18499,7 @@ Normative references to this spec from:
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)

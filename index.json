@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-07T06:36:36.304Z",
+  "date": "2023-02-07T12:45:01.641Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -29235,6 +29235,11 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
+            },
+            {
               "url": "https://wicg.github.io/web-app-launch/",
               "title": "Web App Launch Handler API",
               "crawled": "https://wicg.github.io/web-app-launch/"
@@ -42936,7 +42941,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "30 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -43022,7 +43027,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-federated-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-federated-query/spec/",
@@ -43123,7 +43128,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
@@ -43223,7 +43228,7 @@
     {
       "title": "SPARQL 1.2 Overview",
       "shortname": "sparql12-concepts",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -43329,7 +43334,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-protocol/spec/",
@@ -43566,7 +43571,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
@@ -43659,7 +43664,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -43752,7 +43757,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-results-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
@@ -43851,7 +43856,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-service-description/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -43958,7 +43963,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "27 January 2023",
+      "date": "07 February 2023",
       "url": "https://w3c.github.io/sparql-update/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-update/spec/",
@@ -47171,7 +47176,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "1 February 2023",
+      "date": "6 February 2023",
       "url": "https://drafts.csswg.org/web-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/web-animations-2/",
@@ -49591,7 +49596,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "31 January 2023",
+      "date": "7 February 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -49642,7 +49647,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "31 January 2023",
+      "date": "7 February 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -49761,7 +49766,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "31 January 2023",
+      "date": "7 February 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
