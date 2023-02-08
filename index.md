@@ -11363,7 +11363,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
-- Crawled version: 27 January 2023
+- Crawled version: 08 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Shortname: rdf12-semantics
 
@@ -11386,7 +11386,6 @@ Informative references to this spec from:
 - [RDF 1.2 N-Quads](https://w3c.github.io/rdf-n-quads/spec/)
 - [RDF 1.2 N-Triples](https://w3c.github.io/rdf-n-triples/spec/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
-- [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 
