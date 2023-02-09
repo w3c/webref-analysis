@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-09T06:38:04.105Z",
+  "date": "2023-02-09T12:45:40.649Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -4147,7 +4147,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "21 December 2022",
+      "date": "8 February 2023",
       "url": "https://drafts.csswg.org/css-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-animations-2/",
@@ -17571,7 +17571,7 @@
     {
       "title": "CSS Transitions",
       "shortname": "css-transitions-1",
-      "date": "15 July 2022",
+      "date": "8 February 2023",
       "url": "https://www.w3.org/TR/css-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-transitions-1/",
@@ -49606,7 +49606,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "8 February 2023",
+      "date": "9 February 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -49657,7 +49657,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "8 February 2023",
+      "date": "9 February 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -49776,7 +49776,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "8 February 2023",
+      "date": "9 February 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
