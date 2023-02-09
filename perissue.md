@@ -1,30 +1,8 @@
 % Reffy crawl
 % Strudy
-% February 08, 2023
+% February 09, 2023
 
 555 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/): `Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (pptr://__puppeteer_evaluation_script__:25:31)
-    at async pptr://__puppeteer_evaluation_script__:34:13 Error: Evaluation failed: Error: Respec generation took too long
-    at isReady (pptr://__puppeteer_evaluation_script__:25:31)
-    at async pptr://__puppeteer_evaluation_script__:34:13
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:247:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:125:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
-    at async Promise.all (index 140)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)`
-
-=> 1 specification found
 
 
 ## Specifications without normative dependencies
@@ -1014,6 +992,11 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view) but does not list it in its references
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/) links to [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/) but does not list it in its references
 - [Performance Timeline](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to:
+    * [`http://www.w3.org/TR/2003/REC-PNG-20031110/index.html`](http://www.w3.org/TR/2003/REC-PNG-20031110/index.html) but does not list it in its references
+    * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/) but does not list it in its references
+    * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
+    * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/) but does not list it in its references
 - [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/) links to:
     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf) but does not list it in its references
@@ -1376,7 +1359,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1014 missing references for links found in 231 specifications
+=> 1018 missing references for links found in 232 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
