@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-10T12:43:59.404Z",
+  "date": "2023-02-10T18:37:04.003Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -938,7 +938,7 @@
     {
       "title": "Autoplay Policy Detection",
       "shortname": "autoplay-detection",
-      "date": "27 January 2023",
+      "date": "10 February 2023",
       "url": "https://www.w3.org/TR/autoplay-detection/",
       "release": {
         "url": "https://www.w3.org/TR/autoplay-detection/",
@@ -1593,7 +1593,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "9 February 2023",
+      "date": "10 February 2023",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -2782,7 +2782,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "9 February 2023",
+      "date": "10 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -20561,7 +20561,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "9 February 2023",
+      "date": "10 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -28318,7 +28318,7 @@
     {
       "title": "Indexed Database API 3.0",
       "shortname": "IndexedDB-3",
-      "date": "15 September 2022",
+      "date": "10 February 2023",
       "url": "https://www.w3.org/TR/IndexedDB-3/",
       "release": {
         "url": "https://www.w3.org/TR/IndexedDB-3/",
@@ -36457,7 +36457,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "09 February 2023",
+      "date": "10 February 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -41458,7 +41458,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "09 February 2023",
+      "date": "10 February 2023",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -42973,9 +42973,9 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43013,6 +43013,16 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -43075,9 +43085,9 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43125,6 +43135,16 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -43185,9 +43205,9 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43230,6 +43250,16 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -43297,9 +43327,9 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43347,6 +43377,16 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -43356,7 +43396,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "07 February 2023",
+      "date": "10 February 2023",
       "url": "https://w3c.github.io/sparql-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-protocol/spec/",
@@ -43412,11 +43452,6 @@
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -43459,6 +43494,16 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -43468,7 +43513,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "07 February 2023",
+      "date": "10 February 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -43532,6 +43577,11 @@
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43559,6 +43609,11 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -43613,9 +43668,9 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43663,6 +43718,16 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -43672,7 +43737,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "07 February 2023",
+      "date": "10 February 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -43717,9 +43782,9 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43767,6 +43832,11 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ]
         },
@@ -43827,9 +43897,9 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43877,6 +43947,16 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -43949,9 +44029,9 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -43994,6 +44074,16 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -44058,9 +44148,9 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
+              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             }
           ],
           "informative": [
@@ -44103,6 +44193,16 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
           ]
         },
@@ -47924,6 +48024,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/IndexedDB-3/",
+              "title": "Indexed Database API 3.0",
+              "crawled": "https://w3c.github.io/IndexedDB/"
+            },
+            {
               "url": "https://wicg.github.io/navigation-api/",
               "title": "Navigation API",
               "crawled": "https://wicg.github.io/navigation-api/"
@@ -50351,7 +50456,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "7 February 2023",
+      "date": "10 February 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",

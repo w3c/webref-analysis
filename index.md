@@ -877,7 +877,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 9 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -900,7 +900,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 9 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -3105,7 +3105,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 7 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -10338,7 +10338,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/autoplay-detection/](https://www.w3.org/TR/autoplay-detection/)
 - Crawled URL: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
-- Crawled version: 27 January 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/autoplay/](https://w3c.github.io/autoplay/)
 - Latest published version: [https://www.w3.org/TR/autoplay-detection/](https://www.w3.org/TR/autoplay-detection/)
 - Shortname: autoplay-detection
@@ -11351,7 +11351,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
-- Crawled version: 09 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Shortname: rdf12-semantics
 
@@ -11545,7 +11545,7 @@ Normative references to this spec from:
 
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11556,6 +11556,8 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Federated Query {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11589,7 +11591,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11602,6 +11604,8 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Graph Store Protocol {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11633,7 +11637,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11645,6 +11649,8 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Overview {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
@@ -11684,7 +11690,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11697,6 +11703,8 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Protocol {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11705,7 +11713,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Shortname: sparql12-protocol
 
@@ -11731,7 +11739,6 @@ Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11743,6 +11750,8 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Query Language {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11751,7 +11760,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Shortname: sparql12-query
 
@@ -11773,6 +11782,7 @@ Normative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11781,6 +11791,7 @@ Informative references to this spec from:
 - [RDF 1.2 N-Triples](https://w3c.github.io/rdf-n-triples/spec/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Query Results CSV and TSV Formats {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11806,7 +11817,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11819,6 +11830,8 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Query Results JSON Format {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
@@ -11827,7 +11840,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Shortname: sparql12-results-json
 
@@ -11845,7 +11858,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11858,6 +11871,7 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 
 ### SPARQL 1.2 Query Results XML Format {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
@@ -11890,7 +11904,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11903,6 +11917,8 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Service Description {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11942,7 +11958,7 @@ Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11954,6 +11970,8 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ### SPARQL 1.2 Update {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11985,7 +12003,7 @@ Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11997,6 +12015,8 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
 ## SVG Working Group {#group-svg_working_group}
@@ -13573,7 +13593,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/IndexedDB-3/](https://www.w3.org/TR/IndexedDB-3/)
 - Crawled URL: [https://w3c.github.io/IndexedDB/](https://w3c.github.io/IndexedDB/)
-- Crawled version: 15 September 2022
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/IndexedDB/](https://w3c.github.io/IndexedDB/)
 - Latest published version: [https://www.w3.org/TR/IndexedDB-3/](https://www.w3.org/TR/IndexedDB-3/)
 - Shortname: IndexedDB-3
@@ -14027,6 +14047,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Navigation API](https://wicg.github.io/navigation-api/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/)
@@ -15063,7 +15084,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
 - Crawled URL: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
-- Crawled version: 9 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
 - Shortname: client-hints-infrastructure
 
@@ -17082,7 +17103,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
 - Crawled URL: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
-- Crawled version: 09 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
 - Latest published version: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
 - Shortname: webrtc-svc
