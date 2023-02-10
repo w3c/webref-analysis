@@ -287,7 +287,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
 - Crawled URL: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
-- Crawled version: 30 April 2021
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
 - Shortname: tc39-import-assertions
 
@@ -4414,7 +4414,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 7 February 2023
+- Crawled version: 9 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -11530,7 +11530,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Shortname: sparql12-entailment
 
@@ -11544,6 +11544,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11587,6 +11588,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11608,7 +11610,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Shortname: sparql12-graph-store-protocol
 
@@ -11681,6 +11683,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11727,6 +11730,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11768,6 +11772,7 @@ Normative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11800,6 +11805,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11838,6 +11844,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11882,6 +11889,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11933,6 +11941,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11975,6 +11984,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
