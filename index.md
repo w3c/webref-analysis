@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 10, 2023
+% February 11, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -729,7 +729,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -759,7 +759,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1017,7 +1017,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1163,7 +1163,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1552,7 +1552,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1606,7 +1606,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1668,7 +1668,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1708,7 +1708,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1741,7 +1741,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1768,7 +1768,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 10 February 2023
+- Crawled version: 11 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3409,7 +3409,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
 - Crawled URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
-- Crawled version: 8 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
 - Shortname: css-anchor-1
 
@@ -4414,7 +4414,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 9 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5922,7 +5922,6 @@ Normative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Images Module Level 5](https://drafts.csswg.org/css-images-5/)
@@ -5939,6 +5938,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 
 
 ### CSS Images Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -10259,7 +10259,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 01 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -11262,7 +11262,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Shortname: rdf12-n-quads
 
@@ -11439,13 +11439,13 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 
 
-### RDF 1.2 XML Syntax {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### RDF 1.2 XML Syntax {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
-- Crawled version: 05 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Shortname: rdf12-xml
 
@@ -11478,36 +11478,37 @@ Informative references to this spec from:
      * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf)
      * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt)
      * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc)
-     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11556,6 +11557,7 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
@@ -11604,6 +11606,7 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
@@ -11649,6 +11652,7 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
@@ -11659,7 +11663,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
 - Shortname: sparql12-concepts
 
@@ -11750,6 +11754,7 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
@@ -11791,6 +11796,7 @@ Informative references to this spec from:
 - [RDF 1.2 N-Triples](https://w3c.github.io/rdf-n-triples/spec/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
@@ -11830,6 +11836,7 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
@@ -11871,6 +11878,7 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 
@@ -11917,6 +11925,7 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
@@ -11970,6 +11979,7 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
@@ -12015,6 +12025,7 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
@@ -13136,6 +13147,7 @@ Normative references to this spec from:
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
+- [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Geolocation API](https://w3c.github.io/geolocation-api/)
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
@@ -13513,7 +13525,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/gamepad/](https://www.w3.org/TR/gamepad/)
 - Crawled URL: [https://w3c.github.io/gamepad/](https://w3c.github.io/gamepad/)
-- Crawled version: 09 December 2022
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/gamepad/](https://w3c.github.io/gamepad/)
 - Latest published version: [https://www.w3.org/TR/gamepad/](https://www.w3.org/TR/gamepad/)
 - Shortname: gamepad
@@ -13540,7 +13552,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
 - Crawled URL: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
-- Crawled version: 09 December 2022
+- Crawled version: 10 February 2023
 - Editor's Draft: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
 - Shortname: gamepad-extensions
 
