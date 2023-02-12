@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-12T12:43:00.571Z",
+  "date": "2023-02-12T18:36:08.179Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -37035,7 +37035,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "05 February 2023",
+      "date": "12 February 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
