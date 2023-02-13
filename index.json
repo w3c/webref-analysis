@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-13T00:48:53.263Z",
+  "date": "2023-02-13T06:37:55.922Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -41644,7 +41644,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "10 February 2023",
+      "date": "13 February 2023",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
