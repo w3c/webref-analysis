@@ -10266,6 +10266,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- No definition for CSS properties: 
+     * `text-transform` with type `property`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
@@ -11094,7 +11096,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://privacycg.github.io/requestStorageAccessForOrigin/](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - Crawled URL: [https://privacycg.github.io/requestStorageAccessForOrigin/](https://privacycg.github.io/requestStorageAccessForOrigin/)
-- Crawled version: 7 February 2023
+- Crawled version: 13 February 2023
 - Editor's Draft: [https://privacycg.github.io/requestStorageAccessForOrigin/](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - Shortname: requestStorageAccessForOrigin
 
@@ -13373,7 +13375,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
-- Crawled version: 07 February 2023
+- Crawled version: 13 February 2023
 - Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
 - Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Shortname: html-aria

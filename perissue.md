@@ -146,8 +146,10 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## No definition for CSS properties
 
+- [MathML Core](https://w3c.github.io/mathml-core/):
+    * `text-transform` with type `property`
 
-=> 0 property without definition found in 0 specification
+=> 1 property without definition found in 1 specification
 
 
 ## No definition for IDL properties
