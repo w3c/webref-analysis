@@ -316,7 +316,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to:
     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
@@ -1189,6 +1188,17 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321) but does not list it in its references
     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
     * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-concepts/spec/`](https://w3c.github.io/sparql-concepts/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-entailment/spec/`](https://w3c.github.io/sparql-entailment/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-federated-query/spec/`](https://w3c.github.io/sparql-federated-query/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-graph-store-protocol/spec/`](https://w3c.github.io/sparql-graph-store-protocol/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-new/spec/`](https://w3c.github.io/sparql-new/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-protocol/spec/`](https://w3c.github.io/sparql-protocol/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-query/spec/`](https://w3c.github.io/sparql-query/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-results-json/spec/`](https://w3c.github.io/sparql-results-json/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-results-xml/spec/`](https://w3c.github.io/sparql-results-xml/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-service-description/spec/`](https://w3c.github.io/sparql-service-description/spec/) but does not list it in its references
+    * [`https://w3c.github.io/sparql-update/spec/`](https://w3c.github.io/sparql-update/spec/) but does not list it in its references
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/) links to:
     * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321) but does not list it in its references
     * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/) but does not list it in its references
@@ -1331,7 +1341,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 988 missing references for links found in 232 specifications
+=> 998 missing references for links found in 232 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1405,9 +1415,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
-- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to:
-    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1977,7 +1985,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 524 inconsistent references for links found in 188 specifications
+=> 523 inconsistent references for links found in 188 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

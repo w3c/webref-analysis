@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-14T12:46:13.370Z",
+  "date": "2023-02-14T18:37:12.690Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -4316,6 +4316,11 @@
               "crawled": "https://drafts.csswg.org/css-ui-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -4838,7 +4843,7 @@
     {
       "title": "CSS Box Model Module Level 3",
       "shortname": "css-box-3",
-      "date": "13 February 2023",
+      "date": "16 February 2023",
       "url": "https://www.w3.org/TR/css-box-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-3/",
@@ -4878,7 +4883,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/2018/WD-css3-box-20180731/",
-          "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-display/",
           "https://www.w3.org/TR/css-flexbox/",
@@ -4890,17 +4894,10 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -8653,6 +8650,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -8812,11 +8814,6 @@
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-box-4/",
@@ -10444,6 +10441,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
@@ -17391,6 +17393,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
@@ -36274,7 +36281,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "13 February 2023",
+      "date": "14 February 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -43133,6 +43140,11 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
@@ -43141,6 +43153,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -43193,6 +43210,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -43202,7 +43224,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "07 February 2023",
+      "date": "14 February 2023",
       "url": "https://w3c.github.io/sparql-federated-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-federated-query/spec/",
@@ -43258,6 +43280,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -43320,6 +43347,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -43380,9 +43412,19 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -43440,6 +43482,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -43502,6 +43549,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
@@ -43510,6 +43562,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -43567,6 +43624,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -43629,9 +43691,19 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -43689,6 +43761,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -43759,6 +43836,11 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
@@ -43767,6 +43849,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -43804,6 +43891,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -43813,7 +43905,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "07 February 2023",
+      "date": "14 February 2023",
       "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
@@ -43847,11 +43939,27 @@
           "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
           "http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321",
           "http://www.w3.org/TR/sparql11-query/",
-          "http://www.w3.org/TR/sparql11-results-json/"
+          "http://www.w3.org/TR/sparql11-results-json/",
+          "https://w3c.github.io/sparql-concepts/spec/",
+          "https://w3c.github.io/sparql-entailment/spec/",
+          "https://w3c.github.io/sparql-federated-query/spec/",
+          "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+          "https://w3c.github.io/sparql-new/spec/",
+          "https://w3c.github.io/sparql-protocol/spec/",
+          "https://w3c.github.io/sparql-query/spec/",
+          "https://w3c.github.io/sparql-results-json/spec/",
+          "https://w3c.github.io/sparql-results-xml/spec/",
+          "https://w3c.github.io/sparql-service-description/spec/",
+          "https://w3c.github.io/sparql-update/spec/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
             {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
@@ -43861,6 +43969,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -43923,6 +44036,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -43972,6 +44090,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
@@ -43980,6 +44103,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -44037,6 +44165,11 @@
               "url": "https://w3c.github.io/sparql-query/spec/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -44046,7 +44179,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "07 February 2023",
+      "date": "14 February 2023",
       "url": "https://w3c.github.io/sparql-results-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
@@ -44092,6 +44225,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
@@ -44100,6 +44238,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -44171,7 +44314,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "07 February 2023",
+      "date": "14 February 2023",
       "url": "https://w3c.github.io/sparql-service-description/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -44227,6 +44370,11 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
@@ -44294,6 +44442,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -44353,6 +44506,11 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
+              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
@@ -44361,6 +44519,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -44418,6 +44581,11 @@
               "url": "https://w3c.github.io/sparql-results-json/spec/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
           ]
         },
@@ -45170,7 +45338,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "11 February 2023",
+      "date": "14 February 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -45388,7 +45556,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "27 January 2023",
+      "date": "14 February 2023",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
@@ -52859,7 +53027,7 @@
     {
       "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
       "shortname": "webrtc",
-      "date": "06 February 2023",
+      "date": "14 February 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -53174,7 +53342,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "25 January 2023",
+      "date": "14 February 2023",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",

@@ -652,7 +652,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 11 February 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -3570,6 +3570,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -3758,7 +3759,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
 - Crawled URL: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
-- Crawled version: 13 February 2023
+- Crawled version: 16 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
 - Latest published version: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
 - Shortname: css-box-3
@@ -3767,7 +3768,6 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
-     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
      * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
@@ -3777,8 +3777,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4927,6 +4926,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
@@ -4978,7 +4978,6 @@ Normative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
-- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
@@ -5494,6 +5493,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 
 
@@ -7773,6 +7773,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
@@ -11112,7 +11113,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
 - Crawled URL: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
-- Crawled version: 27 January 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
 - Shortname: storage-access
 
@@ -11286,7 +11287,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
-- Crawled version: 13 February 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Shortname: rdf12-n-triples
 
@@ -11540,8 +11541,10 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11555,6 +11558,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Federated Query {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11563,7 +11567,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Shortname: sparql12-federated-query
 
@@ -11589,6 +11593,7 @@ Normative references to this spec from:
 
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11604,6 +11609,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Graph Store Protocol {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11635,7 +11641,9 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11650,6 +11658,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Overview {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
@@ -11688,8 +11697,10 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11704,6 +11715,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Protocol {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11737,7 +11749,9 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11752,6 +11766,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Query Language {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11781,8 +11796,10 @@ Normative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11793,6 +11810,7 @@ Informative references to this spec from:
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Query Results CSV and TSV Formats {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -11801,7 +11819,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Shortname: sparql12-results-csv-tsv
 
@@ -11812,13 +11830,26 @@ Informative references to this spec from:
      * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321)
      * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
      * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/)
+     * [`https://w3c.github.io/sparql-concepts/spec/`](https://w3c.github.io/sparql-concepts/spec/)
+     * [`https://w3c.github.io/sparql-entailment/spec/`](https://w3c.github.io/sparql-entailment/spec/)
+     * [`https://w3c.github.io/sparql-federated-query/spec/`](https://w3c.github.io/sparql-federated-query/spec/)
+     * [`https://w3c.github.io/sparql-graph-store-protocol/spec/`](https://w3c.github.io/sparql-graph-store-protocol/spec/)
+     * [`https://w3c.github.io/sparql-new/spec/`](https://w3c.github.io/sparql-new/spec/)
+     * [`https://w3c.github.io/sparql-protocol/spec/`](https://w3c.github.io/sparql-protocol/spec/)
+     * [`https://w3c.github.io/sparql-query/spec/`](https://w3c.github.io/sparql-query/spec/)
+     * [`https://w3c.github.io/sparql-results-json/spec/`](https://w3c.github.io/sparql-results-json/spec/)
+     * [`https://w3c.github.io/sparql-results-xml/spec/`](https://w3c.github.io/sparql-results-xml/spec/)
+     * [`https://w3c.github.io/sparql-service-description/spec/`](https://w3c.github.io/sparql-service-description/spec/)
+     * [`https://w3c.github.io/sparql-update/spec/`](https://w3c.github.io/sparql-update/spec/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11834,6 +11865,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Query Results JSON Format {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
@@ -11859,8 +11891,10 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11875,6 +11909,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Query Results XML Format {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
@@ -11883,7 +11918,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Shortname: sparql12-results-xml
 
@@ -11906,8 +11941,10 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -11931,7 +11968,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Shortname: sparql12-service-description
 
@@ -11961,6 +11998,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
@@ -11977,6 +12015,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ### SPARQL 1.2 Update {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -12007,8 +12046,10 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -12023,6 +12064,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
+- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
 ## SVG Working Group {#group-svg_working_group}
@@ -17211,7 +17253,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 06 February 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -17411,7 +17453,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 25 January 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport

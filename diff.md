@@ -2,29 +2,21 @@
 % Strudy
 % February 14, 2023
 
-## CSS Backgrounds and Borders Module Level 3
+## CSS Box Model Module Level 3
 
-- Initial URL: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
+- Initial URL: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
-- Missing references for links: *INS* https://www.w3.org/TR/css-color-4/, https://www.w3.org/TR/css-transitions-1/
-- Inconsistent references for links: *INS* https://www.w3.org/TR/css-box-3/, https://www.w3.org/TR/css-values-3/
+- Editor's Draft: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
+- Missing references for links: *DEL* https://www.w3.org/TR/css-break-3/
+- Inconsistent references for links: *DEL* https://www.w3.org/TR/css-values-3/
 
 
-## CSS Images Module Level 4
+## SPARQL 1.2 Query Results CSV and TSV Formats
 
-- Initial URL: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
+- Initial URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
-- Missing references for links: *INS* http://www.w3.org/TR/css-animations/, http://www.w3.org/TR/css-transitions/ / *DEL* https://www.w3.org/TR/css-animations/, https://www.w3.org/TR/css-transitions/
-
-
-## CSS Speech Module Level 1
-
-- Initial URL: [https://www.w3.org/TR/css-speech-1/](https://www.w3.org/TR/css-speech-1/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-speech-1/](https://drafts.csswg.org/css-speech-1/)
-- Missing references for links: *INS* https://www.w3.org/TR/css-box-3/
+- Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
+- Missing references for links: *INS* https://w3c.github.io/sparql-concepts/spec/, https://w3c.github.io/sparql-entailment/spec/, https://w3c.github.io/sparql-federated-query/spec/, https://w3c.github.io/sparql-graph-store-protocol/spec/, https://w3c.github.io/sparql-new/spec/, https://w3c.github.io/sparql-protocol/spec/, https://w3c.github.io/sparql-query/spec/, https://w3c.github.io/sparql-results-json/spec/, https://w3c.github.io/sparql-results-xml/spec/, https://w3c.github.io/sparql-service-description/spec/, https://w3c.github.io/sparql-update/spec/
 
 
 
