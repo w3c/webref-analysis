@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-14T00:49:37.320Z",
+  "date": "2023-02-14T06:37:42.211Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -3908,11 +3908,6 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -4325,11 +4320,6 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -4728,7 +4718,7 @@
     {
       "title": "CSS Box Alignment Module Level 3",
       "shortname": "css-align-3",
-      "date": "19 January 2023",
+      "date": "13 February 2023",
       "url": "https://www.w3.org/TR/css-align-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-align-3/",
@@ -4817,11 +4807,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
@@ -8677,11 +8662,6 @@
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -8976,6 +8956,11 @@
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-position-3/",
+              "title": "CSS Positioned Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -9939,6 +9924,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-align-3/",
+              "title": "CSS Box Alignment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-align-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-4/",
               "title": "CSS Cascading and Inheritance Level 4",
               "crawled": "https://drafts.csswg.org/css-cascade-4/"
@@ -10452,11 +10442,6 @@
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
               "title": "CSS Backgrounds and Borders Module Level 3",
               "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -11127,11 +11112,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
@@ -13277,11 +13257,6 @@
               "crawled": "https://wicg.github.io/css-parser-api/"
             },
             {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-text-3/",
               "title": "CSS Text Module Level 3",
               "crawled": "https://drafts.csswg.org/css-text-3/"
@@ -14235,7 +14210,7 @@
     {
       "title": "CSS Positioned Layout Module Level 3",
       "shortname": "css-position-3",
-      "date": "19 January 2023",
+      "date": "13 February 2023",
       "url": "https://www.w3.org/TR/css-position-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-position-3/",
@@ -14275,15 +14250,44 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-grid-1/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-flexbox-1/",
+            "ref": {
+              "name": "CSS-FLEXBOX-1",
+              "url": "https://drafts.csswg.org/css-flexbox-1/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-logical-1/",
+            "ref": {
+              "name": "CSS-LOGICAL-1",
+              "url": "https://drafts.csswg.org/css-logical-1/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-overflow-3/",
+            "ref": {
+              "name": "CSS-OVERFLOW-3",
+              "url": "https://drafts.csswg.org/css-overflow-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -17401,11 +17405,6 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -19389,13 +19388,7 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-position-3/",
-              "title": "CSS Positioned Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-position-3/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
