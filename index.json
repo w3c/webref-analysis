@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-14T06:37:42.211Z",
+  "date": "2023-02-14T12:46:13.370Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -3898,11 +3898,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -4221,7 +4216,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "26 July 2021",
+      "date": "13 February 2023",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -4270,8 +4265,10 @@
           "https://www.w3.org/TR/2014/CR-css3-background-20140909/",
           "https://www.w3.org/TR/2014/WD-css3-background-20140204/",
           "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-color-4/",
           "https://www.w3.org/TR/css-images/",
           "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css-transitions-1/",
           "https://www.w3.org/TR/css3-break/",
           "https://www.w3.org/TR/css3-images/",
           "https://www.w3.org/TR/cssom/",
@@ -4280,10 +4277,24 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-box-3/",
+            "ref": {
+              "name": "CSS-BOX-3",
+              "url": "https://drafts.csswg.org/css-box-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -4945,7 +4956,7 @@
     {
       "title": "CSS Box Model Module Level 4",
       "shortname": "css-box-4",
-      "date": "22 June 2022",
+      "date": "13 February 2023",
       "url": "https://www.w3.org/TR/css-box-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-4/",
@@ -7204,11 +7215,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
@@ -8647,11 +8653,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -8796,6 +8797,11 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
@@ -10439,11 +10445,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -10656,11 +10657,6 @@
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-speech-1/",
-              "title": "CSS Speech Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-speech-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -11684,7 +11680,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "12 January 2023",
+      "date": "13 February 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -11722,12 +11718,12 @@
           "idl": []
         },
         "missingLinkRef": [
+          "http://www.w3.org/TR/css-animations/",
+          "http://www.w3.org/TR/css-transitions/",
           "https://www.w3.org/TR/2011/CR-css3-background-20110215/",
           "https://www.w3.org/TR/2012/WD-css4-images-20120911/",
-          "https://www.w3.org/TR/css-animations/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css-transitions/",
           "https://www.w3.org/TR/css3-transitions/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
@@ -13149,7 +13145,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "1 February 2023",
+      "date": "13 February 2023",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -15745,11 +15741,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -15985,7 +15976,7 @@
     {
       "title": "CSS Speech Module Level 1",
       "shortname": "css-speech-1",
-      "date": "15 July 2022",
+      "date": "13 February 2023",
       "url": "https://www.w3.org/TR/css-speech-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-speech-1/",
@@ -16025,6 +16016,7 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/2012/CR-css3-speech-20120320/",
+          "https://www.w3.org/TR/css-box-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/"
@@ -17621,11 +17613,6 @@
         "referencedBy": {
           "normative": [],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
@@ -36366,7 +36353,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "03 February 2023",
+      "date": "14 February 2023",
       "url": "https://w3c.github.io/rdf-schema/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-schema/spec/",
@@ -47554,7 +47541,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "6 February 2023",
+      "date": "13 February 2023",
       "url": "https://drafts.csswg.org/web-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/web-animations-2/",
