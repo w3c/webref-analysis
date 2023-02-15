@@ -749,7 +749,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/) links to:
-    * [`https://www.w3.org/TR/css-nesting-1/`](https://www.w3.org/TR/css-nesting-1/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
     * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/) but does not list it in its references
     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/) but does not list it in its references
@@ -1341,7 +1340,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 998 missing references for links found in 232 specifications
+=> 997 missing references for links found in 232 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

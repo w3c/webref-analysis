@@ -3407,7 +3407,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
 - Crawled URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
-- Crawled version: 10 February 2023
+- Crawled version: 14 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
 - Shortname: css-anchor-1
 
@@ -7423,7 +7423,6 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/css-nesting-1/`](https://www.w3.org/TR/css-nesting-1/)
      * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
      * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/)
      * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
@@ -13786,7 +13785,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Crawled URL: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
-- Crawled version: 23 January 2023
+- Crawled version: 15 February 2023
 - Editor's Draft: [https://w3c.github.io/screen-orientation/](https://w3c.github.io/screen-orientation/)
 - Latest published version: [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/)
 - Shortname: screen-orientation

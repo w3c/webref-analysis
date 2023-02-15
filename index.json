@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-15T00:50:32.693Z",
+  "date": "2023-02-15T06:37:17.839Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -3916,7 +3916,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-1",
-      "date": "10 February 2023",
+      "date": "14 February 2023",
       "url": "https://drafts.csswg.org/css-anchor-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-anchor-1/",
@@ -16226,7 +16226,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-nesting-1/",
           "https://www.w3.org/TR/css3-values/",
           "https://www.w3.org/TR/selectors-api/",
           "https://www.w3.org/TR/selectors/"
@@ -41773,7 +41772,7 @@
     {
       "title": "Screen Orientation",
       "shortname": "screen-orientation",
-      "date": "23 January 2023",
+      "date": "15 February 2023",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
