@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-16T06:37:58.439Z",
+  "date": "2023-02-16T12:51:34.947Z",
   "stats": {
-    "crawled": 555,
+    "crawled": 557,
     "errors": 0,
-    "studied": 555
+    "studied": 557
   },
   "results": [
     {
@@ -766,10 +766,52 @@
         "status": "Editor's Draft",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-array-grouping",
-        "sourcePath": "index.html",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-array-grouping/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "ArrayBuffer transfer",
+      "shortname": "tc39-arraybuffer-transfer",
+      "date": "1 February 2023",
+      "url": "https://tc39.es/proposal-arraybuffer-transfer/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-arraybuffer-transfer/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-arraybuffer-transfer",
+        "sourcePath": "spec.emu",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-arraybuffer-transfer/",
       "organization": "Ecma International",
       "groups": [
         {
@@ -2001,6 +2043,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -3531,6 +3578,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
@@ -3915,21 +3967,21 @@
     },
     {
       "title": "CSS Anchor Positioning",
-      "shortname": "css-anchor-1",
+      "shortname": "css-anchor-position-1",
       "date": "14 February 2023",
-      "url": "https://drafts.csswg.org/css-anchor-1/",
+      "url": "https://drafts.csswg.org/css-anchor-position-1/",
       "nightly": {
-        "url": "https://drafts.csswg.org/css-anchor-1/",
+        "url": "https://drafts.csswg.org/css-anchor-position-1/",
         "status": "Editor's Draft",
         "alternateUrls": [
-          "https://w3c.github.io/csswg-drafts/css-anchor-1/",
-          "https://w3c.github.io/csswg-drafts/css-anchor/"
+          "https://w3c.github.io/csswg-drafts/css-anchor-position-1/",
+          "https://w3c.github.io/csswg-drafts/css-anchor-position/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "css-anchor-1/Overview.bs",
+        "sourcePath": "css-anchor-position-1/Overview.bs",
         "filename": "Overview.html"
       },
-      "crawled": "https://drafts.csswg.org/css-anchor-1/",
+      "crawled": "https://drafts.csswg.org/css-anchor-position-1/",
       "organization": "W3C",
       "groups": [
         {
@@ -3965,33 +4017,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/cssom-1/",
-              "title": "CSS Object Model (CSSOM)",
-              "crawled": "https://drafts.csswg.org/cssom-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-page-3/",
-              "title": "CSS Paged Media Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-page-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-regions-1/",
-              "title": "CSS Regions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-regions-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -4123,6 +4149,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -4341,6 +4372,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-text-3/",
               "title": "CSS Text Module Level 3",
               "crawled": "https://drafts.csswg.org/css-text-3/"
@@ -4518,6 +4554,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -4680,6 +4721,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
@@ -4834,6 +4880,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -4929,6 +4980,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
@@ -5022,9 +5078,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -5373,9 +5429,9 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
@@ -5526,6 +5582,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-tables-3/",
@@ -5745,6 +5806,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ],
           "informative": [
@@ -5891,6 +5957,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-3/",
@@ -6045,6 +6116,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -6257,9 +6333,9 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://drafts.csswg.org/css-animations-2/",
@@ -6672,6 +6748,11 @@
               "url": "https://www.w3.org/TR/css-scrollbars-1/",
               "title": "CSS Scrollbars Styling Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -6920,7 +7001,13 @@
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            }
+          ]
         },
         "ok": false
       }
@@ -7123,6 +7210,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
@@ -7237,6 +7329,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -7346,6 +7443,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -7572,6 +7674,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax-3/"
@@ -7696,6 +7803,11 @@
               "url": "https://drafts.csswg.org/css-conditional-values-1/",
               "title": "CSS Conditional Values Module Level 1",
               "crawled": "https://drafts.csswg.org/css-conditional-values-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -7905,6 +8017,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ],
           "informative": [
@@ -8053,6 +8170,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-transforms-2/",
@@ -8266,6 +8388,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ],
           "informative": []
@@ -8391,6 +8518,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ],
           "informative": []
@@ -8670,6 +8802,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-text-3/",
               "title": "CSS Text Module Level 3",
               "crawled": "https://drafts.csswg.org/css-text-3/"
@@ -8791,9 +8928,9 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-animations-1/",
@@ -9191,6 +9328,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ],
           "informative": []
@@ -9712,6 +9854,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-text-4/",
               "title": "CSS Text Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-4/"
@@ -9846,6 +9993,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -9995,6 +10147,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-speech-1/",
@@ -10450,6 +10607,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -10541,9 +10703,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -11116,7 +11278,13 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            }
+          ]
         },
         "ok": false
       }
@@ -11337,6 +11505,11 @@
               "url": "https://www.w3.org/TR/css-nesting-1/",
               "title": "CSS Nesting Module",
               "crawled": "https://drafts.csswg.org/css-nesting-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-3/",
@@ -11618,6 +11791,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
@@ -11795,6 +11973,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -12479,6 +12662,11 @@
               "url": "https://www.w3.org/TR/css-gcpm-3/",
               "title": "CSS Generated Content for Paged Media Module",
               "crawled": "https://drafts.csswg.org/css-gcpm-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -12558,9 +12746,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
@@ -12648,6 +12836,11 @@
               "url": "https://drafts.csswg.org/css-grid-3/",
               "title": "CSS Grid Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-grid-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -12852,6 +13045,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
@@ -13007,6 +13205,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ],
           "informative": [
@@ -13129,6 +13332,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
               "title": "Non-element Selectors Module Level 1",
               "crawled": "https://drafts.csswg.org/selectors-nonelement-1/"
@@ -13151,7 +13359,7 @@
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -13359,9 +13567,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-3/",
@@ -14292,9 +14500,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
@@ -14410,6 +14618,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-nav-1/",
@@ -15474,6 +15687,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -15592,6 +15810,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -15746,6 +15969,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -15906,6 +16134,61 @@
       }
     },
     {
+      "title": "CSS Snapshot 2023",
+      "shortname": "css-2023",
+      "date": "14 February 2023",
+      "url": "https://www.w3.org/TR/css-2023/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-2023/",
+        "status": "Draft Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-2023/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-2023/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-2023/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-2023/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/2008/REC-CSS1-20080411/",
+          "https://www.w3.org/TR/2008/REC-CSS2-20080411/",
+          "https://www.w3.org/TR/css-font-loading/",
+          "https://www.w3.org/TR/css-namespaces/",
+          "https://www.w3.org/TR/css3-mediaqueries/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "CSS Spatial Navigation Level 1",
       "shortname": "css-nav-1",
       "date": "17 May 2021",
@@ -15982,7 +16265,7 @@
       "url": "https://www.w3.org/TR/css-speech-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-speech-1/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -16082,6 +16365,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -16168,6 +16456,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -16247,6 +16540,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/intersection-observer/",
@@ -16527,6 +16825,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -17004,6 +17307,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-tables-3/",
               "title": "CSS Table Module Level 3",
               "crawled": "https://drafts.csswg.org/css-tables-3/"
@@ -17208,6 +17516,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-tables-3/",
               "title": "CSS Table Module Level 3",
               "crawled": "https://drafts.csswg.org/css-tables-3/"
@@ -17408,6 +17721,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -17506,6 +17824,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-tables-3/",
@@ -17628,6 +17951,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -18243,6 +18571,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
@@ -18464,9 +18797,9 @@
               "crawled": "https://w3c.github.io/webappsec-cspee/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
@@ -19379,6 +19712,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ],
           "informative": []
@@ -19614,6 +19952,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-text-3/",
               "title": "CSS Text Module Level 3",
               "crawled": "https://drafts.csswg.org/css-text-3/"
@@ -19773,9 +20116,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://drafts.csswg.org/css-animations-2/",
@@ -20073,6 +20416,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -21070,9 +21418,9 @@
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
@@ -22091,9 +22439,9 @@
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
         "status": "Editor's Draft",
-        "sourcePath": "spec.emu",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-explicit-resource-management",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-explicit-resource-management/",
@@ -23353,7 +23701,7 @@
         "status": "Editor's Draft",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-intl-extend-timezonename",
-        "sourcePath": "index.html",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-intl-extend-timezonename/",
@@ -24544,6 +24892,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },
@@ -24752,9 +25105,9 @@
               "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -25619,7 +25972,7 @@
     {
       "title": "High Resolution Time",
       "shortname": "hr-time-3",
-      "date": "09 February 2023",
+      "date": "16 February 2023",
       "url": "https://www.w3.org/TR/hr-time-3/",
       "release": {
         "url": "https://www.w3.org/TR/hr-time-3/",
@@ -26098,7 +26451,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 February 2023",
+      "date": "16 February 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -27632,9 +27985,9 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-sizing-4/",
@@ -28198,7 +28551,7 @@
         "status": "Editor's Draft",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-import-assertions",
-        "sourcePath": "spec.html",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-import-assertions/",
@@ -28530,9 +28883,9 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-1/",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-1/"
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
@@ -29769,7 +30122,7 @@
         "status": "Editor's Draft",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-intl-enumeration",
-        "sourcePath": "index.html",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-intl-enumeration/",
@@ -29811,7 +30164,7 @@
         "status": "Editor's Draft",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-intl-locale-info",
-        "sourcePath": "index.html",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-intl-locale-info/",
@@ -29853,7 +30206,7 @@
         "status": "Editor's Draft",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-intl-duration-format",
-        "sourcePath": "index.html",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-intl-duration-format/",
@@ -30849,7 +31202,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "13 February 2023",
+      "date": "16 February 2023",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -30881,17 +31234,7 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [
-            {
-              "expected": {
-                "linkingText": [
-                  "text-transform"
-                ],
-                "type": "property",
-                "for": []
-              }
-            }
-          ],
+          "css": [],
           "idl": []
         },
         "missingLinkRef": [
@@ -31527,6 +31870,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
               "title": "Media Queries Level 4",
               "crawled": "https://drafts.csswg.org/mediaqueries-4/"
@@ -31686,6 +32034,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -37214,9 +37567,9 @@
       "nightly": {
         "url": "https://tc39.es/proposal-regexp-modifiers/",
         "status": "Editor's Draft",
-        "sourcePath": "spec.emu",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-regexp-modifiers",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-regexp-modifiers/",
@@ -37748,7 +38101,13 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            }
+          ]
         },
         "ok": false
       }
@@ -42521,6 +42880,11 @@
               "crawled": "https://drafts.csswg.org/css-2022/"
             },
             {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
@@ -42680,6 +43044,11 @@
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-text-3/",
@@ -43157,6 +43526,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -43284,6 +43658,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -43424,6 +43803,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -43566,6 +43950,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -43703,6 +44092,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -43853,6 +44247,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -43973,6 +44372,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -44107,6 +44511,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -44242,6 +44651,11 @@
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -44384,6 +44798,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-update/spec/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
@@ -44455,7 +44874,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "07 February 2023",
+      "date": "16 February 2023",
       "url": "https://w3c.github.io/sparql-update/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-update/spec/",
@@ -45300,9 +45719,9 @@
       "nightly": {
         "url": "https://tc39.es/proposal-symbols-as-weakmap-keys/",
         "status": "Editor's Draft",
-        "sourcePath": "spec.emu",
         "alternateUrls": [],
         "repository": "https://github.com/tc39/proposal-symbols-as-weakmap-keys",
+        "sourcePath": "spec.emu",
         "filename": "index.html"
       },
       "crawled": "https://tc39.es/proposal-symbols-as-weakmap-keys/",
@@ -47699,6 +48118,11 @@
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
         },

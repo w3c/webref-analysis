@@ -27,6 +27,27 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### ArrayBuffer transfer {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-arraybuffer-transfer/](https://tc39.es/proposal-arraybuffer-transfer/)
+- Crawled URL: [https://tc39.es/proposal-arraybuffer-transfer/](https://tc39.es/proposal-arraybuffer-transfer/)
+- Crawled version: 1 February 2023
+- Editor's Draft: [https://tc39.es/proposal-arraybuffer-transfer/](https://tc39.es/proposal-arraybuffer-transfer/)
+- Shortname: tc39-arraybuffer-transfer
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Atomics.waitAsync {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -3161,6 +3182,7 @@ Normative references to this spec from:
 - [CSS Color Module Level 6](https://drafts.csswg.org/css-color-6/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -3311,6 +3333,7 @@ Normative references to this spec from:
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
@@ -3405,11 +3428,11 @@ No informative reference to this spec from other specs.
 
 #### Spec info {.info}
 
-- Initial URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
-- Crawled URL: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
+- Initial URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
+- Crawled URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
 - Crawled version: 14 February 2023
-- Editor's Draft: [https://drafts.csswg.org/css-anchor-1/](https://drafts.csswg.org/css-anchor-1/)
-- Shortname: css-anchor-1
+- Editor's Draft: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
+- Shortname: css-anchor-position-1
 
 #### Potential issue(s) {.anomalies}
 
@@ -3423,13 +3446,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
-- [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
-- [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
-- [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -3489,6 +3506,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
@@ -3575,6 +3593,7 @@ Normative references to this spec from:
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -3646,6 +3665,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 Informative references to this spec from:
@@ -3697,6 +3717,7 @@ Normative references to this spec from:
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
@@ -3751,6 +3772,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Box Model Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -3788,6 +3810,7 @@ Normative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
@@ -3829,7 +3852,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
@@ -3917,7 +3940,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
@@ -3948,6 +3971,7 @@ Normative references to this spec from:
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
@@ -4009,6 +4033,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 Informative references to this spec from:
 
@@ -4058,6 +4083,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
@@ -4106,6 +4132,7 @@ Normative references to this spec from:
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -4164,7 +4191,7 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
@@ -4250,6 +4277,7 @@ Informative references to this spec from:
 
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Cascading and Inheritance Level 6 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -4329,7 +4357,9 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Color HDR Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -4404,6 +4434,7 @@ Informative references to this spec from:
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 
@@ -4442,6 +4473,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
@@ -4478,6 +4510,7 @@ Normative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
@@ -4550,6 +4583,7 @@ Normative references to this spec from:
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
@@ -4591,6 +4625,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Conditional Values Module Level 1](https://drafts.csswg.org/css-conditional-values-1/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Conditional Rules Module Level 5 {data-spec=true data-missingDfns=true data-ok=true}
@@ -4671,6 +4706,7 @@ Normative references to this spec from:
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 Informative references to this spec from:
 
@@ -4716,6 +4752,7 @@ Normative references to this spec from:
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
@@ -4788,6 +4825,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 No informative reference to this spec from other specs.
 
@@ -4840,6 +4878,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 No informative reference to this spec from other specs.
 
@@ -4930,6 +4969,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -4973,7 +5013,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
@@ -5068,6 +5108,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 No informative reference to this spec from other specs.
 
@@ -5263,6 +5304,7 @@ Normative references to this spec from:
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
@@ -5305,6 +5347,7 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Fonts Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -5350,6 +5393,7 @@ Normative references to this spec from:
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
@@ -5495,6 +5539,7 @@ Informative references to this spec from:
 
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Fragmentation Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -5531,7 +5576,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
@@ -5717,7 +5762,9 @@ Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Grid Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -5783,6 +5830,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
@@ -5870,6 +5918,7 @@ Normative references to this spec from:
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
@@ -5927,6 +5976,7 @@ Normative references to this spec from:
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
@@ -6160,6 +6210,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Logical Properties and Values Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -6189,7 +6240,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
@@ -6210,6 +6261,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
@@ -6268,6 +6320,7 @@ Informative references to this spec from:
 
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 
@@ -6330,6 +6383,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 Informative references to this spec from:
 
@@ -6385,6 +6439,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
 - [Selectors Level 3](https://drafts.csswg.org/selectors-3/)
 
@@ -6472,7 +6527,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
@@ -6742,7 +6797,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
@@ -6766,6 +6821,7 @@ Normative references to this spec from:
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
@@ -7124,6 +7180,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Scroll Snap Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -7179,6 +7236,7 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Shadow Parts {data-spec=true data-missingDfns=true data-ok=true}
@@ -7240,6 +7298,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Shapes Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -7303,6 +7362,33 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS Snapshot 2023 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
+- Crawled URL: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
+- Crawled version: 14 February 2023
+- Editor's Draft: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
+- Latest published version: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
+- Shortname: css-2023
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS1-20080411/`](https://www.w3.org/TR/2008/REC-CSS1-20080411/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/css-font-loading/`](https://www.w3.org/TR/css-font-loading/)
+     * [`https://www.w3.org/TR/css-namespaces/`](https://www.w3.org/TR/css-namespaces/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -7374,6 +7460,7 @@ Informative references to this spec from:
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
@@ -7402,6 +7489,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
 Informative references to this spec from:
@@ -7434,6 +7522,7 @@ Normative references to this spec from:
 - [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
@@ -7529,6 +7618,7 @@ Informative references to this spec from:
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
@@ -7657,6 +7747,7 @@ Informative references to this spec from:
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
@@ -7714,6 +7805,7 @@ Normative references to this spec from:
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
@@ -7775,6 +7867,7 @@ Normative references to this spec from:
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -7811,6 +7904,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
@@ -7857,6 +7951,7 @@ Informative references to this spec from:
 
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
@@ -8032,6 +8127,7 @@ Normative references to this spec from:
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Speech Module Level 1](https://drafts.csswg.org/css-speech-1/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
@@ -8098,7 +8194,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
@@ -8341,6 +8437,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 No informative reference to this spec from other specs.
 
@@ -8404,6 +8501,7 @@ Normative references to this spec from:
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
@@ -8456,7 +8554,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
@@ -8519,6 +8617,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 
 
@@ -8601,6 +8700,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### Filter Effects Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -8728,6 +8828,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 
@@ -8779,6 +8880,7 @@ Informative references to this spec from:
 - [CSS Conditional Values Module Level 1](https://drafts.csswg.org/css-conditional-values-1/)
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
@@ -8957,7 +9059,9 @@ Normative references to this spec from:
 
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### Scroll-driven Animations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -9029,6 +9133,7 @@ Normative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
@@ -9079,6 +9184,7 @@ Normative references to this spec from:
 
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
@@ -9131,6 +9237,7 @@ Informative references to this spec from:
 - [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/)
 - [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### Web Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -10252,15 +10359,13 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 13 February 2023
+- Crawled version: 16 February 2023
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
 
 #### Potential issue(s) {.anomalies}
 
-- No definition for CSS properties: 
-     * `text-transform` with type `property`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
@@ -11544,6 +11649,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11593,6 +11699,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11643,6 +11750,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11700,6 +11808,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11751,6 +11860,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11799,6 +11909,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11849,6 +11960,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11894,6 +12006,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11944,6 +12057,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -12000,6 +12114,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -12023,7 +12138,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
-- Crawled version: 07 February 2023
+- Crawled version: 16 February 2023
 - Editor's Draft: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Shortname: sparql12-update
 
@@ -12101,6 +12216,7 @@ Normative references to this spec from:
 - [CSS Color Module Level 6](https://drafts.csswg.org/css-color-6/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -14567,7 +14683,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/hr-time-3/](https://www.w3.org/TR/hr-time-3/)
 - Crawled URL: [https://w3c.github.io/hr-time/](https://w3c.github.io/hr-time/)
-- Crawled version: 09 February 2023
+- Crawled version: 16 February 2023
 - Editor's Draft: [https://w3c.github.io/hr-time/](https://w3c.github.io/hr-time/)
 - Latest published version: [https://www.w3.org/TR/hr-time-3/](https://www.w3.org/TR/hr-time-3/)
 - Shortname: hr-time-3
@@ -17573,7 +17689,7 @@ Normative references to this spec from:
 - [ContentEditable](https://w3c.github.io/contentEditable/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
@@ -17970,7 +18086,7 @@ Normative references to this spec from:
 
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
@@ -18002,7 +18118,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 15 February 2023
+- Crawled version: 16 February 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -18306,7 +18422,7 @@ Informative references to this spec from:
 
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
@@ -18417,7 +18533,7 @@ Normative references to this spec from:
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS 2](https://drafts.csswg.org/css2/)
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-1/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
