@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-16T12:51:34.947Z",
+  "date": "2023-02-16T18:37:22.402Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -4017,7 +4017,23 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -22218,14 +22234,14 @@
               "crawled": "https://wicg.github.io/web-otp/"
             },
             {
-              "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
-              "crawled": "https://w3c.github.io/webrtc-pc/"
-            },
-            {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
               "title": "WebRTC Encoded Transform",
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc/",
+              "title": "WebRTC: Real-Time Communication in Browsers",
+              "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
               "url": "https://websockets.spec.whatwg.org/",
@@ -24341,7 +24357,7 @@
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "title": "WebRTC: Real-Time Communication in Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
@@ -24608,7 +24624,7 @@
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "title": "WebRTC: Real-Time Communication in Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
@@ -26213,7 +26229,7 @@
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "title": "WebRTC: Real-Time Communication in Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
@@ -27898,14 +27914,14 @@
               "crawled": "https://wicg.github.io/web-otp/"
             },
             {
-              "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
-              "crawled": "https://w3c.github.io/webrtc-pc/"
-            },
-            {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
               "title": "WebRTC Encoded Transform",
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc/",
+              "title": "WebRTC: Real-Time Communication in Browsers",
+              "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
               "url": "https://websockets.spec.whatwg.org/",
@@ -28313,7 +28329,7 @@
           "normative": [
             {
               "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "title": "WebRTC: Real-Time Communication in Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
             }
           ],
@@ -29659,7 +29675,7 @@
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "title": "WebRTC: Real-Time Communication in Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
@@ -31549,14 +31565,14 @@
               "crawled": "https://webaudio.github.io/web-audio-api/"
             },
             {
-              "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
-              "crawled": "https://w3c.github.io/webrtc-pc/"
-            },
-            {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
               "title": "WebRTC Encoded Transform",
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc/",
+              "title": "WebRTC: Real-Time Communication in Browsers",
+              "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
               "url": "https://immersive-web.github.io/anchors/",
@@ -36795,7 +36811,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "10 February 2023",
+      "date": "16 February 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -43466,7 +43482,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "10 February 2023",
+      "date": "16 February 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -48850,14 +48866,14 @@
               "crawled": "https://wicg.github.io/webcrypto-secure-curves/"
             },
             {
-              "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
-              "crawled": "https://w3c.github.io/webrtc-pc/"
-            },
-            {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
               "title": "WebRTC Encoded Transform",
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc/",
+              "title": "WebRTC: Real-Time Communication in Browsers",
+              "crawled": "https://w3c.github.io/webrtc-pc/"
             }
           ],
           "informative": [
@@ -49956,14 +49972,14 @@
               "crawled": "https://wicg.github.io/webhid/"
             },
             {
-              "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
-              "crawled": "https://w3c.github.io/webrtc-pc/"
-            },
-            {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
               "title": "WebRTC Encoded Transform",
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc/",
+              "title": "WebRTC: Real-Time Communication in Browsers",
+              "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
               "url": "https://websockets.spec.whatwg.org/",
@@ -50681,7 +50697,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "15 February 2023",
+      "date": "16 February 2023",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -53448,9 +53464,109 @@
       }
     },
     {
-      "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+      "title": "WebRTC Encoded Transform",
+      "shortname": "webrtc-encoded-transform",
+      "date": "31 January 2023",
+      "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
+      "release": {
+        "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
+        "status": "Working Draft",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webrtc-encoded-transform/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webrtc-encoded-transform",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/webrtc-encoded-transform/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Real-Time Communications Working Group",
+          "url": "https://www.w3.org/groups/wg/webrtc"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "WebRTC Priority Control API",
+      "shortname": "webrtc-priority",
+      "date": "9 February 2021",
+      "url": "https://www.w3.org/TR/webrtc-priority/",
+      "release": {
+        "url": "https://www.w3.org/TR/webrtc-priority/",
+        "status": "Candidate Recommendation Snapshot",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webrtc-priority/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webrtc-priority",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/webrtc-priority/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Real-Time Communications Working Group",
+          "url": "https://www.w3.org/groups/wg/webrtc"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "14 February 2023",
+      "date": "16 February 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -53589,106 +53705,6 @@
       }
     },
     {
-      "title": "WebRTC Encoded Transform",
-      "shortname": "webrtc-encoded-transform",
-      "date": "31 January 2023",
-      "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
-      "release": {
-        "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
-        "status": "Working Draft",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/webrtc-encoded-transform/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/w3c/webrtc-encoded-transform",
-        "sourcePath": "index.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/webrtc-encoded-transform/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": true
-      }
-    },
-    {
-      "title": "WebRTC Priority Control API",
-      "shortname": "webrtc-priority",
-      "date": "9 February 2021",
-      "url": "https://www.w3.org/TR/webrtc-priority/",
-      "release": {
-        "url": "https://www.w3.org/TR/webrtc-priority/",
-        "status": "Candidate Recommendation Snapshot",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/webrtc-priority/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/w3c/webrtc-priority",
-        "sourcePath": "index.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/webrtc-priority/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/webrtc-stats/",
-              "title": "Identifiers for WebRTC's Statistics API",
-              "crawled": "https://w3c.github.io/webrtc-stats/"
-            }
-          ],
-          "informative": []
-        },
-        "ok": true
-      }
-    },
-    {
       "title": "WebSockets Standard",
       "shortname": "websockets",
       "date": "25 October 2022",
@@ -53742,7 +53758,7 @@
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "title": "WebRTC: Real-Time Communication in Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
             }
           ],
@@ -55037,7 +55053,7 @@
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
-              "title": "WebRTC 1.0: Real-Time Communication Between Browsers",
+              "title": "WebRTC: Real-Time Communication in Browsers",
               "crawled": "https://w3c.github.io/webrtc-pc/"
             },
             {
