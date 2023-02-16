@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-16T00:49:50.450Z",
+  "date": "2023-02-16T06:37:58.439Z",
   "stats": {
     "crawled": 555,
     "errors": 0,
@@ -2782,7 +2782,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "15 February 2023",
+      "date": "16 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -7407,7 +7407,7 @@
     {
       "title": "CSS Color Module Level 6",
       "shortname": "css-color-6",
-      "date": "12 January 2023",
+      "date": "15 February 2023",
       "url": "https://drafts.csswg.org/css-color-6/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-6/",
@@ -20531,7 +20531,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "15 February 2023",
+      "date": "16 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -50133,7 +50133,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "13 February 2023",
+      "date": "16 February 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -50184,7 +50184,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "13 February 2023",
+      "date": "16 February 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -50303,7 +50303,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "13 February 2023",
+      "date": "16 February 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
