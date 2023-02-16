@@ -1,13 +1,13 @@
-% Diff between report from "February 15, 2023" and reference report from "February 15, 2023"
+% Diff between report from "February 16, 2023" and reference report from "February 15, 2023"
 % Strudy
-% February 15, 2023
+% February 16, 2023
 
 ## CSS Basic User Interface Module Level 3 (CSS3 UI)
 
 - Initial URL: [https://www.w3.org/TR/css-ui-3/](https://www.w3.org/TR/css-ui-3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-ui-3/](https://drafts.csswg.org/css-ui-3/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-ui-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-ui-3/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-ui-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-ui-3/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -20,7 +20,7 @@
 - Initial URL: [https://www.w3.org/TR/css-ui-4/](https://www.w3.org/TR/css-ui-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-ui-4/](https://drafts.csswg.org/css-ui-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-ui-4/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -33,7 +33,7 @@
 - Initial URL: [https://www.w3.org/TR/css-sizing-3/](https://www.w3.org/TR/css-sizing-3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-sizing-3/](https://drafts.csswg.org/css-sizing-3/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-sizing-3/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -46,7 +46,7 @@
 - Initial URL: [https://www.w3.org/TR/css-sizing-4/](https://www.w3.org/TR/css-sizing-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-sizing-4/](https://drafts.csswg.org/css-sizing-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-sizing-4/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -59,7 +59,7 @@
 - Initial URL: [https://www.w3.org/TR/css-variables-1/](https://www.w3.org/TR/css-variables-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-variables-1/](https://drafts.csswg.org/css-variables-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -72,7 +72,7 @@
 - Initial URL: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/cssom-1/](https://drafts.csswg.org/cssom-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/cssom-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/cssom-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/cssom-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/cssom-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -85,7 +85,7 @@
 - Initial URL: [https://www.w3.org/TR/css-overflow-4/](https://www.w3.org/TR/css-overflow-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-4/](https://drafts.csswg.org/css-overflow-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -98,7 +98,7 @@
 - Initial URL: [https://www.w3.org/TR/css-pseudo-4/](https://www.w3.org/TR/css-pseudo-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-pseudo-4/](https://drafts.csswg.org/css-pseudo-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-pseudo-4/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -111,7 +111,7 @@
 - Initial URL: [https://www.w3.org/TR/css-regions-1/](https://www.w3.org/TR/css-regions-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-regions-1/](https://drafts.csswg.org/css-regions-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-regions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-regions-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-regions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-regions-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -124,7 +124,7 @@
 - Initial URL: [https://www.w3.org/TR/css-rhythm-1/](https://www.w3.org/TR/css-rhythm-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-rhythm-1/](https://drafts.csswg.org/css-rhythm-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-rhythm-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-rhythm-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-rhythm-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-rhythm-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -137,7 +137,7 @@
 - Initial URL: [https://www.w3.org/TR/css-round-display-1/](https://www.w3.org/TR/css-round-display-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-round-display-1/](https://drafts.csswg.org/css-round-display-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-round-display-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-round-display-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-round-display-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-round-display-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -150,7 +150,7 @@
 - Initial URL: [https://www.w3.org/TR/css-ruby-1/](https://www.w3.org/TR/css-ruby-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-ruby-1/](https://drafts.csswg.org/css-ruby-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-ruby-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-ruby-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-ruby-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-ruby-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -163,7 +163,7 @@
 - Initial URL: [https://www.w3.org/TR/css-scoping-1/](https://www.w3.org/TR/css-scoping-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-scoping-1/](https://drafts.csswg.org/css-scoping-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-scoping-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-scoping-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-scoping-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-scoping-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -176,7 +176,7 @@
 - Initial URL: [https://www.w3.org/TR/css-scroll-anchoring-1/](https://www.w3.org/TR/css-scroll-anchoring-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-anchoring-1/](https://drafts.csswg.org/css-scroll-anchoring-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-scroll-anchoring-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-scroll-anchoring-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-scroll-anchoring-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-scroll-anchoring-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -189,7 +189,7 @@
 - Initial URL: [https://www.w3.org/TR/css-scroll-snap-1/](https://www.w3.org/TR/css-scroll-snap-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-1/](https://drafts.csswg.org/css-scroll-snap-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-scroll-snap-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-scroll-snap-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-scroll-snap-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-scroll-snap-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -202,7 +202,7 @@
 - Initial URL: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-scrollbars-1/](https://drafts.csswg.org/css-scrollbars-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-scrollbars-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-scrollbars-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-scrollbars-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-scrollbars-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -215,7 +215,7 @@
 - Initial URL: [https://www.w3.org/TR/css-shadow-parts-1/](https://www.w3.org/TR/css-shadow-parts-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-shadow-parts-1/](https://drafts.csswg.org/css-shadow-parts-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-shadow-parts-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-shadow-parts-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-shadow-parts-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-shadow-parts-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -228,7 +228,7 @@
 - Initial URL: [https://www.w3.org/TR/css-shapes-1/](https://www.w3.org/TR/css-shapes-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-shapes-1/](https://drafts.csswg.org/css-shapes-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-shapes-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-shapes-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-shapes-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-shapes-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -241,7 +241,7 @@
 - Initial URL: [https://www.w3.org/TR/css-speech-1/](https://www.w3.org/TR/css-speech-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-speech-1/](https://drafts.csswg.org/css-speech-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-speech-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -254,7 +254,7 @@
 - Initial URL: [https://www.w3.org/TR/css-syntax-3/](https://www.w3.org/TR/css-syntax-3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-syntax-3/](https://drafts.csswg.org/css-syntax-3/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-syntax-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-syntax-3/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-syntax-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-syntax-3/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -267,7 +267,7 @@
 - Initial URL: [https://www.w3.org/TR/css-tables-3/](https://www.w3.org/TR/css-tables-3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-tables-3/](https://drafts.csswg.org/css-tables-3/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-tables-3/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -280,7 +280,7 @@
 - Initial URL: [https://www.w3.org/TR/css-text-decor-3/](https://www.w3.org/TR/css-text-decor-3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-text-decor-3/](https://drafts.csswg.org/css-text-decor-3/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -293,7 +293,7 @@
 - Initial URL: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -306,7 +306,7 @@
 - Initial URL: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-3/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -319,7 +319,7 @@
 - Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -332,7 +332,7 @@
 - Initial URL: [https://www.w3.org/TR/css-transforms-1/](https://www.w3.org/TR/css-transforms-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-transforms-1/](https://drafts.csswg.org/css-transforms-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -345,7 +345,7 @@
 - Initial URL: [https://www.w3.org/TR/css-transforms-2/](https://www.w3.org/TR/css-transforms-2/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-transforms-2/](https://drafts.csswg.org/css-transforms-2/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -358,7 +358,7 @@
 - Initial URL: [https://www.w3.org/TR/css-transitions-1/](https://www.w3.org/TR/css-transitions-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-transitions-1/](https://drafts.csswg.org/css-transitions-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -371,7 +371,7 @@
 - Initial URL: [https://www.w3.org/TR/css-values-3/](https://www.w3.org/TR/css-values-3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-values-3/](https://drafts.csswg.org/css-values-3/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -384,7 +384,7 @@
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -397,7 +397,7 @@
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -410,7 +410,7 @@
 - Initial URL: [https://www.w3.org/TR/css-will-change-1/](https://www.w3.org/TR/css-will-change-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/css-will-change-1/](https://drafts.csswg.org/css-will-change-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/css-will-change-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-will-change-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-will-change-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-will-change-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -423,7 +423,7 @@
 - Initial URL: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
@@ -436,7 +436,7 @@
 - Initial URL: [https://www.w3.org/TR/mediaqueries-4/](https://www.w3.org/TR/mediaqueries-4/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://drafts.csswg.org/mediaqueries-4/](https://drafts.csswg.org/mediaqueries-4/)
-- Spec could not be rendered: *INS* Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 504
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 504
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)
