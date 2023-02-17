@@ -17492,7 +17492,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 16 February 2023
+- Crawled version: 17 February 2023
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -17517,7 +17517,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 16 February 2023
+- Crawled version: 17 February 2023
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -17548,7 +17548,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 16 February 2023
+- Crawled version: 17 February 2023
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -18690,6 +18690,7 @@ Normative references to this spec from:
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
+- [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
