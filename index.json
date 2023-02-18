@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-17T18:46:12.291Z",
+  "date": "2023-02-18T00:49:25.735Z",
   "stats": {
     "crawled": 556,
-    "errors": 4,
+    "errors": 0,
     "studied": 556
   },
   "results": [
@@ -1374,7 +1374,7 @@
     {
       "title": "Capability Delegation",
       "shortname": "capability-delegation",
-      "date": "15 June 2022",
+      "date": "17 February 2023",
       "url": "https://wicg.github.io/capability-delegation/spec.html",
       "nightly": {
         "url": "https://wicg.github.io/capability-delegation/spec.html",
@@ -1404,24 +1404,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/webappsec-permissions-policy/",
-          "https://www.w3.org/TR/permissions-policy/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/hr-time/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://www.w3.org/TR/hr-time-2/"
-            }
-          }
-        ],
+        "missingLinkRef": [],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -2737,7 +2726,7 @@
     {
       "title": "Cookie Store API",
       "shortname": "cookie-store",
-      "date": "15 September 2022",
+      "date": "17 February 2023",
       "url": "https://wicg.github.io/cookie-store/",
       "nightly": {
         "url": "https://wicg.github.io/cookie-store/",
@@ -2768,20 +2757,12 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/hr-time-3/",
-            "ref": {
-              "name": "HR-TIME-3",
-              "url": "https://w3c.github.io/hr-time/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -2829,7 +2810,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "16 February 2023",
+      "date": "17 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4129,7 +4110,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-animations-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-animations-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 297)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4306,7 +4286,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-backgrounds-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-backgrounds-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 298)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4438,7 +4417,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 4",
       "shortname": "css-backgrounds-4",
-      "date": "2 December 2022",
+      "date": "17 February 2023",
       "url": "https://drafts.csswg.org/css-backgrounds-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-backgrounds-4/",
@@ -4931,7 +4910,7 @@
       "url": "https://www.w3.org/TR/css-box-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-3/",
-        "status": "Candidate Recommendation Draft",
+        "status": "Proposed Recommendation",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -4954,7 +4933,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 299)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6020,7 +5998,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 4",
       "shortname": "css-cascade-4",
-      "date": "29 December 2022",
+      "date": "17 February 2023",
       "url": "https://www.w3.org/TR/css-cascade-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -6071,13 +6049,6 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-cascade-5/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/css-conditional-3/",
             "ref": {
@@ -6405,11 +6376,6 @@
               "url": "https://www.w3.org/TR/css-sizing-4/",
               "title": "CSS Box Sizing Module Level 4",
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-4/",
-              "title": "CSS Cascading and Inheritance Level 4",
-              "crawled": "https://drafts.csswg.org/css-cascade-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -10572,7 +10538,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-break-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-break-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 301)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20924,7 +20889,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "16 February 2023",
+      "date": "17 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -22590,7 +22555,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "16 February 2023",
+      "date": "17 February 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -34700,6 +34665,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
               "url": "https://wicg.github.io/digital-goods/",
               "title": "Digital Goods API",
               "crawled": "https://wicg.github.io/digital-goods/"
@@ -34726,6 +34696,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
             {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
@@ -35109,7 +35084,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "23 January 2023",
+      "date": "17 February 2023",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -35172,6 +35147,11 @@
               "url": "https://www.w3.org/TR/battery-status/",
               "title": "Battery Status API",
               "crawled": "https://w3c.github.io/battery/"
+            },
+            {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
             },
             {
               "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -38307,7 +38287,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -38399,7 +38379,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -38667,7 +38647,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -38774,7 +38754,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -38854,7 +38834,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -39657,7 +39637,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -39697,7 +39677,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -39880,7 +39860,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -40327,7 +40307,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -40766,7 +40746,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "17 February 2023",
+      "date": "18 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -42067,6 +42047,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
             {
               "url": "https://www.w3.org/TR/capture-handle-identity/",
               "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
@@ -45742,7 +45727,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "15 February 2023",
+      "date": "18 February 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -48156,17 +48141,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/2dcontext/",
+            "ref": {
+              "name": "HTML",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/dom/",
             "ref": {
               "name": "DOM",
               "url": "https://dom.spec.whatwg.org/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html5/scripting-1.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
             }
           }
         ],
@@ -48812,6 +48797,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -48956,6 +48946,11 @@
               "url": "https://www.w3.org/TR/beacon/",
               "title": "Beacon",
               "crawled": "https://w3c.github.io/beacon/"
+            },
+            {
+              "url": "https://wicg.github.io/capability-delegation/spec.html",
+              "title": "Capability Delegation",
+              "crawled": "https://wicg.github.io/capability-delegation/spec.html"
             },
             {
               "url": "https://www.w3.org/TR/capture-handle-identity/",
@@ -50663,7 +50658,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "16 February 2023",
+      "date": "17 February 2023",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
