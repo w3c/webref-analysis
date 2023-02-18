@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-18T06:35:46.564Z",
+  "date": "2023-02-18T12:43:10.659Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -4644,13 +4644,6 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-cascade-5/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
               "name": "CSS-VALUES-3",
@@ -6093,6 +6086,16 @@
               "crawled": "https://w3c.github.io/contentEditable/"
             },
             {
+              "url": "https://www.w3.org/TR/css-ui-4/",
+              "title": "CSS Basic User Interface Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
@@ -6111,6 +6114,11 @@
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-pseudo-4/",
+              "title": "CSS Pseudo-Elements Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-scoping-1/",
@@ -6150,11 +6158,6 @@
               "crawled": "https://drafts.csswg.org/css-ui-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables-1/"
@@ -6168,11 +6171,6 @@
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-pseudo-4/",
-              "title": "CSS Pseudo-Elements Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -6241,52 +6239,10 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/2021/WD-css-cascade-5-20210119/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-css-cascade-5-20210319/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-css-cascade-5-20210608/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-css-cascade-5-20210829/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-css-cascade-5-20211015/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-cascade-4/",
             "ref": {
               "name": "CSS-CASCADE-4",
               "url": "https://drafts.csswg.org/css-cascade-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-cascade-5/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
             }
           },
           {
@@ -6376,11 +6332,6 @@
               "url": "https://www.w3.org/TR/css-sizing-4/",
               "title": "CSS Box Sizing Module Level 4",
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-cascade-5/",
-              "title": "CSS Cascading and Inheritance Level 5",
-              "crawled": "https://drafts.csswg.org/css-cascade-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -8295,13 +8246,6 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-cascade-5/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/css-contain-2/",
             "ref": {
@@ -14766,15 +14710,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/css-scoping-1/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-cascade-5/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -14858,13 +14794,6 @@
           "https://www.w3.org/TR/css-text-decor/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-cascade-5/",
-            "ref": {
-              "name": "CSS-CASCADE-5",
-              "url": "https://drafts.csswg.org/css-cascade-5/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/css-lists-3/",
             "ref": {
@@ -22444,7 +22373,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "15 February 2023",
+      "date": "18 February 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
