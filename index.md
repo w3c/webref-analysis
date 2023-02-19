@@ -610,7 +610,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
 - Crawled URL: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
-- Crawled version: 11 January 2023
+- Crawled version: 19 February 2023
 - Editor's Draft: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
 - Shortname: tc39-set-methods
 
@@ -9780,7 +9780,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 18 February 2023
+- Crawled version: 19 February 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -9809,7 +9809,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 18 February 2023
+- Crawled version: 19 February 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
