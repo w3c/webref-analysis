@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-20T12:48:54.686Z",
+  "date": "2023-02-20T18:36:20.472Z",
   "stats": {
     "crawled": 556,
-    "errors": 5,
+    "errors": 0,
     "studied": 556
   },
   "results": [
@@ -2432,7 +2432,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "13 January 2023",
+      "date": "20 February 2023",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -2548,11 +2548,6 @@
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
               "title": "Scripting Policy",
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/service-workers/",
-              "title": "Service Workers Nightly",
-              "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
               "url": "https://www.w3.org/TR/trusted-types/",
@@ -2810,7 +2805,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "19 February 2023",
+      "date": "20 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -7855,7 +7850,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-conditional-values-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-conditional-values-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 14)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8816,7 +8810,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-display-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-display-4/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 15)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12432,7 +12425,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-link-params-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-link-params-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 23)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19409,7 +19401,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-values-5/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-5/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 30)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19547,7 +19538,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-viewport/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-viewport/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:354:22)\n    at async Promise.all (index 32)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:362:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20823,7 +20813,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "19 February 2023",
+      "date": "20 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -34282,7 +34272,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/service-workers/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -42012,6 +42008,11 @@
               "crawled": "https://w3c.github.io/mediacapture-region/"
             },
             {
+              "url": "https://www.w3.org/TR/service-workers/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
               "url": "https://w3c.github.io/mediacapture-handle/actions/",
               "title": "The Capture-Handle Actions Mechanism",
               "crawled": "https://w3c.github.io/mediacapture-handle/actions/"
@@ -42234,7 +42235,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/service-workers/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -43031,7 +43038,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "28 November 2022",
+      "date": "20 February 2023",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -43071,29 +43078,7 @@
           "https://w3c.github.io/payment-handler/",
           "https://w3c.github.io/push-api/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/hr-time-2/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://w3c.github.io/hr-time/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/hr-time-3/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://w3c.github.io/hr-time/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/navigation-timing-2/",
-            "ref": {
-              "name": "NAVIGATION-TIMING-2",
-              "url": "https://w3c.github.io/navigation-timing/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
