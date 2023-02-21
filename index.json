@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-21T06:35:15.250Z",
+  "date": "2023-02-21T12:51:09.125Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -1458,6 +1458,226 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
+      "shortname": "CSS2",
+      "date": "to correct markup.",
+      "url": "https://www.w3.org/TR/CSS21/",
+      "release": {
+        "url": "https://www.w3.org/TR/CSS21/",
+        "status": "Recommendation",
+        "pages": [
+          "https://www.w3.org/TR/CSS21/about.html",
+          "https://www.w3.org/TR/CSS21/intro.html",
+          "https://www.w3.org/TR/CSS21/conform.html",
+          "https://www.w3.org/TR/CSS21/syndata.html",
+          "https://www.w3.org/TR/CSS21/selector.html",
+          "https://www.w3.org/TR/CSS21/cascade.html",
+          "https://www.w3.org/TR/CSS21/media.html",
+          "https://www.w3.org/TR/CSS21/box.html",
+          "https://www.w3.org/TR/CSS21/visuren.html",
+          "https://www.w3.org/TR/CSS21/visudet.html",
+          "https://www.w3.org/TR/CSS21/visufx.html",
+          "https://www.w3.org/TR/CSS21/generate.html",
+          "https://www.w3.org/TR/CSS21/page.html",
+          "https://www.w3.org/TR/CSS21/colors.html",
+          "https://www.w3.org/TR/CSS21/fonts.html",
+          "https://www.w3.org/TR/CSS21/text.html",
+          "https://www.w3.org/TR/CSS21/tables.html",
+          "https://www.w3.org/TR/CSS21/ui.html",
+          "https://www.w3.org/TR/CSS21/aural.html",
+          "https://www.w3.org/TR/CSS21/refs.html",
+          "https://www.w3.org/TR/CSS21/changes.html",
+          "https://www.w3.org/TR/CSS21/sample.html",
+          "https://www.w3.org/TR/CSS21/zindex.html",
+          "https://www.w3.org/TR/CSS21/propidx.html",
+          "https://www.w3.org/TR/CSS21/grammar.html",
+          "https://www.w3.org/TR/CSS21/indexlist.html"
+        ],
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://www.w3.org/TR/CSS21/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "pages": [
+          "https://www.w3.org/TR/CSS21/about.html",
+          "https://www.w3.org/TR/CSS21/intro.html",
+          "https://www.w3.org/TR/CSS21/conform.html",
+          "https://www.w3.org/TR/CSS21/syndata.html",
+          "https://www.w3.org/TR/CSS21/selector.html",
+          "https://www.w3.org/TR/CSS21/cascade.html",
+          "https://www.w3.org/TR/CSS21/media.html",
+          "https://www.w3.org/TR/CSS21/box.html",
+          "https://www.w3.org/TR/CSS21/visuren.html",
+          "https://www.w3.org/TR/CSS21/visudet.html",
+          "https://www.w3.org/TR/CSS21/visufx.html",
+          "https://www.w3.org/TR/CSS21/generate.html",
+          "https://www.w3.org/TR/CSS21/page.html",
+          "https://www.w3.org/TR/CSS21/colors.html",
+          "https://www.w3.org/TR/CSS21/fonts.html",
+          "https://www.w3.org/TR/CSS21/text.html",
+          "https://www.w3.org/TR/CSS21/tables.html",
+          "https://www.w3.org/TR/CSS21/ui.html",
+          "https://www.w3.org/TR/CSS21/aural.html",
+          "https://www.w3.org/TR/CSS21/refs.html",
+          "https://www.w3.org/TR/CSS21/changes.html",
+          "https://www.w3.org/TR/CSS21/sample.html",
+          "https://www.w3.org/TR/CSS21/zindex.html",
+          "https://www.w3.org/TR/CSS21/propidx.html",
+          "https://www.w3.org/TR/CSS21/grammar.html",
+          "https://www.w3.org/TR/CSS21/indexlist.html"
+        ],
+        "filename": "Overview.html"
+      },
+      "crawled": "https://www.w3.org/TR/CSS21/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "http://www.w3.org/TR/2009/CR-CSS2-20090423",
+            "ref": {
+              "name": "CSS2",
+              "url": "http://www.w3.org/TR/2008/REC-CSS2-20080411/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/2009/CR-CSS2-20090908",
+            "ref": {
+              "name": "CSS2",
+              "url": "http://www.w3.org/TR/2008/REC-CSS2-20080411/"
+            }
+          },
+          {
+            "link": "http://www.w3.org/TR/css3-color/",
+            "ref": {
+              "name": "CSS3COLOR",
+              "url": "http://www.w3.org/TR/2010/PR-css3-color-20101028/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/accname-1.2/",
+              "title": "Accessible Name and Description Computation 1.2",
+              "crawled": "https://w3c.github.io/accname/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compositing-1/",
+              "title": "Compositing and Blending Level 1",
+              "crawled": "https://drafts.fxtf.org/compositing-1/"
+            },
+            {
+              "url": "https://drafts.fxtf.org/compositing-2/",
+              "title": "Compositing and Blending Level 2",
+              "crawled": "https://drafts.fxtf.org/compositing-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-ui-3/",
+              "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
+              "crawled": "https://drafts.csswg.org/css-ui-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-1/",
+              "title": "CSS Containment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-contain-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scrollbars-1/",
+              "title": "CSS Scrollbars Styling Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2022/",
+              "title": "CSS Snapshot 2022",
+              "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-3/",
+              "title": "CSS Text Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://wicg.github.io/layout-instability/",
+              "title": "Layout Instability API",
+              "crawled": "https://wicg.github.io/layout-instability/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pointerevents3/",
+              "title": "Pointer Events",
+              "crawled": "https://w3c.github.io/pointerevents/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webdriver2/",
+              "title": "WebDriver",
+              "crawled": "https://w3c.github.io/webdriver/"
+            },
+            {
+              "url": "https://registry.khronos.org/webgl/specs/latest/1.0/",
+              "title": "WebGL Specification",
+              "crawled": "https://registry.khronos.org/webgl/specs/latest/1.0/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            }
+          ]
         },
         "ok": false
       }
@@ -3080,39 +3300,39 @@
     },
     {
       "title": "CSS 2",
-      "shortname": "CSS21",
+      "shortname": "CSS22",
       "date": "15 November 2022",
-      "url": "https://www.w3.org/TR/CSS21/",
+      "url": "https://www.w3.org/TR/CSS22/",
       "release": {
-        "url": "https://www.w3.org/TR/CSS21/",
-        "status": "Recommendation",
+        "url": "https://www.w3.org/TR/CSS22/",
+        "status": "First Public Working Draft",
         "pages": [
-          "https://www.w3.org/TR/CSS21/about.html",
-          "https://www.w3.org/TR/CSS21/intro.html",
-          "https://www.w3.org/TR/CSS21/conform.html",
-          "https://www.w3.org/TR/CSS21/syndata.html",
-          "https://www.w3.org/TR/CSS21/selector.html",
-          "https://www.w3.org/TR/CSS21/cascade.html",
-          "https://www.w3.org/TR/CSS21/media.html",
-          "https://www.w3.org/TR/CSS21/box.html",
-          "https://www.w3.org/TR/CSS21/visuren.html",
-          "https://www.w3.org/TR/CSS21/visudet.html",
-          "https://www.w3.org/TR/CSS21/visufx.html",
-          "https://www.w3.org/TR/CSS21/generate.html",
-          "https://www.w3.org/TR/CSS21/page.html",
-          "https://www.w3.org/TR/CSS21/colors.html",
-          "https://www.w3.org/TR/CSS21/fonts.html",
-          "https://www.w3.org/TR/CSS21/text.html",
-          "https://www.w3.org/TR/CSS21/tables.html",
-          "https://www.w3.org/TR/CSS21/ui.html",
-          "https://www.w3.org/TR/CSS21/aural.html",
-          "https://www.w3.org/TR/CSS21/refs.html",
-          "https://www.w3.org/TR/CSS21/changes.html",
-          "https://www.w3.org/TR/CSS21/sample.html",
-          "https://www.w3.org/TR/CSS21/zindex.html",
-          "https://www.w3.org/TR/CSS21/propidx.html",
-          "https://www.w3.org/TR/CSS21/grammar.html",
-          "https://www.w3.org/TR/CSS21/indexlist.html"
+          "https://www.w3.org/TR/CSS22/about.html",
+          "https://www.w3.org/TR/CSS22/intro.html",
+          "https://www.w3.org/TR/CSS22/conform.html",
+          "https://www.w3.org/TR/CSS22/syndata.html",
+          "https://www.w3.org/TR/CSS22/selector.html",
+          "https://www.w3.org/TR/CSS22/cascade.html",
+          "https://www.w3.org/TR/CSS22/media.html",
+          "https://www.w3.org/TR/CSS22/box.html",
+          "https://www.w3.org/TR/CSS22/visuren.html",
+          "https://www.w3.org/TR/CSS22/visudet.html",
+          "https://www.w3.org/TR/CSS22/visufx.html",
+          "https://www.w3.org/TR/CSS22/generate.html",
+          "https://www.w3.org/TR/CSS22/page.html",
+          "https://www.w3.org/TR/CSS22/colors.html",
+          "https://www.w3.org/TR/CSS22/fonts.html",
+          "https://www.w3.org/TR/CSS22/text.html",
+          "https://www.w3.org/TR/CSS22/tables.html",
+          "https://www.w3.org/TR/CSS22/ui.html",
+          "https://www.w3.org/TR/CSS22/aural.html",
+          "https://www.w3.org/TR/CSS22/refs.html",
+          "https://www.w3.org/TR/CSS22/changes.html",
+          "https://www.w3.org/TR/CSS22/sample.html",
+          "https://www.w3.org/TR/CSS22/zindex.html",
+          "https://www.w3.org/TR/CSS22/propidx.html",
+          "https://www.w3.org/TR/CSS22/grammar.html",
+          "https://www.w3.org/TR/CSS22/indexlist.html"
         ],
         "filename": "Overview.html"
       },
@@ -3179,29 +3399,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/accname-1.2/",
-              "title": "Accessible Name and Description Computation 1.2",
-              "crawled": "https://w3c.github.io/accname/"
-            },
-            {
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/compositing-1/",
-              "title": "Compositing and Blending Level 1",
-              "crawled": "https://drafts.fxtf.org/compositing-1/"
-            },
-            {
-              "url": "https://drafts.fxtf.org/compositing-2/",
-              "title": "Compositing and Blending Level 2",
-              "crawled": "https://drafts.fxtf.org/compositing-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -3224,11 +3424,6 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-ui-3/",
-              "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
-              "crawled": "https://drafts.csswg.org/css-ui-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
@@ -3237,11 +3432,6 @@
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-box-4/",
@@ -3297,11 +3487,6 @@
               "url": "https://drafts.csswg.org/css-conditional-values-1/",
               "title": "CSS Conditional Values Module Level 1",
               "crawled": "https://drafts.csswg.org/css-conditional-values-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-1/",
-              "title": "CSS Containment Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-2/",
@@ -3534,11 +3719,6 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-scrollbars-1/",
-              "title": "CSS Scrollbars Styling Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-shapes-1/",
               "title": "CSS Shapes Module Level 1",
               "crawled": "https://drafts.csswg.org/css-shapes-1/"
@@ -3547,16 +3727,6 @@
               "url": "https://drafts.csswg.org/css-shapes-2/",
               "title": "CSS Shapes Module Level 2",
               "crawled": "https://drafts.csswg.org/css-shapes-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-2022/",
-              "title": "CSS Snapshot 2022",
-              "crawled": "https://drafts.csswg.org/css-2022/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-2023/",
-              "title": "CSS Snapshot 2023",
-              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-nav-1/",
@@ -3582,11 +3752,6 @@
               "url": "https://www.w3.org/TR/css-text-decor-4/",
               "title": "CSS Text Decoration Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-decor-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-text-3/",
-              "title": "CSS Text Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-text-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-text-4/",
@@ -3634,11 +3799,6 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
               "crawled": "https://drafts.csswg.org/css-viewport/"
@@ -3664,11 +3824,6 @@
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
-              "url": "https://www.w3.org/TR/epub-33/",
-              "title": "EPUB 3.3",
-              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
-            },
-            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -3682,11 +3837,6 @@
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
-            },
-            {
-              "url": "https://wicg.github.io/layout-instability/",
-              "title": "Layout Instability API",
-              "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -3719,11 +3869,6 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
-              "url": "https://www.w3.org/TR/pointerevents3/",
-              "title": "Pointer Events",
-              "crawled": "https://w3c.github.io/pointerevents/"
-            },
-            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
@@ -3747,16 +3892,6 @@
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webdriver2/",
-              "title": "WebDriver",
-              "crawled": "https://w3c.github.io/webdriver/"
-            },
-            {
-              "url": "https://registry.khronos.org/webgl/specs/latest/1.0/",
-              "title": "WebGL Specification",
-              "crawled": "https://registry.khronos.org/webgl/specs/latest/1.0/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -3811,132 +3946,11 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://www.w3.org/TR/epub-rs-33/",
-              "title": "EPUB Reading Systems 3.3",
-              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
-            },
-            {
               "url": "https://www.w3.org/TR/uievents/",
               "title": "UI Events",
               "crawled": "https://w3c.github.io/uievents/"
             }
           ]
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "CSS 2",
-      "shortname": "CSS22",
-      "date": "15 November 2022",
-      "url": "https://www.w3.org/TR/CSS22/",
-      "release": {
-        "url": "https://www.w3.org/TR/CSS22/",
-        "status": "First Public Working Draft",
-        "pages": [
-          "https://www.w3.org/TR/CSS22/about.html",
-          "https://www.w3.org/TR/CSS22/intro.html",
-          "https://www.w3.org/TR/CSS22/conform.html",
-          "https://www.w3.org/TR/CSS22/syndata.html",
-          "https://www.w3.org/TR/CSS22/selector.html",
-          "https://www.w3.org/TR/CSS22/cascade.html",
-          "https://www.w3.org/TR/CSS22/media.html",
-          "https://www.w3.org/TR/CSS22/box.html",
-          "https://www.w3.org/TR/CSS22/visuren.html",
-          "https://www.w3.org/TR/CSS22/visudet.html",
-          "https://www.w3.org/TR/CSS22/visufx.html",
-          "https://www.w3.org/TR/CSS22/generate.html",
-          "https://www.w3.org/TR/CSS22/page.html",
-          "https://www.w3.org/TR/CSS22/colors.html",
-          "https://www.w3.org/TR/CSS22/fonts.html",
-          "https://www.w3.org/TR/CSS22/text.html",
-          "https://www.w3.org/TR/CSS22/tables.html",
-          "https://www.w3.org/TR/CSS22/ui.html",
-          "https://www.w3.org/TR/CSS22/aural.html",
-          "https://www.w3.org/TR/CSS22/refs.html",
-          "https://www.w3.org/TR/CSS22/changes.html",
-          "https://www.w3.org/TR/CSS22/sample.html",
-          "https://www.w3.org/TR/CSS22/zindex.html",
-          "https://www.w3.org/TR/CSS22/propidx.html",
-          "https://www.w3.org/TR/CSS22/grammar.html",
-          "https://www.w3.org/TR/CSS22/indexlist.html"
-        ],
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://drafts.csswg.org/css2/",
-        "status": "Editor's Draft",
-        "sourcePath": "css2/Overview.bs",
-        "alternateUrls": [
-          "https://w3c.github.io/csswg-drafts/css2/"
-        ],
-        "repository": "https://github.com/w3c/csswg-drafts",
-        "pages": [],
-        "filename": "Overview.html"
-      },
-      "crawled": "https://drafts.csswg.org/css2/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Cascading Style Sheets (CSS) Working Group",
-          "url": "https://www.w3.org/Style/CSS/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-values/",
-          "https://www.w3.org/TR/css3-color/",
-          "https://www.w3.org/TR/cssom/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html",
-            "ref": {
-              "name": "SVG11",
-              "url": "https://www.w3.org/TR/SVG11/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html",
-            "ref": {
-              "name": "CSS20",
-              "url": "https://www.w3.org/TR/1998/REC-CSS2-19980512/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html",
-            "ref": {
-              "name": "CSS20",
-              "url": "https://www.w3.org/TR/1998/REC-CSS2-19980512/"
-            }
-          }
-        ],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-images-4/",
-              "title": "CSS Images Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-images-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mathml-core/",
-              "title": "MathML Core",
-              "crawled": "https://w3c.github.io/mathml-core/"
-            }
-          ],
-          "informative": []
         },
         "ok": false
       }
@@ -7121,11 +7135,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
-            },
-            {
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
@@ -7412,11 +7421,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
-            },
             {
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
@@ -8860,11 +8864,6 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -12515,11 +12514,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
-            },
             {
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
@@ -16286,11 +16280,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
-            },
-            {
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
@@ -16354,11 +16343,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
-            },
             {
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
@@ -22224,14 +22208,14 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://www.w3.org/TR/CSS21/",
+              "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
+              "crawled": "https://www.w3.org/TR/CSS21/"
+            },
+            {
               "url": "https://www.w3.org/TR/core-aam-1.2/",
               "title": "Core Accessibility API Mappings 1.2",
               "crawled": "https://w3c.github.io/core-aam/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -26380,7 +26364,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 February 2023",
+      "date": "21 February 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -26640,11 +26624,6 @@
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -28795,11 +28774,6 @@
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -31940,11 +31914,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
-            },
-            {
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
@@ -32064,11 +32033,6 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -36392,7 +36356,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/rdf-dir-literal/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -36445,7 +36411,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -41091,14 +41057,14 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/CSS21/",
+              "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
+              "crawled": "https://www.w3.org/TR/CSS21/"
+            },
+            {
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -41777,14 +41743,14 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/CSS21/",
+              "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
+              "crawled": "https://www.w3.org/TR/CSS21/"
+            },
+            {
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -42823,11 +42789,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/CSS21/",
-              "title": "CSS 2",
-              "crawled": "https://drafts.csswg.org/css2/"
-            },
             {
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
@@ -50453,7 +50414,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "17 February 2023",
+      "date": "21 February 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -50504,7 +50465,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "17 February 2023",
+      "date": "21 February 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -50623,7 +50584,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "17 February 2023",
+      "date": "21 February 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
