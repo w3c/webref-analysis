@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-22T12:44:49.137Z",
+  "date": "2023-02-22T18:38:06.454Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -885,7 +885,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "16 February 2023",
+      "date": "22 February 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -4092,7 +4092,7 @@
     {
       "title": "CSS Animations Level 1",
       "shortname": "css-animations-1",
-      "date": "16 October 2022",
+      "date": "22 February 2023",
       "url": "https://www.w3.org/TR/css-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-1/",
@@ -4189,7 +4189,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "8 February 2023",
+      "date": "22 February 2023",
       "url": "https://drafts.csswg.org/css-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-animations-2/",
@@ -21219,7 +21219,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "20 February 2023",
+      "date": "22 February 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -23368,7 +23368,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "19 February 2023",
+      "date": "22 February 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23439,7 +23439,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "19 February 2023",
+      "date": "22 February 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -23828,7 +23828,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "20 February 2023",
+      "date": "22 February 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -53076,7 +53076,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "21 February 2023",
+      "date": "22 February 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -53143,7 +53143,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "21 February 2023",
+      "date": "22 February 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
