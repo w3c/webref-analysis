@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-24T12:45:44.984Z",
+  "date": "2023-02-24T18:38:39.113Z",
   "stats": {
     "crawled": 556,
-    "errors": 0,
+    "errors": 9,
     "studied": 556
   },
   "results": [
@@ -2730,6 +2730,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -2748,11 +2753,6 @@
               "url": "https://wicg.github.io/nav-speculation/prefetch.html",
               "title": "Prefetch",
               "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/resource-hints/",
@@ -3020,7 +3020,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "21 February 2023",
+      "date": "24 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4509,6 +4509,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-ui-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-ui-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 374)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16720,6 +16721,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-decor-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 368)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16878,6 +16880,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-decor-4/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 369)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17353,6 +17356,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-text-4/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 367)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17681,6 +17685,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transforms-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 370)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17799,6 +17804,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transforms-2/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 371)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17926,6 +17932,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-transitions-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 372)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18766,6 +18773,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 377)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19777,6 +19785,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-writing-modes-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-writing-modes-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 381)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20903,7 +20912,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "21 February 2023",
+      "date": "24 February 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -21832,6 +21841,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/longtasks-1/",
               "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
@@ -21980,11 +21994,6 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -23802,7 +23811,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "15 February 2023",
+      "date": "24 February 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -24154,6 +24163,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://wicg.github.io/media-feeds/",
               "title": "Media Feeds",
               "crawled": "https://wicg.github.io/media-feeds/"
@@ -24237,11 +24251,6 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/referrer-policy/",
@@ -27267,6 +27276,11 @@
               "crawled": "https://wicg.github.io/local-font-access/"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/longtasks-1/",
               "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
@@ -27495,11 +27509,6 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -28275,7 +28284,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "25 January 2023",
+      "date": "24 February 2023",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -29242,6 +29251,11 @@
               "crawled": "https://wicg.github.io/local-font-access/"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/magnetometer/",
               "title": "Magnetometer",
               "crawled": "https://w3c.github.io/magnetometer/"
@@ -29390,11 +29404,6 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/proximity/",
@@ -29921,7 +29930,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "04 November 2022",
+      "date": "24 February 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -30969,6 +30978,48 @@
         "filename": "index.html"
       },
       "crawled": "https://wicg.github.io/local-font-access/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "Local Network Access",
+      "shortname": "local-network-access",
+      "date": "21 February 2023",
+      "url": "https://wicg.github.io/local-network-access/",
+      "nightly": {
+        "url": "https://wicg.github.io/local-network-access/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/local-network-access",
+        "sourcePath": "index.src.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/local-network-access/",
       "organization": "W3C",
       "groups": [
         {
@@ -33126,6 +33177,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/miniapp-packaging/",
               "title": "MiniApp Packaging",
               "crawled": "https://w3c.github.io/miniapp-packaging/"
@@ -33422,7 +33478,7 @@
             },
             {
               "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
+              "title": "Local Network Access",
               "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
@@ -36052,48 +36108,6 @@
       }
     },
     {
-      "title": "Private Network Access",
-      "shortname": "local-network-access",
-      "date": "1 February 2023",
-      "url": "https://wicg.github.io/local-network-access/",
-      "nightly": {
-        "url": "https://wicg.github.io/local-network-access/",
-        "status": "Draft Community Group Report",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/local-network-access",
-        "sourcePath": "index.src.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://wicg.github.io/local-network-access/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": true
-      }
-    },
-    {
       "title": "Proposal-array-find-from-last",
       "shortname": "tc39-array-find-from-last",
       "date": "6 June 2022",
@@ -36533,7 +36547,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "20 February 2023",
+      "date": "24 February 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -42575,6 +42589,11 @@
               "crawled": "https://w3c.github.io/sensors/"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
               "title": "Payment Request API 1.1",
               "crawled": "https://w3c.github.io/payment-request/"
@@ -42583,11 +42602,6 @@
               "url": "https://www.w3.org/TR/picture-in-picture/",
               "title": "Picture-in-Picture",
               "crawled": "https://w3c.github.io/picture-in-picture/"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/remote-playback/",
@@ -43199,6 +43213,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://wicg.github.io/performance-measure-memory/",
               "title": "Measure Memory API",
               "crawled": "https://wicg.github.io/performance-measure-memory/"
@@ -43232,11 +43251,6 @@
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -46906,6 +46920,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://wicg.github.io/manifest-incubations/",
               "title": "Manifest Incubations",
               "crawled": "https://wicg.github.io/manifest-incubations/"
@@ -47004,11 +47023,6 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -47171,11 +47185,6 @@
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",
               "crawled": "https://wicg.github.io/sanitizer-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/i18n-glossary/",
-              "title": "Internationalization Glossary",
-              "crawled": "https://w3c.github.io/i18n-glossary/"
             },
             {
               "url": "https://www.w3.org/TR/media-source-2/",
@@ -53192,7 +53201,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "23 February 2023",
+      "date": "24 February 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -53259,7 +53268,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "23 February 2023",
+      "date": "24 February 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
