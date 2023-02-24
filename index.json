@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-24T00:48:42.535Z",
+  "date": "2023-02-24T06:38:34.026Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -18739,7 +18739,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "30 January 2023",
+      "date": "23 February 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -26111,6 +26111,11 @@
               "crawled": "https://w3c.github.io/webrtc-stats/"
             },
             {
+              "url": "https://infra.spec.whatwg.org/",
+              "title": "Infra Standard",
+              "crawled": "https://infra.spec.whatwg.org/"
+            },
+            {
               "url": "https://wicg.github.io/js-self-profiling/",
               "title": "JS Self-Profiling API",
               "crawled": "https://wicg.github.io/js-self-profiling/"
@@ -26470,7 +26475,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "23 February 2023",
+      "date": "24 February 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -28727,7 +28732,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "16 January 2023",
+      "date": "23 February 2023",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",

@@ -8170,7 +8170,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 30 January 2023
+- Crawled version: 23 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
@@ -14711,6 +14711,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -18095,7 +18096,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 23 February 2023
+- Crawled version: 24 February 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -18470,7 +18471,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Crawled URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
-- Crawled version: 16 January 2023
+- Crawled version: 23 February 2023
 - Editor's Draft: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Shortname: infra
 
