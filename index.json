@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-27T06:37:59.230Z",
+  "date": "2023-02-27T12:47:24.317Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -26475,7 +26475,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 February 2023",
+      "date": "27 February 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -31450,7 +31450,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "23 February 2023",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -51235,7 +51235,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "23 February 2023",
+      "date": "27 February 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
