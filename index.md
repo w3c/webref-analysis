@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 27, 2023
+% February 28, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -166,7 +166,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 23 February 2023
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -354,7 +354,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
 - Crawled URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
-- Crawled version: 31 January 2023
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
 - Shortname: tc39-intl-locale-info
 
@@ -750,7 +750,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -780,7 +780,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1038,7 +1038,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1184,7 +1184,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1573,7 +1573,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1627,7 +1627,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1689,7 +1689,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1729,7 +1729,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1762,7 +1762,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1789,7 +1789,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3174,6 +3174,7 @@ Normative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
@@ -3446,7 +3447,6 @@ Normative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 
 No informative reference to this spec from other specs.
 
@@ -3481,7 +3481,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/css-animations-1/](https://drafts.csswg.org/css-animations-1/)
-- Crawled version: 22 February 2023
+- Crawled version: 2 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-animations-1/](https://drafts.csswg.org/css-animations-1/)
 - Latest published version: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
 - Shortname: css-animations-1
@@ -3494,13 +3494,13 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 Informative references to this spec from:
@@ -3511,13 +3511,13 @@ Informative references to this spec from:
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 
 
-### CSS Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - Crawled URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
-- Crawled version: 26 February 2023
+- Crawled version: 2 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - Shortname: css-animations-2
 
@@ -3529,8 +3529,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/), related reference "WEB-ANIMATIONS" uses URL [`https://drafts.csswg.org/web-animations-1/`](https://drafts.csswg.org/web-animations-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3550,7 +3548,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
 - Crawled URL: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
-- Crawled version: 13 February 2023
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
 - Latest published version: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
 - Shortname: css-backgrounds-3
@@ -3571,7 +3569,6 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
      * [`https://www.w3.org/TR/css-images/`](https://www.w3.org/TR/css-images/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/)
      * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
      * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
@@ -3600,7 +3597,9 @@ Normative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 
 
 ### CSS Backgrounds and Borders Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -3639,7 +3638,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-ui-3/](https://www.w3.org/TR/css-ui-3/)
 - Crawled URL: [https://drafts.csswg.org/css-ui-3/](https://drafts.csswg.org/css-ui-3/)
-- Crawled version: 29 June 2022
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-ui-3/](https://drafts.csswg.org/css-ui-3/)
 - Latest published version: [https://www.w3.org/TR/css-ui-3/](https://www.w3.org/TR/css-ui-3/)
 - Shortname: css-ui-3
@@ -3681,7 +3680,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-ui-4/](https://www.w3.org/TR/css-ui-4/)
 - Crawled URL: [https://drafts.csswg.org/css-ui-4/](https://drafts.csswg.org/css-ui-4/)
-- Crawled version: 29 June 2022
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-ui-4/](https://drafts.csswg.org/css-ui-4/)
 - Latest published version: [https://www.w3.org/TR/css-ui-4/](https://www.w3.org/TR/css-ui-4/)
 - Shortname: css-ui-4
@@ -3916,7 +3915,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-sizing-3/](https://www.w3.org/TR/css-sizing-3/)
 - Crawled URL: [https://drafts.csswg.org/css-sizing-3/](https://drafts.csswg.org/css-sizing-3/)
-- Crawled version: 5 September 2022
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-sizing-3/](https://drafts.csswg.org/css-sizing-3/)
 - Latest published version: [https://www.w3.org/TR/css-sizing-3/](https://www.w3.org/TR/css-sizing-3/)
 - Shortname: css-sizing-3
@@ -4858,7 +4857,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Custom Properties for Cascading Variables Module Level 1 {data-spec=true data-error=true}
+### CSS Custom Properties for Cascading Variables Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4871,15 +4870,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 504
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 378)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4973,6 +4970,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
@@ -5022,7 +5020,6 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
-- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
@@ -5115,6 +5112,8 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
@@ -5143,8 +5142,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
-- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Backgrounds and Borders Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Transitions](https://drafts.csswg.org/css-transitions-1/)
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
@@ -6369,7 +6366,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-multicol-1/](https://www.w3.org/TR/css-multicol-1/)
 - Crawled URL: [https://drafts.csswg.org/css-multicol-1/](https://drafts.csswg.org/css-multicol-1/)
-- Crawled version: 12 February 2023
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-multicol-1/](https://drafts.csswg.org/css-multicol-1/)
 - Latest published version: [https://www.w3.org/TR/css-multicol-1/](https://www.w3.org/TR/css-multicol-1/)
 - Shortname: css-multicol-1
@@ -6496,6 +6493,8 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
@@ -6513,7 +6512,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
 - Crawled URL: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
-- Crawled version: 2 February 2023
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
 - Latest published version: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
 - Shortname: css-overflow-3
@@ -7020,7 +7019,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-round-display-1/](https://www.w3.org/TR/css-round-display-1/)
 - Crawled URL: [https://drafts.csswg.org/css-round-display-1/](https://drafts.csswg.org/css-round-display-1/)
-- Crawled version: 21 February 2021
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-round-display-1/](https://drafts.csswg.org/css-round-display-1/)
 - Latest published version: [https://www.w3.org/TR/css-round-display-1/](https://www.w3.org/TR/css-round-display-1/)
 - Shortname: css-round-display-1
@@ -7522,6 +7521,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
@@ -7957,6 +7957,8 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
@@ -8044,7 +8046,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Values and Units Module Level 3 {data-spec=true data-error=true}
+### CSS Values and Units Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8057,15 +8059,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 504
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 376)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/)
+     * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
+     * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8169,28 +8169,32 @@ Informative references to this spec from:
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 
 
-### CSS Values and Units Module Level 4 {data-spec=true data-error=true}
+### CSS Values and Units Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 23 February 2023
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 377)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-values-3/`](http://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/)
+     * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/)
+     * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8362,7 +8366,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS View Transitions Module Level 1 {data-spec=true data-error=true}
+### CSS View Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8375,15 +8379,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 379)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8445,6 +8446,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
@@ -8970,7 +8972,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/motion-1/](https://www.w3.org/TR/motion-1/)
 - Crawled URL: [https://drafts.fxtf.org/motion-1/](https://drafts.fxtf.org/motion-1/)
-- Crawled version: 6 February 2023
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.fxtf.org/motion-1/](https://drafts.fxtf.org/motion-1/)
 - Latest published version: [https://www.w3.org/TR/motion-1/](https://www.w3.org/TR/motion-1/)
 - Shortname: motion-1
@@ -9078,7 +9080,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 13 December 2022
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Latest published version: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Shortname: scroll-animations-1
@@ -9270,7 +9272,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
-- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
@@ -14100,7 +14101,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
 - Crawled URL: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
-- Crawled version: 23 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
 - Latest published version: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
 - Shortname: web-share
@@ -15347,7 +15348,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
 - Crawled URL: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
-- Crawled version: 18 February 2023
+- Crawled version: 27 February 2023
 - Editor's Draft: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
 - Shortname: cookie-store
 
@@ -17551,7 +17552,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 14 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport

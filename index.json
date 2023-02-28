@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-27T18:39:55.605Z",
+  "date": "2023-02-28T00:49:02.507Z",
   "stats": {
     "crawled": 556,
-    "errors": 4,
+    "errors": 0,
     "studied": 556
   },
   "results": [
@@ -1596,6 +1596,11 @@
               "crawled": "https://drafts.fxtf.org/compositing-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
@@ -2936,7 +2941,7 @@
     {
       "title": "Cookie Store API",
       "shortname": "cookie-store",
-      "date": "18 February 2023",
+      "date": "27 February 2023",
       "url": "https://wicg.github.io/cookie-store/",
       "nightly": {
         "url": "https://wicg.github.io/cookie-store/",
@@ -4022,11 +4027,6 @@
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-values-4/",
-              "title": "CSS Values and Units Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ],
           "informative": []
@@ -4087,7 +4087,7 @@
     {
       "title": "CSS Animations Level 1",
       "shortname": "css-animations-1",
-      "date": "22 February 2023",
+      "date": "2 March 2023",
       "url": "https://www.w3.org/TR/css-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-1/",
@@ -4133,22 +4133,20 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://drafts.csswg.org/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
@@ -4184,7 +4182,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "26 February 2023",
+      "date": "2 March 2023",
       "url": "https://drafts.csswg.org/css-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-animations-2/",
@@ -4223,15 +4221,7 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/web-animations-1/",
-            "ref": {
-              "name": "WEB-ANIMATIONS",
-              "url": "https://drafts.csswg.org/web-animations-1/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -4263,7 +4253,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "13 February 2023",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -4315,7 +4305,6 @@
           "https://www.w3.org/TR/css-color-4/",
           "https://www.w3.org/TR/css-images/",
           "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css-transitions-1/",
           "https://www.w3.org/TR/css3-break/",
           "https://www.w3.org/TR/css3-images/",
           "https://www.w3.org/TR/cssom/",
@@ -4413,7 +4402,13 @@
               "crawled": "https://w3c.github.io/paint-timing/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            }
+          ]
         },
         "ok": false
       }
@@ -4483,7 +4478,7 @@
     {
       "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
       "shortname": "css-ui-3",
-      "date": "29 June 2022",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/css-ui-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-3/",
@@ -4599,7 +4594,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "29 June 2022",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -5361,7 +5356,7 @@
     {
       "title": "CSS Box Sizing Module Level 3",
       "shortname": "css-sizing-3",
-      "date": "5 September 2022",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/css-sizing-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-sizing-3/",
@@ -8503,7 +8498,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-variables-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 378)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8806,6 +8800,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
               "crawled": "https://drafts.csswg.org/css-box-3/"
@@ -8955,11 +8954,6 @@
               "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animations-1/",
-              "title": "CSS Animations Level 1",
-              "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -9349,6 +9343,16 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -9418,16 +9422,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-animations-1/",
-              "title": "CSS Animations Level 1",
-              "crawled": "https://drafts.csswg.org/css-animations-1/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
             {
               "url": "https://drafts.csswg.org/css-backgrounds-4/",
               "title": "CSS Backgrounds and Borders Module Level 4",
@@ -13162,7 +13156,7 @@
     {
       "title": "CSS Multi-column Layout Module Level 1",
       "shortname": "css-multicol-1",
-      "date": "12 February 2023",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/css-multicol-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-multicol-1/",
@@ -13477,6 +13471,16 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -13520,7 +13524,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "2 February 2023",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -15234,7 +15238,7 @@
     {
       "title": "CSS Round Display Level 1",
       "shortname": "css-round-display-1",
-      "date": "21 February 2021",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/css-round-display-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-round-display-1/",
@@ -16525,6 +16529,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-conditional-5/",
               "title": "CSS Conditional Rules Module Level 5",
@@ -17973,6 +17982,16 @@
           "normative": [],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
@@ -18242,7 +18261,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 376)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18746,7 +18764,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "23 February 2023",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -18773,7 +18791,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-values-4/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 377)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19586,7 +19603,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 379)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19741,6 +19757,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-animations-1/",
+              "title": "CSS Animations Level 1",
+              "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
@@ -22578,7 +22599,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "23 February 2023",
+      "date": "27 February 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -30175,7 +30196,7 @@
     {
       "title": "Intl Locale Info Proposal",
       "shortname": "tc39-intl-locale-info",
-      "date": "31 January 2023",
+      "date": "27 February 2023",
       "url": "https://tc39.es/proposal-intl-locale-info/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-locale-info/",
@@ -33489,7 +33510,7 @@
     {
       "title": "Motion Path Module Level 1",
       "shortname": "motion-1",
-      "date": "6 February 2023",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/motion-1/",
       "release": {
         "url": "https://www.w3.org/TR/motion-1/",
@@ -38308,7 +38329,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -38400,7 +38421,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -38668,7 +38689,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -38775,7 +38796,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -38855,7 +38876,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -39658,7 +39679,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -39698,7 +39719,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -39881,7 +39902,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -40328,7 +40349,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -40767,7 +40788,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -42341,7 +42362,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "13 December 2022",
+      "date": "27 February 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -48163,11 +48184,6 @@
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/scroll-animations-1/",
               "title": "Scroll-driven Animations",
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
@@ -50376,7 +50392,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "23 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
@@ -53747,7 +53763,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "14 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
