@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-02-28T12:45:38.824Z",
+  "date": "2023-02-28T18:37:55.867Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -885,7 +885,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "22 February 2023",
+      "date": "28 February 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -47275,7 +47275,7 @@
     {
       "title": "User Agent Interaction with First-Party Sets",
       "shortname": "first-party-sets",
-      "date": "21 February 2023",
+      "date": "28 February 2023",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
@@ -53209,7 +53209,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -53276,7 +53276,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "27 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

@@ -9848,7 +9848,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9877,7 +9877,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 27 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -15177,7 +15177,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 22 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16487,7 +16487,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Crawled URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
-- Crawled version: 21 February 2023
+- Crawled version: 28 February 2023
 - Editor's Draft: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Shortname: first-party-sets
 
