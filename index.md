@@ -4476,7 +4476,7 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### CSS Color Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### CSS Color Module Level 5 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -4489,12 +4489,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2020/WD-css-color-5-20200303/`](https://www.w3.org/TR/2020/WD-css-color-5-20200303/), related reference "CSS-COLOR-5" uses URL [`https://drafts.csswg.org/css-color-5/`](https://drafts.csswg.org/css-color-5/)
-     * [`https://www.w3.org/TR/2021/WD-css-color-5-20210601/`](https://www.w3.org/TR/2021/WD-css-color-5-20210601/), related reference "CSS-COLOR-5" uses URL [`https://drafts.csswg.org/css-color-5/`](https://drafts.csswg.org/css-color-5/)
-     * [`https://www.w3.org/TR/2021/WD-css-color-5-20211215/`](https://www.w3.org/TR/2021/WD-css-color-5-20211215/), related reference "CSS-COLOR-5" uses URL [`https://drafts.csswg.org/css-color-5/`](https://drafts.csswg.org/css-color-5/)
-     * [`https://www.w3.org/TR/2022/WD-css-color-5-20220428/`](https://www.w3.org/TR/2022/WD-css-color-5-20220428/), related reference "CSS-COLOR-5" uses URL [`https://drafts.csswg.org/css-color-5/`](https://drafts.csswg.org/css-color-5/)
-     * [`https://www.w3.org/TR/2022/WD-css-color-5-20220628/`](https://www.w3.org/TR/2022/WD-css-color-5-20220628/), related reference "CSS-COLOR-5" uses URL [`https://drafts.csswg.org/css-color-5/`](https://drafts.csswg.org/css-color-5/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4508,7 +4503,6 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
-- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Color Module Level 6](https://drafts.csswg.org/css-color-6/)
 - [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -4518,7 +4512,6 @@ Normative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
-- [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
@@ -9085,7 +9078,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 27 February 2023
+- Crawled version: 1 February 2023
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Latest published version: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Shortname: scroll-animations-1
@@ -14107,7 +14100,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
 - Crawled URL: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
-- Crawled version: 28 February 2023
+- Crawled version: 01 March 2023
 - Editor's Draft: [https://w3c.github.io/web-share/](https://w3c.github.io/web-share/)
 - Latest published version: [https://www.w3.org/TR/web-share/](https://www.w3.org/TR/web-share/)
 - Shortname: web-share
@@ -15354,7 +15347,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
 - Crawled URL: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
-- Crawled version: 28 February 2023
+- Crawled version: 1 March 2023
 - Editor's Draft: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
 - Shortname: cookie-store
 
@@ -17449,7 +17442,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 28 February 2023
+- Crawled version: 1 March 2023
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
