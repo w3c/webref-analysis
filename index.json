@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-02T12:44:33.049Z",
+  "date": "2023-03-02T18:39:00.861Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -23494,7 +23494,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "22 February 2023",
+      "date": "02 March 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -23565,7 +23565,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "22 February 2023",
+      "date": "02 March 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -23954,7 +23954,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "22 February 2023",
+      "date": "2 March 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -31010,7 +31010,7 @@
     {
       "title": "Local Network Access",
       "shortname": "local-network-access",
-      "date": "21 February 2023",
+      "date": "2 March 2023",
       "url": "https://wicg.github.io/local-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-network-access/",
@@ -53193,7 +53193,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "1 March 2023",
+      "date": "2 March 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -53260,7 +53260,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "1 March 2023",
+      "date": "2 March 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
