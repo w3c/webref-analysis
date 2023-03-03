@@ -2,13 +2,55 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-02T18:39:00.861Z",
+  "date": "2023-03-03T12:42:31.215Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
     "studied": 556
   },
   "results": [
+    {
+      "title": "[No title found for https://wicg.github.io/navigation-api/]",
+      "shortname": "navigation-api",
+      "date": "3 March 2023",
+      "url": "https://wicg.github.io/navigation-api/",
+      "nightly": {
+        "url": "https://wicg.github.io/navigation-api/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/navigation-api",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/navigation-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
     {
       "title": "A Method for Writing Testable Conformance Requirements",
       "shortname": "test-methodology",
@@ -499,7 +541,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "09 February 2023",
+      "date": "03 March 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -2381,7 +2423,7 @@
     {
       "title": "Compression Streams",
       "shortname": "compression",
-      "date": "15 August 2022",
+      "date": "2 March 2023",
       "url": "https://wicg.github.io/compression/",
       "nightly": {
         "url": "https://wicg.github.io/compression/",
@@ -2522,11 +2564,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://w3c.github.io/webdriver-bidi/",
@@ -3025,7 +3062,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4168,11 +4205,6 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
-            },
-            {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
           ]
         },
@@ -6712,7 +6744,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "22 February 2023",
+      "date": "2 March 2023",
       "url": "https://www.w3.org/TR/css-cascade-6/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -6751,6 +6783,7 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade-3/",
+          "https://www.w3.org/TR/css-nesting/",
           "https://www.w3.org/TR/selectors/"
         ],
         "inconsistentRef": [
@@ -7177,7 +7210,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "20 February 2023",
+      "date": "2 March 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8850,11 +8883,6 @@
               "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -8868,7 +8896,7 @@
     {
       "title": "CSS Display Module Level 4",
       "shortname": "css-display-4",
-      "date": "19 January 2023",
+      "date": "2 March 2023",
       "url": "https://drafts.csswg.org/css-display-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-display-4/",
@@ -9251,6 +9279,11 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/webvtt1/",
               "title": "WebVTT: The Web Video Text Tracks Format",
               "crawled": "https://w3c.github.io/webvtt/"
@@ -9356,11 +9389,6 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
-            },
-            {
-              "url": "https://drafts.csswg.org/web-animations-2/",
-              "title": "Web Animations Level 2",
-              "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
           ],
           "informative": []
@@ -9446,6 +9474,11 @@
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/web-animations-2/",
+              "title": "Web Animations Level 2",
+              "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
           ],
           "informative": [
@@ -10020,7 +10053,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "14 February 2023",
+      "date": "1 March 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10067,13 +10100,6 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/",
-            "ref": {
-              "name": "PFE-report",
-              "url": "https://www.w3.org/TR/PFE-evaluation/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
@@ -10349,7 +10375,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/",
+          "https://w3c.github.io/IFT/Overview.html",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
@@ -13844,7 +13870,7 @@
     {
       "title": "CSS Overflow Module Level 4",
       "shortname": "css-overflow-4",
-      "date": "2 February 2023",
+      "date": "28 February 2023",
       "url": "https://www.w3.org/TR/css-overflow-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -16194,7 +16220,7 @@
     {
       "title": "CSS Spatial Navigation Level 1",
       "shortname": "css-nav-1",
-      "date": "17 May 2021",
+      "date": "1 March 2023",
       "url": "https://www.w3.org/TR/css-nav-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nav-1/",
@@ -16236,7 +16262,8 @@
           "https://w3c.github.io/webappsec-feature-policy/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/cssom/"
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
@@ -17332,7 +17359,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "22 February 2023",
+      "date": "31 December 2022",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -17372,7 +17399,6 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/clreq/",
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-text/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/ilreq/",
           "https://www.w3.org/TR/jlreq/",
@@ -17395,17 +17421,17 @@
             }
           },
           {
+            "link": "https://www.w3.org/TR/2022/WD-css-text-4-20221231/",
+            "ref": {
+              "name": "CSS-TEXT-4",
+              "url": "https://drafts.csswg.org/css-text-4/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-fonts-3/",
             "ref": {
               "name": "CSS-FONTS-4",
               "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-text-4/",
-            "ref": {
-              "name": "CSS-TEXT-4",
-              "url": "https://drafts.csswg.org/css-text-4/"
             }
           },
           {
@@ -20923,7 +20949,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -21905,11 +21931,6 @@
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -23014,11 +23035,6 @@
               "crawled": "https://wicg.github.io/entries-api/"
             },
             {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
-            },
-            {
               "url": "https://www.w3.org/TR/tracking-dnt/",
               "title": "Tracking Preference Expression (DNT)",
               "crawled": "https://w3c.github.io/dnt/drafts/tracking-dnt.html"
@@ -23550,11 +23566,6 @@
               "url": "https://www.w3.org/TR/epub-rs-33/",
               "title": "EPUB Reading Systems 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             }
           ],
           "informative": []
@@ -23932,11 +23943,6 @@
           ],
           "informative": [
             {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
-            },
-            {
               "url": "https://wicg.github.io/portals/",
               "title": "Portals",
               "crawled": "https://wicg.github.io/portals/"
@@ -24207,11 +24213,6 @@
               "url": "https://www.w3.org/TR/mixed-content/",
               "title": "Mixed Content",
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -27397,11 +27398,6 @@
               "crawled": "https://w3c.github.io/window-placement/"
             },
             {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
-            },
-            {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
@@ -28295,7 +28291,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "24 February 2023",
+      "date": "03 March 2023",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -29330,11 +29326,6 @@
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://notifications.spec.whatwg.org/",
@@ -33688,48 +33679,6 @@
       }
     },
     {
-      "title": "Navigation API",
-      "shortname": "navigation-api",
-      "date": "17 January 2023",
-      "url": "https://wicg.github.io/navigation-api/",
-      "nightly": {
-        "url": "https://wicg.github.io/navigation-api/",
-        "status": "Draft Community Group Report",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/navigation-api",
-        "sourcePath": "spec.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://wicg.github.io/navigation-api/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": true
-      }
-    },
-    {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
       "date": "06 February 2023",
@@ -35693,7 +35642,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "27 February 2023",
+      "date": "02 March 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -37454,11 +37403,6 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
-            },
-            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -38310,7 +38254,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -38402,7 +38346,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -38670,7 +38614,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -38777,7 +38721,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -38857,7 +38801,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -39660,7 +39604,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -39700,7 +39644,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -39883,7 +39827,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -40330,7 +40274,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -40769,7 +40713,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -44431,7 +44375,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "10 February 2023",
+      "date": "03 March 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -44464,7 +44408,6 @@
         "missingLinkRef": [
           "http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321",
           "http://www.w3.org/TR/rdf-sparql-XMLres/",
-          "http://www.w3.org/TR/rdf-sparql-XMLres/output.srx",
           "http://www.w3.org/TR/sparql11-query/"
         ],
         "inconsistentRef": [],
@@ -44565,7 +44508,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "14 February 2023",
+      "date": "03 March 2023",
       "url": "https://w3c.github.io/sparql-results-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
@@ -44705,7 +44648,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "14 February 2023",
+      "date": "03 March 2023",
       "url": "https://w3c.github.io/sparql-service-description/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -46952,11 +46895,6 @@
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
             },
             {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
-            },
-            {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
@@ -47936,7 +47874,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "6 February 2023",
+      "date": "1 March 2023",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
@@ -48010,6 +47948,11 @@
               "url": "https://drafts.csswg.org/css-variables-2/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 2",
               "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-display-4/",
+              "title": "CSS Display Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-display-4/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -48106,7 +48049,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "21 February 2023",
+      "date": "1 March 2023",
       "url": "https://drafts.csswg.org/web-animations-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/web-animations-2/",
@@ -48809,11 +48752,6 @@
               "crawled": "https://w3c.github.io/IndexedDB/"
             },
             {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
-            },
-            {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
@@ -49513,11 +49451,6 @@
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
               "crawled": "https://w3c.github.io/window-placement/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -53193,7 +53126,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -53260,7 +53193,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "2 March 2023",
+      "date": "3 March 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -54146,29 +54079,14 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/orientation-sensor/",
           "https://www.w3.org/TR/page-visibility-2/",
-          "https://www.w3.org/TR/permissions-policy/",
           "https://www.w3.org/TR/webxr-gamepads-module-1/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://www.w3.org/TR/permissions/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/hr-time/",
             "ref": {
               "name": "HR-TIME-3",
               "url": "https://www.w3.org/TR/hr-time-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webxrlayers-1/",
-            "ref": {
-              "name": "WEBXR-LAYERS-1",
-              "url": "https://immersive-web.github.io/layers/"
             }
           }
         ],
@@ -54615,7 +54533,7 @@
     {
       "title": "Well-Formed Unicode Strings",
       "shortname": "tc39-is-usv-string",
-      "date": "8 February 2023",
+      "date": "2 March 2023",
       "url": "https://tc39.es/proposal-is-usv-string/",
       "nightly": {
         "url": "https://tc39.es/proposal-is-usv-string/",
@@ -54981,11 +54899,6 @@
               "url": "https://www.w3.org/TR/mixed-content/",
               "title": "Mixed Content",
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
-            },
-            {
-              "url": "https://wicg.github.io/navigation-api/",
-              "title": "Navigation API",
-              "crawled": "https://wicg.github.io/navigation-api/"
             }
           ],
           "informative": [
