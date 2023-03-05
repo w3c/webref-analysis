@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-05T06:36:43.698Z",
+  "date": "2023-03-05T12:43:04.378Z",
   "stats": {
     "crawled": 556,
-    "errors": 3,
+    "errors": 0,
     "studied": 556
   },
   "results": [
@@ -1727,7 +1727,7 @@
     {
       "title": "Change Array by copy",
       "shortname": "tc39-change-array-by-copy",
-      "date": "7 December 2022",
+      "date": "5 March 2023",
       "url": "https://tc39.es/proposal-change-array-by-copy/",
       "nightly": {
         "url": "https://tc39.es/proposal-change-array-by-copy/",
@@ -13416,7 +13416,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-nesting-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-nesting-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13434,7 +13433,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -13568,7 +13567,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 341)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16249,7 +16247,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-nav-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-nav-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 339)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
