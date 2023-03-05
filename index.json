@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-05T12:43:04.378Z",
+  "date": "2023-03-05T18:39:48.108Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -4787,11 +4787,6 @@
               "url": "https://www.w3.org/TR/css-nesting-1/",
               "title": "CSS Nesting Module",
               "crawled": "https://drafts.csswg.org/css-nesting-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-overflow-4/",
-              "title": "CSS Overflow Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-3/",
@@ -9890,11 +9885,6 @@
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-4/",
-              "title": "CSS Overflow Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-overflow-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-position-3/",
               "title": "CSS Positioned Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-position-3/"
@@ -13911,6 +13901,9 @@
           "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css-text-3/",
+          "https://www.w3.org/TR/css-values-3/",
+          "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
@@ -13920,27 +13913,6 @@
             "ref": {
               "name": "CSS-OVERFLOW-4",
               "url": "https://drafts.csswg.org/css-overflow-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-text-3/",
-            "ref": {
-              "name": "CSS-TEXT-3",
-              "url": "https://drafts.csswg.org/css-text-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -14335,11 +14307,6 @@
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
               "crawled": "https://drafts.csswg.org/css-images-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-overflow-4/",
-              "title": "CSS Overflow Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-regions-1/",
@@ -15170,7 +15137,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-contain-1/",
@@ -15835,6 +15808,11 @@
         "referencedBy": {
           "normative": [],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
             {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
@@ -16557,6 +16535,11 @@
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-overflow-4/",
+              "title": "CSS Overflow Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
               "url": "https://wicg.github.io/css-parser-api/",
               "title": "CSS Parser API",
               "crawled": "https://wicg.github.io/css-parser-api/"
@@ -17198,11 +17181,6 @@
               "url": "https://drafts.csswg.org/css-size-adjust-1/",
               "title": "CSS Mobile Text Size Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-size-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-overflow-4/",
-              "title": "CSS Overflow Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-page-3/",
@@ -18533,11 +18511,6 @@
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-overflow-4/",
-              "title": "CSS Overflow Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-overscroll-1/",
@@ -42788,11 +42761,6 @@
               "crawled": "https://drafts.csswg.org/cssom-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-4/",
-              "title": "CSS Overflow Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-overflow-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
@@ -50448,7 +50416,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "1 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -50499,7 +50467,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "1 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -50618,7 +50586,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "1 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
