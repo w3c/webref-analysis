@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-04T18:38:35.198Z",
+  "date": "2023-03-05T00:50:40.813Z",
   "stats": {
     "crawled": 556,
-    "errors": 7,
+    "errors": 0,
     "studied": 556
   },
   "results": [
@@ -3393,7 +3393,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css2/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 384)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10369,7 +10368,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10950,7 +10948,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13469,7 +13466,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/cssom-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/cssom-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 386)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13538,7 +13534,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -19602,7 +19598,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-view-transitions-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 379)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20516,7 +20511,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/cssom-view-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 387)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20581,7 +20575,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -31968,7 +31962,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/mediaqueries-4/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 437)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -38240,7 +38233,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -38332,7 +38325,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -38600,7 +38593,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -38707,7 +38700,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -38787,7 +38780,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -39590,7 +39583,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -39630,7 +39623,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -39813,7 +39806,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -40260,7 +40253,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -40699,7 +40692,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "4 March 2023",
+      "date": "5 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
