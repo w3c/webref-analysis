@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-06T06:39:52.522Z",
+  "date": "2023-03-06T12:45:12.081Z",
   "stats": {
     "crawled": 556,
-    "errors": 1,
+    "errors": 0,
     "studied": 556
   },
   "results": [
@@ -16247,7 +16247,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-nav-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-nav-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 339)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -44775,7 +44774,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "16 February 2023",
+      "date": "06 March 2023",
       "url": "https://w3c.github.io/sparql-update/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-update/spec/",
@@ -44807,13 +44806,7 @@
         },
         "missingLinkRef": [
           "http://www.w3.org/TR/2004/REC-rdf-mt-20040210/",
-          "http://www.w3.org/TR/rdf-concepts/",
           "http://www.w3.org/TR/rdf-mt/",
-          "http://www.w3.org/TR/sparql11-entailment/",
-          "http://www.w3.org/TR/sparql11-federated-query/",
-          "http://www.w3.org/TR/sparql11-http-rdf-update/",
-          "http://www.w3.org/TR/sparql11-protocol/",
-          "http://www.w3.org/TR/sparql11-query/",
           "http://www.w3.org/TR/xml-names/"
         ],
         "inconsistentRef": [],
@@ -51154,7 +51147,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "27 February 2023",
+      "date": "6 March 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
