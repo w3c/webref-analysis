@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-06T12:45:12.081Z",
+  "date": "2023-03-06T18:39:50.636Z",
   "stats": {
     "crawled": 556,
     "errors": 0,
@@ -737,7 +737,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "04 March 2023",
+      "date": "06 March 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -35621,7 +35621,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "02 March 2023",
+      "date": "06 March 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -53435,7 +53435,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "01 March 2023",
+      "date": "06 March 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
