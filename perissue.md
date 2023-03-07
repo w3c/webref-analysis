@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 06, 2023
+% March 07, 2023
 
 556 specifications were crawled in this report.
 
@@ -1099,6 +1099,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-trusted-types/dist/spec/`](https://w3c.github.io/webappsec-trusted-types/dist/spec/) but does not list it in its references
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/) links to:
+    * [`http://www.w3.org/TR/css-transforms/`](http://www.w3.org/TR/css-transforms/) but does not list it in its references
     * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
@@ -1333,7 +1334,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 990 missing references for links found in 233 specifications
+=> 991 missing references for links found in 233 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
