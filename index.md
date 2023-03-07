@@ -138,7 +138,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 10 February 2023
+- Crawled version: 7 March 2023
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -834,6 +834,7 @@ Informative references to this spec from:
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
 - [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
 - [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
@@ -1080,6 +1081,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
@@ -3513,10 +3515,11 @@ Informative references to this spec from:
 
 #### Spec info {.info}
 
-- Initial URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
+- Initial URL: [https://www.w3.org/TR/css-animations-2/](https://www.w3.org/TR/css-animations-2/)
 - Crawled URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - Crawled version: 2 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
+- Latest published version: [https://www.w3.org/TR/css-animations-2/](https://www.w3.org/TR/css-animations-2/)
 - Shortname: css-animations-2
 
 #### Potential issue(s) {.anomalies}
@@ -9248,10 +9251,11 @@ Informative references to this spec from:
 
 #### Spec info {.info}
 
-- Initial URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
+- Initial URL: [https://www.w3.org/TR/web-animations-2/](https://www.w3.org/TR/web-animations-2/)
 - Crawled URL: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
 - Crawled version: 1 March 2023
 - Editor's Draft: [https://drafts.csswg.org/web-animations-2/](https://drafts.csswg.org/web-animations-2/)
+- Latest published version: [https://www.w3.org/TR/web-animations-2/](https://www.w3.org/TR/web-animations-2/)
 - Shortname: web-animations-2
 
 #### Potential issue(s) {.anomalies}
@@ -11118,7 +11122,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 06 March 2023
+- Crawled version: 07 March 2023
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -11126,6 +11130,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
+     * [`https://www.w3.org/TR/2022/WD-png-3-20221025/`](https://www.w3.org/TR/2022/WD-png-3-20221025/)
      * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/)
      * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/)
 
@@ -12630,7 +12635,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
 - Crawled URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
-- Crawled version: 3 March 2023
+- Crawled version: 7 March 2023
 - Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
 - Latest published version: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
 - Shortname: window-placement
@@ -13035,6 +13040,7 @@ Normative references to this spec from:
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Linear PCM WebCodecs Registration](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
@@ -13282,6 +13288,7 @@ Normative references to this spec from:
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -14712,6 +14719,7 @@ Normative references to this spec from:
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Push API](https://w3c.github.io/push-api/)
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
@@ -15102,27 +15110,6 @@ No informative reference to this spec from other specs.
 
 
 ## Web Platform Incubator Community Group {#group-web_platform_incubator_community_group}
-
-### [No title found for https://wicg.github.io/navigation-api/] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
-- Crawled URL: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
-- Crawled version: 3 March 2023
-- Editor's Draft: [https://wicg.github.io/navigation-api/](https://wicg.github.io/navigation-api/)
-- Shortname: navigation-api
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
 
 ### Accelerated Shape Detection in Images {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -15610,6 +15597,27 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+### Fenced frame {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
+- Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
+- Crawled version: 28 February 2023
+- Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
+- Shortname: fenced-frame
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### File and Directory Entries API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -15654,6 +15662,27 @@ Normative references to this spec from:
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
+
+No informative reference to this spec from other specs.
+
+
+### FLEDGE {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
+- Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
+- Crawled version: 7 March 2023
+- Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
+- Shortname: turtledove
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -16221,7 +16250,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 
 Informative references to this spec from:
 
@@ -16242,6 +16273,27 @@ Informative references to this spec from:
 
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/), related reference "REQUESTIDLECALLBACK" uses URL [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Private State Token API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
+- Crawled URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
+- Crawled version: 7 March 2023
+- Editor's Draft: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
+- Shortname: trust-token-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16939,7 +16991,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
-- Crawled version: 03 March 2023
+- Crawled version: 07 March 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
 - Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Shortname: webrtc-stats
@@ -17704,8 +17756,10 @@ Normative references to this spec from:
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
@@ -17760,6 +17814,7 @@ Normative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -17958,9 +18013,11 @@ Normative references to this spec from:
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Image Resource](https://w3c.github.io/image-resource/)
@@ -17984,6 +18041,7 @@ Normative references to this spec from:
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
@@ -18192,6 +18250,7 @@ Normative references to this spec from:
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
@@ -18200,6 +18259,7 @@ Normative references to this spec from:
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html)
@@ -18277,6 +18337,7 @@ Normative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
@@ -18534,6 +18595,7 @@ Normative references to this spec from:
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html)
@@ -18589,6 +18651,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Push API](https://w3c.github.io/push-api/)
 - [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
@@ -18694,6 +18757,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Access](https://wicg.github.io/file-system-access/)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -18947,6 +19011,7 @@ Normative references to this spec from:
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
@@ -18972,6 +19037,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
@@ -19101,6 +19167,7 @@ Normative references to this spec from:
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [File API](https://w3c.github.io/FileAPI/)
@@ -19108,6 +19175,7 @@ Normative references to this spec from:
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [FLAC WebCodecs Registration](https://w3c.github.io/webcodecs/flac_codec_registration.html)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
@@ -19176,6 +19244,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Region Capture](https://w3c.github.io/mediacapture-region/)

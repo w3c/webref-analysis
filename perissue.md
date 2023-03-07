@@ -2,12 +2,11 @@
 % Strudy
 % March 07, 2023
 
-556 specifications were crawled in this report.
+558 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
 
-- [[No title found for https://wicg.github.io/navigation-api/]](https://wicg.github.io/navigation-api/)
 - [A Method for Writing Testable Conformance Requirements](https://www.w3.org/TR/test-methodology/)
 - [Array Grouping](https://tc39.es/proposal-array-grouping/)
 - [ArrayBuffer transfer](https://tc39.es/proposal-arraybuffer-transfer/)
@@ -99,7 +98,7 @@
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - [Well-Formed Unicode Strings](https://tc39.es/proposal-is-usv-string/)
 
-=> 91 specifications found
+=> 90 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -993,6 +992,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Performance Timeline](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to:
     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/) but does not list it in its references
+    * [`https://www.w3.org/TR/2022/WD-png-3-20221025/`](https://www.w3.org/TR/2022/WD-png-3-20221025/) but does not list it in its references
     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
     * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/) but does not list it in its references
 - [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
@@ -1334,7 +1334,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 991 missing references for links found in 233 specifications
+=> 992 missing references for links found in 233 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

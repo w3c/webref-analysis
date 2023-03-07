@@ -2,55 +2,13 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-07T12:44:03.597Z",
+  "date": "2023-03-07T18:44:59.879Z",
   "stats": {
-    "crawled": 556,
+    "crawled": 558,
     "errors": 0,
-    "studied": 556
+    "studied": 558
   },
   "results": [
-    {
-      "title": "[No title found for https://wicg.github.io/navigation-api/]",
-      "shortname": "navigation-api",
-      "date": "3 March 2023",
-      "url": "https://wicg.github.io/navigation-api/",
-      "nightly": {
-        "url": "https://wicg.github.io/navigation-api/",
-        "status": "Draft Community Group Report",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/navigation-api",
-        "sourcePath": "spec.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://wicg.github.io/navigation-api/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
     {
       "title": "A Method for Writing Testable Conformance Requirements",
       "shortname": "test-methodology",
@@ -2752,6 +2710,11 @@
               "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -4180,7 +4143,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -4215,7 +4178,12 @@
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
       "date": "2 March 2023",
-      "url": "https://drafts.csswg.org/css-animations-2/",
+      "url": "https://www.w3.org/TR/css-animations-2/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-animations-2/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://drafts.csswg.org/css-animations-2/",
         "status": "Editor's Draft",
@@ -6330,7 +6298,7 @@
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -9284,7 +9252,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
@@ -9381,7 +9349,7 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -9481,7 +9449,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
@@ -13069,7 +13037,7 @@
           ],
           "informative": [
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -13492,7 +13460,7 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -15050,7 +15018,7 @@
               "crawled": "https://drafts.csswg.org/selectors-4/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
@@ -17455,7 +17423,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -17892,7 +17860,7 @@
           ],
           "informative": [
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -17987,7 +17955,7 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -18174,7 +18142,7 @@
               "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
@@ -18861,7 +18829,7 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -19456,7 +19424,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
@@ -20175,7 +20143,7 @@
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -21487,7 +21455,7 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -21732,6 +21700,11 @@
               "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -21740,6 +21713,11 @@
               "url": "https://www.w3.org/TR/FileAPI/",
               "title": "File API",
               "crawled": "https://w3c.github.io/FileAPI/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://drafts.css-houdini.org/font-metrics-api-1/",
@@ -22012,6 +21990,11 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -22167,7 +22150,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
@@ -22525,7 +22508,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "10 February 2023",
+      "date": "7 March 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -23498,7 +23481,7 @@
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
-        "status": "Candidate Recommendation Draft",
+        "status": "Candidate Recommendation Snapshot",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -23564,7 +23547,7 @@
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
-        "status": "Candidate Recommendation Draft",
+        "status": "Candidate Recommendation Snapshot",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -23865,6 +23848,48 @@
       }
     },
     {
+      "title": "Fenced frame",
+      "shortname": "fenced-frame",
+      "date": "28 February 2023",
+      "url": "https://wicg.github.io/fenced-frame/",
+      "nightly": {
+        "url": "https://wicg.github.io/fenced-frame/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/fenced-frame",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/fenced-frame/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "Fetch Metadata Request Headers",
       "shortname": "fetch-metadata",
       "date": "20 July 2021",
@@ -24119,6 +24144,11 @@
               "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
               "url": "https://www.w3.org/TR/fetch-metadata/",
               "title": "Fetch Metadata Request Headers",
               "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
@@ -24132,6 +24162,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -24247,6 +24282,11 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
             },
             {
               "url": "https://www.w3.org/TR/referrer-policy/",
@@ -25035,6 +25075,48 @@
               "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
             }
           ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "FLEDGE",
+      "shortname": "turtledove",
+      "date": "7 March 2023",
+      "url": "https://wicg.github.io/turtledove/",
+      "nightly": {
+        "url": "https://wicg.github.io/turtledove/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/turtledove",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/turtledove/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": true
       }
@@ -26191,6 +26273,11 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -27077,6 +27164,11 @@
               "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
               "url": "https://www.w3.org/TR/fetch-metadata/",
               "title": "Fetch Metadata Request Headers",
               "crawled": "https://w3c.github.io/webappsec-fetch-metadata/"
@@ -27115,6 +27207,11 @@
               "url": "https://drafts.fxtf.org/filter-effects-2/",
               "title": "Filter Effects Module Level 2",
               "crawled": "https://drafts.fxtf.org/filter-effects-2/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://fullscreen.spec.whatwg.org/",
@@ -27502,6 +27599,11 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -27767,7 +27869,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
@@ -28275,7 +28377,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "03 March 2023",
+      "date": "07 March 2023",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -29117,6 +29219,11 @@
               "crawled": "https://fs.spec.whatwg.org/"
             },
             {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
+            },
+            {
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
@@ -29392,6 +29499,11 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/proximity/",
               "title": "Proximity Sensor",
               "crawled": "https://w3c.github.io/proximity/"
@@ -29557,7 +29669,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
@@ -33004,6 +33116,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -33608,7 +33725,7 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "3 March 2023",
+      "date": "7 March 2023",
       "url": "https://www.w3.org/TR/window-placement/",
       "release": {
         "url": "https://www.w3.org/TR/window-placement/",
@@ -35185,6 +35302,11 @@
               "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
+            },
+            {
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
@@ -35626,7 +35748,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "06 March 2023",
+      "date": "07 March 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -35658,6 +35780,7 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/2003/REC-PNG-20031110/",
+          "https://www.w3.org/TR/2022/WD-png-3-20221025/",
           "https://www.w3.org/TR/i18n-glossary/",
           "https://www.w3.org/TR/png/"
         ],
@@ -35865,7 +35988,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            }
+          ],
           "informative": [
             {
               "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -36014,6 +36143,48 @@
         {
           "name": "Privacy Community Group",
           "url": "https://www.w3.org/community/privacycg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "Private State Token API",
+      "shortname": "trust-token-api",
+      "date": "7 March 2023",
+      "url": "https://wicg.github.io/trust-token-api/",
+      "nightly": {
+        "url": "https://wicg.github.io/trust-token-api/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/trust-token-api",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/trust-token-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
         }
       ],
       "report": {
@@ -38492,6 +38663,11 @@
               "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
               "url": "https://www.rfc-editor.org/rfc/rfc7230",
               "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
               "crawled": "https://httpwg.org/specs/rfc7230.html"
@@ -40377,6 +40553,11 @@
               "url": "https://mimesniff.spec.whatwg.org/",
               "title": "MIME Sniffing Standard",
               "crawled": "https://mimesniff.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
             },
             {
               "url": "https://www.w3.org/TR/referrer-policy/",
@@ -42336,7 +42517,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -46814,6 +46995,11 @@
               "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
+            },
+            {
               "url": "https://wicg.github.io/get-installed-related-apps/spec/",
               "title": "Get Installed Related Apps API",
               "crawled": "https://wicg.github.io/get-installed-related-apps/spec/"
@@ -46937,6 +47123,11 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
+            },
+            {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -47909,7 +48100,7 @@
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -47994,7 +48185,7 @@
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
@@ -48029,10 +48220,15 @@
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
       "date": "1 March 2023",
-      "url": "https://drafts.csswg.org/web-animations-2/",
+      "url": "https://www.w3.org/TR/web-animations-2/",
+      "release": {
+        "url": "https://www.w3.org/TR/web-animations-2/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://drafts.csswg.org/web-animations-2/",
-        "status": "Unofficial Proposal Draft",
+        "status": "Editor's Draft",
         "alternateUrls": [
           "https://w3c.github.io/csswg-drafts/web-animations-2/"
         ],
@@ -48937,7 +49133,7 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-animations-2/",
+              "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
@@ -49142,6 +49338,11 @@
               "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -49175,6 +49376,11 @@
               "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
               "title": "FLAC WebCodecs Registration",
               "crawled": "https://w3c.github.io/webcodecs/flac_codec_registration.html"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://drafts.css-houdini.org/font-metrics-api-1/",
@@ -49517,6 +49723,11 @@
               "crawled": "https://wicg.github.io/scheduling-apis/"
             },
             {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/proximity/",
               "title": "Proximity Sensor",
               "crawled": "https://w3c.github.io/proximity/"
@@ -49727,7 +49938,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             },
             {
-              "url": "https://drafts.csswg.org/web-animations-2/",
+              "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
