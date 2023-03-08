@@ -9440,20 +9440,23 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Contact Picker API {data-spec=true data-missingDfns=true data-ok=true}
+### Contact Picker API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
-- Crawled version: 27 January 2023
+- Crawled version: 8 March 2023
 - Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Shortname: contact-picker
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2010/WD-contacts-api-20100121/`](https://www.w3.org/TR/2010/WD-contacts-api-20100121/)
+     * [`https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/`](https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/)
+     * [`https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/`](https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9629,7 +9632,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### HTML Media Capture {data-spec=true data-missingDfns=true data-ok=true}
+### HTML Media Capture {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9642,7 +9645,39 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (pptr://__puppeteer_evaluation_script__:20:27)
+    at isReady (pptr://__puppeteer_evaluation_script__:30:27)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21) Error: Evaluation failed: Error: Respec generation took too long
+    at isReady (pptr://__puppeteer_evaluation_script__:20:27)
+    at isReady (pptr://__puppeteer_evaluation_script__:30:27)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:255:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:143:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 414)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13589,20 +13624,23 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Contact Picker API {data-spec=true data-missingDfns=true data-ok=true}
+### Contact Picker API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
-- Crawled version: 27 January 2023
+- Crawled version: 8 March 2023
 - Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Shortname: contact-picker
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2010/WD-contacts-api-20100121/`](https://www.w3.org/TR/2010/WD-contacts-api-20100121/)
+     * [`https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/`](https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/)
+     * [`https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/`](https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14983,7 +15021,7 @@ Informative references to this spec from:
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 
 
-### Resource Hints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Resource Hints {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -14996,17 +15034,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://w3c.github.io/page-visibility/`](http://w3c.github.io/page-visibility/)
-     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
-     * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/)
-     * [`https://w3c.github.io/webappsec/specs/CSP2/`](https://w3c.github.io/webappsec/specs/CSP2/)
-     * [`https://w3c.github.io/webappsec/specs/content-security-policy/`](https://w3c.github.io/webappsec/specs/content-security-policy/)
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/), related reference "MIXED-CONTENT" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
-     * [`https://www.w3.org/TR/html5/document-metadata.html`](https://www.w3.org/TR/html5/document-metadata.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html5/dom.html`](https://www.w3.org/TR/html5/dom.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html5/infrastructure.html`](https://www.w3.org/TR/html5/infrastructure.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+The following network or parsing error occurred:
+`Error: Execution context was destroyed, most likely because of a navigation. Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:312:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:253:56)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:143:16)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 474)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15237,7 +15278,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
 - Crawled URL: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
-- Crawled version: 10 February 2023
+- Crawled version: 8 March 2023
 - Editor's Draft: [https://wicg.github.io/client-hints-infrastructure/](https://wicg.github.io/client-hints-infrastructure/)
 - Shortname: client-hints-infrastructure
 
@@ -17258,7 +17299,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-region/](https://www.w3.org/TR/mediacapture-region/)
 - Crawled URL: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
-- Crawled version: 20 October 2022
+- Crawled version: 08 March 2023
 - Editor's Draft: [https://w3c.github.io/mediacapture-region/](https://w3c.github.io/mediacapture-region/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-region/](https://www.w3.org/TR/mediacapture-region/)
 - Shortname: mediacapture-region
@@ -18367,7 +18408,6 @@ Normative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
-- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)

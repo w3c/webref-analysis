@@ -21,6 +21,15 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>558 specifications were crawled in this report.</p>
+  <section id="specifications-that-could-not-be-rendered" class="level2">
+  <h2>Specifications that could not be rendered</h2>
+  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
+  <ul>
+  <li><a href="https://w3c.github.io/html-media-capture/">HTML Media Capture</a>: <code>Error: Evaluation failed: Error: Respec generation took too long     at isReady (pptr://__puppeteer_evaluation_script__:20:27)     at isReady (pptr://__puppeteer_evaluation_script__:30:27)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21) Error: Evaluation failed: Error: Respec generation took too long     at isReady (pptr://__puppeteer_evaluation_script__:20:27)     at isReady (pptr://__puppeteer_evaluation_script__:30:27)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)     at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:255:15)     at runMicrotasks (&lt;anonymous&gt;)     at processTicksAndRejections (internal/process/task_queues.js:95:5)     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:143:16)     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)     at async Promise.all (index 414)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)</code></li>
+  <li><a href="https://w3c.github.io/resource-hints/">Resource Hints</a>: <code>Error: Execution context was destroyed, most likely because of a navigation. Error: Execution context was destroyed, most likely because of a navigation.     at rewriteError (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:312:15)     at runMicrotasks (&lt;anonymous&gt;)     at processTicksAndRejections (internal/process/task_queues.js:95:5)     at async ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:253:56)     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:143:16)     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)     at async Promise.all (index 474)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)</code></li>
+  </ul>
+  <p>=&gt; 2 specifications found</p>
+  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
@@ -231,6 +240,12 @@
   <ul>
   <li><a href="https://w3c.github.io/picture-in-picture/"><code>https://w3c.github.io/picture-in-picture/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/design-principles/"><code>https://www.w3.org/TR/design-principles/</code></a> but does not list it in its references</li>
+  </ul></li>
+  <li><a href="https://w3c.github.io/contact-picker/">Contact Picker API</a> links to:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2010/WD-contacts-api-20100121/"><code>https://www.w3.org/TR/2010/WD-contacts-api-20100121/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/"><code>https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/"><code>https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://wicg.github.io/content-index/spec/">Content Index</a> links to:
   <ul>
@@ -1286,14 +1301,6 @@
   <li><a href="https://www.w3.org/TR/cssom-view-1/"><code>https://www.w3.org/TR/cssom-view-1/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/intersection-observer/"><code>https://www.w3.org/TR/intersection-observer/</code></a> but does not list it in its references</li>
   </ul></li>
-  <li><a href="https://w3c.github.io/resource-hints/">Resource Hints</a> links to:
-  <ul>
-  <li><a href="http://w3c.github.io/page-visibility/"><code>http://w3c.github.io/page-visibility/</code></a> but does not list it in its references</li>
-  <li><a href="https://fetch.spec.whatwg.org/"><code>https://fetch.spec.whatwg.org/</code></a> but does not list it in its references</li>
-  <li><a href="https://url.spec.whatwg.org/"><code>https://url.spec.whatwg.org/</code></a> but does not list it in its references</li>
-  <li><a href="https://w3c.github.io/webappsec/specs/CSP2/"><code>https://w3c.github.io/webappsec/specs/CSP2/</code></a> but does not list it in its references</li>
-  <li><a href="https://w3c.github.io/webappsec/specs/content-security-policy/"><code>https://w3c.github.io/webappsec/specs/content-security-policy/</code></a> but does not list it in its references</li>
-  </ul></li>
   <li><a href="https://wicg.github.io/responsive-image-client-hints/">Responsive Image Client Hints</a> links to <a href="https://www.w3.org/TR/respimg-usecases/"><code>https://www.w3.org/TR/respimg-usecases/</code></a> but does not list it in its references</li>
   <li><a href="https://www.rfc-editor.org/rfc/rfc6454">RFC 6454: The Web Origin Concept</a> links to:
   <ul>
@@ -1668,7 +1675,7 @@
   <li><a href="https://immersive-web.github.io/raw-camera-access/">WebXR Raw Camera Access Module</a> links to <a href="https://www.w3.org/TR/mediacapture-streams/"><code>https://www.w3.org/TR/mediacapture-streams/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 992 missing references for links found in 233 specifications</p>
+  <p>=&gt; 990 missing references for links found in 233 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -2329,13 +2336,6 @@
   </ul></li>
   <li><a href="https://wicg.github.io/permissions-revoke/">Relinquishing Permissions</a> links to <a href="https://w3c.github.io/permissions/"><code>https://w3c.github.io/permissions/</code></a> but related reference “PERMISSIONS” uses URL <a href="https://www.w3.org/TR/permissions/"><code>https://www.w3.org/TR/permissions/</code></a></li>
   <li><a href="https://wicg.github.io/permissions-request/">Requesting Permissions</a> links to <a href="https://w3c.github.io/permissions/"><code>https://w3c.github.io/permissions/</code></a> but related reference “PERMISSIONS” uses URL <a href="https://www.w3.org/TR/permissions/"><code>https://www.w3.org/TR/permissions/</code></a></li>
-  <li><a href="https://w3c.github.io/resource-hints/">Resource Hints</a> links to:
-  <ul>
-  <li><a href="https://w3c.github.io/webappsec-mixed-content/"><code>https://w3c.github.io/webappsec-mixed-content/</code></a> but related reference “MIXED-CONTENT” uses URL <a href="https://www.w3.org/TR/mixed-content/"><code>https://www.w3.org/TR/mixed-content/</code></a></li>
-  <li><a href="https://www.w3.org/TR/html5/document-metadata.html"><code>https://www.w3.org/TR/html5/document-metadata.html</code></a> but related reference “HTML” uses URL <a href="https://html.spec.whatwg.org/multipage/"><code>https://html.spec.whatwg.org/multipage/</code></a></li>
-  <li><a href="https://www.w3.org/TR/html5/dom.html"><code>https://www.w3.org/TR/html5/dom.html</code></a> but related reference “HTML” uses URL <a href="https://html.spec.whatwg.org/multipage/"><code>https://html.spec.whatwg.org/multipage/</code></a></li>
-  <li><a href="https://www.w3.org/TR/html5/infrastructure.html"><code>https://www.w3.org/TR/html5/infrastructure.html</code></a> but related reference “HTML” uses URL <a href="https://html.spec.whatwg.org/multipage/"><code>https://html.spec.whatwg.org/multipage/</code></a></li>
-  </ul></li>
   <li><a href="https://w3c.github.io/resource-timing/">Resource Timing</a> links to <a href="https://w3c.github.io/performance-timeline/"><code>https://w3c.github.io/performance-timeline/</code></a> but related reference “PERFORMANCE-TIMELINE-2” uses URL <a href="https://www.w3.org/TR/performance-timeline/"><code>https://www.w3.org/TR/performance-timeline/</code></a></li>
   <li><a href="https://wicg.github.io/responsive-image-client-hints/">Responsive Image Client Hints</a> links to <a href="https://w3c.github.io/webappsec-permissions-policy/"><code>https://w3c.github.io/webappsec-permissions-policy/</code></a> but related reference “PERMISSIONS-POLICY-1” uses URL <a href="https://www.w3.org/TR/permissions-policy-1/"><code>https://www.w3.org/TR/permissions-policy-1/</code></a></li>
   <li><a href="https://httpwg.org/specs/rfc7538.html">RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)</a> links to <a href="http://www.w3.org/TR/html5/"><code>http://www.w3.org/TR/html5/</code></a> but related reference “HTML” uses URL <a href="http://www.w3.org/TR/2014/REC-html5-20141028/"><code>http://www.w3.org/TR/2014/REC-html5-20141028/</code></a></li>
@@ -2499,7 +2499,7 @@
   <li><a href="https://www.w3.org/TR/webxr/"><code>https://www.w3.org/TR/webxr/</code></a> but related reference “WEBXR” uses URL <a href="https://immersive-web.github.io/webxr/"><code>https://immersive-web.github.io/webxr/</code></a></li>
   </ul></li>
   </ul>
-  <p>=&gt; 502 inconsistent references for links found in 183 specifications</p>
+  <p>=&gt; 498 inconsistent references for links found in 182 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">
