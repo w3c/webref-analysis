@@ -2908,7 +2908,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 02 February 2023
+- Crawled version: 08 March 2023
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -3127,7 +3127,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 6 March 2023
+- Crawled version: 8 March 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -12375,7 +12375,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/SVG2/](https://www.w3.org/TR/SVG2/)
 - Crawled URL: [https://svgwg.org/svg2-draft/](https://svgwg.org/svg2-draft/)
-- Crawled version: 10 January 2023
+- Crawled version: 08 March 2023
 - Editor's Draft: [https://svgwg.org/svg2-draft/](https://svgwg.org/svg2-draft/)
 - Latest published version: [https://www.w3.org/TR/SVG2/](https://www.w3.org/TR/SVG2/)
 - Shortname: SVG2
@@ -12570,7 +12570,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
 - Crawled URL: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
-- Crawled version: 10 January 2023
+- Crawled version: 08 March 2023
 - Editor's Draft: [https://svgwg.org/specs/animations/](https://svgwg.org/specs/animations/)
 - Shortname: svg-animations
 
@@ -12616,7 +12616,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/svg-integration/](https://www.w3.org/TR/svg-integration/)
 - Crawled URL: [https://svgwg.org/specs/integration/](https://svgwg.org/specs/integration/)
-- Crawled version: 10 January 2023
+- Crawled version: 08 March 2023
 - Editor's Draft: [https://svgwg.org/specs/integration/](https://svgwg.org/specs/integration/)
 - Latest published version: [https://www.w3.org/TR/svg-integration/](https://www.w3.org/TR/svg-integration/)
 - Shortname: svg-integration
@@ -12645,7 +12645,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/svg-strokes/](https://www.w3.org/TR/svg-strokes/)
 - Crawled URL: [https://svgwg.org/specs/strokes/](https://svgwg.org/specs/strokes/)
-- Crawled version: 10 January 2023
+- Crawled version: 08 March 2023
 - Editor's Draft: [https://svgwg.org/specs/strokes/](https://svgwg.org/specs/strokes/)
 - Latest published version: [https://www.w3.org/TR/svg-strokes/](https://www.w3.org/TR/svg-strokes/)
 - Shortname: svg-strokes
@@ -14607,20 +14607,21 @@ Informative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 
 
-### Secure Payment Confirmation {data-spec=true data-missingDfns=true data-ok=true}
+### Secure Payment Confirmation {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Crawled URL: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
-- Crawled version: 30 January 2023
+- Crawled version: 8 March 2023
 - Editor's Draft: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
 - Latest published version: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Shortname: secure-payment-confirmation
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/), related reference "I18N-GLOSSARY" uses URL [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15713,7 +15714,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 7 March 2023
+- Crawled version: 8 March 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -16328,7 +16329,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Crawled URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
-- Crawled version: 7 March 2023
+- Crawled version: 8 March 2023
 - Editor's Draft: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Shortname: trust-token-api
 
@@ -16560,7 +16561,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Crawled URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
-- Crawled version: 28 February 2023
+- Crawled version: 8 March 2023
 - Editor's Draft: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Shortname: first-party-sets
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-08T12:53:41.379Z",
+  "date": "2023-03-08T18:37:37.087Z",
   "stats": {
     "crawled": 558,
     "errors": 2,
@@ -25086,7 +25086,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "7 March 2023",
+      "date": "8 March 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -26371,7 +26371,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "02 February 2023",
+      "date": "08 March 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -36169,7 +36169,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "7 March 2023",
+      "date": "8 March 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -41381,7 +41381,7 @@
     {
       "title": "Scalable Vector Graphics (SVG) 2",
       "shortname": "SVG2",
-      "date": "10 January 2023",
+      "date": "08 March 2023",
       "url": "https://www.w3.org/TR/SVG2/",
       "release": {
         "url": "https://www.w3.org/TR/SVG2/",
@@ -42776,7 +42776,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "30 January 2023",
+      "date": "8 March 2023",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -42812,12 +42812,20 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/i18n-glossary/",
+            "ref": {
+              "name": "I18N-GLOSSARY",
+              "url": "https://w3c.github.io/i18n-glossary/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -45546,7 +45554,7 @@
     {
       "title": "SVG Animations",
       "shortname": "svg-animations",
-      "date": "10 January 2023",
+      "date": "08 March 2023",
       "url": "https://svgwg.org/specs/animations/",
       "nightly": {
         "url": "https://svgwg.org/specs/animations/",
@@ -45689,7 +45697,7 @@
     {
       "title": "SVG Integration",
       "shortname": "svg-integration",
-      "date": "10 January 2023",
+      "date": "08 March 2023",
       "url": "https://www.w3.org/TR/svg-integration/",
       "release": {
         "url": "https://www.w3.org/TR/svg-integration/",
@@ -45748,7 +45756,7 @@
     {
       "title": "SVG Strokes",
       "shortname": "svg-strokes",
-      "date": "10 January 2023",
+      "date": "08 March 2023",
       "url": "https://www.w3.org/TR/svg-strokes/",
       "release": {
         "url": "https://www.w3.org/TR/svg-strokes/",
@@ -47368,7 +47376,7 @@
     {
       "title": "User Agent Interaction with First-Party Sets",
       "shortname": "first-party-sets",
-      "date": "28 February 2023",
+      "date": "8 March 2023",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
@@ -51365,7 +51373,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "6 March 2023",
+      "date": "8 March 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
