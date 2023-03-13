@@ -3186,7 +3186,6 @@ Normative references to this spec from:
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -3401,7 +3400,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/css-animations-1/](https://drafts.csswg.org/css-animations-1/)
-- Crawled version: 27 February 2023
+- Crawled version: 13 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-animations-1/](https://drafts.csswg.org/css-animations-1/)
 - Latest published version: [https://www.w3.org/TR/css-animations-1/](https://www.w3.org/TR/css-animations-1/)
 - Shortname: css-animations-1
@@ -3438,7 +3437,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-animations-2/](https://www.w3.org/TR/css-animations-2/)
 - Crawled URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
-- Crawled version: 11 March 2023
+- Crawled version: 13 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - Latest published version: [https://www.w3.org/TR/css-animations-2/](https://www.w3.org/TR/css-animations-2/)
 - Shortname: css-animations-2
@@ -3446,6 +3445,7 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
+     * [`https://w3c.github.io/csswg-drafts/scroll-animations-1/`](https://w3c.github.io/csswg-drafts/scroll-animations-1/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
@@ -3758,6 +3758,7 @@ Normative references to this spec from:
 
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -7319,7 +7320,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
-- Crawled version: 3 March 2023
+- Crawled version: 13 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Shortname: css-text-4
@@ -7457,7 +7458,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-transitions-1/](https://www.w3.org/TR/css-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-transitions-1/](https://drafts.csswg.org/css-transitions-1/)
-- Crawled version: 3 March 2023
+- Crawled version: 13 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-transitions-1/](https://drafts.csswg.org/css-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-transitions-1/](https://www.w3.org/TR/css-transitions-1/)
 - Shortname: css-transitions-1
@@ -7468,6 +7469,7 @@ Informative references to this spec from:
      * [`http://w3c.github.io/dom/`](http://w3c.github.io/dom/)
      * [`https://w3c.github.io/csswg-drafts/css-animations-1/`](https://w3c.github.io/csswg-drafts/css-animations-1/)
      * [`https://w3c.github.io/csswg-drafts/css-backgrounds-3/`](https://w3c.github.io/csswg-drafts/css-backgrounds-3/)
+     * [`https://w3c.github.io/csswg-drafts/css-color-4/`](https://w3c.github.io/csswg-drafts/css-color-4/)
      * [`https://w3c.github.io/csswg-drafts/css-easing-2/`](https://w3c.github.io/csswg-drafts/css-easing-2/)
      * [`https://w3c.github.io/csswg-drafts/css-transforms-1/`](https://w3c.github.io/csswg-drafts/css-transforms-1/)
      * [`https://w3c.github.io/csswg-drafts/cssom-1/`](https://w3c.github.io/csswg-drafts/cssom-1/)
@@ -7771,7 +7773,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 8 March 2023
+- Crawled version: 13 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -8196,7 +8198,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediaqueries-4/](https://www.w3.org/TR/mediaqueries-4/)
 - Crawled URL: [https://drafts.csswg.org/mediaqueries-4/](https://drafts.csswg.org/mediaqueries-4/)
-- Crawled version: 29 December 2022
+- Crawled version: 13 March 2023
 - Editor's Draft: [https://drafts.csswg.org/mediaqueries-4/](https://drafts.csswg.org/mediaqueries-4/)
 - Latest published version: [https://www.w3.org/TR/mediaqueries-4/](https://www.w3.org/TR/mediaqueries-4/)
 - Shortname: mediaqueries-4
@@ -9178,7 +9180,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 10 March 2023
+- Crawled version: 13 March 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9207,7 +9209,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 10 March 2023
+- Crawled version: 13 March 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
