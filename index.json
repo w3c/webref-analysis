@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-13T06:35:16.249Z",
+  "date": "2023-03-13T12:46:18.708Z",
   "stats": {
     "crawled": 558,
     "errors": 2,
@@ -2449,7 +2449,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "10 March 2023",
+      "date": "13 March 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -20297,7 +20297,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "8 March 2023",
+      "date": "13 March 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -31780,11 +31780,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
@@ -44662,7 +44657,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "8 March 2023",
+      "date": "13 March 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
