@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-14T12:46:08.802Z",
+  "date": "2023-03-14T18:40:48.666Z",
   "stats": {
     "crawled": 558,
     "errors": 2,
@@ -6667,7 +6667,7 @@
     {
       "title": "CSS Display Module Level 4",
       "shortname": "css-display-4",
-      "date": "3 March 2023",
+      "date": "14 March 2023",
       "url": "https://drafts.csswg.org/css-display-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-display-4/",
@@ -12544,7 +12544,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "13 March 2023",
+      "date": "14 March 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -13354,7 +13354,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "7 March 2023",
+      "date": "14 March 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -16239,7 +16239,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "9 March 2023",
+      "date": "14 March 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -22385,9 +22385,9 @@
       }
     },
     {
-      "title": "import assertions",
+      "title": "Import Assertions",
       "shortname": "tc39-import-assertions",
-      "date": "2 March 2023",
+      "date": "14 March 2023",
       "url": "https://tc39.es/proposal-import-assertions/",
       "nightly": {
         "url": "https://tc39.es/proposal-import-assertions/",
@@ -35941,7 +35941,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "13 March 2023",
+      "date": "14 March 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -47161,7 +47161,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "3 March 2023",
+      "date": "14 March 2023",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
