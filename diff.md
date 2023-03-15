@@ -1,13 +1,13 @@
-% Diff between report from "March 14, 2023" and reference report from "March 14, 2023"
+% Diff between report from "March 15, 2023" and reference report from "March 14, 2023"
 % Strudy
-% March 14, 2023
+% March 15, 2023
 
-## Import Assertions
+## EditContext API
 
-- Initial URL: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
+- Initial URL: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
-- Spec title: *INS* Import Assertions / *DEL* import assertions
+- Editor's Draft: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
+- Missing references for links: *INS* https://w3c.github.io/input-events
 
 
 

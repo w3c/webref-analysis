@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 14, 2023
+% March 15, 2023
 
 558 specifications were crawled in this report.
 
@@ -1680,6 +1680,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
     * [`https://html.spec.whatwg.org/multipage/obsolete.html`](https://html.spec.whatwg.org/multipage/obsolete.html) but does not list it in its references
 - [EditContext API](https://w3c.github.io/edit-context/) links to:
+    * [`https://w3c.github.io/input-events`](https://w3c.github.io/input-events) but does not list it in its references
     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
@@ -2186,7 +2187,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1769 missing references for links found in 251 specifications
+=> 1770 missing references for links found in 251 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
