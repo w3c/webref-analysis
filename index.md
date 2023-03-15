@@ -9180,7 +9180,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 13 March 2023
+- Crawled version: 15 March 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9200,7 +9200,9 @@ Normative references to this spec from:
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
 
 
 ### WebGPU Shading Language {data-spec=true data-missingDfns=true data-ok=true}
@@ -9209,7 +9211,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 13 March 2023
+- Crawled version: 15 March 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL

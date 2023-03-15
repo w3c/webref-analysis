@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-15T00:48:24.220Z",
+  "date": "2023-03-15T06:34:57.802Z",
   "stats": {
     "crawled": 558,
     "errors": 2,
@@ -46611,7 +46611,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "13 March 2023",
+      "date": "15 March 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46670,7 +46670,13 @@
               "crawled": "https://registry.khronos.org/webgl/specs/latest/1.0/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
+            }
+          ]
         },
         "ok": false
       }
@@ -46678,7 +46684,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "13 March 2023",
+      "date": "15 March 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
