@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 15, 2023
+% March 16, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -166,7 +166,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 12 March 2023
+- Crawled version: 15 March 2023
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -749,7 +749,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -779,7 +779,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1038,7 +1038,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1143,7 +1143,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 
 Informative references to this spec from:
@@ -1185,7 +1184,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1574,7 +1573,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1628,7 +1627,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1690,7 +1689,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1730,7 +1729,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1763,7 +1762,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1790,7 +1789,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 15 March 2023
+- Crawled version: 16 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2768,7 +2767,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 08 March 2023
+- Crawled version: 15 March 2023
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -9200,9 +9199,7 @@ Normative references to this spec from:
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
 
-Informative references to this spec from:
-
-- [WebGPU](https://gpuweb.github.io/gpuweb/)
+No informative reference to this spec from other specs.
 
 
 ### WebGPU Shading Language {data-spec=true data-missingDfns=true data-ok=true}
@@ -12689,6 +12686,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
@@ -13707,7 +13705,6 @@ Normative references to this spec from:
 
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [WOFF File Format 2.0](https://w3c.github.io/woff/woff2/)
 
@@ -13737,9 +13734,10 @@ Normative references to this spec from:
 
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 
 
 ## Web Machine Learning Working Group {#group-web_machine_learning_working_group}
@@ -17929,6 +17927,7 @@ Normative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
@@ -18347,6 +18346,7 @@ Normative references to this spec from:
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
+- [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)

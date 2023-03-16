@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-15T18:35:47.953Z",
+  "date": "2023-03-16T00:47:31.396Z",
   "stats": {
     "crawled": 558,
     "errors": 2,
@@ -398,7 +398,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "08 March 2023",
+      "date": "15 March 2023",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -16308,7 +16308,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "12 March 2023",
+      "date": "15 March 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -22915,6 +22915,11 @@
               "url": "https://fedidcg.github.io/FedCM/",
               "title": "Federated Credential Management API",
               "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
               "url": "https://www.w3.org/TR/fetch-metadata/",
@@ -31046,6 +31051,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -31904,7 +31914,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -31996,7 +32006,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -32269,7 +32279,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -32376,7 +32386,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -32456,7 +32466,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -33259,7 +33269,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -33299,7 +33309,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -33482,7 +33492,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -33929,7 +33939,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -34222,11 +34232,6 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
               "url": "https://mimesniff.spec.whatwg.org/",
               "title": "MIME Sniffing Standard",
               "crawled": "https://mimesniff.spec.whatwg.org/"
@@ -34373,7 +34378,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -40332,6 +40337,11 @@
               "url": "https://fedidcg.github.io/FedCM/",
               "title": "Federated Credential Management API",
               "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
               "url": "https://www.w3.org/TR/fetch-metadata/",
@@ -46670,13 +46680,7 @@
               "crawled": "https://registry.khronos.org/webgl/specs/latest/1.0/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/webgpu/",
-              "title": "WebGPU",
-              "crawled": "https://gpuweb.github.io/gpuweb/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -48164,11 +48168,6 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -48241,14 +48240,15 @@
               "url": "https://www.w3.org/TR/epub-rs-33/",
               "title": "EPUB Reading Systems 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
-            },
+            }
+          ],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": true
       }
