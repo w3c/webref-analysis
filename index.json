@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-16T12:44:55.099Z",
+  "date": "2023-03-16T18:35:44.687Z",
   "stats": {
     "crawled": 558,
     "errors": 2,
@@ -16239,7 +16239,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "14 March 2023",
+      "date": "16 March 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -16308,7 +16308,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -24835,7 +24835,7 @@
     {
       "title": "Local Network Access",
       "shortname": "local-network-access",
-      "date": "2 March 2023",
+      "date": "16 March 2023",
       "url": "https://wicg.github.io/local-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-network-access/",
@@ -26121,7 +26121,7 @@
     {
       "title": "MediaStream Image Capture",
       "shortname": "image-capture",
-      "date": "24 February 2023",
+      "date": "16 March 2023",
       "url": "https://www.w3.org/TR/image-capture/",
       "release": {
         "url": "https://www.w3.org/TR/image-capture/",
@@ -36114,6 +36114,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
@@ -36184,11 +36189,6 @@
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
               "crawled": "https://w3c.github.io/sensors/"
-            },
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
@@ -46631,7 +46631,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46698,7 +46698,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "15 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -46967,7 +46967,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "10 March 2023",
+      "date": "16 March 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
