@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-17T06:36:09.408Z",
+  "date": "2023-03-17T12:43:48.172Z",
   "stats": {
     "crawled": 558,
     "errors": 2,
@@ -20295,7 +20295,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "16 March 2023",
+      "date": "17 March 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -42271,7 +42271,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "28 February 2023",
+      "date": "17 March 2023",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
