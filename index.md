@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 17, 2023
+% March 18, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -749,7 +749,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -779,7 +779,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1038,7 +1038,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1184,7 +1184,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1573,7 +1573,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1627,7 +1627,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1689,7 +1689,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1729,7 +1729,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1762,7 +1762,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1789,7 +1789,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 17 March 2023
+- Crawled version: 18 March 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -4809,6 +4809,7 @@ Normative references to this spec from:
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
+- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
@@ -4997,7 +4998,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Crawled URL: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
-- Crawled version: 14 March 2023
+- Crawled version: 17 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
 - Latest published version: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Shortname: css-flexbox-1
@@ -9197,7 +9198,6 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
-- [WebGPU](https://gpuweb.github.io/gpuweb/)
 
 No informative reference to this spec from other specs.
 
@@ -10523,13 +10523,13 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### requestStorageAccessForOrigin API {data-spec=true data-missingDfns=true data-ok=true}
+### requestStorageAccessFor API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://privacycg.github.io/requestStorageAccessForOrigin/](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - Crawled URL: [https://privacycg.github.io/requestStorageAccessForOrigin/](https://privacycg.github.io/requestStorageAccessForOrigin/)
-- Crawled version: 20 February 2023
+- Crawled version: 17 March 2023
 - Editor's Draft: [https://privacycg.github.io/requestStorageAccessForOrigin/](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - Shortname: requestStorageAccessForOrigin
 
@@ -10565,7 +10565,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
 
 No informative reference to this spec from other specs.
@@ -12566,7 +12566,7 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
-- [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
@@ -14508,7 +14508,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 10 March 2023
+- Crawled version: 17 March 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -14946,7 +14946,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 16 March 2023
+- Crawled version: 17 March 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -15819,7 +15819,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
 - Crawled URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
-- Crawled version: 22 December 2022
+- Crawled version: 17 March 2023
 - Editor's Draft: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
 - Shortname: scroll-to-text-fragment
 
@@ -17164,7 +17164,7 @@ Normative references to this spec from:
 - [Region Capture](https://w3c.github.io/mediacapture-region/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
 - [Reporting API](https://w3c.github.io/reporting/)
-- [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Save Data API](https://wicg.github.io/savedata/)
@@ -17387,7 +17387,7 @@ Normative references to this spec from:
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
-- [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -17691,7 +17691,7 @@ Normative references to this spec from:
 - [Reporting API](https://w3c.github.io/reporting/)
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
-- [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
 - [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
@@ -18000,7 +18000,7 @@ Normative references to this spec from:
 - [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
-- [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Orientation](https://w3c.github.io/screen-orientation/)
@@ -18384,7 +18384,7 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
-- [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
@@ -18596,7 +18596,7 @@ Normative references to this spec from:
 - [Reporting API](https://w3c.github.io/reporting/)
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
-- [requestStorageAccessForOrigin API](https://privacycg.github.io/requestStorageAccessForOrigin/)
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Save Data API](https://wicg.github.io/savedata/)
