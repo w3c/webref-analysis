@@ -8964,10 +8964,10 @@ The following network or parsing error occurred:
     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
     at async isReady (pptr://__puppeteer_evaluation_script__:30:21)
-    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:255:15)
+    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:252:15)
     at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:143:16)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:140:16)
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
@@ -12382,7 +12382,6 @@ Normative references to this spec from:
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
-- [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -12512,7 +12511,6 @@ Normative references to this spec from:
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 
 Informative references to this spec from:
@@ -12693,7 +12691,6 @@ Normative references to this spec from:
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
-- [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 
@@ -14321,43 +14318,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
-
-
-### Resource Hints {data-spec=true data-error=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
-- Crawled URL: [https://w3c.github.io/resource-hints/](https://w3c.github.io/resource-hints/)
-- Crawled version: 05 October 2020
-- Editor's Draft: [https://w3c.github.io/resource-hints/](https://w3c.github.io/resource-hints/)
-- Latest published version: [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
-- Shortname: resource-hints
-
-#### Potential issue(s) {.anomalies}
-
-The following network or parsing error occurred:
-`Error: Execution context was destroyed, most likely because of a navigation. Error: Execution context was destroyed, most likely because of a navigation.
-    at rewriteError (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:312:15)
-    at runMicrotasks (<anonymous>)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at async ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:253:56)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:143:16)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 474)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
-
-No informative reference to this spec from other specs.
 
 
 ### Resource Timing {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -17693,7 +17653,6 @@ Normative references to this spec from:
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
 - [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
-- [Resource Hints](https://w3c.github.io/resource-hints/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
 - [Save Data API](https://wicg.github.io/savedata/)

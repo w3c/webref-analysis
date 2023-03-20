@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-20T06:35:17.425Z",
+  "date": "2023-03-20T07:08:49.392Z",
   "stats": {
-    "crawled": 558,
-    "errors": 2,
-    "studied": 558
+    "crawled": 557,
+    "errors": 1,
+    "studied": 557
   },
   "results": [
     {
@@ -2777,11 +2777,6 @@
               "url": "https://wicg.github.io/nav-speculation/prefetch.html",
               "title": "Prefetch",
               "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-hints/",
-              "title": "Resource Hints",
-              "crawled": "https://w3c.github.io/resource-hints/"
             },
             {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
@@ -20237,7 +20232,7 @@
         }
       ],
       "report": {
-        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:255:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:143:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 414)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
+        "error": "Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21) Error: Evaluation failed: Error: Respec generation took too long\n    at isReady (pptr://__puppeteer_evaluation_script__:20:27)\n    at isReady (pptr://__puppeteer_evaluation_script__:30:27)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at async isReady (pptr://__puppeteer_evaluation_script__:30:21)\n    at ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:252:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:140:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 414)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21401,11 +21396,6 @@
               "url": "https://www.w3.org/TR/resize-observer-1/",
               "title": "Resize Observer",
               "crawled": "https://drafts.csswg.org/resize-observer-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/resource-hints/",
-              "title": "Resource Hints",
-              "crawled": "https://w3c.github.io/resource-hints/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -27054,11 +27044,6 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://www.w3.org/TR/resource-hints/",
-              "title": "Resource Hints",
-              "crawled": "https://w3c.github.io/resource-hints/"
-            },
-            {
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
@@ -31097,11 +31082,6 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
-              "url": "https://www.w3.org/TR/resource-hints/",
-              "title": "Resource Hints",
-              "crawled": "https://w3c.github.io/resource-hints/"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -31716,95 +31696,6 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             }
           ]
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Resource Hints",
-      "shortname": "resource-hints",
-      "date": "05 October 2020",
-      "url": "https://www.w3.org/TR/resource-hints/",
-      "release": {
-        "url": "https://www.w3.org/TR/resource-hints/",
-        "status": "Working Draft",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/resource-hints/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/w3c/resource-hints",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/resource-hints/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Performance Working Group",
-          "url": "https://www.w3.org/webperf/"
-        }
-      ],
-      "report": {
-        "error": "Error: Execution context was destroyed, most likely because of a navigation. Error: Execution context was destroyed, most likely because of a navigation.\n    at rewriteError (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:312:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async ExecutionContext._ExecutionContext_evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:253:56)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/common/ExecutionContext.js:143:16)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:599:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 474)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "http://w3c.github.io/page-visibility/",
-          "https://fetch.spec.whatwg.org/",
-          "https://url.spec.whatwg.org/",
-          "https://w3c.github.io/webappsec/specs/CSP2/",
-          "https://w3c.github.io/webappsec/specs/content-security-policy/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-mixed-content/",
-            "ref": {
-              "name": "MIXED-CONTENT",
-              "url": "https://www.w3.org/TR/mixed-content/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html5/document-metadata.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html5/dom.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html5/infrastructure.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          }
-        ],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/navigation-timing-2/",
-              "title": "Navigation Timing Level 2",
-              "crawled": "https://w3c.github.io/navigation-timing/"
-            }
-          ],
-          "informative": []
         },
         "ok": false
       }
