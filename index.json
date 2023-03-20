@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-20T12:44:24.052Z",
+  "date": "2023-03-20T18:36:50.061Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -5066,7 +5066,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "3 March 2023",
+      "date": "20 March 2023",
       "url": "https://www.w3.org/TR/css-cascade-6/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -5540,7 +5540,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "28 February 2023",
+      "date": "17 March 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -16234,7 +16234,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "16 March 2023",
+      "date": "20 March 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -20300,7 +20300,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "19 March 2023",
+      "date": "20 March 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -23761,7 +23761,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "24 February 2023",
+      "date": "20 March 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -23796,7 +23796,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-text-4/"
+        ],
         "inconsistentRef": [
           {
             "link": "http://www.w3.org/TR/2005/REC-charmod-20050215/",
@@ -28900,11 +28902,6 @@
               "crawled": "https://w3c.github.io/screen-wake-lock/"
             },
             {
-              "url": "https://wicg.github.io/scroll-to-text-fragment/",
-              "title": "Text Fragments",
-              "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
-            },
-            {
               "url": "https://privacycg.github.io/storage-access/",
               "title": "The Storage Access API",
               "crawled": "https://privacycg.github.io/storage-access/"
@@ -29241,7 +29238,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "10 March 2023",
+      "date": "20 March 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -39202,7 +39199,7 @@
     {
       "title": "Text Fragments",
       "shortname": "scroll-to-text-fragment",
-      "date": "17 March 2023",
+      "date": "20 March 2023",
       "url": "https://wicg.github.io/scroll-to-text-fragment/",
       "nightly": {
         "url": "https://wicg.github.io/scroll-to-text-fragment/",
@@ -40562,6 +40559,11 @@
               "crawled": "https://wicg.github.io/sanitizer-api/"
             },
             {
+              "url": "https://www.w3.org/TR/i18n-glossary/",
+              "title": "Internationalization Glossary",
+              "crawled": "https://w3c.github.io/i18n-glossary/"
+            },
+            {
               "url": "https://www.w3.org/TR/media-source-2/",
               "title": "Media Source Extensions™",
               "crawled": "https://w3c.github.io/media-source/"
@@ -40637,7 +40639,7 @@
     {
       "title": "User Agent Interaction with First-Party Sets",
       "shortname": "first-party-sets",
-      "date": "8 March 2023",
+      "date": "20 March 2023",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
@@ -46527,7 +46529,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "17 March 2023",
+      "date": "20 March 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46594,7 +46596,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "17 March 2023",
+      "date": "20 March 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

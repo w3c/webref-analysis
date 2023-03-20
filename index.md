@@ -138,7 +138,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 16 March 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -4037,7 +4037,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
-- Crawled version: 3 March 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
 - Shortname: css-cascade-6
@@ -4237,7 +4237,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 28 February 2023
+- Crawled version: 17 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -9147,7 +9147,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 17 March 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9176,7 +9176,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 17 March 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -9540,13 +9540,13 @@ No informative reference to this spec from other specs.
 
 ## Internationalization Working Group {#group-internationalization_working_group}
 
-### Internationalization Glossary {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-inconsistentRef=true}
+### Internationalization Glossary {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 24 February 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -9554,6 +9554,8 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-text-4/`](https://www.w3.org/TR/css-text-4/)
 - Inconsistent references for links: 
      * [`http://www.w3.org/TR/2005/REC-charmod-20050215/`](http://www.w3.org/TR/2005/REC-charmod-20050215/), related reference "CHARMOD" uses URL [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
 
@@ -10422,7 +10424,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 10 March 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -12607,7 +12609,6 @@ Normative references to this spec from:
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
-- [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
@@ -15747,7 +15748,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
 - Crawled URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
-- Crawled version: 17 March 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
 - Shortname: scroll-to-text-fragment
 
@@ -15792,7 +15793,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Crawled URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
-- Crawled version: 8 March 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Shortname: first-party-sets
 
@@ -17407,7 +17408,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 19 March 2023
+- Crawled version: 20 March 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -18343,6 +18344,7 @@ Informative references to this spec from:
 
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [Media Source Extensions™](https://w3c.github.io/media-source/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)

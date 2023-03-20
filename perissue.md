@@ -1682,6 +1682,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/) links to:
     * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/) but does not list it in its references
     * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/) but does not list it in its references
+- [Internationalization Glossary](https://w3c.github.io/i18n-glossary/) links to [`https://www.w3.org/TR/css-text-4/`](https://www.w3.org/TR/css-text-4/) but does not list it in its references
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/) links to:
     * [`http://www.w3.org/TR/css-masking-1/`](http://www.w3.org/TR/css-masking-1/) but does not list it in its references
     * [`http://www.w3.org/TR/hr-time/`](http://www.w3.org/TR/hr-time/) but does not list it in its references
@@ -2138,7 +2139,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1770 missing references for links found in 251 specifications
+=> 1771 missing references for links found in 252 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
