@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-22T12:41:22.868Z",
+  "date": "2023-03-22T18:34:09.564Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -2841,6 +2841,11 @@
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
               "title": "Scripting Policy",
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/service-workers/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -14625,7 +14630,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "30 January 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -16262,7 +16267,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "18 February 2023",
+      "date": "22 March 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -16304,7 +16309,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "20 March 2023",
+      "date": "22 March 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -17274,7 +17279,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "17 March 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -17340,7 +17345,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "17 March 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -17647,7 +17652,7 @@
     {
       "title": "Fenced frame",
       "shortname": "fenced-frame",
-      "date": "21 March 2023",
+      "date": "22 March 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -18555,7 +18560,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "20 March 2023",
+      "date": "22 March 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -28708,7 +28713,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "22 February 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -29254,7 +29259,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "20 March 2023",
+      "date": "22 March 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -36524,7 +36529,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "20 February 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -43888,7 +43893,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "16 March 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -43939,7 +43944,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "16 March 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -44058,7 +44063,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "16 March 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -44593,7 +44598,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "13 March 2023",
+      "date": "22 March 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -46545,7 +46550,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "21 March 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46612,7 +46617,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "21 March 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
