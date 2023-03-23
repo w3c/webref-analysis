@@ -1,8 +1,22 @@
 % Reffy crawl
 % Strudy
-% March 22, 2023
+% March 23, 2023
 
 557 specifications were crawled in this report.
+
+
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/): `Error: Loading https://privacycg.github.io/requestStorageAccessForOrigin/ triggered HTTP status 404 Error: Loading https://privacycg.github.io/requestStorageAccessForOrigin/ triggered HTTP status 404
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 49)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+=> 1 specification found
 
 
 ## Specifications without normative dependencies
