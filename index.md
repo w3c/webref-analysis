@@ -325,9 +325,7 @@ Reffy could not render this specification as a DOM tree and cannot say anything 
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -8740,7 +8738,9 @@ Informative references to this spec from:
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
 ### Contact Picker API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -10067,6 +10067,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 
 
@@ -12070,7 +12071,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [Badging API](https://w3c.github.io/badging/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
@@ -12530,6 +12530,7 @@ Normative references to this spec from:
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Badging API](https://w3c.github.io/badging/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [File System Access](https://wicg.github.io/file-system-access/)
@@ -12859,7 +12860,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
 - Crawled URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
-- Crawled version: 20 December 2022
+- Crawled version: 24 March 2023
 - Editor's Draft: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
 - Shortname: badging
 
@@ -13401,7 +13402,9 @@ Normative references to this spec from:
 
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
 ### Web Share API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -14892,7 +14895,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 23 March 2023
+- Crawled version: 24 March 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -16750,6 +16753,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
@@ -16889,6 +16893,7 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 
 
@@ -16980,7 +16985,6 @@ Normative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
-- [Badging API](https://w3c.github.io/badging/)
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
@@ -17425,7 +17429,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 20 March 2023
+- Crawled version: 24 March 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -18090,6 +18094,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [Badging API](https://w3c.github.io/badging/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Push API](https://w3c.github.io/push-api/)
