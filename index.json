@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-24T06:35:30.719Z",
+  "date": "2023-03-24T12:42:18.977Z",
   "stats": {
     "crawled": 557,
     "errors": 2,
@@ -2396,7 +2396,7 @@
     {
       "title": "Compression Streams",
       "shortname": "compression",
-      "date": "2 March 2023",
+      "date": "24 March 2023",
       "url": "https://wicg.github.io/compression/",
       "nightly": {
         "url": "https://wicg.github.io/compression/",
@@ -2444,7 +2444,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "22 March 2023",
+      "date": "24 March 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -17708,7 +17708,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "23 March 2023",
+      "date": "24 March 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -20112,7 +20112,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "22 March 2023",
+      "date": "24 March 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -42025,7 +42025,7 @@
     {
       "title": "Web Bluetooth",
       "shortname": "web-bluetooth",
-      "date": "9 June 2022",
+      "date": "24 March 2023",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/",
@@ -42058,29 +42058,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/page-visibility-2/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/fingerprinting-guidance/",
-            "ref": {
-              "name": "FINGERPRINTING-GUIDANCE",
-              "url": "https://www.w3.org/TR/fingerprinting-guidance/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://www.w3.org/TR/permissions/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/webappsec-permissions-policy/",
-            "ref": {
-              "name": "PERMISSIONS-POLICY-1",
-              "url": "https://www.w3.org/TR/permissions-policy-1/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
