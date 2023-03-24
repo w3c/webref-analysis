@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-24T12:42:18.977Z",
+  "date": "2023-03-24T18:33:51.572Z",
   "stats": {
     "crawled": 557,
     "errors": 2,
@@ -695,7 +695,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "06 March 2023",
+      "date": "24 March 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -23768,7 +23768,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "21 March 2023",
+      "date": "24 March 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -46541,7 +46541,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "23 March 2023",
+      "date": "24 March 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46608,7 +46608,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "23 March 2023",
+      "date": "24 March 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
