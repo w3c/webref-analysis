@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-25T00:48:19.345Z",
+  "date": "2023-03-25T06:33:11.568Z",
   "stats": {
     "crawled": 557,
     "errors": 2,
@@ -1621,11 +1621,6 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
-              "url": "https://www.w3.org/TR/fill-stroke-3/",
-              "title": "CSS Fill and Stroke Module Level 3",
-              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -3050,7 +3045,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "23 March 2023",
+      "date": "25 March 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -12401,6 +12396,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/fill-stroke-3/",
+              "title": "CSS Fill and Stroke Module Level 3",
+              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
@@ -14644,7 +14644,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "23 March 2023",
+      "date": "25 March 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
