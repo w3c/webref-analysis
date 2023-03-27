@@ -117,7 +117,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Crawled URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
-- Crawled version: 24 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Shortname: tc39-explicit-resource-management
 
@@ -3179,7 +3179,6 @@ Normative references to this spec from:
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
-- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
@@ -3446,6 +3445,7 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
+     * [`https://w3c.github.io/csswg-drafts/css-page-floats-3/`](https://w3c.github.io/csswg-drafts/css-page-floats-3/)
      * [`https://w3c.github.io/csswg-drafts/scroll-animations-1/`](https://w3c.github.io/csswg-drafts/scroll-animations-1/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
@@ -3457,6 +3457,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
 No informative reference to this spec from other specs.
@@ -3513,6 +3514,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
@@ -3622,8 +3624,11 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
@@ -3757,6 +3762,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
@@ -4010,8 +4016,11 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
@@ -4239,7 +4248,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 20 March 2023
+- Crawled version: 22 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -4926,6 +4935,7 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
+     * [`https://w3c.github.io/csswg-drafts/css-page-floats-3/`](https://w3c.github.io/csswg-drafts/css-page-floats-3/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -6272,7 +6282,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 
 No informative reference to this spec from other specs.
 
@@ -8389,7 +8401,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 22 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Latest published version: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Shortname: scroll-animations-1
@@ -8723,7 +8735,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
-- Crawled version: 24 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Latest published version: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Shortname: compute-pressure
@@ -9552,7 +9564,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 24 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -10652,7 +10664,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
-- Crawled version: 14 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
 - Shortname: rdf12-concepts
 
@@ -10685,7 +10697,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
-- Crawled version: 24 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Shortname: rdf12-n-quads
 
@@ -10714,7 +10726,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
-- Crawled version: 20 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Shortname: rdf12-n-triples
 
@@ -10744,7 +10756,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
-- Crawled version: 14 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
 - Shortname: rdf12-schema
 
@@ -10774,7 +10786,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
-- Crawled version: 16 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Shortname: rdf12-semantics
 
@@ -10807,7 +10819,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
-- Crawled version: 03 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
 - Shortname: rdf12-trig
 
@@ -10837,7 +10849,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
-- Crawled version: 15 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
 - Shortname: rdf12-turtle
 
@@ -10868,7 +10880,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
-- Crawled version: 10 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Shortname: rdf12-xml
 
@@ -10954,7 +10966,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
-- Crawled version: 16 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Shortname: sparql12-entailment
 
@@ -10995,7 +11007,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
-- Crawled version: 14 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Shortname: sparql12-federated-query
 
@@ -11047,7 +11059,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- Crawled version: 10 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Shortname: sparql12-graph-store-protocol
 
@@ -11097,7 +11109,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
-- Crawled version: 10 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
 - Shortname: sparql12-concepts
 
@@ -11155,7 +11167,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
-- Crawled version: 10 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Shortname: sparql12-protocol
 
@@ -11207,7 +11219,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 07 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Shortname: sparql12-query
 
@@ -11252,7 +11264,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Crawled version: 08 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Shortname: sparql12-results-csv-tsv
 
@@ -11308,7 +11320,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Crawled version: 03 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Shortname: sparql12-results-json
 
@@ -11352,7 +11364,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
-- Crawled version: 03 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Shortname: sparql12-results-xml
 
@@ -11403,7 +11415,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
-- Crawled version: 03 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Shortname: sparql12-service-description
 
@@ -11460,7 +11472,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
-- Crawled version: 06 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Shortname: sparql12-update
 
@@ -11755,7 +11767,6 @@ Normative references to this spec from:
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
-- [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Shapes Module Level 1](https://drafts.csswg.org/css-shapes-1/)
 - [CSS Shapes Module Level 2](https://drafts.csswg.org/css-shapes-2/)
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
@@ -11953,7 +11964,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
 - Crawled URL: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
-- Crawled version: 7 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
 - Latest published version: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
 - Shortname: window-placement
@@ -13477,7 +13488,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
-- Crawled version: 24 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Shortname: web-bluetooth
 
@@ -14960,7 +14971,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 24 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -16901,7 +16912,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 27 February 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 
@@ -17423,7 +17434,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 24 March 2023
+- Crawled version: 27 March 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

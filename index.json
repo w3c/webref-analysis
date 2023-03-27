@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-27T06:34:46.533Z",
+  "date": "2023-03-27T18:37:30.570Z",
   "stats": {
     "crawled": 557,
     "errors": 2,
@@ -1601,11 +1601,6 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
@@ -2112,7 +2107,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "27 February 2023",
+      "date": "27 March 2023",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -2439,7 +2434,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "24 March 2023",
+      "date": "27 March 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -3778,6 +3773,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/csswg-drafts/css-page-floats-3/",
           "https://w3c.github.io/csswg-drafts/scroll-animations-1/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
@@ -3788,6 +3784,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
+            },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
@@ -3912,6 +3913,11 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-3/",
+              "title": "CSS Text Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -4146,6 +4152,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
@@ -4154,6 +4165,16 @@
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2022/",
+              "title": "CSS Snapshot 2022",
+              "crawled": "https://drafts.csswg.org/css-2022/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-2023/",
+              "title": "CSS Snapshot 2023",
+              "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -4427,6 +4448,11 @@
               "url": "https://www.w3.org/TR/css-layout-api-1/",
               "title": "CSS Layout API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-3/",
+              "title": "CSS Text Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -4976,14 +5002,29 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
+              "url": "https://www.w3.org/TR/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
               "crawled": "https://drafts.csswg.org/css-box-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-contain-1/",
+              "title": "CSS Containment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-contain-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
@@ -5545,7 +5586,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "20 March 2023",
+      "date": "22 March 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -7333,6 +7374,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/csswg-drafts/css-page-floats-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-shapes/",
           "https://www.w3.org/TR/css-values-3/",
@@ -10316,7 +10358,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -16204,7 +16252,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "24 March 2023",
+      "date": "27 March 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -18821,7 +18869,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "24 March 2023",
+      "date": "27 March 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -20306,7 +20354,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 March 2023",
+      "date": "27 March 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -23762,7 +23810,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "24 March 2023",
+      "date": "27 March 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -27226,7 +27274,7 @@
     {
       "title": "Multi-Screen Window Placement",
       "shortname": "window-placement",
-      "date": "7 March 2023",
+      "date": "27 March 2023",
       "url": "https://www.w3.org/TR/window-placement/",
       "release": {
         "url": "https://www.w3.org/TR/window-placement/",
@@ -30073,7 +30121,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "14 March 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/rdf-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -30164,7 +30212,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "24 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -30242,7 +30290,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "20 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -30321,7 +30369,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "14 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/rdf-schema/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-schema/spec/",
@@ -30404,7 +30452,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "16 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -30498,7 +30546,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "03 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/rdf-trig/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-trig/spec/",
@@ -30577,7 +30625,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "15 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/rdf-turtle/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-turtle/spec/",
@@ -30661,7 +30709,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "10 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/rdf-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-xml/spec/",
@@ -35257,11 +35305,6 @@
               "crawled": "https://drafts.csswg.org/cssom-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-overflow-3/",
-              "title": "CSS Overflow Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-overflow-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-shapes-1/",
               "title": "CSS Shapes Module Level 1",
               "crawled": "https://drafts.csswg.org/css-shapes-1/"
@@ -35877,7 +35920,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "22 March 2023",
+      "date": "27 March 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -36848,7 +36891,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "16 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -36979,7 +37022,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "14 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-federated-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-federated-query/spec/",
@@ -37121,7 +37164,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "10 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
@@ -37261,7 +37304,7 @@
     {
       "title": "SPARQL 1.2 Overview",
       "shortname": "sparql12-concepts",
-      "date": "10 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -37408,7 +37451,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "10 February 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-protocol/spec/",
@@ -37550,7 +37593,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "07 March 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -37685,7 +37728,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "08 March 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
@@ -37835,7 +37878,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "03 March 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -37968,7 +38011,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "03 March 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-results-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
@@ -38108,7 +38151,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "03 March 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-service-description/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -38255,7 +38298,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "06 March 2023",
+      "date": "27 March 2023",
       "url": "https://w3c.github.io/sparql-update/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-update/spec/",
@@ -42019,7 +42062,7 @@
     {
       "title": "Web Bluetooth",
       "shortname": "web-bluetooth",
-      "date": "24 March 2023",
+      "date": "27 March 2023",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/",
