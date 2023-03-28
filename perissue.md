@@ -5,26 +5,6 @@
 557 specifications were crawled in this report.
 
 
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Import Assertions](https://tc39.es/proposal-import-assertions/): `Error: Loading https://tc39.es/proposal-import-assertions/ triggered HTTP status 404 Error: Loading https://tc39.es/proposal-import-assertions/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 111)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessForOrigin/): `Error: Loading https://privacycg.github.io/requestStorageAccessForOrigin/ triggered HTTP status 404 Error: Loading https://privacycg.github.io/requestStorageAccessForOrigin/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 49)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-=> 2 specifications found
-
-
 ## Specifications without normative dependencies
 
 - [A Method for Writing Testable Conformance Requirements](https://www.w3.org/TR/test-methodology/)
@@ -1133,6 +1113,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Positioned Layout Module Level 4](https://drafts.csswg.org/css-position-4/) links to [`https://w3c.github.io/csswg-drafts/css-display-4/`](https://w3c.github.io/csswg-drafts/css-display-4/) but does not list it in its references
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/) links to [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/) but does not list it in its references
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/) links to:
     * [`https://w3c.github.io/csswg-drafts/css-backgrounds-3/`](https://w3c.github.io/csswg-drafts/css-backgrounds-3/) but does not list it in its references
@@ -2152,7 +2133,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1765 missing references for links found in 251 specifications
+=> 1766 missing references for links found in 252 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

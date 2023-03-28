@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-28T06:34:41.280Z",
+  "date": "2023-03-28T12:50:13.562Z",
   "stats": {
     "crawled": 557,
-    "errors": 2,
+    "errors": 0,
     "studied": 557
   },
   "results": [
@@ -2439,7 +2439,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -5155,7 +5155,7 @@
       "url": "https://www.w3.org/TR/css-cascade-6/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-6/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -6988,6 +6988,11 @@
               "url": "https://www.w3.org/TR/css-position-3/",
               "title": "CSS Positioned Layout Module Level 3",
               "crawled": "https://drafts.csswg.org/css-position-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-position-4/",
+              "title": "CSS Positioned Layout Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-position-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -10786,6 +10791,52 @@
       }
     },
     {
+      "title": "CSS Positioned Layout Module Level 4",
+      "shortname": "css-position-4",
+      "date": "24 March 2023",
+      "url": "https://drafts.csswg.org/css-position-4/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-position-4/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-position-4/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-position-4/Overview.bs",
+        "filename": "Overview.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-position-4/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/csswg-drafts/css-display-4/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "CSS Properties and Values API Level 1",
       "shortname": "css-properties-values-api-1",
       "date": "3 February 2023",
@@ -12740,7 +12791,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "21 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -15502,6 +15553,11 @@
               "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-position-4/",
+              "title": "CSS Positioned Layout Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-position-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
@@ -15967,9 +16023,9 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
-              "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+              "url": "https://privacycg.github.io/requestStorageAccessFor/",
               "title": "requestStorageAccessFor API",
-              "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
+              "crawled": "https://privacycg.github.io/requestStorageAccessFor/"
             },
             {
               "url": "https://www.w3.org/TR/resize-observer-1/",
@@ -18242,9 +18298,9 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
-              "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+              "url": "https://privacycg.github.io/requestStorageAccessFor/",
               "title": "requestStorageAccessFor API",
-              "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
+              "crawled": "https://privacycg.github.io/requestStorageAccessFor/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -21597,9 +21653,9 @@
               "crawled": "https://wicg.github.io/permissions-request/"
             },
             {
-              "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+              "url": "https://privacycg.github.io/requestStorageAccessFor/",
               "title": "requestStorageAccessFor API",
-              "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
+              "crawled": "https://privacycg.github.io/requestStorageAccessFor/"
             },
             {
               "url": "https://www.w3.org/TR/resize-observer-1/",
@@ -22591,51 +22647,6 @@
       }
     },
     {
-      "title": "Import Assertions",
-      "shortname": "tc39-import-assertions",
-      "date": "23 March 2023",
-      "url": "https://tc39.es/proposal-import-assertions/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-import-assertions/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-import-assertions",
-        "sourcePath": "spec.emu",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-import-assertions/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "error": "Error: Loading https://tc39.es/proposal-import-assertions/ triggered HTTP status 404 Error: Loading https://tc39.es/proposal-import-assertions/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 111)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "https://html.spec.whatwg.org/"
-        ],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
       "date": "28 June 2022",
@@ -23462,9 +23473,9 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
-              "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+              "url": "https://privacycg.github.io/requestStorageAccessFor/",
               "title": "requestStorageAccessFor API",
-              "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
+              "crawled": "https://privacycg.github.io/requestStorageAccessFor/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -23565,6 +23576,11 @@
               "url": "https://www.w3.org/TR/trusted-types/",
               "title": "Trusted Types",
               "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/uievents-code/",
+              "title": "UI Events KeyboardEvent code Values",
+              "crawled": "https://w3c.github.io/uievents-code/"
             },
             {
               "url": "https://url.spec.whatwg.org/",
@@ -28828,9 +28844,9 @@
               "crawled": "https://wicg.github.io/permissions-request/"
             },
             {
-              "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+              "url": "https://privacycg.github.io/requestStorageAccessFor/",
               "title": "requestStorageAccessFor API",
-              "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
+              "crawled": "https://privacycg.github.io/requestStorageAccessFor/"
             },
             {
               "url": "https://www.w3.org/TR/screen-capture/",
@@ -31769,18 +31785,18 @@
     },
     {
       "title": "requestStorageAccessFor API",
-      "shortname": "requestStorageAccessForOrigin",
-      "date": "17 March 2023",
-      "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+      "shortname": "requestStorageAccessFor",
+      "date": "23 March 2023",
+      "url": "https://privacycg.github.io/requestStorageAccessFor/",
       "nightly": {
-        "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+        "url": "https://privacycg.github.io/requestStorageAccessFor/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/privacycg/requestStorageAccessForOrigin",
+        "repository": "https://github.com/privacycg/requestStorageAccessFor",
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+      "crawled": "https://privacycg.github.io/requestStorageAccessFor/",
       "organization": "W3C",
       "groups": [
         {
@@ -31789,7 +31805,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://privacycg.github.io/requestStorageAccessForOrigin/ triggered HTTP status 404 Error: Loading https://privacycg.github.io/requestStorageAccessForOrigin/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 49)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -31804,16 +31819,10 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
-              "crawled": "https://wicg.github.io/first-party-sets/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -39595,9 +39604,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+              "url": "https://privacycg.github.io/requestStorageAccessFor/",
               "title": "requestStorageAccessFor API",
-              "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
+              "crawled": "https://privacycg.github.io/requestStorageAccessFor/"
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
@@ -40102,7 +40111,7 @@
     {
       "title": "UI Events KeyboardEvent code Values",
       "shortname": "uievents-code",
-      "date": "2 November 2022",
+      "date": "28 March 2023",
       "url": "https://www.w3.org/TR/uievents-code/",
       "release": {
         "url": "https://www.w3.org/TR/uievents-code/",
@@ -40178,7 +40187,7 @@
     {
       "title": "UI Events KeyboardEvent key Values",
       "shortname": "uievents-key",
-      "date": "2 November 2022",
+      "date": "27 March 2023",
       "url": "https://www.w3.org/TR/uievents-key/",
       "release": {
         "url": "https://www.w3.org/TR/uievents-key/",
@@ -40643,9 +40652,9 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
-              "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+              "url": "https://privacycg.github.io/requestStorageAccessFor/",
               "title": "requestStorageAccessFor API",
-              "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
+              "crawled": "https://privacycg.github.io/requestStorageAccessFor/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -42097,7 +42106,7 @@
       "groups": [
         {
           "name": "Web Authentication Working Group",
-          "url": "https://www.w3.org/webauthn/"
+          "url": "https://www.w3.org/groups/wg/webauthn"
         }
       ],
       "report": {
@@ -43185,9 +43194,9 @@
               "crawled": "https://wicg.github.io/permissions-request/"
             },
             {
-              "url": "https://privacycg.github.io/requestStorageAccessForOrigin/",
+              "url": "https://privacycg.github.io/requestStorageAccessFor/",
               "title": "requestStorageAccessFor API",
-              "crawled": "https://privacycg.github.io/requestStorageAccessForOrigin/"
+              "crawled": "https://privacycg.github.io/requestStorageAccessFor/"
             },
             {
               "url": "https://www.w3.org/TR/resize-observer-1/",
