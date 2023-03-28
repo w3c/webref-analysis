@@ -2,34 +2,20 @@
 % Strudy
 % March 28, 2023
 
-## CSS Positioned Layout Module Level 4
+## CSS Custom Highlight API Module Level 1
 
-- Initial URL: [https://drafts.csswg.org/css-position-4/](https://drafts.csswg.org/css-position-4/)
+- Initial URL: [https://www.w3.org/TR/css-highlight-api-1/](https://www.w3.org/TR/css-highlight-api-1/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-position-4/](https://drafts.csswg.org/css-position-4/)
-- This specification was not in the reference crawl report.
+- Editor's Draft: [https://drafts.csswg.org/css-highlight-api-1/](https://drafts.csswg.org/css-highlight-api-1/)
+- Inconsistent references for links: *INS* https://www.w3.org/TR/i18n-glossary/
 
 
-## Import Assertions
+## URL Fragment Text Directives
 
-- Initial URL: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
-- Crawled URL: [https://tc39.es/proposal-import-assertions/](https://tc39.es/proposal-import-assertions/)
-- This specification is not in the new crawl report.
-
-
-## requestStorageAccessFor API
-
-- Initial URL: [https://privacycg.github.io/requestStorageAccessFor/](https://privacycg.github.io/requestStorageAccessFor/)
+- Initial URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://privacycg.github.io/requestStorageAccessFor/](https://privacycg.github.io/requestStorageAccessFor/)
-- This specification was not in the reference crawl report.
-
-
-## requestStorageAccessFor API
-
-- Initial URL: [https://privacycg.github.io/requestStorageAccessForOrigin/](https://privacycg.github.io/requestStorageAccessForOrigin/)
-- Crawled URL: [https://privacycg.github.io/requestStorageAccessForOrigin/](https://privacycg.github.io/requestStorageAccessForOrigin/)
-- This specification is not in the new crawl report.
+- Editor's Draft: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
+- Spec title: *INS* URL Fragment Text Directives / *DEL* Text Fragments
 
 
 
