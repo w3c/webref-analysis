@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-27T18:37:30.570Z",
+  "date": "2023-03-28T00:48:55.010Z",
   "stats": {
     "crawled": 557,
     "errors": 2,
@@ -1616,6 +1616,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -3040,7 +3045,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "26 March 2023",
+      "date": "28 March 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3424,6 +3429,11 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -3895,6 +3905,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -4152,6 +4167,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -4268,6 +4288,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
@@ -4444,6 +4469,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
               "title": "CSS Layout API Level 1",
@@ -4778,6 +4808,11 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             }
           ],
           "informative": [
@@ -5015,6 +5050,11 @@
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -6108,6 +6148,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -6580,7 +6625,7 @@
     {
       "title": "CSS Display Module Level 3",
       "shortname": "css-display-3",
-      "date": "17 March 2023",
+      "date": "27 March 2023",
       "url": "https://www.w3.org/TR/css-display-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-display-3/",
@@ -6619,24 +6664,26 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/csswg-drafts/css-align-3/",
-          "https://w3c.github.io/csswg-drafts/css-backgrounds-3/",
-          "https://w3c.github.io/csswg-drafts/css-break-3/",
-          "https://w3c.github.io/csswg-drafts/cssom-1/",
-          "https://w3c.github.io/csswg-drafts/selectors-4/",
+          "https://w3c.github.io/csswg-drafts/css-ui-4/",
+          "https://w3c.github.io/csswg-drafts/css2/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-contain-1/",
           "https://www.w3.org/TR/css-grid/",
           "https://www.w3.org/TR/css-multicol-1/",
           "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css-speech-1/",
-          "https://www.w3.org/TR/css-values-3/",
-          "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/security-privacy-questionnaire/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-values/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://www.w3.org/TR/css-values-3/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -7392,7 +7439,13 @@
               "crawled": "https://drafts.csswg.org/css-page-4/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            }
+          ]
         },
         "ok": false
       }
@@ -7573,6 +7626,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
@@ -8038,6 +8096,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -8132,6 +8195,11 @@
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
               "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -8431,6 +8499,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -8518,6 +8591,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
@@ -8676,6 +8754,11 @@
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -8995,6 +9078,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
               "title": "CSS Layout API Level 1",
@@ -9968,7 +10056,15 @@
           "https://w3c.github.io/csswg-drafts/cssom-1/",
           "https://w3c.github.io/csswg-drafts/selectors-4/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/i18n-glossary/",
+            "ref": {
+              "name": "I18N-GLOSSARY",
+              "url": "https://w3c.github.io/i18n-glossary/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -9985,6 +10081,11 @@
               "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -10030,7 +10131,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "21 March 2023",
+      "date": "24 March 2023",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -10095,6 +10196,11 @@
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
@@ -10433,6 +10539,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
@@ -10618,6 +10729,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
               "title": "CSS Layout API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
@@ -10756,7 +10872,7 @@
     {
       "title": "CSS Pseudo-Elements Module Level 4",
       "shortname": "css-pseudo-4",
-      "date": "16 January 2023",
+      "date": "27 March 2023",
       "url": "https://www.w3.org/TR/css-pseudo-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -10818,6 +10934,11 @@
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
@@ -11126,6 +11247,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-text-3/",
               "title": "CSS Text Module Level 3",
@@ -12015,6 +12141,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
@@ -12261,6 +12392,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
@@ -12667,6 +12803,11 @@
               "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-masking-1/",
@@ -13320,6 +13461,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -13539,6 +13685,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -13636,7 +13787,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
@@ -14025,6 +14176,11 @@
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-masking-1/",
@@ -14692,7 +14848,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "26 March 2023",
+      "date": "28 March 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -15678,7 +15834,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -16583,7 +16739,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
@@ -17587,7 +17743,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "24 February 2023",
+      "date": "27 March 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -19030,7 +19186,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -20027,7 +20183,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -21263,7 +21419,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -23193,7 +23349,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://notifications.spec.whatwg.org/",
@@ -25990,6 +26146,11 @@
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -26999,7 +27160,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://wicg.github.io/responsive-image-client-hints/",
@@ -27289,7 +27450,7 @@
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/window-placement/",
+      "crawled": "https://w3c.github.io/window-management/",
       "organization": "W3C",
       "groups": [
         {
@@ -28634,7 +28795,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://notifications.spec.whatwg.org/",
@@ -28928,7 +29089,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/orientation-sensor/",
@@ -31892,7 +32053,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -31984,7 +32145,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -32257,7 +32418,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -32364,7 +32525,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -32444,7 +32605,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -33247,7 +33408,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -33287,7 +33448,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -33470,7 +33631,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -33917,7 +34078,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -34356,7 +34517,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "27 March 2023",
+      "date": "28 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -35791,7 +35952,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             }
           ]
         },
@@ -36492,6 +36653,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-display-3/",
+              "title": "CSS Display Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
@@ -39264,7 +39430,7 @@
     {
       "title": "Text Fragments",
       "shortname": "scroll-to-text-fragment",
-      "date": "24 March 2023",
+      "date": "27 March 2023",
       "url": "https://wicg.github.io/scroll-to-text-fragment/",
       "nightly": {
         "url": "https://wicg.github.io/scroll-to-text-fragment/",
@@ -42886,7 +43052,7 @@
             {
               "url": "https://www.w3.org/TR/window-placement/",
               "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-placement/"
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/navigation-timing-2/",

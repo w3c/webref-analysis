@@ -1,21 +1,22 @@
-% Diff between report from "March 27, 2023" and reference report from "March 27, 2023"
+% Diff between report from "March 28, 2023" and reference report from "March 27, 2023"
 % Strudy
-% March 27, 2023
+% March 28, 2023
 
-## CSS Animations Level 2
+## CSS Display Module Level 3
 
-- Initial URL: [https://www.w3.org/TR/css-animations-2/](https://www.w3.org/TR/css-animations-2/)
+- Initial URL: [https://www.w3.org/TR/css-display-3/](https://www.w3.org/TR/css-display-3/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
-- Missing references for links: *INS* https://w3c.github.io/csswg-drafts/css-page-floats-3/
+- Editor's Draft: [https://drafts.csswg.org/css-display-3/](https://drafts.csswg.org/css-display-3/)
+- Missing references for links: *INS* https://w3c.github.io/csswg-drafts/css-ui-4/, https://w3c.github.io/csswg-drafts/css2/ / *DEL* https://w3c.github.io/csswg-drafts/css-align-3/, https://w3c.github.io/csswg-drafts/css-backgrounds-3/, https://w3c.github.io/csswg-drafts/css-break-3/, https://w3c.github.io/csswg-drafts/cssom-1/, https://w3c.github.io/csswg-drafts/selectors-4/, https://www.w3.org/TR/css-speech-1/, https://www.w3.org/TR/css-values-3/, https://www.w3.org/TR/css-values/
+- Inconsistent references for links: *INS* https://www.w3.org/TR/css-values/
 
 
-## CSS Exclusions Module Level 1
+## CSS Object Model (CSSOM)
 
-- Initial URL: [https://www.w3.org/TR/css3-exclusions/](https://www.w3.org/TR/css3-exclusions/)
+- Initial URL: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-exclusions-1/](https://drafts.csswg.org/css-exclusions-1/)
-- Missing references for links: *INS* https://w3c.github.io/csswg-drafts/css-page-floats-3/
+- Editor's Draft: [https://drafts.csswg.org/cssom-1/](https://drafts.csswg.org/cssom-1/)
+- Inconsistent references for links: *INS* https://www.w3.org/TR/i18n-glossary/
 
 
 
