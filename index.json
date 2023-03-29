@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-29T06:36:11.746Z",
+  "date": "2023-03-29T12:45:27.644Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -2439,7 +2439,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "28 March 2023",
+      "date": "29 March 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -25118,7 +25118,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "7 February 2023",
+      "date": "29 March 2023",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -37781,7 +37781,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "28 March 2023",
+      "date": "29 March 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -39536,7 +39536,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "14 February 2023",
+      "date": "29 March 2023",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
