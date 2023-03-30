@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-30T00:50:44.741Z",
+  "date": "2023-03-30T06:34:32.039Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "28 March 2023",
+      "date": "30 March 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -1205,7 +1205,7 @@
     {
       "title": "Badging API",
       "shortname": "badging",
-      "date": "24 March 2023",
+      "date": "30 March 2023",
       "url": "https://w3c.github.io/badging/",
       "nightly": {
         "url": "https://w3c.github.io/badging/",
@@ -24331,7 +24331,7 @@
     {
       "title": "Iterator Helpers",
       "shortname": "tc39-iterator-helpers",
-      "date": "6 February 2023",
+      "date": "30 March 2023",
       "url": "https://tc39.es/proposal-iterator-helpers/",
       "nightly": {
         "url": "https://tc39.es/proposal-iterator-helpers/",
