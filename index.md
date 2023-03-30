@@ -5803,7 +5803,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/csswg-drafts/selectors-4/`](https://w3c.github.io/csswg-drafts/selectors-4/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css-text-4/`](https://www.w3.org/TR/css-text-4/)
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
@@ -6408,7 +6407,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-position-4/](https://drafts.csswg.org/css-position-4/)
 - Crawled URL: [https://drafts.csswg.org/css-position-4/](https://drafts.csswg.org/css-position-4/)
-- Crawled version: 24 March 2023
+- Crawled version: 30 March 2023
 - Editor's Draft: [https://drafts.csswg.org/css-position-4/](https://drafts.csswg.org/css-position-4/)
 - Shortname: css-position-4
 
@@ -6416,6 +6415,12 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://w3c.github.io/csswg-drafts/css-display-4/`](https://w3c.github.io/csswg-drafts/css-display-4/)
+     * [`https://w3c.github.io/csswg-drafts/css-transitions-1/`](https://w3c.github.io/csswg-drafts/css-transitions-1/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9136,7 +9141,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 29 March 2023
+- Crawled version: 30 March 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -9164,7 +9169,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 29 March 2023
+- Crawled version: 30 March 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -10473,7 +10478,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 28 March 2023
+- Crawled version: 30 March 2023
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -14922,7 +14927,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 29 March 2023
+- Crawled version: 30 March 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -15881,7 +15886,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/ua-client-hints/](https://wicg.github.io/ua-client-hints/)
 - Crawled URL: [https://wicg.github.io/ua-client-hints/](https://wicg.github.io/ua-client-hints/)
-- Crawled version: 17 February 2023
+- Crawled version: 30 March 2023
 - Editor's Draft: [https://wicg.github.io/ua-client-hints/](https://wicg.github.io/ua-client-hints/)
 - Shortname: ua-client-hints
 
@@ -16310,7 +16315,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Crawled URL: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
-- Crawled version: 21 March 2023
+- Crawled version: 30 March 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-stats/](https://w3c.github.io/webrtc-stats/)
 - Latest published version: [https://www.w3.org/TR/webrtc-stats/](https://www.w3.org/TR/webrtc-stats/)
 - Shortname: webrtc-stats
@@ -16747,7 +16752,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 27 March 2023
+- Crawled version: 30 March 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -16950,6 +16955,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 
 Informative references to this spec from:
 
@@ -17884,6 +17890,7 @@ Normative references to this spec from:
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
+- [CSS Positioned Layout Module Level 4](https://drafts.csswg.org/css-position-4/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - [CSS Shadow Parts](https://drafts.csswg.org/css-shadow-parts-1/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)

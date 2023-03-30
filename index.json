@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-30T12:42:06.829Z",
+  "date": "2023-03-30T18:34:03.912Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -2156,6 +2156,11 @@
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
+              "url": "https://wicg.github.io/ua-client-hints/",
+              "title": "User-Agent Client Hints",
+              "crawled": "https://wicg.github.io/ua-client-hints/"
             }
           ],
           "informative": [
@@ -9356,7 +9361,6 @@
           "https://w3c.github.io/csswg-drafts/selectors-4/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css-text-4/",
           "https://www.w3.org/TR/css-values-3/",
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/cssom/",
@@ -10801,7 +10805,7 @@
     {
       "title": "CSS Positioned Layout Module Level 4",
       "shortname": "css-position-4",
-      "date": "24 March 2023",
+      "date": "30 March 2023",
       "url": "https://drafts.csswg.org/css-position-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-position-4/",
@@ -10834,7 +10838,13 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/csswg-drafts/css-display-4/"
+          "https://w3c.github.io/csswg-drafts/css-display-4/",
+          "https://w3c.github.io/csswg-drafts/css-transitions-1/",
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -17489,7 +17499,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "29 March 2023",
+      "date": "30 March 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -17555,7 +17565,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "29 March 2023",
+      "date": "30 March 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -17862,7 +17872,7 @@
     {
       "title": "Fenced frame",
       "shortname": "fenced-frame",
-      "date": "29 March 2023",
+      "date": "30 March 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -22384,7 +22394,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "21 March 2023",
+      "date": "30 March 2023",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -23029,6 +23039,11 @@
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-position-4/",
+              "title": "CSS Positioned Layout Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-position-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
@@ -29517,7 +29532,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "28 March 2023",
+      "date": "30 March 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -41061,7 +41076,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "17 February 2023",
+      "date": "30 March 2023",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
@@ -47125,7 +47140,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "27 March 2023",
+      "date": "30 March 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
