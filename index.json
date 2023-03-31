@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-31T00:48:42.758Z",
+  "date": "2023-03-31T06:36:05.607Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -20615,7 +20615,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "29 March 2023",
+      "date": "31 March 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -30636,7 +30636,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "27 March 2023",
+      "date": "31 March 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
