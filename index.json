@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-30T18:34:03.912Z",
+  "date": "2023-03-31T00:48:42.758Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -3567,6 +3567,7 @@
           "https://w3c.github.io/csswg-drafts/css-align-3/",
           "https://w3c.github.io/csswg-drafts/css-display-3/",
           "https://w3c.github.io/csswg-drafts/css-display-4/",
+          "https://w3c.github.io/csswg-drafts/css-position-4/",
           "https://w3c.github.io/csswg-drafts/css-scoping-1/",
           "https://w3c.github.io/csswg-drafts/css-shadow-parts-1/",
           "https://w3c.github.io/csswg-drafts/css-syntax-3/",
@@ -5492,7 +5493,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "22 March 2023",
+      "date": "30 March 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -6137,6 +6138,7 @@
           "https://w3c.github.io/csswg-drafts/css-break-3/",
           "https://w3c.github.io/csswg-drafts/css-display-3/",
           "https://w3c.github.io/csswg-drafts/css-display-4/",
+          "https://w3c.github.io/csswg-drafts/css-position-4/",
           "https://w3c.github.io/csswg-drafts/css-scoping-1/",
           "https://w3c.github.io/csswg-drafts/css-transitions-1/",
           "https://w3c.github.io/csswg-drafts/css-transitions-2/",
@@ -9661,6 +9663,11 @@
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
             {
+              "url": "https://drafts.csswg.org/css-position-4/",
+              "title": "CSS Positioned Layout Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-position-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -10838,8 +10845,10 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/csswg-drafts/css-color-4/",
           "https://w3c.github.io/csswg-drafts/css-display-4/",
           "https://w3c.github.io/csswg-drafts/css-transitions-1/",
+          "https://w3c.github.io/csswg-drafts/selectors-4/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
@@ -10848,7 +10857,23 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-2/",
+              "title": "CSS Containment Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -13854,11 +13879,6 @@
               "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
               "title": "Non-element Selectors Module Level 1",
               "crawled": "https://drafts.csswg.org/selectors-nonelement-1/"
@@ -13882,6 +13902,11 @@
               "url": "https://www.w3.org/TR/webvtt1/",
               "title": "WebVTT: The Web Video Text Tracks Format",
               "crawled": "https://w3c.github.io/webvtt/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             }
           ],
           "informative": [
@@ -14017,6 +14042,7 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/csswg-drafts/css-images-5/",
+          "https://w3c.github.io/csswg-drafts/css-position-4/",
           "https://w3c.github.io/csswg-drafts/css-scoping-1/",
           "https://w3c.github.io/csswg-drafts/css-viewport/",
           "https://w3c.github.io/csswg-drafts/cssom-view-1/",
@@ -15906,11 +15932,6 @@
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
@@ -16321,6 +16342,11 @@
               "crawled": "https://wicg.github.io/window-controls-overlay/"
             },
             {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
+            },
+            {
               "url": "https://www.w3.org/2001/tag/doc/promises-guide",
               "title": "Writing Promise-Using Specifications",
               "crawled": "https://www.w3.org/2001/tag/doc/promises-guide"
@@ -16593,7 +16619,7 @@
     {
       "title": "ECMAScript® 2023 Language Specification",
       "shortname": "ecmascript",
-      "date": "21 March 2023",
+      "date": "31 March 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -16811,11 +16837,6 @@
               "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -16984,6 +17005,11 @@
               "url": "https://www.w3.org/TR/webxr-hit-test-1/",
               "title": "WebXR Hit Test Module",
               "crawled": "https://immersive-web.github.io/hit-test/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://xhr.spec.whatwg.org/",
@@ -19233,21 +19259,6 @@
               "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-2/",
-              "title": "CSS Containment Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
@@ -19261,11 +19272,6 @@
               "url": "https://wicg.github.io/keyboard-lock/",
               "title": "Keyboard Lock",
               "crawled": "https://wicg.github.io/keyboard-lock/"
-            },
-            {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -19301,13 +19307,28 @@
               "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
               "title": "WebXR DOM Overlays Module",
               "crawled": "https://immersive-web.github.io/dom-overlays/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             }
           ],
           "informative": [
             {
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-3/",
               "title": "CSS Containment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-position-4/",
+              "title": "CSS Positioned Layout Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-position-4/"
             },
             {
               "url": "https://dom.spec.whatwg.org/",
@@ -20260,11 +20281,6 @@
               "crawled": "https://w3c.github.io/mediacapture-record/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
@@ -20368,6 +20384,11 @@
               "url": "https://www.w3.org/TR/webxr/",
               "title": "WebXR Device API",
               "crawled": "https://immersive-web.github.io/webxr/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             }
           ],
           "informative": [
@@ -21501,11 +21522,6 @@
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
@@ -22094,6 +22110,11 @@
               "url": "https://wicg.github.io/window-controls-overlay/",
               "title": "Window Controls Overlay",
               "crawled": "https://wicg.github.io/window-controls-overlay/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://www.w3.org/2001/tag/doc/promises-guide",
@@ -23391,11 +23412,6 @@
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -23824,6 +23840,11 @@
               "url": "https://wicg.github.io/window-controls-overlay/",
               "title": "Window Controls Overlay",
               "crawled": "https://wicg.github.io/window-controls-overlay/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://xhr.spec.whatwg.org/",
@@ -27217,11 +27238,6 @@
               "crawled": "https://w3c.github.io/input-events/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://wicg.github.io/responsive-image-client-hints/",
               "title": "Responsive Image Client Hints",
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
@@ -27230,6 +27246,11 @@
               "url": "https://webbluetoothcg.github.io/web-bluetooth/",
               "title": "Web Bluetooth",
               "crawled": "https://webbluetoothcg.github.io/web-bluetooth/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             }
           ],
           "informative": [
@@ -27489,63 +27510,6 @@
           ]
         },
         "ok": true
-      }
-    },
-    {
-      "title": "Multi-Screen Window Placement",
-      "shortname": "window-placement",
-      "date": "27 March 2023",
-      "url": "https://www.w3.org/TR/window-placement/",
-      "release": {
-        "url": "https://www.w3.org/TR/window-placement/",
-        "status": "Working Draft",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/window-placement/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/w3c/window-placement",
-        "sourcePath": "index.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/window-management/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Second Screen Working Group",
-          "url": "https://www.w3.org/2014/secondscreen/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/cssom-view-1"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/fingerprinting-guidance/",
-            "ref": {
-              "name": "FINGERPRINTING-GUIDANCE",
-              "url": "https://w3c.github.io/fingerprinting-guidance/"
-            }
-          }
-        ],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
       }
     },
     {
@@ -28852,11 +28816,6 @@
               "crawled": "https://w3c.github.io/miniapp-packaging/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -28965,6 +28924,11 @@
               "url": "https://www.w3.org/TR/webxr/",
               "title": "WebXR Device API",
               "crawled": "https://immersive-web.github.io/webxr/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             }
           ],
           "informative": [
@@ -29146,11 +29110,6 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
@@ -29259,6 +29218,11 @@
               "url": "https://www.w3.org/TR/webxr/",
               "title": "WebXR Device API",
               "crawled": "https://immersive-web.github.io/webxr/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             }
           ],
           "informative": [
@@ -30341,7 +30305,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "27 March 2023",
+      "date": "30 March 2023",
       "url": "https://w3c.github.io/rdf-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -30432,7 +30396,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "27 March 2023",
+      "date": "30 March 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -32110,7 +32074,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -32202,7 +32166,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -32480,7 +32444,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -32587,7 +32551,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -32667,7 +32631,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -33470,7 +33434,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -33510,7 +33474,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -33693,7 +33657,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -34140,7 +34104,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -34584,7 +34548,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -36018,7 +35982,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
+              "title": "Window Management",
               "crawled": "https://w3c.github.io/window-management/"
             }
           ]
@@ -43110,11 +43074,6 @@
               "crawled": "https://w3c.github.io/miniapp-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/window-placement/",
-              "title": "Multi-Screen Window Placement",
-              "crawled": "https://w3c.github.io/window-management/"
-            },
-            {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
@@ -43628,6 +43587,11 @@
               "url": "https://wicg.github.io/window-controls-overlay/",
               "title": "Window Controls Overlay",
               "crawled": "https://wicg.github.io/window-controls-overlay/"
+            },
+            {
+              "url": "https://www.w3.org/TR/window-placement/",
+              "title": "Window Management",
+              "crawled": "https://w3c.github.io/window-management/"
             },
             {
               "url": "https://xhr.spec.whatwg.org/",
@@ -48306,6 +48270,63 @@
           "informative": []
         },
         "ok": true
+      }
+    },
+    {
+      "title": "Window Management",
+      "shortname": "window-placement",
+      "date": "30 March 2023",
+      "url": "https://www.w3.org/TR/window-placement/",
+      "release": {
+        "url": "https://www.w3.org/TR/window-placement/",
+        "status": "Working Draft",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/window-placement/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/window-placement",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/window-management/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Second Screen Working Group",
+          "url": "https://www.w3.org/2014/secondscreen/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/cssom-view-1"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/fingerprinting-guidance/",
+            "ref": {
+              "name": "FINGERPRINTING-GUIDANCE",
+              "url": "https://w3c.github.io/fingerprinting-guidance/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
       }
     },
     {
