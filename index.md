@@ -1064,6 +1064,7 @@ Normative references to this spec from:
 - [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
 - [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
 - [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -9152,7 +9153,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 30 March 2023
+- Crawled version: 31 March 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -9180,7 +9181,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 30 March 2023
+- Crawled version: 31 March 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -9208,7 +9209,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 28 March 2023
+- Crawled version: 31 March 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9237,7 +9238,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 28 March 2023
+- Crawled version: 31 March 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -10718,6 +10719,7 @@ Normative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -10980,7 +10982,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 
 Informative references to this spec from:
 
@@ -11200,7 +11204,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
-- Crawled version: 30 March 2023
+- Crawled version: 31 March 2023
 - Editor's Draft: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Shortname: sparql12-protocol
 
@@ -11208,17 +11212,6 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-update-20130321`](http://www.w3.org/TR/2013/REC-sparql11-update-20130321)
-     * [`http://www.w3.org/TR/rdf-concepts/`](http://www.w3.org/TR/rdf-concepts/)
-     * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/)
-     * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/)
-     * [`http://www.w3.org/TR/sparql11-http-rdf-update/`](http://www.w3.org/TR/sparql11-http-rdf-update/)
-     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
-     * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/)
-     * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/)
-     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/)
-     * [`http://www.w3.org/TR/turtle`](http://www.w3.org/TR/turtle)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14062,6 +14055,7 @@ Normative references to this spec from:
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Geolocation API](https://w3c.github.io/geolocation-api/)
