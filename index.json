@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-03-31T06:36:05.607Z",
+  "date": "2023-03-31T12:43:00.331Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -3050,7 +3050,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -12390,6 +12390,11 @@
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
+              "url": "https://www.w3.org/TR/fill-stroke-3/",
+              "title": "CSS Fill and Stroke Module Level 3",
+              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
+            },
+            {
               "url": "https://wicg.github.io/css-parser-api/",
               "title": "CSS Parser API",
               "crawled": "https://wicg.github.io/css-parser-api/"
@@ -14943,7 +14948,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "30 March 2023",
+      "date": "31 March 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -15365,7 +15370,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "22 March 2023",
+      "date": "31 March 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -15398,7 +15403,15 @@
         "missingLinkRef": [
           "https://w3c.github.io/deviceorientation/spec-source-orientation.html"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/i18n-glossary/",
+            "ref": {
+              "name": "I18N-GLOSSARY",
+              "url": "https://w3c.github.io/i18n-glossary/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -17294,6 +17307,11 @@
               "crawled": "https://fs.spec.whatwg.org/"
             },
             {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -19130,7 +19148,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "27 March 2023",
+      "date": "31 March 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -30671,11 +30689,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/fill-stroke-3/",
-              "title": "CSS Fill and Stroke Module Level 3",
-              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
-            },
-            {
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
@@ -37925,7 +37938,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "27 March 2023",
+      "date": "31 March 2023",
       "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
@@ -38075,7 +38088,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "27 March 2023",
+      "date": "31 March 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -38208,7 +38221,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "27 March 2023",
+      "date": "31 March 2023",
       "url": "https://w3c.github.io/sparql-results-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
@@ -43747,7 +43760,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "9 March 2023",
+      "date": "31 March 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
