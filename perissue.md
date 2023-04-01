@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 31, 2023
+% April 01, 2023
 
 557 specifications were crawled in this report.
 
@@ -585,6 +585,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/csswg-drafts/css-break-3/`](https://w3c.github.io/csswg-drafts/css-break-3/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-display-3/`](https://w3c.github.io/csswg-drafts/css-display-3/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-display-4/`](https://w3c.github.io/csswg-drafts/css-display-4/) but does not list it in its references
+    * [`https://w3c.github.io/csswg-drafts/css-position-4/`](https://w3c.github.io/csswg-drafts/css-position-4/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-scoping-1/`](https://w3c.github.io/csswg-drafts/css-scoping-1/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-shadow-parts-1/`](https://w3c.github.io/csswg-drafts/css-shadow-parts-1/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-syntax-3/`](https://w3c.github.io/csswg-drafts/css-syntax-3/) but does not list it in its references
@@ -2132,7 +2133,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1`](https://www.w3.org/TR/cssom-view-1) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1765 missing references for links found in 252 specifications
+=> 1766 missing references for links found in 252 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
