@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-02T12:39:38.452Z",
+  "date": "2023-04-02T18:32:33.575Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -17550,7 +17550,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "31 March 2023",
+      "date": "02 April 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -17616,7 +17616,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "31 March 2023",
+      "date": "02 April 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -41065,7 +41065,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "30 March 2023",
+      "date": "2 April 2023",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
