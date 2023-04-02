@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-02T06:32:32.222Z",
+  "date": "2023-04-02T12:39:38.452Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -25189,7 +25189,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "29 March 2023",
+      "date": "2 April 2023",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -37397,7 +37397,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "30 March 2023",
+      "date": "02 April 2023",
       "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
@@ -37537,7 +37537,7 @@
     {
       "title": "SPARQL 1.2 Overview",
       "shortname": "sparql12-concepts",
-      "date": "31 March 2023",
+      "date": "02 April 2023",
       "url": "https://w3c.github.io/sparql-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -37815,7 +37815,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "29 March 2023",
+      "date": "02 April 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",

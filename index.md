@@ -11099,7 +11099,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- Crawled version: 30 March 2023
+- Crawled version: 02 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Shortname: sparql12-graph-store-protocol
 
@@ -11149,7 +11149,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
-- Crawled version: 31 March 2023
+- Crawled version: 02 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-concepts/spec/](https://w3c.github.io/sparql-concepts/spec/)
 - Shortname: sparql12-concepts
 
@@ -11248,7 +11248,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 29 March 2023
+- Crawled version: 02 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Shortname: sparql12-query
 
@@ -14136,7 +14136,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Crawled URL: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
-- Crawled version: 29 March 2023
+- Crawled version: 2 April 2023
 - Editor's Draft: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 - Latest published version: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Shortname: longtasks-1
