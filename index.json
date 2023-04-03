@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-03T06:34:14.969Z",
+  "date": "2023-04-03T12:40:35.568Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -14830,7 +14830,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "04 November 2021",
+      "date": "03 April 2023",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -19155,7 +19155,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "31 March 2023",
+      "date": "3 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -29521,7 +29521,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "30 March 2023",
+      "date": "03 April 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -37815,7 +37815,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "02 April 2023",
+      "date": "03 April 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -38520,7 +38520,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "30 March 2023",
+      "date": "03 April 2023",
       "url": "https://w3c.github.io/sparql-update/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-update/spec/",
@@ -47134,7 +47134,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "30 March 2023",
+      "date": "03 April 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
