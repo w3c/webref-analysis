@@ -15,7 +15,7 @@
 - [Decorators proposal](https://tc39.es/proposal-decorators/)
 - [ECMAScript Explicit Resource Management](https://tc39.es/proposal-explicit-resource-management/)
 - [ECMAScript® 2023 Internationalization API Specification](https://tc39.es/ecma402/)
-- [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/multipage/)
+- [ECMAScript® 2024 Language Specification](https://tc39.es/ecma262/multipage/)
 - [ES Array.fromAsync (2022)](https://tc39.es/proposal-array-from-async/)
 - [Extend TimeZoneName Option Proposal](https://tc39.es/proposal-intl-extend-timezonename/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
@@ -1634,7 +1634,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html) but does not list it in its references
     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
 - [DOM Standard](https://dom.spec.whatwg.org/) links to [`https://w3c.github.io/deviceorientation/spec-source-orientation.html`](https://w3c.github.io/deviceorientation/spec-source-orientation.html) but does not list it in its references
-- [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/multipage/) links to:
+- [ECMAScript® 2024 Language Specification](https://tc39.es/ecma262/multipage/) links to:
     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
     * [`https://html.spec.whatwg.org/multipage/obsolete.html`](https://html.spec.whatwg.org/multipage/obsolete.html) but does not list it in its references
 - [EditContext API](https://w3c.github.io/edit-context/) links to:

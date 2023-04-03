@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-03T00:46:53.428Z",
+  "date": "2023-04-03T06:34:14.969Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -3050,7 +3050,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "31 March 2023",
+      "date": "3 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -14955,7 +14955,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "31 March 2023",
+      "date": "3 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -16637,9 +16637,9 @@
       }
     },
     {
-      "title": "ECMAScript® 2023 Language Specification",
+      "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "31 March 2023",
+      "date": "3 April 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -25602,7 +25602,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "27 March 2023",
+      "date": "03 April 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
