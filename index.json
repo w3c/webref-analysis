@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-04T06:33:08.734Z",
+  "date": "2023-04-04T12:40:17.538Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -14870,7 +14870,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "03 April 2023",
+      "date": "04 April 2023",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
