@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-05T00:47:00.993Z",
+  "date": "2023-04-05T06:33:37.284Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -3055,7 +3055,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "4 April 2023",
+      "date": "5 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -14994,7 +14994,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "4 April 2023",
+      "date": "5 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -38834,7 +38834,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "20 February 2023",
+      "date": "4 April 2023",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
