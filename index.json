@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-05T12:45:03.936Z",
+  "date": "2023-04-05T18:36:55.237Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -885,7 +885,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "4 April 2023",
+      "date": "5 April 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3716,11 +3716,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -3750,7 +3745,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "4 April 2023",
+      "date": "5 April 2023",
       "url": "https://www.w3.org/TR/css-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-2/",
@@ -3788,12 +3783,14 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/csswg-drafts/css-page-floats-3/",
-          "https://w3c.github.io/csswg-drafts/scroll-animations-1/",
+          "https://w3c.github.io/csswg-drafts/css-animations-1/",
+          "https://w3c.github.io/csswg-drafts/css-easing-2/",
+          "https://w3c.github.io/csswg-drafts/cssom-1/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations-1/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [],
@@ -5045,11 +5042,6 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-box-3/",
@@ -7240,11 +7232,6 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -7302,6 +7289,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
             {
               "url": "https://drafts.csswg.org/css-backgrounds-4/",
               "title": "CSS Backgrounds and Borders Module Level 4",
@@ -10127,11 +10119,6 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
@@ -10518,13 +10505,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -12940,11 +12921,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
@@ -13191,11 +13167,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/orientation-event/",
               "title": "DeviceOrientation Event Specification",
               "crawled": "https://w3c.github.io/deviceorientation/"
@@ -13272,11 +13243,6 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-3/",
@@ -13798,11 +13764,6 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-3/",
@@ -14453,11 +14414,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
             {
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
@@ -29889,7 +29845,7 @@
     {
       "title": "Prioritized Task Scheduling",
       "shortname": "scheduling-apis",
-      "date": "22 March 2023",
+      "date": "5 April 2023",
       "url": "https://wicg.github.io/scheduling-apis/",
       "nightly": {
         "url": "https://wicg.github.io/scheduling-apis/",
@@ -31279,7 +31235,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "04 April 2023",
+      "date": "05 April 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -36252,13 +36208,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -37123,7 +37073,7 @@
     {
       "title": "Source Map Revision 3 Proposal",
       "shortname": "sourcemap",
-      "date": "4 November 2020",
+      "date": "5 April 2023",
       "url": "https://sourcemaps.info/spec.html",
       "nightly": {
         "url": "https://sourcemaps.info/spec.html",
@@ -41718,11 +41668,6 @@
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -41834,11 +41779,6 @@
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
               "title": "CSS Animation Worklet API",
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-animations-2/",
-              "title": "CSS Animations Level 2",
-              "crawled": "https://drafts.csswg.org/css-animations-2/"
             }
           ],
           "informative": []
