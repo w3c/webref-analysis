@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-05T06:33:37.284Z",
+  "date": "2023-04-05T12:45:03.936Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -19194,7 +19194,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "3 April 2023",
+      "date": "5 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -20180,7 +20180,7 @@
     {
       "title": "High Resolution Time",
       "shortname": "hr-time-3",
-      "date": "22 March 2023",
+      "date": "05 April 2023",
       "url": "https://www.w3.org/TR/hr-time-3/",
       "release": {
         "url": "https://www.w3.org/TR/hr-time-3/",
@@ -22886,7 +22886,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "23 February 2023",
+      "date": "5 April 2023",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -30369,7 +30369,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "01 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/rdf-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -30465,7 +30465,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -30543,7 +30543,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "27 March 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -30622,7 +30622,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "27 March 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/rdf-schema/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-schema/spec/",
@@ -30705,7 +30705,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "04 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -30794,7 +30794,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "28 March 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/rdf-trig/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-trig/spec/",
@@ -30873,7 +30873,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "27 March 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/rdf-turtle/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-turtle/spec/",
@@ -30957,7 +30957,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "27 March 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/rdf-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-xml/spec/",
@@ -37169,7 +37169,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "04 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -37300,7 +37300,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-federated-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-federated-query/spec/",
@@ -37442,7 +37442,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "02 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
@@ -37582,7 +37582,7 @@
     {
       "title": "SPARQL 1.2 Overview",
       "shortname": "sparql12-concepts",
-      "date": "02 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -37729,7 +37729,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-protocol/spec/",
@@ -37860,7 +37860,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -37995,7 +37995,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
@@ -38145,7 +38145,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -38278,7 +38278,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-results-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
@@ -38418,7 +38418,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-service-description/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -38565,7 +38565,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "03 April 2023",
+      "date": "05 April 2023",
       "url": "https://w3c.github.io/sparql-update/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-update/spec/",
@@ -44198,7 +44198,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "22 March 2023",
+      "date": "5 April 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -44249,7 +44249,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "22 March 2023",
+      "date": "5 April 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -44368,7 +44368,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "22 March 2023",
+      "date": "5 April 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
