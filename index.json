@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-06T12:41:59.002Z",
+  "date": "2023-04-06T18:32:36.906Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -16565,7 +16565,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "3 April 2023",
+      "date": "6 April 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -19150,7 +19150,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "5 April 2023",
+      "date": "6 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -25597,7 +25597,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "03 April 2023",
+      "date": "06 April 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -36035,7 +36035,7 @@
     {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
-      "date": "23 November 2022",
+      "date": "06 April 2023",
       "url": "https://www.w3.org/TR/screen-wake-lock/",
       "release": {
         "url": "https://www.w3.org/TR/screen-wake-lock/",
@@ -42380,6 +42380,11 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -47136,7 +47141,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "05 April 2023",
+      "date": "06 April 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
