@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-06T06:34:33.752Z",
+  "date": "2023-04-06T12:41:59.002Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -2677,7 +2677,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "20 February 2023",
+      "date": "6 April 2023",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -20635,7 +20635,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "3 April 2023",
+      "date": "6 April 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -29516,7 +29516,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "03 April 2023",
+      "date": "06 April 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -32034,6 +32034,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/prefetch.html",
