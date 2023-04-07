@@ -741,9 +741,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+No informative reference to this spec from other specs.
 
 
 ## Applications Area Working Group APP Working Group {#group-applications_area_working_group_app_working_group}
@@ -797,8 +795,6 @@ Normative references to this spec from:
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -815,8 +811,6 @@ Informative references to this spec from:
 - [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
 - [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
 - [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
@@ -949,14 +943,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
+No normative reference to this spec from other specs.
 
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
-
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
+No informative reference to this spec from other specs.
 
 
 ### RFC 8246 - HTTP Immutable Responses {data-spec=true data-missingDfns=true data-ok=true}
@@ -977,9 +966,7 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+No informative reference to this spec from other specs.
 
 
 ### RFC 8470 - Using Early Data in HTTP {data-spec=true data-missingDfns=true data-ok=true}
@@ -998,10 +985,7 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
@@ -1033,14 +1017,14 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### RFC 9110 - HTTP Semantics {data-spec=true data-missingDfns=true data-ok=true}
+### RFC 9110: HTTP Semantics {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
-- Crawled URL: [https://httpwg.org/specs/rfc9110.html](https://httpwg.org/specs/rfc9110.html)
-- Crawled version: 30 January 2023
-- Editor's Draft: [https://httpwg.org/specs/rfc9110.html](https://httpwg.org/specs/rfc9110.html)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
+- Crawled version: 7 April 2023
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Shortname: rfc9110
 
 #### Potential issue(s) {.anomalies}
@@ -1060,10 +1044,6 @@ Normative references to this spec from:
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
-- [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
-- [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
@@ -1074,14 +1054,14 @@ Informative references to this spec from:
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
-### RFC 9111 - HTTP Caching {data-spec=true data-missingDfns=true data-ok=true}
+### RFC 9111: HTTP Caching {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled URL: [https://httpwg.org/specs/rfc9111.html](https://httpwg.org/specs/rfc9111.html)
-- Crawled version: 30 January 2023
-- Editor's Draft: [https://httpwg.org/specs/rfc9111.html](https://httpwg.org/specs/rfc9111.html)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
+- Crawled version: 7 April 2023
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
 #### Potential issue(s) {.anomalies}
@@ -1094,22 +1074,18 @@ Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
 
 No informative reference to this spec from other specs.
 
 
-### RFC 9112 - HTTP/1.1 {data-spec=true data-missingDfns=true data-ok=true}
+### RFC 9112: HTTP/1.1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled URL: [https://httpwg.org/specs/rfc9112.html](https://httpwg.org/specs/rfc9112.html)
-- Crawled version: 30 January 2023
-- Editor's Draft: [https://httpwg.org/specs/rfc9112.html](https://httpwg.org/specs/rfc9112.html)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
+- Crawled version: 7 April 2023
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
 #### Potential issue(s) {.anomalies}
@@ -1126,21 +1102,17 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Digest Fields](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
-### RFC 9113 - HTTP/2 {data-spec=true data-missingDfns=true data-ok=true}
+### RFC 9113: HTTP/2 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled URL: [https://httpwg.org/specs/rfc9113.html](https://httpwg.org/specs/rfc9113.html)
-- Crawled version: 30 January 2023
-- Editor's Draft: [https://httpwg.org/specs/rfc9113.html](https://httpwg.org/specs/rfc9113.html)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
+- Crawled version: 7 April 2023
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
 #### Potential issue(s) {.anomalies}
@@ -1151,10 +1123,7 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+No informative reference to this spec from other specs.
 
 
 ### RFC 9163: Expect-CT Extension for HTTP {data-spec=true data-missingDfns=true data-ok=true}
@@ -1203,7 +1172,6 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
 ### RFC 7617 - The 'Basic' HTTP Authentication Scheme {data-spec=true data-missingDfns=true data-ok=true}
@@ -1227,7 +1195,6 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
 ## Hypertext Transfer Protocol Bis APP Working Group {#group-hypertext_transfer_protocol_bis_app_working_group}
@@ -1300,8 +1267,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Compression Streams](https://wicg.github.io/compression/)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
 
 
 ### RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content {data-spec=true data-missingDfns=true data-ok=true}
@@ -1352,7 +1317,6 @@ Informative references to this spec from:
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
 ### RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests {data-spec=true data-missingDfns=true data-ok=true}
@@ -1382,9 +1346,7 @@ Normative references to this spec from:
 - [RFC 8246 - HTTP Immutable Responses](https://httpwg.org/specs/rfc8246.html)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+No informative reference to this spec from other specs.
 
 
 ### RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests {data-spec=true data-missingDfns=true data-ok=true}
@@ -1411,9 +1373,7 @@ Normative references to this spec from:
 - [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://httpwg.org/specs/rfc7234.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+No informative reference to this spec from other specs.
 
 
 ### RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching {data-spec=true data-missingDfns=true data-ok=true}
@@ -1454,8 +1414,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9111 - HTTP Caching](https://httpwg.org/specs/rfc9111.html)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 
 
@@ -1487,9 +1445,7 @@ Normative references to this spec from:
 - [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+No informative reference to this spec from other specs.
 
 
 ### RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -1511,9 +1467,7 @@ Informative references to this spec from:
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+No informative reference to this spec from other specs.
 
 
 ### RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2) {data-spec=true data-missingDfns=true data-ok=true}
@@ -1539,8 +1493,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
-- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 
@@ -1593,9 +1545,7 @@ Normative references to this spec from:
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+No informative reference to this spec from other specs.
 
 
 ## Network Working Group {#group-network_working_group}
@@ -1635,14 +1585,14 @@ Informative references to this spec from:
 
 ## QUIC Working Group {#group-quic_working_group}
 
-### RFC 9114 - HTTP/3 {data-spec=true data-missingDfns=true data-ok=true}
+### RFC 9114: HTTP/3 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled URL: [https://httpwg.org/specs/rfc9114.html](https://httpwg.org/specs/rfc9114.html)
-- Crawled version: 30 January 2023
-- Editor's Draft: [https://httpwg.org/specs/rfc9114.html](https://httpwg.org/specs/rfc9114.html)
+- Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
+- Crawled version: 7 April 2023
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
 #### Potential issue(s) {.anomalies}
@@ -1655,9 +1605,7 @@ Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 
-Informative references to this spec from:
-
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+No informative reference to this spec from other specs.
 
 
 ## Web Security Working Group {#group-web_security_working_group}
@@ -1698,7 +1646,6 @@ Informative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [URL Standard](https://url.spec.whatwg.org/)
 
 
@@ -12023,17 +11970,17 @@ No informative reference to this spec from other specs.
 
 #### Spec info {.info}
 
-- Initial URL: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
+- Initial URL: [https://www.w3.org/TR/window-management/](https://www.w3.org/TR/window-management/)
 - Crawled URL: [https://w3c.github.io/window-management/](https://w3c.github.io/window-management/)
-- Crawled version: 30 March 2023
-- Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
-- Latest published version: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
-- Shortname: window-placement
+- Crawled version: 5 April 2023
+- Editor's Draft: [https://w3c.github.io/window-management/](https://w3c.github.io/window-management/)
+- Latest published version: [https://www.w3.org/TR/window-management/](https://www.w3.org/TR/window-management/)
+- Shortname: window-management
 
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/cssom-view-1`](https://www.w3.org/TR/cssom-view-1)
+     * [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
@@ -13518,7 +13465,6 @@ Normative references to this spec from:
 
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
@@ -14895,7 +14841,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 4 April 2023
+- Crawled version: 7 April 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -18077,7 +18023,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Contact Picker API](https://w3c.github.io/contact-picker/)
-- [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [RFC 9110: HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 

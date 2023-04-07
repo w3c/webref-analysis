@@ -2,47 +2,60 @@
 % Strudy
 % April 07, 2023
 
-## SPARQL 1.2 Query Language
+## RFC 9110: HTTP Semantics
 
-- Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Spec is OK: *INS* true / *DEL* false
-- Missing references for links: *DEL* http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/, http://www.w3.org/TR/curie/, http://www.w3.org/TR/rdf-syntax-grammar/, http://www.w3.org/TR/vcard-rdf, http://www.w3.org/TR/xpath-datamodel/
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
+- Spec title: *INS* RFC 9110: HTTP Semantics / *DEL* RFC 9110 - HTTP Semantics
 
 
-## SPARQL 1.2 Query Results CSV and TSV Formats
+## RFC 9111: HTTP Caching
 
-- Initial URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Spec is OK: *INS* true / *DEL* false
-- Missing references for links: *DEL* http://www.w3.org/TR/2013/REC-sparql11-query-20130321, http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321, http://www.w3.org/TR/sparql11-query/, http://www.w3.org/TR/sparql11-results-json/, https://w3c.github.io/sparql-concepts/spec/, https://w3c.github.io/sparql-entailment/spec/, https://w3c.github.io/sparql-federated-query/spec/, https://w3c.github.io/sparql-graph-store-protocol/spec/, https://w3c.github.io/sparql-new/spec/, https://w3c.github.io/sparql-protocol/spec/, https://w3c.github.io/sparql-query/spec/, https://w3c.github.io/sparql-results-json/spec/, https://w3c.github.io/sparql-results-xml/spec/, https://w3c.github.io/sparql-service-description/spec/, https://w3c.github.io/sparql-update/spec/
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
+- Spec title: *INS* RFC 9111: HTTP Caching / *DEL* RFC 9111 - HTTP Caching
 
 
-## SPARQL 1.2 Query Results JSON Format
+## RFC 9112: HTTP/1.1
 
-- Initial URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Missing references for links: *DEL* http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321, http://www.w3.org/TR/rdf-sparql-XMLres/, http://www.w3.org/TR/sparql11-query/
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
+- Spec title: *INS* RFC 9112: HTTP/1.1 / *DEL* RFC 9112 - HTTP/1.1
 
 
-## SPARQL 1.2 Query Results XML Format
+## RFC 9113: HTTP/2
 
-- Initial URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
-- Missing references for links: *DEL* http://www.w3.org/TR/2004/REC-xml-20040204/, http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/, http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/, http://www.w3.org/TR/2013/REC-sparql11-query-20130321, http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321, http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321, http://www.w3.org/TR/sparql11-query/, http://www.w3.org/TR/sparql11-results-csv-tsv/, http://www.w3.org/TR/sparql11-results-json/, http://www.w3.org/TR/xmlschema-1/
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
+- Spec title: *INS* RFC 9113: HTTP/2 / *DEL* RFC 9113 - HTTP/2
 
 
-## SPARQL 1.2 Service Description
+## RFC 9114: HTTP/3
 
-- Initial URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
-- Spec is OK: *INS* true / *DEL* false
-- Missing references for links: *DEL* http://www.w3.org/TR/2011/NOTE-void-20110303/, http://www.w3.org/TR/2013/CR-turtle-20130219/, http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321, http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321, http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321, http://www.w3.org/TR/2013/REC-sparql11-query-20130321, http://www.w3.org/TR/2013/REC-sparql11-update-20130321, http://www.w3.org/TR/rdf-sparql-query/, http://www.w3.org/TR/rdfa-syntax/, http://www.w3.org/TR/sparql11-entailment/, http://www.w3.org/TR/sparql11-federated-query/, http://www.w3.org/TR/sparql11-protocol/, http://www.w3.org/TR/sparql11-query/, http://www.w3.org/TR/sparql11-update/, http://www.w3.org/TR/turtle/, http://www.w3.org/TR/void/, http://www.w3.org/TR/webarch/
+- Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
+- Spec title: *INS* RFC 9114: HTTP/3 / *DEL* RFC 9114 - HTTP/3
+
+
+## Window Management
+
+- Initial URL: [https://www.w3.org/TR/window-management/](https://www.w3.org/TR/window-management/)
+- Crawled URL: [undefined](undefined)
+- Editor's Draft: [https://w3c.github.io/window-management/](https://w3c.github.io/window-management/)
+- This specification was not in the reference crawl report.
+
+
+## Window Management
+
+- Initial URL: [https://www.w3.org/TR/window-placement/](https://www.w3.org/TR/window-placement/)
+- Crawled URL: [https://w3c.github.io/window-management/](https://w3c.github.io/window-management/)
+- Editor's Draft: [https://w3c.github.io/window-placement/](https://w3c.github.io/window-placement/)
+- This specification is not in the new crawl report.
 
 
 
