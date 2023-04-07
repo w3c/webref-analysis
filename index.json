@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-07T06:33:17.796Z",
+  "date": "2023-04-07T12:39:36.915Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -30891,6 +30891,16 @@
               "url": "https://w3c.github.io/sparql-entailment/spec/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -31193,6 +31203,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-query/spec/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
@@ -34304,6 +34319,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
@@ -37185,6 +37205,11 @@
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
@@ -37315,6 +37340,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -37460,6 +37490,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -37609,6 +37644,11 @@
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
@@ -37740,6 +37780,11 @@
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
+            },
+            {
               "url": "https://w3c.github.io/sparql-service-description/spec/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
@@ -37819,7 +37864,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "05 April 2023",
+      "date": "07 April 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -37849,13 +37894,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/",
-          "http://www.w3.org/TR/curie/",
-          "http://www.w3.org/TR/rdf-syntax-grammar/",
-          "http://www.w3.org/TR/vcard-rdf",
-          "http://www.w3.org/TR/xpath-datamodel/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -37893,6 +37932,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -37948,13 +37992,13 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "05 April 2023",
+      "date": "07 April 2023",
       "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
@@ -37984,23 +38028,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321",
-          "http://www.w3.org/TR/sparql11-query/",
-          "http://www.w3.org/TR/sparql11-results-json/",
-          "https://w3c.github.io/sparql-concepts/spec/",
-          "https://w3c.github.io/sparql-entailment/spec/",
-          "https://w3c.github.io/sparql-federated-query/spec/",
-          "https://w3c.github.io/sparql-graph-store-protocol/spec/",
-          "https://w3c.github.io/sparql-new/spec/",
-          "https://w3c.github.io/sparql-protocol/spec/",
-          "https://w3c.github.io/sparql-query/spec/",
-          "https://w3c.github.io/sparql-results-json/spec/",
-          "https://w3c.github.io/sparql-results-xml/spec/",
-          "https://w3c.github.io/sparql-service-description/spec/",
-          "https://w3c.github.io/sparql-update/spec/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -38098,13 +38126,13 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "05 April 2023",
+      "date": "07 April 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -38134,11 +38162,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321",
-          "http://www.w3.org/TR/rdf-sparql-XMLres/",
-          "http://www.w3.org/TR/sparql11-query/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -38156,6 +38180,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -38237,7 +38266,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "05 April 2023",
+      "date": "07 April 2023",
       "url": "https://w3c.github.io/sparql-results-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
@@ -38267,18 +38296,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/2004/REC-xml-20040204/",
-          "http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/",
-          "http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/",
-          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321",
-          "http://www.w3.org/TR/sparql11-query/",
-          "http://www.w3.org/TR/sparql11-results-csv-tsv/",
-          "http://www.w3.org/TR/sparql11-results-json/",
-          "http://www.w3.org/TR/xmlschema-1/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -38296,6 +38314,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -38377,7 +38400,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "05 April 2023",
+      "date": "07 April 2023",
       "url": "https://w3c.github.io/sparql-service-description/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -38407,25 +38430,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/2011/NOTE-void-20110303/",
-          "http://www.w3.org/TR/2013/CR-turtle-20130219/",
-          "http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-query-20130321",
-          "http://www.w3.org/TR/2013/REC-sparql11-update-20130321",
-          "http://www.w3.org/TR/rdf-sparql-query/",
-          "http://www.w3.org/TR/rdfa-syntax/",
-          "http://www.w3.org/TR/sparql11-entailment/",
-          "http://www.w3.org/TR/sparql11-federated-query/",
-          "http://www.w3.org/TR/sparql11-protocol/",
-          "http://www.w3.org/TR/sparql11-query/",
-          "http://www.w3.org/TR/sparql11-update/",
-          "http://www.w3.org/TR/turtle/",
-          "http://www.w3.org/TR/void/",
-          "http://www.w3.org/TR/webarch/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -38448,6 +38453,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-update/spec/",
@@ -38518,7 +38528,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -38581,6 +38591,11 @@
               "url": "https://w3c.github.io/sparql-protocol/spec/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-service-description/spec/",

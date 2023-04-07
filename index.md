@@ -1065,6 +1065,7 @@ Normative references to this spec from:
 - [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
 - [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -10899,6 +10900,8 @@ Normative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
+- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:
 
@@ -10983,6 +10986,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
 
@@ -11018,6 +11022,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
@@ -11068,6 +11073,7 @@ Normative references to this spec from:
 
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
@@ -11119,6 +11125,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
@@ -11177,6 +11184,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
@@ -11218,6 +11226,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
@@ -11237,24 +11246,19 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
-### SPARQL 1.2 Query Language {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### SPARQL 1.2 Query Language {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 07 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Shortname: sparql12-query
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/)
-     * [`http://www.w3.org/TR/curie/`](http://www.w3.org/TR/curie/)
-     * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/)
-     * [`http://www.w3.org/TR/vcard-rdf`](http://www.w3.org/TR/vcard-rdf)
-     * [`http://www.w3.org/TR/xpath-datamodel/`](http://www.w3.org/TR/xpath-datamodel/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11267,6 +11271,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
@@ -11282,34 +11287,19 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
-### SPARQL 1.2 Query Results CSV and TSV Formats {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### SPARQL 1.2 Query Results CSV and TSV Formats {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 07 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Shortname: sparql12-results-csv-tsv
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321)
-     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
-     * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/)
-     * [`https://w3c.github.io/sparql-concepts/spec/`](https://w3c.github.io/sparql-concepts/spec/)
-     * [`https://w3c.github.io/sparql-entailment/spec/`](https://w3c.github.io/sparql-entailment/spec/)
-     * [`https://w3c.github.io/sparql-federated-query/spec/`](https://w3c.github.io/sparql-federated-query/spec/)
-     * [`https://w3c.github.io/sparql-graph-store-protocol/spec/`](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-     * [`https://w3c.github.io/sparql-new/spec/`](https://w3c.github.io/sparql-new/spec/)
-     * [`https://w3c.github.io/sparql-protocol/spec/`](https://w3c.github.io/sparql-protocol/spec/)
-     * [`https://w3c.github.io/sparql-query/spec/`](https://w3c.github.io/sparql-query/spec/)
-     * [`https://w3c.github.io/sparql-results-json/spec/`](https://w3c.github.io/sparql-results-json/spec/)
-     * [`https://w3c.github.io/sparql-results-xml/spec/`](https://w3c.github.io/sparql-results-xml/spec/)
-     * [`https://w3c.github.io/sparql-service-description/spec/`](https://w3c.github.io/sparql-service-description/spec/)
-     * [`https://w3c.github.io/sparql-update/spec/`](https://w3c.github.io/sparql-update/spec/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11338,23 +11328,19 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
-### SPARQL 1.2 Query Results JSON Format {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+### SPARQL 1.2 Query Results JSON Format {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 07 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Shortname: sparql12-results-json
 
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321)
-     * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/)
-     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11363,6 +11349,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
@@ -11382,30 +11369,19 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
-### SPARQL 1.2 Query Results XML Format {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+### SPARQL 1.2 Query Results XML Format {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 07 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Shortname: sparql12-results-xml
 
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2004/REC-xml-20040204/`](http://www.w3.org/TR/2004/REC-xml-20040204/)
-     * [`http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/)
-     * [`http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321)
-     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
-     * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/)
-     * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/)
-     * [`http://www.w3.org/TR/xmlschema-1/`](http://www.w3.org/TR/xmlschema-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11414,6 +11390,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
@@ -11433,36 +11410,19 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 
 
-### SPARQL 1.2 Service Description {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### SPARQL 1.2 Service Description {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 07 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Shortname: sparql12-service-description
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2011/NOTE-void-20110303/`](http://www.w3.org/TR/2011/NOTE-void-20110303/)
-     * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321`](http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321`](http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321)
-     * [`http://www.w3.org/TR/2013/REC-sparql11-update-20130321`](http://www.w3.org/TR/2013/REC-sparql11-update-20130321)
-     * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/)
-     * [`http://www.w3.org/TR/rdfa-syntax/`](http://www.w3.org/TR/rdfa-syntax/)
-     * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/)
-     * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/)
-     * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/)
-     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
-     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/)
-     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/)
-     * [`http://www.w3.org/TR/void/`](http://www.w3.org/TR/void/)
-     * [`http://www.w3.org/TR/webarch/`](http://www.w3.org/TR/webarch/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11472,6 +11432,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
@@ -11515,6 +11476,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
+- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
 
 Informative references to this spec from:

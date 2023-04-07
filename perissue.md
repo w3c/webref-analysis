@@ -1953,61 +1953,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/) links to [`http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/) but does not list it in its references
-- [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/) links to:
-    * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/) but does not list it in its references
-    * [`http://www.w3.org/TR/curie/`](http://www.w3.org/TR/curie/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-syntax-grammar/`](http://www.w3.org/TR/rdf-syntax-grammar/) but does not list it in its references
-    * [`http://www.w3.org/TR/vcard-rdf`](http://www.w3.org/TR/vcard-rdf) but does not list it in its references
-    * [`http://www.w3.org/TR/xpath-datamodel/`](http://www.w3.org/TR/xpath-datamodel/) but does not list it in its references
-- [SPARQL 1.2 Query Results CSV and TSV Formats](https://w3c.github.io/sparql-results-csv-tsv/spec/) links to:
-    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-concepts/spec/`](https://w3c.github.io/sparql-concepts/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-entailment/spec/`](https://w3c.github.io/sparql-entailment/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-federated-query/spec/`](https://w3c.github.io/sparql-federated-query/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-graph-store-protocol/spec/`](https://w3c.github.io/sparql-graph-store-protocol/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-new/spec/`](https://w3c.github.io/sparql-new/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-protocol/spec/`](https://w3c.github.io/sparql-protocol/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-query/spec/`](https://w3c.github.io/sparql-query/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-results-json/spec/`](https://w3c.github.io/sparql-results-json/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-results-xml/spec/`](https://w3c.github.io/sparql-results-xml/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-service-description/spec/`](https://w3c.github.io/sparql-service-description/spec/) but does not list it in its references
-    * [`https://w3c.github.io/sparql-update/spec/`](https://w3c.github.io/sparql-update/spec/) but does not list it in its references
-- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/) links to:
-    * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
-- [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/) links to:
-    * [`http://www.w3.org/TR/2004/REC-xml-20040204/`](http://www.w3.org/TR/2004/REC-xml-20040204/) but does not list it in its references
-    * [`http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/`](http://www.w3.org/TR/2004/REC-xmlschema-1-20041028/) but does not list it in its references
-    * [`http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-csv-tsv-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321`](http://www.w3.org/TR/2013/REC-sparql11-results-json-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/) but does not list it in its references
-    * [`http://www.w3.org/TR/xmlschema-1/`](http://www.w3.org/TR/xmlschema-1/) but does not list it in its references
-- [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/) links to:
-    * [`http://www.w3.org/TR/2011/NOTE-void-20110303/`](http://www.w3.org/TR/2011/NOTE-void-20110303/) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321`](http://www.w3.org/TR/2013/REC-sparql11-entailment-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321`](http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/2013/REC-sparql11-update-20130321`](http://www.w3.org/TR/2013/REC-sparql11-update-20130321) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdfa-syntax/`](http://www.w3.org/TR/rdfa-syntax/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/) but does not list it in its references
-    * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
-    * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
-    * [`http://www.w3.org/TR/void/`](http://www.w3.org/TR/void/) but does not list it in its references
-    * [`http://www.w3.org/TR/webarch/`](http://www.w3.org/TR/webarch/) but does not list it in its references
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/) links to:
     * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/) but does not list it in its references
     * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/) but does not list it in its references
@@ -2132,7 +2077,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1`](https://www.w3.org/TR/cssom-view-1) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1766 missing references for links found in 251 specifications
+=> 1716 missing references for links found in 246 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
