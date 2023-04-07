@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-07T00:48:14.163Z",
+  "date": "2023-04-07T06:33:17.796Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -16564,7 +16564,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "6 April 2023",
+      "date": "7 April 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -19154,7 +19154,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "6 April 2023",
+      "date": "7 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -24359,7 +24359,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "4 April 2023",
+      "date": "7 April 2023",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -46809,7 +46809,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "6 April 2023",
+      "date": "7 April 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46876,7 +46876,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "6 April 2023",
+      "date": "7 April 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
