@@ -11199,7 +11199,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 07 April 2023
+- Crawled version: 08 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Shortname: sparql12-query
 
