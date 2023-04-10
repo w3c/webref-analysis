@@ -349,7 +349,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
 - Crawled URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
-- Crawled version: 7 April 2023
+- Crawled version: 10 April 2023
 - Editor's Draft: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
 - Shortname: tc39-intl-duration-format
 
@@ -647,7 +647,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 7 April 2023
+- Crawled version: 10 April 2023
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -4124,7 +4124,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 30 March 2023
+- Crawled version: 10 April 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -13504,7 +13504,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Crawled URL: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
-- Crawled version: 14 March 2023
+- Crawled version: 10 April 2023
 - Editor's Draft: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
 - Latest published version: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Shortname: edit-context
@@ -14906,7 +14906,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 7 April 2023
+- Crawled version: 10 April 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -15753,7 +15753,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Crawled URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
-- Crawled version: 3 April 2023
+- Crawled version: 10 April 2023
 - Editor's Draft: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Shortname: first-party-sets
 
