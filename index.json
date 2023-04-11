@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-11T12:42:05.018Z",
+  "date": "2023-04-11T18:32:53.828Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -16556,7 +16556,7 @@
     {
       "title": "ECMAScript® 2023 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "7 April 2023",
+      "date": "11 April 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -16761,6 +16761,11 @@
               "url": "https://fs.spec.whatwg.org/",
               "title": "File System Standard",
               "crawled": "https://fs.spec.whatwg.org/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/geometry-1/",
@@ -19146,7 +19151,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "10 April 2023",
+      "date": "11 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -20431,7 +20436,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "28 March 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -36568,7 +36573,7 @@
     {
       "title": "Server Timing",
       "shortname": "server-timing",
-      "date": "17 March 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/server-timing/",
       "release": {
         "url": "https://www.w3.org/TR/server-timing/",
@@ -39195,7 +39200,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "10 April 2023",
+      "date": "11 April 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -47150,7 +47155,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "14 March 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
