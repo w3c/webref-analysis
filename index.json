@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-11T06:33:27.187Z",
+  "date": "2023-04-11T12:42:05.018Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -2677,7 +2677,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "6 April 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -5627,7 +5627,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "29 March 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -5667,6 +5667,7 @@
         "missingLinkRef": [
           "https://w3c.github.io/csswg-drafts/css-color-4/",
           "https://w3c.github.io/csswg-drafts/css-syntax-3/",
+          "https://w3c.github.io/csswg-drafts/css-values-5/",
           "https://w3c.github.io/csswg-drafts/cssom-1/"
         ],
         "inconsistentRef": [],
@@ -13970,6 +13971,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-color-5/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
@@ -20126,7 +20132,7 @@
     {
       "title": "High Resolution Time",
       "shortname": "hr-time-3",
-      "date": "05 April 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/hr-time-3/",
       "release": {
         "url": "https://www.w3.org/TR/hr-time-3/",
@@ -36609,7 +36615,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "22 March 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -43567,7 +43573,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "31 March 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -43768,7 +43774,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "13 March 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
