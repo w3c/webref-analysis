@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-12T00:46:53.122Z",
+  "date": "2023-04-12T06:33:47.295Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -24537,7 +24537,7 @@
     {
       "title": "JSON-LD 1.1",
       "shortname": "json-ld11",
-      "date": "16 March 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/json-ld11/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11/",
@@ -24616,7 +24616,7 @@
     {
       "title": "JSON-LD 1.1 Framing",
       "shortname": "json-ld11-framing",
-      "date": "16 March 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/json-ld11-framing/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-framing/",
@@ -24674,7 +24674,7 @@
     {
       "title": "JSON-LD 1.1 Processing Algorithms and API",
       "shortname": "json-ld11-api",
-      "date": "16 March 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/json-ld11-api/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-api/",

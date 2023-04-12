@@ -9589,7 +9589,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
 - Crawled URL: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
-- Crawled version: 16 March 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
 - Latest published version: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
 - Shortname: json-ld11
@@ -9619,7 +9619,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/json-ld11-framing/](https://www.w3.org/TR/json-ld11-framing/)
 - Crawled URL: [https://w3c.github.io/json-ld-framing/](https://w3c.github.io/json-ld-framing/)
-- Crawled version: 16 March 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://w3c.github.io/json-ld-framing/](https://w3c.github.io/json-ld-framing/)
 - Latest published version: [https://www.w3.org/TR/json-ld11-framing/](https://www.w3.org/TR/json-ld11-framing/)
 - Shortname: json-ld11-framing
@@ -9644,7 +9644,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
 - Crawled URL: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
-- Crawled version: 16 March 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
 - Latest published version: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
 - Shortname: json-ld11-api
