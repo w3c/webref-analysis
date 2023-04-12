@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-12T12:40:46.851Z",
+  "date": "2023-04-12T18:33:52.518Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -16554,9 +16554,9 @@
       }
     },
     {
-      "title": "ECMAScript® 2023 Internationalization API Specification",
+      "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "11 April 2023",
+      "date": "12 April 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -17541,7 +17541,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "10 April 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -17607,7 +17607,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "10 April 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -25190,7 +25190,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "2 April 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -30617,7 +30617,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -30638,11 +30644,6 @@
               "url": "https://w3c.github.io/rdf-schema/spec/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
-              "title": "RDF 1.2 Semantics",
-              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
               "url": "https://w3c.github.io/rdf-trig/spec/",
@@ -30667,7 +30668,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "05 April 2023",
+      "date": "12 April 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -30929,7 +30930,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "06 April 2023",
+      "date": "12 April 2023",
       "url": "https://w3c.github.io/rdf-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-xml/spec/",
@@ -36970,11 +36971,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
-              "title": "RDF 1.2 Semantics",
-              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
-            },
-            {
               "url": "https://w3c.github.io/sparql-federated-query/spec/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
@@ -37025,6 +37021,11 @@
               "url": "https://w3c.github.io/rdf-schema/spec/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
               "url": "https://w3c.github.io/rdf-trig/spec/",
@@ -37684,11 +37685,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
-              "title": "RDF 1.2 Semantics",
-              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
-            },
-            {
               "url": "https://w3c.github.io/rdf-trig/spec/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
@@ -37754,6 +37750,11 @@
               "url": "https://w3c.github.io/rdf-schema/spec/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
               "url": "https://w3c.github.io/rdf-xml/spec/",
@@ -44061,7 +44062,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "1 March 2023",
+      "date": "12 April 2023",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",

@@ -14,7 +14,7 @@
 - [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
 - [Decorators proposal](https://tc39.es/proposal-decorators/)
 - [ECMAScript Explicit Resource Management](https://tc39.es/proposal-explicit-resource-management/)
-- [ECMAScript® 2023 Internationalization API Specification](https://tc39.es/ecma402/)
+- [ECMAScript® 2024 Internationalization API Specification](https://tc39.es/ecma402/)
 - [ECMAScript® 2024 Language Specification](https://tc39.es/ecma262/multipage/)
 - [ES Array.fromAsync (2022)](https://tc39.es/proposal-array-from-async/)
 - [Extend TimeZoneName Option Proposal](https://tc39.es/proposal-intl-extend-timezonename/)

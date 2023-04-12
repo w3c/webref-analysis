@@ -132,13 +132,13 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### ECMAScript® 2023 Internationalization API Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### ECMAScript® 2024 Internationalization API Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 11 April 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -9096,7 +9096,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 10 April 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -9124,7 +9124,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 10 April 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -10748,7 +10748,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 
 Informative references to this spec from:
 
@@ -10756,7 +10758,6 @@ Informative references to this spec from:
 - [RDF 1.2 N-Quads](https://w3c.github.io/rdf-n-quads/spec/)
 - [RDF 1.2 N-Triples](https://w3c.github.io/rdf-n-triples/spec/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
-- [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
@@ -10768,7 +10769,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Shortname: rdf12-semantics
 
@@ -10863,7 +10864,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
-- Crawled version: 06 April 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Shortname: rdf12-xml
 
@@ -10965,7 +10966,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/)
 - [SPARQL 1.2 Graph Store Protocol](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
@@ -10979,6 +10979,7 @@ Informative references to this spec from:
 - [RDF 1.2 N-Quads](https://w3c.github.io/rdf-n-quads/spec/)
 - [RDF 1.2 N-Triples](https://w3c.github.io/rdf-n-triples/spec/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
+- [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
@@ -11211,7 +11212,6 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
@@ -11228,6 +11228,7 @@ Informative references to this spec from:
 - [RDF 1.2 N-Quads](https://w3c.github.io/rdf-n-quads/spec/)
 - [RDF 1.2 N-Triples](https://w3c.github.io/rdf-n-triples/spec/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
+- [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
@@ -14039,7 +14040,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Crawled URL: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
-- Crawled version: 2 April 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 - Latest published version: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Shortname: longtasks-1
@@ -16710,7 +16711,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 1 March 2023
+- Crawled version: 12 April 2023
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
