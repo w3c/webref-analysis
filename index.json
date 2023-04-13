@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-12T18:33:52.518Z",
+  "date": "2023-04-13T00:48:06.266Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -3055,7 +3055,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "11 April 2023",
+      "date": "13 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -14869,7 +14869,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "3 April 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -14941,7 +14941,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "11 April 2023",
+      "date": "13 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -16514,7 +16514,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "11 April 2023",
+      "date": "12 April 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -16625,7 +16625,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "6 April 2023",
+      "date": "12 April 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -31257,7 +31257,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "10 April 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -32133,7 +32133,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -32225,7 +32225,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -32483,7 +32483,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -32585,7 +32585,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -32665,7 +32665,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -33425,7 +33425,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -33465,7 +33465,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -33632,7 +33632,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -34023,7 +34023,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -34079,7 +34079,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -34193,7 +34193,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -34246,7 +34246,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -34310,7 +34310,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -34352,7 +34352,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -34400,7 +34400,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -37918,7 +37918,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "07 April 2023",
+      "date": "12 April 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -43727,7 +43727,7 @@
     {
       "title": "Web Serial API",
       "shortname": "serial",
-      "date": "30 August 2022",
+      "date": "13 April 2023",
       "url": "https://wicg.github.io/serial/",
       "nightly": {
         "url": "https://wicg.github.io/serial/",
@@ -46595,7 +46595,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "7 April 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46662,7 +46662,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "7 April 2023",
+      "date": "12 April 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
