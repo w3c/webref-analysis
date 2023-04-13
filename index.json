@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-13T12:43:45.951Z",
+  "date": "2023-04-13T18:33:09.195Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "30 March 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -2444,7 +2444,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "30 March 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -16514,7 +16514,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -21678,11 +21678,6 @@
               "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
-              "title": "RDF 1.2 Concepts and Abstract Syntax",
-              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
-            },
-            {
               "url": "https://www.w3.org/TR/referrer-policy/",
               "title": "Referrer Policy",
               "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
@@ -22766,7 +22761,7 @@
     {
       "title": "Indexed Database API 3.0",
       "shortname": "IndexedDB-3",
-      "date": "3 March 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/IndexedDB-3/",
       "release": {
         "url": "https://www.w3.org/TR/IndexedDB-3/",
@@ -24587,11 +24582,6 @@
               "crawled": "https://w3c.github.io/json-ld-api/"
             },
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
-              "title": "RDF 1.2 Concepts and Abstract Syntax",
-              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
-            },
-            {
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
@@ -24602,6 +24592,11 @@
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
               "url": "https://w3c.github.io/rdf-schema/spec/",
@@ -25603,7 +25598,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "11 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -29943,7 +29938,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "17 March 2023",
+      "date": "13 April 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -30331,7 +30326,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "10 April 2023",
+      "date": "13 April 2023",
       "url": "https://w3c.github.io/rdf-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -30427,7 +30422,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "05 April 2023",
+      "date": "13 April 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -30505,7 +30500,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "06 April 2023",
+      "date": "13 April 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -30584,7 +30579,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "05 April 2023",
+      "date": "13 April 2023",
       "url": "https://w3c.github.io/rdf-schema/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-schema/spec/",
@@ -30757,7 +30752,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "06 April 2023",
+      "date": "13 April 2023",
       "url": "https://w3c.github.io/rdf-trig/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-trig/spec/",
@@ -30836,7 +30831,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "06 April 2023",
+      "date": "13 April 2023",
       "url": "https://w3c.github.io/rdf-turtle/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-turtle/spec/",
@@ -30930,7 +30925,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://w3c.github.io/rdf-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-xml/spec/",
@@ -35652,7 +35647,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "12 January 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -36934,7 +36929,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "05 April 2023",
+      "date": "13 April 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -37263,11 +37258,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
-              "title": "SPARQL 1.2 Entailment Regimes",
-              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
-            },
-            {
               "url": "https://w3c.github.io/sparql-federated-query/spec/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
@@ -37333,6 +37323,11 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -37685,11 +37680,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
-              "title": "RDF 1.2 TriG",
-              "crawled": "https://w3c.github.io/rdf-trig/spec/"
-            },
-            {
               "url": "https://w3c.github.io/rdf-turtle/spec/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
@@ -37755,6 +37745,11 @@
               "url": "https://w3c.github.io/rdf-semantics/spec/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
               "url": "https://w3c.github.io/rdf-xml/spec/",
@@ -38221,11 +38216,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
-              "title": "SPARQL 1.2 Entailment Regimes",
-              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
-            },
-            {
               "url": "https://w3c.github.io/sparql-federated-query/spec/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
@@ -38291,6 +38281,11 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -38359,11 +38354,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
-              "title": "SPARQL 1.2 Entailment Regimes",
-              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
-            },
-            {
               "url": "https://w3c.github.io/sparql-federated-query/spec/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
@@ -38429,6 +38419,11 @@
               "url": "https://w3c.github.io/rdf-xml/spec/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
               "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -42183,11 +42178,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/IndexedDB-3/",
-              "title": "Indexed Database API 3.0",
-              "crawled": "https://w3c.github.io/IndexedDB/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -46595,7 +46585,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46662,7 +46652,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "12 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -46931,7 +46921,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "11 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
