@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-14T12:40:35.899Z",
+  "date": "2023-04-14T18:34:05.503Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -885,7 +885,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "11 April 2023",
+      "date": "14 April 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -5152,7 +5152,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "21 March 2023",
+      "date": "14 April 2023",
       "url": "https://www.w3.org/TR/css-cascade-6/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -5191,7 +5191,6 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/csswg-drafts/css-animations-1/",
-          "https://w3c.github.io/csswg-drafts/css-color-4/",
           "https://w3c.github.io/csswg-drafts/css-nesting-1/",
           "https://w3c.github.io/csswg-drafts/css-scoping-1/",
           "https://w3c.github.io/csswg-drafts/css-syntax-3/",
@@ -15418,6 +15417,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://wicg.github.io/attribution-reporting-api/",
+              "title": "Attribution Reporting",
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
+            {
               "url": "https://wicg.github.io/background-fetch/",
               "title": "Background Fetch",
               "crawled": "https://wicg.github.io/background-fetch/"
@@ -16514,7 +16518,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "13 April 2023",
+      "date": "14 April 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -17947,7 +17951,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "FLEDGE",
+              "crawled": "https://wicg.github.io/turtledove/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -19151,7 +19161,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "12 April 2023",
+      "date": "14 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -26506,7 +26516,7 @@
     {
       "title": "MediaStream Recording",
       "shortname": "mediastream-recording",
-      "date": "7 June 2022",
+      "date": "14 April 2023",
       "url": "https://www.w3.org/TR/mediastream-recording/",
       "release": {
         "url": "https://www.w3.org/TR/mediastream-recording/",
@@ -26542,22 +26552,21 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/fingerprinting-guidance/",
           "https://www.w3.org/TR/webrtc-identity/"
         ],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/FileAPI/",
+            "link": "https://www.w3.org/TR/fingerprinting-guidance/",
             "ref": {
-              "name": "FileAPI",
-              "url": "https://www.w3.org/TR/FileAPI/"
+              "name": "FINGERPRINTING-GUIDANCE",
+              "url": "https://w3c.github.io/fingerprinting-guidance/"
             }
           },
           {
-            "link": "https://www.w3.org/TR/hr-time/",
+            "link": "https://www.w3.org/TR/mediacapture-streams/",
             "ref": {
-              "name": "HR-TIME",
-              "url": "https://www.w3.org/TR/hr-time-3/"
+              "name": "GETUSERMEDIA",
+              "url": "https://w3c.github.io/mediacapture-main/"
             }
           }
         ],
@@ -27257,6 +27266,11 @@
               "url": "https://www.w3.org/TR/input-events-2/",
               "title": "Input Events Level 2",
               "crawled": "https://w3c.github.io/input-events/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediastream-recording/",
+              "title": "MediaStream Recording",
+              "crawled": "https://w3c.github.io/mediacapture-record/"
             },
             {
               "url": "https://wicg.github.io/responsive-image-client-hints/",
