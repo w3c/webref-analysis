@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-15T12:39:21.098Z",
+  "date": "2023-04-15T18:32:18.381Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -19160,7 +19160,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "14 April 2023",
+      "date": "15 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -31270,7 +31270,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "12 April 2023",
+      "date": "15 April 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",

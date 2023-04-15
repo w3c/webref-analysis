@@ -10591,7 +10591,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 12 April 2023
+- Crawled version: 15 April 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
@@ -14909,7 +14909,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 14 April 2023
+- Crawled version: 15 April 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
