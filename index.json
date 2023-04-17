@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-17T06:34:02.568Z",
+  "date": "2023-04-17T12:42:50.777Z",
   "stats": {
     "crawled": 557,
     "errors": 0,
@@ -17917,7 +17917,7 @@
     {
       "title": "Fenced frame",
       "shortname": "fenced-frame",
-      "date": "14 April 2023",
+      "date": "17 April 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -20645,7 +20645,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "6 April 2023",
+      "date": "17 April 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -39209,7 +39209,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "15 April 2023",
+      "date": "17 April 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
