@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-17T12:42:50.777Z",
+  "date": "2023-04-17T18:40:42.769Z",
   "stats": {
-    "crawled": 557,
+    "crawled": 558,
     "errors": 0,
-    "studied": 557
+    "studied": 558
   },
   "results": [
     {
@@ -885,7 +885,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "14 April 2023",
+      "date": "17 April 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1206,7 +1206,12 @@
       "title": "Badging API",
       "shortname": "badging",
       "date": "11 April 2023",
-      "url": "https://w3c.github.io/badging/",
+      "url": "https://www.w3.org/TR/badging/",
+      "release": {
+        "url": "https://www.w3.org/TR/badging/",
+        "status": "Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/badging/",
         "status": "Editor's Draft",
@@ -4959,7 +4964,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 5",
       "shortname": "css-cascade-5",
-      "date": "1 April 2023",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -5626,7 +5631,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "11 April 2023",
+      "date": "17 April 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -10027,7 +10032,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "18 October 2022",
+      "date": "13 April 2023",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -16515,6 +16520,48 @@
       }
     },
     {
+      "title": "ECMAScript Async Explicit Resource Management",
+      "shortname": "tc39-async-explicit-resource-management",
+      "date": "12 April 2023",
+      "url": "https://tc39.es/proposal-async-explicit-resource-management/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-async-explicit-resource-management/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-async-explicit-resource-management",
+        "sourcePath": "spec.emu",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-async-explicit-resource-management/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
       "date": "14 April 2023",
@@ -17548,7 +17595,7 @@
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Proposed Recommendation",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -17614,7 +17661,7 @@
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Proposed Recommendation",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -20797,7 +20844,7 @@
               "crawled": "https://wicg.github.io/background-fetch/"
             },
             {
-              "url": "https://w3c.github.io/badging/",
+              "url": "https://www.w3.org/TR/badging/",
               "title": "Badging API",
               "crawled": "https://w3c.github.io/badging/"
             },
@@ -22922,7 +22969,7 @@
               "crawled": "https://wicg.github.io/background-fetch/"
             },
             {
-              "url": "https://w3c.github.io/badging/",
+              "url": "https://www.w3.org/TR/badging/",
               "title": "Badging API",
               "crawled": "https://w3c.github.io/badging/"
             },
@@ -27864,7 +27911,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/badging/",
+              "url": "https://www.w3.org/TR/badging/",
               "title": "Badging API",
               "crawled": "https://w3c.github.io/badging/"
             },
@@ -28780,7 +28827,7 @@
               "crawled": "https://wicg.github.io/background-fetch/"
             },
             {
-              "url": "https://w3c.github.io/badging/",
+              "url": "https://www.w3.org/TR/badging/",
               "title": "Badging API",
               "crawled": "https://w3c.github.io/badging/"
             },
@@ -29535,7 +29582,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "06 April 2023",
+      "date": "17 April 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -36274,7 +36321,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "14 April 2023",
+      "date": "17 April 2023",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -41748,7 +41795,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/badging/",
+              "url": "https://www.w3.org/TR/badging/",
               "title": "Badging API",
               "crawled": "https://w3c.github.io/badging/"
             },
@@ -42314,7 +42361,7 @@
               "crawled": "https://w3c.github.io/webcodecs/av1_codec_registration.html"
             },
             {
-              "url": "https://w3c.github.io/badging/",
+              "url": "https://www.w3.org/TR/badging/",
               "title": "Badging API",
               "crawled": "https://w3c.github.io/badging/"
             },
@@ -43581,7 +43628,7 @@
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -46598,7 +46645,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "13 April 2023",
+      "date": "17 April 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46665,7 +46712,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "13 April 2023",
+      "date": "17 April 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

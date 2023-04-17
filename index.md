@@ -111,6 +111,27 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### ECMAScript Async Explicit Resource Management {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-async-explicit-resource-management/](https://tc39.es/proposal-async-explicit-resource-management/)
+- Crawled URL: [https://tc39.es/proposal-async-explicit-resource-management/](https://tc39.es/proposal-async-explicit-resource-management/)
+- Crawled version: 12 April 2023
+- Editor's Draft: [https://tc39.es/proposal-async-explicit-resource-management/](https://tc39.es/proposal-async-explicit-resource-management/)
+- Shortname: tc39-async-explicit-resource-management
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### ECMAScript Explicit Resource Management {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -3903,7 +3924,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
-- Crawled version: 1 April 2023
+- Crawled version: 13 April 2023
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
 - Shortname: css-cascade-5
@@ -4176,7 +4197,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 11 April 2023
+- Crawled version: 17 April 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -6031,7 +6052,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
 - Crawled URL: [https://drafts.csswg.org/cssom-1/](https://drafts.csswg.org/cssom-1/)
-- Crawled version: 18 October 2022
+- Crawled version: 13 April 2023
 - Editor's Draft: [https://drafts.csswg.org/cssom-1/](https://drafts.csswg.org/cssom-1/)
 - Latest published version: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
 - Shortname: cssom-1
@@ -9150,7 +9171,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 13 April 2023
+- Crawled version: 17 April 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9179,7 +9200,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 13 April 2023
+- Crawled version: 17 April 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -10432,7 +10453,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 06 April 2023
+- Crawled version: 17 April 2023
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -12801,10 +12822,11 @@ Informative references to this spec from:
 
 #### Spec info {.info}
 
-- Initial URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
+- Initial URL: [https://www.w3.org/TR/badging/](https://www.w3.org/TR/badging/)
 - Crawled URL: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
 - Crawled version: 11 April 2023
 - Editor's Draft: [https://w3c.github.io/badging/](https://w3c.github.io/badging/)
+- Latest published version: [https://www.w3.org/TR/badging/](https://www.w3.org/TR/badging/)
 - Shortname: badging
 
 #### Potential issue(s) {.anomalies}
@@ -13837,7 +13859,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Crawled URL: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
-- Crawled version: 14 April 2023
+- Crawled version: 17 April 2023
 - Editor's Draft: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
 - Latest published version: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Shortname: secure-payment-confirmation
@@ -14399,7 +14421,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 14 April 2023
+- Crawled version: 17 April 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 

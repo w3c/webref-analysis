@@ -2,7 +2,7 @@
 % Strudy
 % April 17, 2023
 
-557 specifications were crawled in this report.
+558 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -13,6 +13,7 @@
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
 - [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
 - [Decorators proposal](https://tc39.es/proposal-decorators/)
+- [ECMAScript Async Explicit Resource Management](https://tc39.es/proposal-async-explicit-resource-management/)
 - [ECMAScript Explicit Resource Management](https://tc39.es/proposal-explicit-resource-management/)
 - [ECMAScript® 2024 Internationalization API Specification](https://tc39.es/ecma402/)
 - [ECMAScript® 2024 Language Specification](https://tc39.es/ecma262/multipage/)
@@ -97,7 +98,7 @@
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - [Well-Formed Unicode Strings](https://tc39.es/proposal-is-usv-string/)
 
-=> 89 specifications found
+=> 90 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
