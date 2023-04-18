@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-18T06:33:44.889Z",
+  "date": "2023-04-18T12:41:04.610Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "14 April 2023",
+      "date": "18 April 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -3474,6 +3474,11 @@
               "url": "https://drafts.css-houdini.org/css-typed-om-2/",
               "title": "CSS Typed OM Level 2",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-2/"
+            },
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -17964,7 +17969,7 @@
     {
       "title": "Fenced frame",
       "shortname": "fenced-frame",
-      "date": "17 April 2023",
+      "date": "18 April 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -29136,6 +29141,11 @@
               "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
               "url": "https://wicg.github.io/turtledove/",
               "title": "FLEDGE",
               "crawled": "https://wicg.github.io/turtledove/"
@@ -39256,7 +39266,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "17 April 2023",
+      "date": "18 April 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -44693,7 +44703,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "13 April 2023",
+      "date": "18 April 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
