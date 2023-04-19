@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-19T12:42:08.383Z",
+  "date": "2023-04-19T18:34:28.680Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -885,7 +885,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "18 April 2023",
+      "date": "19 April 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -6219,7 +6219,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "29 November 2022",
+      "date": "19 April 2023",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -36251,6 +36251,11 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/referrer-policy/",
               "title": "Referrer Policy",
               "crawled": "https://w3c.github.io/webappsec-referrer-policy/"
@@ -39307,7 +39312,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "18 April 2023",
+      "date": "19 April 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
