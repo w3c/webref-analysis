@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-20T12:42:23.002Z",
+  "date": "2023-04-20T18:34:14.751Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -3760,7 +3760,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "5 April 2023",
+      "date": "20 April 2023",
       "url": "https://www.w3.org/TR/css-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-2/",
@@ -3799,6 +3799,7 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/csswg-drafts/css-animations-1/",
+          "https://w3c.github.io/csswg-drafts/css-display-4/",
           "https://w3c.github.io/csswg-drafts/css-easing-2/",
           "https://w3c.github.io/csswg-drafts/cssom-1/",
           "https://www.w3.org/TR/css-cascade/",
@@ -6214,7 +6215,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "19 April 2023",
+      "date": "20 April 2023",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -6781,7 +6782,7 @@
     {
       "title": "CSS Display Module Level 4",
       "shortname": "css-display-4",
-      "date": "14 March 2023",
+      "date": "20 April 2023",
       "url": "https://drafts.csswg.org/css-display-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-display-4/",
@@ -6815,7 +6816,6 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/csswg-drafts/css-align-3/",
-          "https://w3c.github.io/csswg-drafts/css-animations-1/",
           "https://w3c.github.io/csswg-drafts/css-backgrounds-3/",
           "https://w3c.github.io/csswg-drafts/css-break-3/",
           "https://w3c.github.io/csswg-drafts/cssom-1/",
@@ -6849,6 +6849,11 @@
               "url": "https://drafts.csswg.org/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-animations-2/",
+              "title": "CSS Animations Level 2",
+              "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -18906,7 +18911,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "22 March 2023",
+      "date": "20 April 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -19998,7 +20003,7 @@
     {
       "title": "Global Privacy Control (GPC)",
       "shortname": "gpc-spec",
-      "date": "23 February 2023",
+      "date": "20 April 2023",
       "url": "https://privacycg.github.io/gpc-spec/",
       "nightly": {
         "url": "https://privacycg.github.io/gpc-spec/",
@@ -26595,7 +26600,7 @@
     {
       "title": "MediaStream Recording",
       "shortname": "mediastream-recording",
-      "date": "14 April 2023",
+      "date": "20 April 2023",
       "url": "https://www.w3.org/TR/mediastream-recording/",
       "release": {
         "url": "https://www.w3.org/TR/mediastream-recording/",
@@ -30048,7 +30053,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "19 April 2023",
+      "date": "20 April 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -30689,7 +30694,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "16 April 2023",
+      "date": "20 April 2023",
       "url": "https://w3c.github.io/rdf-schema/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-schema/spec/",
@@ -30768,7 +30773,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "12 April 2023",
+      "date": "20 April 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -40250,7 +40255,7 @@
     {
       "title": "URL Fragment Text Directives",
       "shortname": "scroll-to-text-fragment",
-      "date": "28 March 2023",
+      "date": "12 April 2023",
       "url": "https://wicg.github.io/scroll-to-text-fragment/",
       "nightly": {
         "url": "https://wicg.github.io/scroll-to-text-fragment/",
@@ -41606,11 +41611,6 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
-            },
-            {
-              "url": "https://wicg.github.io/scroll-to-text-fragment/",
-              "title": "URL Fragment Text Directives",
-              "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
             }
           ],
           "informative": [
