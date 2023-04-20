@@ -892,7 +892,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-images-3/`](https://w3c.github.io/csswg-drafts/css-images-3/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-images-5/`](https://w3c.github.io/csswg-drafts/css-images-5/) but does not list it in its references
-    * [`https://w3c.github.io/csswg-drafts/css2/`](https://w3c.github.io/csswg-drafts/css2/) but does not list it in its references
     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/) but does not list it in its references
     * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -2075,7 +2074,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1714 missing references for links found in 246 specifications
+=> 1713 missing references for links found in 246 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

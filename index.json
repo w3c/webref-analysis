@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-20T06:33:49.260Z",
+  "date": "2023-04-20T12:42:23.002Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -3449,11 +3449,6 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-images-4/",
-              "title": "CSS Images Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
@@ -8919,7 +8914,6 @@
           "http://www.w3.org/TR/css-transitions/",
           "https://w3c.github.io/csswg-drafts/css-images-3/",
           "https://w3c.github.io/csswg-drafts/css-images-5/",
-          "https://w3c.github.io/csswg-drafts/css2/",
           "https://www.w3.org/TR/2011/CR-css3-background-20110215/",
           "https://www.w3.org/TR/2012/WD-css4-images-20120911/",
           "https://www.w3.org/TR/css-cascade/",
@@ -29633,7 +29627,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "17 April 2023",
+      "date": "20 April 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -36070,7 +36064,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "4 April 2023",
+      "date": "18 April 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -44749,7 +44743,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "18 April 2023",
+      "date": "20 April 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",

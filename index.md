@@ -3073,7 +3073,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 18 April 2023
+- Crawled version: 20 April 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -3257,7 +3257,6 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
-- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
@@ -5562,7 +5561,6 @@ No informative reference to this spec from other specs.
      * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/)
      * [`https://w3c.github.io/csswg-drafts/css-images-3/`](https://w3c.github.io/csswg-drafts/css-images-3/)
      * [`https://w3c.github.io/csswg-drafts/css-images-5/`](https://w3c.github.io/csswg-drafts/css-images-5/)
-     * [`https://w3c.github.io/csswg-drafts/css2/`](https://w3c.github.io/csswg-drafts/css2/)
      * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
      * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
@@ -8416,7 +8414,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 4 April 2023
+- Crawled version: 18 April 2023
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Latest published version: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Shortname: scroll-animations-1
@@ -10463,7 +10461,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 17 April 2023
+- Crawled version: 20 April 2023
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
