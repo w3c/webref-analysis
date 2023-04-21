@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-21T06:35:36.964Z",
+  "date": "2023-04-21T12:40:24.773Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -22520,7 +22520,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "30 March 2023",
+      "date": "21 April 2023",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -24146,7 +24146,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "28 March 2023",
+      "date": "21 April 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -24186,7 +24186,7 @@
         ],
         "inconsistentRef": [
           {
-            "link": "http://www.w3.org/TR/2005/REC-charmod-20050215/",
+            "link": "https://www.w3.org/TR/2005/REC-charmod-20050215/",
             "ref": {
               "name": "CHARMOD",
               "url": "https://www.w3.org/TR/charmod/"
@@ -37624,7 +37624,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "05 April 2023",
+      "date": "21 April 2023",
       "url": "https://w3c.github.io/sparql-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-protocol/spec/",
@@ -44162,7 +44162,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "12 April 2023",
+      "date": "21 April 2023",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -44743,7 +44743,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "20 April 2023",
+      "date": "21 April 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
