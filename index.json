@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-21T00:47:36.017Z",
+  "date": "2023-04-21T06:35:36.964Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -3065,7 +3065,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "20 April 2023",
+      "date": "21 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3760,7 +3760,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "20 April 2023",
+      "date": "11 April 2023",
       "url": "https://www.w3.org/TR/css-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-2/",
@@ -11525,7 +11525,7 @@
     {
       "title": "CSS Scroll Snap Module Level 1",
       "shortname": "css-scroll-snap-1",
-      "date": "3 March 2023",
+      "date": "20 April 2023",
       "url": "https://www.w3.org/TR/css-scroll-snap-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scroll-snap-1/",
@@ -14972,7 +14972,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "20 April 2023",
+      "date": "21 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
