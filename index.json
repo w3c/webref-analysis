@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-22T00:46:40.372Z",
+  "date": "2023-04-22T06:34:08.885Z",
   "stats": {
     "crawled": 558,
-    "errors": 0,
+    "errors": 2,
     "studied": 558
   },
   "results": [
@@ -2122,7 +2122,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "27 March 2023",
+      "date": "21 April 2023",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -3760,7 +3760,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "11 April 2023",
+      "date": "22 April 2023",
       "url": "https://www.w3.org/TR/css-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-2/",
@@ -14824,6 +14824,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 522 Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 522\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 390)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -14841,7 +14842,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -15088,6 +15089,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 522 Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 522\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 392)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24146,7 +24148,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "21 April 2023",
+      "date": "22 April 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",

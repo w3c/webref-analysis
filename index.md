@@ -3382,7 +3382,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-animations-2/](https://www.w3.org/TR/css-animations-2/)
 - Crawled URL: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
-- Crawled version: 11 April 2023
+- Crawled version: 22 April 2023
 - Editor's Draft: [https://drafts.csswg.org/css-animations-2/](https://drafts.csswg.org/css-animations-2/)
 - Latest published version: [https://www.w3.org/TR/css-animations-2/](https://www.w3.org/TR/css-animations-2/)
 - Shortname: css-animations-2
@@ -8606,7 +8606,7 @@ No informative reference to this spec from other specs.
 
 ## DOM Working Group {#group-dom_working_group}
 
-### Document Object Model (DOM) Level 2 Style Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Document Object Model (DOM) Level 2 Style Specification {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8619,32 +8619,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx)
-     * [`http://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html`](http://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html)
-     * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html)
-     * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html)
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-- Inconsistent references for links: 
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-html40-19980424/types.html`](http://www.w3.org/TR/1998/REC-html40-19980424/types.html), related reference "HTML4.0" uses URL [`http://www.w3.org/TR/1998/REC-html40-19980424`](http://www.w3.org/TR/1998/REC-html40-19980424)
+The following network or parsing error occurred:
+`Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 522 Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 522
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 392)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9576,7 +9559,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 21 April 2023
+- Crawled version: 22 April 2023
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -13913,7 +13896,7 @@ Informative references to this spec from:
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 
 
-### Device Memory {data-spec=true data-missingDfns=true data-ok=true}
+### Device Memory {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -13926,7 +13909,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 522 Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 522
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 390)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16882,7 +16873,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 27 March 2023
+- Crawled version: 21 April 2023
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 

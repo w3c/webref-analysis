@@ -5,6 +5,26 @@
 558 specifications were crawled in this report.
 
 
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [Device Memory](https://www.w3.org/TR/device-memory/): `Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 522 Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 522
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 390)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [Document Object Model (DOM) Level 2 Style Specification](https://www.w3.org/TR/DOM-Level-2-Style/): `Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 522 Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 522
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 392)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+=> 2 specifications found
+
+
 ## Specifications without normative dependencies
 
 - [A Method for Writing Testable Conformance Requirements](https://www.w3.org/TR/test-methodology/)
@@ -1623,12 +1643,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://compat.spec.whatwg.org/`](https://compat.spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
 - [Digital Goods API](https://wicg.github.io/digital-goods/) links to [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/) but does not list it in its references
-- [Document Object Model (DOM) Level 2 Style Specification](https://www.w3.org/TR/DOM-Level-2-Style/) links to:
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx) but does not list it in its references
-    * [`http://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html`](http://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html) but does not list it in its references
-    * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html) but does not list it in its references
-    * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html) but does not list it in its references
-    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
 - [DOM Standard](https://dom.spec.whatwg.org/) links to [`https://w3c.github.io/deviceorientation/spec-source-orientation.html`](https://w3c.github.io/deviceorientation/spec-source-orientation.html) but does not list it in its references
 - [ECMAScript® 2024 Language Specification](https://tc39.es/ecma262/multipage/) links to:
     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
@@ -2074,7 +2088,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1713 missing references for links found in 246 specifications
+=> 1708 missing references for links found in 245 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2158,26 +2172,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/) links to [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
 - [Deprecation Reporting](https://wicg.github.io/deprecation-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/) links to [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/) but related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
-- [Document Object Model (DOM) Level 2 Style Specification](https://www.w3.org/TR/DOM-Level-2-Style/) links to:
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html) but related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-    * [`http://www.w3.org/TR/1998/REC-html40-19980424/types.html`](http://www.w3.org/TR/1998/REC-html40-19980424/types.html) but related reference "HTML4.0" uses URL [`http://www.w3.org/TR/1998/REC-html40-19980424`](http://www.w3.org/TR/1998/REC-html40-19980424)
 - [Document Policy](https://wicg.github.io/document-policy/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/) links to [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM4" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 - [DOM Standard](https://dom.spec.whatwg.org/) links to [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but related reference "I18N-GLOSSARY" uses URL [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/)
@@ -2407,7 +2401,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 284 inconsistent references for links found in 113 specifications
+=> 265 inconsistent references for links found in 112 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
