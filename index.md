@@ -13203,7 +13203,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/selection-api/](https://www.w3.org/TR/selection-api/)
 - Crawled URL: [https://w3c.github.io/selection-api/](https://w3c.github.io/selection-api/)
-- Crawled version: 04 April 2023
+- Crawled version: 22 April 2023
 - Editor's Draft: [https://w3c.github.io/selection-api/](https://w3c.github.io/selection-api/)
 - Latest published version: [https://www.w3.org/TR/selection-api/](https://www.w3.org/TR/selection-api/)
 - Shortname: selection-api
@@ -18357,7 +18357,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 28 March 2023
+- Crawled version: 22 April 2023
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
