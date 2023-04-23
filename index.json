@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-23T06:32:48.545Z",
+  "date": "2023-04-23T12:39:51.165Z",
   "stats": {
     "crawled": 558,
     "errors": 2,
@@ -24148,7 +24148,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "22 April 2023",
+      "date": "23 April 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
