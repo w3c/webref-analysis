@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-24T12:48:47.209Z",
+  "date": "2023-04-24T18:34:53.955Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -885,7 +885,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "19 April 2023",
+      "date": "24 April 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -5373,7 +5373,7 @@
     {
       "title": "CSS Color Module Level 3",
       "shortname": "css-color-3",
-      "date": "05 August 2021",
+      "date": "18 January 2022",
       "url": "https://www.w3.org/TR/css-color-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-3/",
@@ -5416,11 +5416,11 @@
           "http://www.w3.org/TR/2008/REC-WCAG20-20081211/",
           "http://www.w3.org/TR/2008/REC-xml-20081126/",
           "https://infra.spec.whatwg.org/",
-          "https://www.w3.org/TR/2003/CR-css3-color-20030514/",
           "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
           "https://www.w3.org/TR/2011/REC-css3-color-20110607/",
           "https://www.w3.org/TR/2018/REC-css-ui-3-20180621/",
-          "https://www.w3.org/TR/css-color-4/"
+          "https://www.w3.org/TR/css-color-4/",
+          "https://www.w3.org/TR/css-color-5/"
         ],
         "inconsistentRef": [
           {
@@ -14521,7 +14521,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "15 December 2022",
+      "date": "24 April 2023",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -18477,6 +18477,11 @@
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
             },
             {
+              "url": "https://www.w3.org/TR/secure-payment-confirmation/",
+              "title": "Secure Payment Confirmation",
+              "crawled": "https://w3c.github.io/secure-payment-confirmation/"
+            },
+            {
               "url": "https://www.w3.org/TR/server-timing/",
               "title": "Server Timing",
               "crawled": "https://w3c.github.io/server-timing/"
@@ -19240,7 +19245,7 @@
     {
       "title": "FLEDGE",
       "shortname": "turtledove",
-      "date": "18 April 2023",
+      "date": "24 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -29797,7 +29802,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "6 April 2023",
+      "date": "24 April 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -29839,7 +29844,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "6 April 2023",
+      "date": "24 April 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -36376,7 +36381,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "22 April 2023",
+      "date": "24 April 2023",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -38570,7 +38575,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "6 April 2023",
+      "date": "24 April 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
