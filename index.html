@@ -9973,8 +9973,8 @@
   </section>
   <section id="group-dom_working_group" class="level2">
   <h2>DOM Working Group</h2>
-  <section id="document-object-model-dom-level-2-style-specification" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">Document Object Model (DOM) Level 2 Style Specification</h3>
+  <section id="document-object-model-dom-level-2-style-specification" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">Document Object Model (DOM) Level 2 Style Specification</h3>
   <section id="spec-info-262" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -9988,8 +9988,38 @@
   </section>
   <section id="potential-issues-262" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 522 Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 522     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)     at async Promise.all (index 392)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html"><code>http://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html"><code>http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html"><code>http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html</code></a></li>
+  <li><a href="https://dom.spec.whatwg.org/"><code>https://dom.spec.whatwg.org/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html</code></a>, related reference “CSS2” uses URL <a href="http://www.w3.org/TR/1998/REC-CSS2-19980512"><code>http://www.w3.org/TR/1998/REC-CSS2-19980512</code></a></li>
+  <li><a href="http://www.w3.org/TR/1998/REC-html40-19980424/types.html"><code>http://www.w3.org/TR/1998/REC-html40-19980424/types.html</code></a>, related reference “HTML4.0” uses URL <a href="http://www.w3.org/TR/1998/REC-html40-19980424"><code>http://www.w3.org/TR/1998/REC-html40-19980424</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-262" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -10607,7 +10637,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webgpu/">https://www.w3.org/TR/webgpu/</a></li>
   <li>Crawled URL: <a href="https://gpuweb.github.io/gpuweb/">https://gpuweb.github.io/gpuweb/</a></li>
-  <li>Crawled version: 21 April 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://gpuweb.github.io/gpuweb/">https://gpuweb.github.io/gpuweb/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webgpu/">https://www.w3.org/TR/webgpu/</a></li>
   <li>Shortname: webgpu</li>
@@ -10642,7 +10672,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/WGSL/">https://www.w3.org/TR/WGSL/</a></li>
   <li>Crawled URL: <a href="https://gpuweb.github.io/gpuweb/wgsl/">https://gpuweb.github.io/gpuweb/wgsl/</a></li>
-  <li>Crawled version: 21 April 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://gpuweb.github.io/gpuweb/wgsl/">https://gpuweb.github.io/gpuweb/wgsl/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/WGSL/">https://www.w3.org/TR/WGSL/</a></li>
   <li>Shortname: WGSL</li>
@@ -11084,7 +11114,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/i18n-glossary/">https://www.w3.org/TR/i18n-glossary/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/i18n-glossary/">https://w3c.github.io/i18n-glossary/</a></li>
-  <li>Crawled version: 23 April 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/i18n-glossary/">https://w3c.github.io/i18n-glossary/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/i18n-glossary/">https://www.w3.org/TR/i18n-glossary/</a></li>
   <li>Shortname: i18n-glossary</li>
@@ -16074,8 +16104,8 @@
   </ul>
   </section>
   </section>
-  <section id="device-memory" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">Device Memory</h3>
+  <section id="device-memory" class="level3" data-spec="true" data-missingDfns="true" data-ok="true">
+  <h3 data-spec="true" data-missingDfns="true" data-ok="true">Device Memory</h3>
   <section id="spec-info-427" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -16089,8 +16119,7 @@
   </section>
   <section id="potential-issues-427" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 522 Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 522     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)     at async Promise.all (index 390)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <p>This specification looks good!</p>
   </section>
   <section id="known-dependencies-on-this-specification-427" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -18835,7 +18864,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/mediacapture-streams/">https://www.w3.org/TR/mediacapture-streams/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/mediacapture-main/">https://w3c.github.io/mediacapture-main/</a></li>
-  <li>Crawled version: 13 April 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/mediacapture-main/">https://w3c.github.io/mediacapture-main/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/mediacapture-streams/">https://www.w3.org/TR/mediacapture-streams/</a></li>
   <li>Shortname: mediacapture-streams</li>
@@ -19268,7 +19297,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webrtc/">https://www.w3.org/TR/webrtc/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/webrtc-pc/">https://w3c.github.io/webrtc-pc/</a></li>
-  <li>Crawled version: 20 April 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/webrtc-pc/">https://w3c.github.io/webrtc-pc/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webrtc/">https://www.w3.org/TR/webrtc/</a></li>
   <li>Shortname: webrtc</li>
@@ -19354,7 +19383,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/wasm-core-1/">https://www.w3.org/TR/wasm-core-1/</a></li>
   <li>Crawled URL: <a href="https://webassembly.github.io/spec/core/bikeshed/">https://webassembly.github.io/spec/core/bikeshed/</a></li>
-  <li>Crawled version: 8 April 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://webassembly.github.io/spec/core/bikeshed/">https://webassembly.github.io/spec/core/bikeshed/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/wasm-core-1/">https://www.w3.org/TR/wasm-core-1/</a></li>
   <li>Shortname: wasm-core-1</li>
@@ -19384,7 +19413,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/wasm-js-api-2/">https://www.w3.org/TR/wasm-js-api-2/</a></li>
   <li>Crawled URL: <a href="https://webassembly.github.io/spec/js-api/">https://webassembly.github.io/spec/js-api/</a></li>
-  <li>Crawled version: 8 April 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://webassembly.github.io/spec/js-api/">https://webassembly.github.io/spec/js-api/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/wasm-js-api-2/">https://www.w3.org/TR/wasm-js-api-2/</a></li>
   <li>Shortname: wasm-js-api-2</li>
@@ -19422,7 +19451,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/wasm-web-api-2/">https://www.w3.org/TR/wasm-web-api-2/</a></li>
   <li>Crawled URL: <a href="https://webassembly.github.io/spec/web-api/">https://webassembly.github.io/spec/web-api/</a></li>
-  <li>Crawled version: 8 April 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://webassembly.github.io/spec/web-api/">https://webassembly.github.io/spec/web-api/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/wasm-web-api-2/">https://www.w3.org/TR/wasm-web-api-2/</a></li>
   <li>Shortname: wasm-web-api-2</li>
@@ -19886,7 +19915,7 @@
   <ul>
   <li>Initial URL: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
   <li>Crawled URL: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
-  <li>Crawled version: 24 March 2023</li>
+  <li>Crawled version: 24 April 2023</li>
   <li>Editor’s Draft: <a href="https://fetch.spec.whatwg.org/">https://fetch.spec.whatwg.org/</a></li>
   <li>Shortname: fetch</li>
   </ul>
