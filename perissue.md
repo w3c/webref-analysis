@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 24, 2023
+% April 25, 2023
 
 558 specifications were crawled in this report.
 
@@ -1647,6 +1647,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but does not list it in its references
+- [Fenced frame](https://wicg.github.io/fenced-frame/) links to [`https://w3c.github.io/webappsec-cspee/`](https://w3c.github.io/webappsec-cspee/) but does not list it in its references
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
     * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html) but does not list it in its references
     * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/) but does not list it in its references
@@ -2075,7 +2076,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1714 missing references for links found in 247 specifications
+=> 1715 missing references for links found in 248 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2094,9 +2095,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/) but related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-    * [`https://www.w3.org/TR/html/grouping-content.html`](https://www.w3.org/TR/html/grouping-content.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-    * [`https://www.w3.org/TR/html/textlevel-semantics.html`](https://www.w3.org/TR/html/textlevel-semantics.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-    * [`https://www.w3.org/TR/html5/grouping-content.html`](https://www.w3.org/TR/html5/grouping-content.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [Background Fetch](https://wicg.github.io/background-fetch/) links to:
     * [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
@@ -2408,7 +2406,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 284 inconsistent references for links found in 113 specifications
+=> 281 inconsistent references for links found in 113 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

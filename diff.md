@@ -1,13 +1,22 @@
-% Diff between report from "April 24, 2023" and reference report from "April 24, 2023"
+% Diff between report from "April 25, 2023" and reference report from "April 24, 2023"
 % Strudy
-% April 24, 2023
+% April 25, 2023
 
-## CSS Color Module Level 3
+## Accessible Rich Internet Applications (WAI-ARIA) 1.3
 
-- Initial URL: [https://www.w3.org/TR/css-color-3/](https://www.w3.org/TR/css-color-3/)
+- Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-color-3/](https://drafts.csswg.org/css-color-3/)
-- Missing references for links: *INS* https://www.w3.org/TR/css-color-5/ / *DEL* https://www.w3.org/TR/2003/CR-css3-color-20030514/
+- Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
+- Inconsistent references for links: *DEL* https://www.w3.org/TR/html/grouping-content.html, https://www.w3.org/TR/html/textlevel-semantics.html, https://www.w3.org/TR/html5/grouping-content.html
+
+
+## Fenced frame
+
+- Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
+- Crawled URL: [undefined](undefined)
+- Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
+- Spec is OK: *INS* false / *DEL* true
+- Missing references for links: *INS* https://w3c.github.io/webappsec-cspee/
 
 
 
