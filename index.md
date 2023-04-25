@@ -7520,7 +7520,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
-- Crawled version: 3 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
 - Shortname: css-transitions-2
 
@@ -10977,7 +10977,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
-- Crawled version: 13 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Shortname: sparql12-entailment
 
@@ -17412,7 +17412,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 24 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

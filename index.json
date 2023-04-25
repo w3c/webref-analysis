@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-25T00:47:01.253Z",
+  "date": "2023-04-25T06:35:28.667Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -13259,7 +13259,7 @@
     {
       "title": "CSS Transitions Level 2",
       "shortname": "css-transitions-2",
-      "date": "3 April 2023",
+      "date": "25 April 2023",
       "url": "https://drafts.csswg.org/css-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-transitions-2/",
@@ -20711,7 +20711,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 April 2023",
+      "date": "25 April 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -37032,7 +37032,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "13 April 2023",
+      "date": "25 April 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
