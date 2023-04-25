@@ -13478,7 +13478,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/WebCryptoAPI/](https://www.w3.org/TR/WebCryptoAPI/)
 - Crawled URL: [https://w3c.github.io/webcrypto/](https://w3c.github.io/webcrypto/)
-- Crawled version: 01 November 2022
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://w3c.github.io/webcrypto/](https://w3c.github.io/webcrypto/)
 - Latest published version: [https://www.w3.org/TR/WebCryptoAPI/](https://www.w3.org/TR/WebCryptoAPI/)
 - Shortname: WebCryptoAPI
@@ -13969,7 +13969,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/hr-time-3/](https://www.w3.org/TR/hr-time-3/)
 - Crawled URL: [https://w3c.github.io/hr-time/](https://w3c.github.io/hr-time/)
-- Crawled version: 11 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://w3c.github.io/hr-time/](https://w3c.github.io/hr-time/)
 - Latest published version: [https://www.w3.org/TR/hr-time-3/](https://www.w3.org/TR/hr-time-3/)
 - Shortname: hr-time-3
@@ -14940,7 +14940,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 24 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
