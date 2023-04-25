@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-25T12:40:28.518Z",
+  "date": "2023-04-25T18:34:24.710Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "24 April 2023",
+      "date": "25 April 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -536,8 +536,7 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/aria-practices/",
-          "https://www.w3.org/TR/css3-selectors/",
-          "https://www.w3.org/TR/fingerprinting-guidance/"
+          "https://www.w3.org/TR/css3-selectors/"
         ],
         "inconsistentRef": [
           {
@@ -15778,11 +15777,6 @@
               "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://drafts.css-houdini.org/font-metrics-api-1/",
               "title": "Font Metrics API Level 1",
               "crawled": "https://drafts.css-houdini.org/font-metrics-api-1/"
@@ -16051,6 +16045,11 @@
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -16820,11 +16819,6 @@
               "crawled": "https://fs.spec.whatwg.org/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://www.w3.org/TR/geometry-1/",
               "title": "Geometry Interfaces Module Level 1",
               "crawled": "https://drafts.fxtf.org/geometry-1/"
@@ -16933,6 +16927,11 @@
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -17362,11 +17361,6 @@
               "crawled": "https://fs.spec.whatwg.org/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -17390,6 +17384,11 @@
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -17971,7 +17970,7 @@
     {
       "title": "Fenced frame",
       "shortname": "fenced-frame",
-      "date": "24 April 2023",
+      "date": "25 April 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -18009,7 +18008,7 @@
           "normative": [
             {
               "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
+              "title": "Protected Audience (formerly FLEDGE)",
               "crawled": "https://wicg.github.io/turtledove/"
             }
           ],
@@ -18298,11 +18297,6 @@
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -18421,6 +18415,11 @@
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/referrer-policy/",
@@ -19219,48 +19218,6 @@
               "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
             }
           ]
-        },
-        "ok": true
-      }
-    },
-    {
-      "title": "FLEDGE",
-      "shortname": "turtledove",
-      "date": "25 April 2023",
-      "url": "https://wicg.github.io/turtledove/",
-      "nightly": {
-        "url": "https://wicg.github.io/turtledove/",
-        "status": "Draft Community Group Report",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/turtledove",
-        "sourcePath": "spec.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://wicg.github.io/turtledove/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
         },
         "ok": true
       }
@@ -20297,11 +20254,6 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://www.w3.org/TR/gamepad/",
               "title": "Gamepad",
               "crawled": "https://w3c.github.io/gamepad/"
@@ -20410,6 +20362,11 @@
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -21353,11 +21310,6 @@
               "crawled": "https://drafts.fxtf.org/filter-effects-2/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
@@ -21741,6 +21693,11 @@
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -23308,11 +23265,6 @@
               "crawled": "https://fs.spec.whatwg.org/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
@@ -23586,6 +23538,11 @@
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/proximity/",
@@ -27012,11 +26969,6 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -27055,6 +27007,11 @@
               "url": "https://www.w3.org/TR/miniapp-packaging/",
               "title": "MiniApp Packaging",
               "crawled": "https://w3c.github.io/miniapp-packaging/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/service-workers/",
@@ -27365,6 +27322,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/wai-aria-1.2/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
             {
               "url": "https://www.w3.org/TR/json-ld11/",
               "title": "JSON-LD 1.1",
@@ -29166,11 +29128,6 @@
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://fullscreen.spec.whatwg.org/",
               "title": "Fullscreen API Standard",
               "crawled": "https://fullscreen.spec.whatwg.org/"
@@ -29249,6 +29206,11 @@
               "url": "https://www.w3.org/TR/picture-in-picture/",
               "title": "Picture-in-Picture",
               "crawled": "https://w3c.github.io/picture-in-picture/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/proximity/",
@@ -30141,6 +30103,48 @@
         {
           "name": "Cascading Style Sheets (CSS) Working Group",
           "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "Protected Audience (formerly FLEDGE)",
+      "shortname": "turtledove",
+      "date": "25 April 2023",
+      "url": "https://wicg.github.io/turtledove/",
+      "nightly": {
+        "url": "https://wicg.github.io/turtledove/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/turtledove",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/turtledove/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
         }
       ],
       "report": {
@@ -40452,11 +40456,6 @@
               "crawled": "https://w3c.github.io/FileAPI/"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://wicg.github.io/get-installed-related-apps/spec/",
               "title": "Get Installed Related Apps API",
               "crawled": "https://wicg.github.io/get-installed-related-apps/spec/"
@@ -40585,6 +40584,11 @@
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -42734,11 +42738,6 @@
               "crawled": "https://w3c.github.io/webcodecs/flac_codec_registration.html"
             },
             {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "FLEDGE",
-              "crawled": "https://wicg.github.io/turtledove/"
-            },
-            {
               "url": "https://drafts.css-houdini.org/font-metrics-api-1/",
               "title": "Font Metrics API Level 1",
               "crawled": "https://drafts.css-houdini.org/font-metrics-api-1/"
@@ -43077,6 +43076,11 @@
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/proximity/",
@@ -46683,7 +46687,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "24 April 2023",
+      "date": "25 April 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -46750,7 +46754,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "24 April 2023",
+      "date": "25 April 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

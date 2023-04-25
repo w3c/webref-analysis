@@ -214,7 +214,6 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Standard](https://fs.spec.whatwg.org/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
@@ -237,6 +236,7 @@ Normative references to this spec from:
 - [Permissions](https://w3c.github.io/permissions/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
@@ -2750,7 +2750,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 24 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -2760,7 +2760,6 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://w3c.github.io/aria-practices/`](https://w3c.github.io/aria-practices/)
      * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
-     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
@@ -9174,7 +9173,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 24 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9203,7 +9202,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 24 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -10605,6 +10604,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 
@@ -12576,7 +12576,6 @@ Normative references to this spec from:
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fenced frame](https://wicg.github.io/fenced-frame/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -12593,6 +12592,7 @@ Normative references to this spec from:
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
@@ -13991,7 +13991,6 @@ Normative references to this spec from:
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Geolocation API](https://w3c.github.io/geolocation-api/)
@@ -14014,6 +14013,7 @@ Normative references to this spec from:
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
@@ -14868,7 +14868,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 24 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -14881,7 +14881,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [FLEDGE](https://wicg.github.io/turtledove/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 
 No informative reference to this spec from other specs.
 
@@ -14930,27 +14930,6 @@ Normative references to this spec from:
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
-
-No informative reference to this spec from other specs.
-
-
-### FLEDGE {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 25 April 2023
-- Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Shortname: turtledove
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -15558,6 +15537,27 @@ No informative reference to this spec from other specs.
 - Crawled version: 20 April 2023
 - Editor's Draft: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Shortname: trust-token-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Protected Audience (formerly FLEDGE) {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
+- Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
+- Crawled version: 25 April 2023
+- Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
+- Shortname: turtledove
 
 #### Potential issue(s) {.anomalies}
 
@@ -17033,7 +17033,6 @@ Normative references to this spec from:
 - [Fenced frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
@@ -17088,6 +17087,7 @@ Normative references to this spec from:
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -17211,12 +17211,12 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Standard](https://fs.spec.whatwg.org/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
@@ -17294,7 +17294,6 @@ Normative references to this spec from:
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Image Resource](https://w3c.github.io/image-resource/)
@@ -17319,6 +17318,7 @@ Normative references to this spec from:
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessFor/)
@@ -17535,7 +17535,6 @@ Normative references to this spec from:
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html)
@@ -17613,6 +17612,7 @@ Normative references to this spec from:
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -17870,7 +17870,6 @@ Normative references to this spec from:
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html)
@@ -17926,6 +17925,7 @@ Normative references to this spec from:
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Push API](https://w3c.github.io/push-api/)
 - [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
@@ -18035,7 +18035,6 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [File System Access](https://wicg.github.io/file-system-access/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -18044,6 +18043,7 @@ Normative references to this spec from:
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Media Session Standard](https://w3c.github.io/mediasession/)
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
@@ -18290,7 +18290,6 @@ Normative references to this spec from:
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Image Resource](https://w3c.github.io/image-resource/)
@@ -18317,6 +18316,7 @@ Normative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
@@ -18456,7 +18456,6 @@ Normative references to this spec from:
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [FLAC WebCodecs Registration](https://w3c.github.io/webcodecs/flac_codec_registration.html)
-- [FLEDGE](https://wicg.github.io/turtledove/)
 - [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
@@ -18525,6 +18524,7 @@ Normative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Region Capture](https://w3c.github.io/mediacapture-region/)
