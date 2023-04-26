@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-26T06:33:41.568Z",
+  "date": "2023-04-26T12:40:41.154Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -25147,7 +25147,7 @@
     {
       "title": "Local Network Access",
       "shortname": "local-network-access",
-      "date": "16 March 2023",
+      "date": "26 April 2023",
       "url": "https://wicg.github.io/local-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-network-access/",
@@ -27089,11 +27089,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
             {
               "url": "https://www.w3.org/TR/miniapp-packaging/",
               "title": "MiniApp Packaging",
@@ -40892,7 +40887,7 @@
     {
       "title": "User Timing Level 3",
       "shortname": "user-timing",
-      "date": "03 August 2022",
+      "date": "26 April 2023",
       "url": "https://www.w3.org/TR/user-timing/",
       "release": {
         "url": "https://www.w3.org/TR/user-timing/",
@@ -44121,7 +44116,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "21 April 2023",
+      "date": "26 April 2023",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -47127,6 +47122,11 @@
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webtransport/",
+              "title": "WebTransport",
+              "crawled": "https://w3c.github.io/webtransport/"
             }
           ]
         },
@@ -47181,6 +47181,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Local Network Access",
+              "crawled": "https://wicg.github.io/local-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -47210,7 +47215,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "25 April 2023",
+      "date": "26 April 2023",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",

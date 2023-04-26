@@ -10302,7 +10302,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 
 No informative reference to this spec from other specs.
@@ -14351,7 +14350,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/user-timing/](https://www.w3.org/TR/user-timing/)
 - Crawled URL: [https://w3c.github.io/user-timing/](https://w3c.github.io/user-timing/)
-- Crawled version: 03 August 2022
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://w3c.github.io/user-timing/](https://w3c.github.io/user-timing/)
 - Latest published version: [https://www.w3.org/TR/user-timing/](https://www.w3.org/TR/user-timing/)
 - Shortname: user-timing
@@ -15231,7 +15230,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
 - Crawled URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
-- Crawled version: 16 March 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
 - Shortname: local-network-access
 
@@ -16726,6 +16725,7 @@ Informative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [WebTransport](https://w3c.github.io/webtransport/)
 
 
 ## WebAssembly Community Group {#group-webassembly_community_group}
@@ -16736,7 +16736,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 21 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
@@ -16845,7 +16845,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport
@@ -17762,6 +17762,7 @@ Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/)
 
