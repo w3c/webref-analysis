@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-26T00:48:11.424Z",
+  "date": "2023-04-26T06:33:41.568Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -3043,7 +3043,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "25 April 2023",
+      "date": "26 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -14927,7 +14927,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "25 April 2023",
+      "date": "26 April 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -42199,7 +42199,7 @@
     {
       "title": "Web Cryptography API",
       "shortname": "WebCryptoAPI",
-      "date": "25 April 2023",
+      "date": "26 April 2023",
       "url": "https://www.w3.org/TR/WebCryptoAPI/",
       "release": {
         "url": "https://www.w3.org/TR/WebCryptoAPI/",
