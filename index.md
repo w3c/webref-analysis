@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 25, 2023
+% April 26, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -746,7 +746,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -774,7 +774,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1020,7 +1020,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1045,7 +1045,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Shortname: rfc9110
 
@@ -1082,7 +1082,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
@@ -1106,7 +1106,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1133,7 +1133,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1154,7 +1154,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1526,7 +1526,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1578,7 +1578,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1613,7 +1613,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -1638,7 +1638,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1677,7 +1677,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1710,7 +1710,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1737,7 +1737,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 25 April 2023
+- Crawled version: 26 April 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -4509,7 +4509,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Custom Highlight API Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Custom Highlight API Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -4526,8 +4526,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/csswg-drafts/css-syntax-3/`](https://w3c.github.io/csswg-drafts/css-syntax-3/)
      * [`https://w3c.github.io/csswg-drafts/cssom-1/`](https://w3c.github.io/csswg-drafts/cssom-1/)
      * [`https://w3c.github.io/csswg-drafts/selectors-4/`](https://w3c.github.io/csswg-drafts/selectors-4/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/), related reference "I18N-GLOSSARY" uses URL [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6044,7 +6042,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Object Model (CSSOM) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Object Model (CSSOM) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6073,8 +6071,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/csswg-drafts/css-variables-2/`](https://w3c.github.io/csswg-drafts/css-variables-2/)
      * [`https://w3c.github.io/csswg-drafts/cssom-1/`](https://w3c.github.io/csswg-drafts/cssom-1/)
      * [`https://w3c.github.io/csswg-drafts/selectors-4/`](https://w3c.github.io/csswg-drafts/selectors-4/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/), related reference "I18N-GLOSSARY" uses URL [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6734,7 +6730,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Crawled URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
-- Crawled version: 23 June 2022
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Shortname: css-scroll-snap-2
 
@@ -7298,7 +7294,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
 - Crawled URL: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
-- Crawled version: 29 March 2023
+- Crawled version: 22 April 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
 - Latest published version: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
 - Shortname: css-text-3
@@ -7310,7 +7306,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/), related reference "I18N-GLOSSARY" uses URL [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
@@ -7338,7 +7333,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
-- Crawled version: 29 March 2023
+- Crawled version: 22 April 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Shortname: css-text-4
@@ -8411,7 +8406,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 21 April 2023
+- Crawled version: 24 April 2023
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Latest published version: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Shortname: scroll-animations-1
@@ -9598,8 +9593,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
-- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)
 
 
 ## JSON-LD Working Group {#group-json_ld_working_group}
@@ -11265,7 +11258,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Crawled version: 07 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Shortname: sparql12-results-csv-tsv
 
@@ -16852,7 +16845,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 11 April 2023
+- Crawled version: 25 April 2023
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport

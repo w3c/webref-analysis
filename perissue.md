@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 25, 2023
+% April 26, 2023
 
 558 specifications were crawled in this report.
 
@@ -2130,7 +2130,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/) links to [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`http://www.w3.org/TR/2011/REC-SVG11-20110816/`](http://www.w3.org/TR/2011/REC-SVG11-20110816/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/) links to [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/) links to [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but related reference "I18N-GLOSSARY" uses URL [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/) links to [`https://www.w3.org/TR/html5/webappapis.html`](https://www.w3.org/TR/html5/webappapis.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
@@ -2142,16 +2141,13 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-- [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/) links to [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but related reference "I18N-GLOSSARY" uses URL [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/)
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/) links to [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/) but related reference "TOUCH-EVENTS" uses URL [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/) links to:
     * [`https://www.w3.org/TR/2012/WD-dom-20120405/`](https://www.w3.org/TR/2012/WD-dom-20120405/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/) links to [`https://www.w3.org/TR/html5/text-level-semantics.html`](https://www.w3.org/TR/html5/text-level-semantics.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
-- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/) links to:
-    * [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/) but related reference "I18N-GLOSSARY" uses URL [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+- [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/) links to [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/) but related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/) links to [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
 - [Deprecation Reporting](https://wicg.github.io/deprecation-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
@@ -2405,7 +2401,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 281 inconsistent references for links found in 113 specifications
+=> 278 inconsistent references for links found in 111 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
