@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-26T12:40:41.154Z",
+  "date": "2023-04-26T18:33:08.607Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -1842,7 +1842,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "9 March 2023",
+      "date": "26 April 2023",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -17897,7 +17897,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "24 April 2023",
+      "date": "26 April 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -17947,7 +17947,7 @@
     {
       "title": "Fenced frame",
       "shortname": "fenced-frame",
-      "date": "25 April 2023",
+      "date": "26 April 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -30091,7 +30091,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "25 April 2023",
+      "date": "26 April 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -39265,7 +39265,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "21 April 2023",
+      "date": "26 April 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -42283,7 +42283,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "22 April 2023",
+      "date": "26 April 2023",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -44697,7 +44697,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "24 April 2023",
+      "date": "26 April 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
