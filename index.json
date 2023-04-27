@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-27T06:33:54.002Z",
+  "date": "2023-04-27T12:41:33.761Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -20645,7 +20645,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "25 April 2023",
+      "date": "27 April 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -22440,7 +22440,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "21 April 2023",
+      "date": "27 April 2023",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -28655,6 +28655,11 @@
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://w3c.github.io/event-timing"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
               "url": "https://www.w3.org/TR/largest-contentful-paint/",
