@@ -2750,7 +2750,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 25 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -9718,7 +9718,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-alaw-codec-registration/](https://www.w3.org/TR/webcodecs-alaw-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/alaw_codec_registration.html](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/alaw_codec_registration.html](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-alaw-codec-registration/](https://www.w3.org/TR/webcodecs-alaw-codec-registration/)
 - Shortname: webcodecs-alaw-codec-registration
@@ -9742,7 +9742,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-aac-codec-registration/](https://www.w3.org/TR/webcodecs-aac-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/aac_codec_registration.html](https://w3c.github.io/webcodecs/aac_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/aac_codec_registration.html](https://w3c.github.io/webcodecs/aac_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-aac-codec-registration/](https://www.w3.org/TR/webcodecs-aac-codec-registration/)
 - Shortname: webcodecs-aac-codec-registration
@@ -9788,7 +9788,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-av1-codec-registration/](https://www.w3.org/TR/webcodecs-av1-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/av1_codec_registration.html](https://w3c.github.io/webcodecs/av1_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/av1_codec_registration.html](https://w3c.github.io/webcodecs/av1_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-av1-codec-registration/](https://www.w3.org/TR/webcodecs-av1-codec-registration/)
 - Shortname: webcodecs-av1-codec-registration
@@ -9812,7 +9812,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-avc-codec-registration/](https://www.w3.org/TR/webcodecs-avc-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/avc_codec_registration.html](https://w3c.github.io/webcodecs/avc_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/avc_codec_registration.html](https://w3c.github.io/webcodecs/avc_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-avc-codec-registration/](https://www.w3.org/TR/webcodecs-avc-codec-registration/)
 - Shortname: webcodecs-avc-codec-registration
@@ -9836,7 +9836,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-flac-codec-registration/](https://www.w3.org/TR/webcodecs-flac-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/flac_codec_registration.html](https://w3c.github.io/webcodecs/flac_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/flac_codec_registration.html](https://w3c.github.io/webcodecs/flac_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-flac-codec-registration/](https://www.w3.org/TR/webcodecs-flac-codec-registration/)
 - Shortname: webcodecs-flac-codec-registration
@@ -9860,7 +9860,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-hevc-codec-registration/](https://www.w3.org/TR/webcodecs-hevc-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/hevc_codec_registration.html](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/hevc_codec_registration.html](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-hevc-codec-registration/](https://www.w3.org/TR/webcodecs-hevc-codec-registration/)
 - Shortname: webcodecs-hevc-codec-registration
@@ -9884,7 +9884,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-pcm-codec-registration/](https://www.w3.org/TR/webcodecs-pcm-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/pcm_codec_registration.html](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/pcm_codec_registration.html](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-pcm-codec-registration/](https://www.w3.org/TR/webcodecs-pcm-codec-registration/)
 - Shortname: webcodecs-pcm-codec-registration
@@ -10019,7 +10019,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-mp3-codec-registration/](https://www.w3.org/TR/webcodecs-mp3-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/mp3_codec_registration.html](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/mp3_codec_registration.html](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-mp3-codec-registration/](https://www.w3.org/TR/webcodecs-mp3-codec-registration/)
 - Shortname: webcodecs-mp3-codec-registration
@@ -10043,7 +10043,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-opus-codec-registration/](https://www.w3.org/TR/webcodecs-opus-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/opus_codec_registration.html](https://w3c.github.io/webcodecs/opus_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/opus_codec_registration.html](https://w3c.github.io/webcodecs/opus_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-opus-codec-registration/](https://www.w3.org/TR/webcodecs-opus-codec-registration/)
 - Shortname: webcodecs-opus-codec-registration
@@ -10094,7 +10094,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-ulaw-codec-registration/](https://www.w3.org/TR/webcodecs-ulaw-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/ulaw_codec_registration.html](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/ulaw_codec_registration.html](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-ulaw-codec-registration/](https://www.w3.org/TR/webcodecs-ulaw-codec-registration/)
 - Shortname: webcodecs-ulaw-codec-registration
@@ -10118,7 +10118,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-vorbis-codec-registration/](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/vorbis_codec_registration.html](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/vorbis_codec_registration.html](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-vorbis-codec-registration/](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/)
 - Shortname: webcodecs-vorbis-codec-registration
@@ -10142,7 +10142,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-vp8-codec-registration/](https://www.w3.org/TR/webcodecs-vp8-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/vp8_codec_registration.html](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/vp8_codec_registration.html](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-vp8-codec-registration/](https://www.w3.org/TR/webcodecs-vp8-codec-registration/)
 - Shortname: webcodecs-vp8-codec-registration
@@ -10166,7 +10166,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-vp9-codec-registration/](https://www.w3.org/TR/webcodecs-vp9-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/vp9_codec_registration.html](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/vp9_codec_registration.html](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-vp9-codec-registration/](https://www.w3.org/TR/webcodecs-vp9-codec-registration/)
 - Shortname: webcodecs-vp9-codec-registration
@@ -10190,7 +10190,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
 - Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Shortname: webcodecs
@@ -10220,6 +10220,7 @@ Normative references to this spec from:
 - [VP9 WebCodecs Registration](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
 - [WebGPU](https://gpuweb.github.io/gpuweb/)
+- [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
 Informative references to this spec from:
 
@@ -10234,7 +10235,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-codec-registry/](https://www.w3.org/TR/webcodecs-codec-registry/)
 - Crawled URL: [https://w3c.github.io/webcodecs/codec_registry.html](https://w3c.github.io/webcodecs/codec_registry.html)
-- Crawled version: 19 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webcodecs/codec_registry.html](https://w3c.github.io/webcodecs/codec_registry.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-codec-registry/](https://www.w3.org/TR/webcodecs-codec-registry/)
 - Shortname: webcodecs-codec-registry
@@ -10758,7 +10759,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
-- Crawled version: 20 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
 - Shortname: rdf12-schema
 
@@ -14864,7 +14865,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 26 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -15530,7 +15531,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Crawled URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
-- Crawled version: 26 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Shortname: trust-token-api
 
@@ -16312,7 +16313,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Crawled URL: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
-- Crawled version: 24 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/mediacapture-main/](https://w3c.github.io/mediacapture-main/)
 - Latest published version: [https://www.w3.org/TR/mediacapture-streams/](https://www.w3.org/TR/mediacapture-streams/)
 - Shortname: mediacapture-streams
@@ -16647,7 +16648,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-encoded-transform/](https://www.w3.org/TR/webrtc-encoded-transform/)
 - Crawled URL: [https://w3c.github.io/webrtc-encoded-transform/](https://w3c.github.io/webrtc-encoded-transform/)
-- Crawled version: 31 January 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-encoded-transform/](https://w3c.github.io/webrtc-encoded-transform/)
 - Latest published version: [https://www.w3.org/TR/webrtc-encoded-transform/](https://www.w3.org/TR/webrtc-encoded-transform/)
 - Shortname: webrtc-encoded-transform
@@ -16693,7 +16694,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 24 April 2023
+- Crawled version: 27 April 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -18387,6 +18388,7 @@ Normative references to this spec from:
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
 - [AV1 WebCodecs Registration](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+- [AVC (H.264) WebCodecs Registration](https://w3c.github.io/webcodecs/avc_codec_registration.html)
 - [Badging API](https://w3c.github.io/badging/)
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Beacon](https://w3c.github.io/beacon/)
