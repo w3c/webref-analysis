@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-04-28T12:41:14.677Z",
+  "date": "2023-04-28T18:32:32.144Z",
   "stats": {
     "crawled": 558,
     "errors": 0,
@@ -29559,7 +29559,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "20 April 2023",
+      "date": "28 April 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -29724,7 +29724,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "24 April 2023",
+      "date": "28 April 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -29766,7 +29766,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "24 April 2023",
+      "date": "28 April 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -38540,7 +38540,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "24 April 2023",
+      "date": "28 April 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
