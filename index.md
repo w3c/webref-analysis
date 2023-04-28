@@ -17250,7 +17250,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 24 April 2023
+- Crawled version: 28 April 2023
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -17413,7 +17413,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 27 April 2023
+- Crawled version: 28 April 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -18369,7 +18369,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 26 April 2023
+- Crawled version: 28 April 2023
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
