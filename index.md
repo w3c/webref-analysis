@@ -10690,6 +10690,7 @@ Normative references to this spec from:
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
+- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/)
 
 Informative references to this spec from:
 
@@ -11223,7 +11224,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 16 April 2023
+- Crawled version: 29 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Shortname: sparql12-query
 
@@ -11428,7 +11429,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 29 April 2023
 - Editor's Draft: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Shortname: sparql12-update
 
