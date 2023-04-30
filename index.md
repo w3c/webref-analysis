@@ -14870,13 +14870,18 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 27 April 2023
+- Crawled version: 30 April 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
+     * [`https://w3c.github.io/webappsec-csp/custom-elements.html`](https://w3c.github.io/webappsec-csp/custom-elements.html)
+     * [`https://w3c.github.io/webappsec-csp/form-control-infrastructure.html`](https://w3c.github.io/webappsec-csp/form-control-infrastructure.html)
+     * [`https://w3c.github.io/webappsec-csp/interactive-elements.html`](https://w3c.github.io/webappsec-csp/interactive-elements.html)
+     * [`https://w3c.github.io/webappsec-csp/popover.html`](https://w3c.github.io/webappsec-csp/popover.html)
+     * [`https://w3c.github.io/webappsec-csp/webappapis.html`](https://w3c.github.io/webappsec-csp/webappapis.html)
      * [`https://w3c.github.io/webappsec-cspee/`](https://w3c.github.io/webappsec-cspee/)
 
 #### Known dependencies on this specification {.dependencies}
