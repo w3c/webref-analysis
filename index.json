@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-02T12:40:45.998Z",
+  "date": "2023-05-02T18:33:54.680Z",
   "stats": {
     "crawled": 558,
     "errors": 32,
@@ -30141,7 +30141,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "1 May 2023",
+      "date": "2 May 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -30544,7 +30544,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "01 May 2023",
+      "date": "02 May 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -30623,7 +30623,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "27 April 2023",
+      "date": "02 May 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -30870,7 +30870,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "13 April 2023",
+      "date": "02 May 2023",
       "url": "https://w3c.github.io/rdf-trig/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-trig/spec/",
@@ -30949,7 +30949,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "01 May 2023",
+      "date": "02 May 2023",
       "url": "https://w3c.github.io/rdf-turtle/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-turtle/spec/",
@@ -31043,7 +31043,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "01 May 2023",
+      "date": "02 May 2023",
       "url": "https://w3c.github.io/rdf-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-xml/spec/",

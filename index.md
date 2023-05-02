@@ -10741,7 +10741,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
-- Crawled version: 01 May 2023
+- Crawled version: 02 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Shortname: rdf12-n-quads
 
@@ -10771,7 +10771,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
-- Crawled version: 27 April 2023
+- Crawled version: 02 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Shortname: rdf12-n-triples
 
@@ -10863,7 +10863,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
-- Crawled version: 13 April 2023
+- Crawled version: 02 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
 - Shortname: rdf12-trig
 
@@ -10893,7 +10893,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
-- Crawled version: 01 May 2023
+- Crawled version: 02 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
 - Shortname: rdf12-turtle
 
@@ -10926,7 +10926,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
-- Crawled version: 01 May 2023
+- Crawled version: 02 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Shortname: rdf12-xml
 
@@ -15680,7 +15680,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 1 May 2023
+- Crawled version: 2 May 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
