@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-03T12:40:53.948Z",
+  "date": "2023-05-03T18:33:59.175Z",
   "stats": {
     "crawled": 558,
     "errors": 21,
@@ -865,7 +865,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "24 April 2023",
+      "date": "3 May 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -6200,7 +6200,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "20 April 2023",
+      "date": "3 May 2023",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -6247,6 +6247,7 @@
           "https://w3c.github.io/csswg-drafts/css-shadow-parts-1/",
           "https://w3c.github.io/csswg-drafts/css-syntax-3/",
           "https://w3c.github.io/csswg-drafts/css-transitions-1/",
+          "https://w3c.github.io/csswg-drafts/css-variables-2/",
           "https://w3c.github.io/csswg-drafts/cssom-1/",
           "https://w3c.github.io/csswg-drafts/cssom-view-1/",
           "https://w3c.github.io/csswg-drafts/selectors-4/",
@@ -6528,6 +6529,11 @@
               "url": "https://drafts.csswg.org/css-conditional-values-1/",
               "title": "CSS Conditional Values Module Level 1",
               "crawled": "https://drafts.csswg.org/css-conditional-values-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://drafts.csswg.org/css-env-1/",
@@ -20475,7 +20481,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "27 April 2023",
+      "date": "03 May 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -20536,13 +20542,6 @@
             "ref": {
               "name": "core-aam-1.2",
               "url": "https://www.w3.org/TR/core-aam-1.2/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html/sec-forms.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
             }
           }
         ],
@@ -30010,7 +30009,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "1 May 2023",
+      "date": "3 May 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -30625,7 +30624,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "02 May 2023",
+      "date": "03 May 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",

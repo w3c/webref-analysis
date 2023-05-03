@@ -2893,7 +2893,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 27 April 2023
+- Crawled version: 03 May 2023
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -2909,7 +2909,6 @@ No informative reference to this spec from other specs.
      * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
      * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
-     * [`https://www.w3.org/TR/html/sec-forms.html`](https://www.w3.org/TR/html/sec-forms.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4487,7 +4486,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
-- Crawled version: 20 April 2023
+- Crawled version: 3 May 2023
 - Editor's Draft: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
 - Latest published version: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Shortname: css-contain-3
@@ -4504,6 +4503,7 @@ Informative references to this spec from:
      * [`https://w3c.github.io/csswg-drafts/css-shadow-parts-1/`](https://w3c.github.io/csswg-drafts/css-shadow-parts-1/)
      * [`https://w3c.github.io/csswg-drafts/css-syntax-3/`](https://w3c.github.io/csswg-drafts/css-syntax-3/)
      * [`https://w3c.github.io/csswg-drafts/css-transitions-1/`](https://w3c.github.io/csswg-drafts/css-transitions-1/)
+     * [`https://w3c.github.io/csswg-drafts/css-variables-2/`](https://w3c.github.io/csswg-drafts/css-variables-2/)
      * [`https://w3c.github.io/csswg-drafts/cssom-1/`](https://w3c.github.io/csswg-drafts/cssom-1/)
      * [`https://w3c.github.io/csswg-drafts/cssom-view-1/`](https://w3c.github.io/csswg-drafts/cssom-view-1/)
      * [`https://w3c.github.io/csswg-drafts/selectors-4/`](https://w3c.github.io/csswg-drafts/selectors-4/)
@@ -4644,6 +4644,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Conditional Values Module Level 1](https://drafts.csswg.org/css-conditional-values-1/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
 - [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -10810,7 +10811,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
-- Crawled version: 02 May 2023
+- Crawled version: 03 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Shortname: rdf12-n-triples
 
@@ -14551,7 +14552,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 24 April 2023
+- Crawled version: 3 May 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -15675,7 +15676,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Crawled URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
-- Crawled version: 1 May 2023
+- Crawled version: 3 May 2023
 - Editor's Draft: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Shortname: trust-token-api
 

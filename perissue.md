@@ -720,6 +720,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/csswg-drafts/css-shadow-parts-1/`](https://w3c.github.io/csswg-drafts/css-shadow-parts-1/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-syntax-3/`](https://w3c.github.io/csswg-drafts/css-syntax-3/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/css-transitions-1/`](https://w3c.github.io/csswg-drafts/css-transitions-1/) but does not list it in its references
+    * [`https://w3c.github.io/csswg-drafts/css-variables-2/`](https://w3c.github.io/csswg-drafts/css-variables-2/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/cssom-1/`](https://w3c.github.io/csswg-drafts/cssom-1/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/cssom-view-1/`](https://w3c.github.io/csswg-drafts/cssom-view-1/) but does not list it in its references
     * [`https://w3c.github.io/csswg-drafts/selectors-4/`](https://w3c.github.io/csswg-drafts/selectors-4/) but does not list it in its references
@@ -2187,7 +2188,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1701 missing references for links found in 242 specifications
+=> 1702 missing references for links found in 242 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2309,7 +2310,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
-    * [`https://www.w3.org/TR/html/sec-forms.html`](https://www.w3.org/TR/html/sec-forms.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) links to [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/) but related reference "MANIFEST" uses URL [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/) links to:
     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
@@ -2512,7 +2512,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 276 inconsistent references for links found in 108 specifications
+=> 275 inconsistent references for links found in 108 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
