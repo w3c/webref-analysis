@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-03T00:47:55.362Z",
+  "date": "2023-05-03T06:32:44.411Z",
   "stats": {
     "crawled": 558,
     "errors": 22,
@@ -1185,7 +1185,7 @@
     {
       "title": "Badging API",
       "shortname": "badging",
-      "date": "11 April 2023",
+      "date": "03 May 2023",
       "url": "https://www.w3.org/TR/badging/",
       "release": {
         "url": "https://www.w3.org/TR/badging/",
@@ -3046,7 +3046,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "2 May 2023",
+      "date": "3 May 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -14948,7 +14948,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "2 May 2023",
+      "date": "3 May 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
