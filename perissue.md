@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 03, 2023
+% May 04, 2023
 
 558 specifications were crawled in this report.
 
@@ -129,14 +129,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 508)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [WebGPU](https://gpuweb.github.io/gpuweb/): `Error: Loading https://gpuweb.github.io/gpuweb/ triggered HTTP status 502 Error: Loading https://gpuweb.github.io/gpuweb/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 533)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 
-=> 21 specifications found
+=> 20 specifications found
 
 
 ## Specifications without normative dependencies
@@ -2175,6 +2169,10 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebDriver](https://w3c.github.io/webdriver/) links to:
     * [`https://w3c.github.io/contentEditable`](https://w3c.github.io/contentEditable) but does not list it in its references
     * [`https://w3c.github.io/editing/execCommand.html`](https://w3c.github.io/editing/execCommand.html) but does not list it in its references
+- [WebGPU](https://gpuweb.github.io/gpuweb/) links to:
+    * [`https://w3c.github.io/string-meta/`](https://w3c.github.io/string-meta/) but does not list it in its references
+    * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
+    * [`https://www.w3.org/TR/resize-observer/`](https://www.w3.org/TR/resize-observer/) but does not list it in its references
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/) links to [`https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html`](https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html) but does not list it in its references
 - [WebTransport](https://w3c.github.io/webtransport/) links to [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/) but does not list it in its references
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/) links to [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/) but does not list it in its references
@@ -2188,7 +2186,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1702 missing references for links found in 242 specifications
+=> 1705 missing references for links found in 243 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -2497,6 +2495,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+- [WebGPU](https://gpuweb.github.io/gpuweb/) links to [`https://www.w3.org/TR/webcodecs/`](https://www.w3.org/TR/webcodecs/) but related reference "WEBCODECS" uses URL [`https://w3c.github.io/webcodecs/`](https://w3c.github.io/webcodecs/)
 - [WebOTP API](https://wicg.github.io/web-otp/) links to:
     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/) but related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "Permissions-Policy" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
@@ -2512,7 +2511,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 275 inconsistent references for links found in 108 specifications
+=> 276 inconsistent references for links found in 109 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
