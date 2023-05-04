@@ -437,7 +437,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-json-modules/](https://tc39.es/proposal-json-modules/)
 - Crawled URL: [https://tc39.es/proposal-json-modules/](https://tc39.es/proposal-json-modules/)
-- Crawled version: 6 February 2021
+- Crawled version: 4 May 2023
 - Editor's Draft: [https://tc39.es/proposal-json-modules/](https://tc39.es/proposal-json-modules/)
 - Shortname: tc39-json-modules
 
