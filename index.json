@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-04T00:47:30.882Z",
+  "date": "2023-05-04T06:33:09.215Z",
   "stats": {
     "crawled": 558,
     "errors": 20,
@@ -35867,7 +35867,7 @@
     {
       "title": "Screen Orientation",
       "shortname": "screen-orientation",
-      "date": "02 May 2023",
+      "date": "04 May 2023",
       "url": "https://www.w3.org/TR/screen-orientation/",
       "release": {
         "url": "https://www.w3.org/TR/screen-orientation/",
