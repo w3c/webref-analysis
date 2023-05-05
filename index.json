@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-05T06:33:28.793Z",
+  "date": "2023-05-05T12:41:28.077Z",
   "stats": {
     "crawled": 558,
     "errors": 19,
@@ -865,7 +865,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "4 May 2023",
+      "date": "5 May 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -20672,7 +20672,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "2 May 2023",
+      "date": "5 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -37191,7 +37191,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "05 April 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-federated-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-federated-query/spec/",
@@ -37338,7 +37338,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "05 April 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
@@ -37635,7 +37635,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "21 April 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-protocol/spec/",
@@ -37771,7 +37771,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "03 May 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -37905,7 +37905,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "25 April 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
@@ -38039,7 +38039,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "28 April 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -38173,7 +38173,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "03 May 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-results-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
@@ -38307,7 +38307,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "07 April 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-service-description/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-service-description/spec/",
@@ -38441,7 +38441,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "29 April 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/sparql-update/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-update/spec/",

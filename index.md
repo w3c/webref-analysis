@@ -11086,7 +11086,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Shortname: sparql12-federated-query
 
@@ -11139,7 +11139,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- Crawled version: 05 April 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Shortname: sparql12-graph-store-protocol
 
@@ -11249,7 +11249,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
-- Crawled version: 21 April 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Shortname: sparql12-protocol
 
@@ -11291,7 +11291,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 03 May 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Shortname: sparql12-query
 
@@ -11332,7 +11332,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Crawled version: 25 April 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Shortname: sparql12-results-csv-tsv
 
@@ -11373,7 +11373,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Crawled version: 28 April 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Shortname: sparql12-results-json
 
@@ -11414,7 +11414,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
-- Crawled version: 03 May 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Shortname: sparql12-results-xml
 
@@ -11455,7 +11455,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
-- Crawled version: 07 April 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Shortname: sparql12-service-description
 
@@ -11496,7 +11496,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
-- Crawled version: 29 April 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Shortname: sparql12-update
 
@@ -14541,7 +14541,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 4 May 2023
+- Crawled version: 5 May 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -17554,7 +17554,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 2 May 2023
+- Crawled version: 5 May 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
