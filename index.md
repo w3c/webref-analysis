@@ -15390,7 +15390,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Crawled URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
-- Crawled version: 21 March 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Shortname: manifest-incubations
 
