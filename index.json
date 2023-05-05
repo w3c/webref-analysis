@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-05T12:41:28.077Z",
+  "date": "2023-05-05T18:34:02.496Z",
   "stats": {
     "crawled": 558,
     "errors": 19,
@@ -5764,7 +5764,7 @@
     {
       "title": "CSS Conditional Rules Module Level 3",
       "shortname": "css-conditional-3",
-      "date": "27 July 2022",
+      "date": "5 May 2023",
       "url": "https://www.w3.org/TR/css-conditional-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -8724,7 +8724,7 @@
     {
       "title": "CSS Images Module Level 3",
       "shortname": "css-images-3",
-      "date": "28 April 2023",
+      "date": "5 May 2023",
       "url": "https://www.w3.org/TR/css-images-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-3/",
@@ -8869,7 +8869,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "27 April 2023",
+      "date": "5 May 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -17979,7 +17979,7 @@
     {
       "title": "Fenced frame",
       "shortname": "fenced-frame",
-      "date": "4 May 2023",
+      "date": "5 May 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -30135,7 +30135,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "4 May 2023",
+      "date": "5 May 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -30543,7 +30543,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "02 May 2023",
+      "date": "05 May 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -31369,7 +31369,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "18 April 2023",
+      "date": "05 May 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -36078,7 +36078,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "24 April 2023",
+      "date": "5 May 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -36125,6 +36125,7 @@
           "https://w3c.github.io/csswg-drafts/css-shapes-2/",
           "https://w3c.github.io/csswg-drafts/cssom-1/",
           "https://w3c.github.io/csswg-drafts/cssom-view-1/",
+          "https://w3c.github.io/csswg-drafts/resize-observer-1/",
           "https://w3c.github.io/csswg-drafts/selectors-4/",
           "https://www.w3.org/TR/css-animations/",
           "https://www.w3.org/TR/css-cascade/",

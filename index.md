@@ -4286,7 +4286,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
-- Crawled version: 27 July 2022
+- Crawled version: 5 May 2023
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Shortname: css-conditional-3
@@ -5528,7 +5528,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
 - Crawled URL: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
-- Crawled version: 28 April 2023
+- Crawled version: 5 May 2023
 - Editor's Draft: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
 - Latest published version: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
 - Shortname: css-images-3
@@ -5580,7 +5580,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Crawled URL: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
-- Crawled version: 27 April 2023
+- Crawled version: 5 May 2023
 - Editor's Draft: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
 - Latest published version: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Shortname: css-images-4
@@ -8443,7 +8443,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 24 April 2023
+- Crawled version: 5 May 2023
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Latest published version: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Shortname: scroll-animations-1
@@ -8459,6 +8459,7 @@ Informative references to this spec from:
      * [`https://w3c.github.io/csswg-drafts/css-shapes-2/`](https://w3c.github.io/csswg-drafts/css-shapes-2/)
      * [`https://w3c.github.io/csswg-drafts/cssom-1/`](https://w3c.github.io/csswg-drafts/cssom-1/)
      * [`https://w3c.github.io/csswg-drafts/cssom-view-1/`](https://w3c.github.io/csswg-drafts/cssom-view-1/)
+     * [`https://w3c.github.io/csswg-drafts/resize-observer-1/`](https://w3c.github.io/csswg-drafts/resize-observer-1/)
      * [`https://w3c.github.io/csswg-drafts/selectors-4/`](https://w3c.github.io/csswg-drafts/selectors-4/)
      * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
@@ -10681,7 +10682,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 18 April 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
@@ -10770,7 +10771,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
-- Crawled version: 02 May 2023
+- Crawled version: 05 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Shortname: rdf12-n-quads
 
@@ -14987,7 +14988,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 4 May 2023
+- Crawled version: 5 May 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -15686,7 +15687,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 4 May 2023
+- Crawled version: 5 May 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
