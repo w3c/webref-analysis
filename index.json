@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-07T06:32:16.935Z",
+  "date": "2023-05-07T12:40:23.149Z",
   "stats": {
     "crawled": 558,
-    "errors": 19,
+    "errors": 20,
     "studied": 558
   },
   "results": [
@@ -16634,6 +16634,7 @@
         }
       ],
       "report": {
+        "error": "TypeError: Cannot read properties of null (reading 'status') TypeError: Cannot read properties of null (reading 'status')\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 365)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16698,7 +16699,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {

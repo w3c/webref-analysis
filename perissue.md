@@ -21,6 +21,13 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 414)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/): `TypeError: Cannot read properties of null (reading 'status') TypeError: Cannot read properties of null (reading 'status')
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 365)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 - [Decorators proposal](https://tc39.es/proposal-decorators/): `Error: Loading https://tc39.es/proposal-decorators/ triggered HTTP status 503 Error: Loading https://tc39.es/proposal-decorators/ triggered HTTP status 503
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
@@ -124,7 +131,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async Promise.all (index 508)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 
-=> 19 specifications found
+=> 20 specifications found
 
 
 ## Specifications without normative dependencies
