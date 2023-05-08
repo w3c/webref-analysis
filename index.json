@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-08T12:42:34.460Z",
+  "date": "2023-05-08T18:35:06.705Z",
   "stats": {
     "crawled": 558,
     "errors": 20,
@@ -3093,7 +3093,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "14 April 2023",
+      "date": "08 May 2023",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -35657,6 +35657,11 @@
               "crawled": "https://w3c.github.io/picture-in-picture/"
             },
             {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
+            },
+            {
               "url": "https://wicg.github.io/turtledove/",
               "title": "Protected Audience (formerly FLEDGE)",
               "crawled": "https://wicg.github.io/turtledove/"
@@ -36450,7 +36455,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "3 May 2023",
+      "date": "8 May 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",

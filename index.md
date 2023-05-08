@@ -2820,7 +2820,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Crawled URL: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
-- Crawled version: 14 April 2023
+- Crawled version: 08 May 2023
 - Editor's Draft: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
 - Latest published version: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Shortname: core-aam-1.2
@@ -13367,6 +13367,7 @@ Normative references to this spec from:
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
@@ -16372,7 +16373,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Crawled URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
-- Crawled version: 3 May 2023
+- Crawled version: 8 May 2023
 - Editor's Draft: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Shortname: trust-token-api
 
