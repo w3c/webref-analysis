@@ -90,7 +90,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Decorators proposal {data-spec=true data-error=true}
+### Decorators proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -102,15 +102,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://tc39.es/proposal-decorators/ triggered HTTP status 503 Error: Loading https://tc39.es/proposal-decorators/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 111)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -119,7 +111,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### ECMAScript Async Explicit Resource Management {data-spec=true data-error=true}
+### ECMAScript Async Explicit Resource Management {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -131,15 +123,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://tc39.es/proposal-async-explicit-resource-management/ triggered HTTP status 502 Error: Loading https://tc39.es/proposal-async-explicit-resource-management/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 108)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -530,7 +514,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Menu {data-spec=true data-error=true}
+### Menu {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -542,15 +526,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 502 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 120)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -601,7 +577,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Resizable ArrayBuffer and growable SharedArrayBuffer {data-spec=true data-error=true}
+### Resizable ArrayBuffer and growable SharedArrayBuffer {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
@@ -613,15 +589,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://tc39.es/proposal-resizablearraybuffer/ triggered HTTP status 502 Error: Loading https://tc39.es/proposal-resizablearraybuffer/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 126)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- No normative references found
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -846,6 +814,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
@@ -1450,6 +1419,7 @@ Normative references to this spec from:
 
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://httpwg.org/specs/rfc7230.html)
 - [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://httpwg.org/specs/rfc7231.html)
@@ -2782,7 +2752,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 03 May 2023
+- Crawled version: 09 May 2023
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -2847,7 +2817,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Graphics Accessibility API Mappings {data-spec=true data-error=true}
+### Graphics Accessibility API Mappings {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -2860,15 +2830,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/graphics-aam/ triggered HTTP status 503 Error: Loading https://w3c.github.io/graphics-aam/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 409)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/)
+     * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/)
+     * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/), related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7506,7 +7474,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Style Attributes {data-spec=true data-error=true}
+### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -7519,16 +7487,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`TypeError: Cannot read properties of null (reading 'status') TypeError: Cannot read properties of null (reading 'status')
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:25)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 365)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10021,6 +9980,27 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### WebXR Mesh Detection Module {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://immersive-web.github.io/real-world-meshing/](https://immersive-web.github.io/real-world-meshing/)
+- Crawled URL: [https://immersive-web.github.io/real-world-meshing/](https://immersive-web.github.io/real-world-meshing/)
+- Crawled version: 25 April 2023
+- Editor's Draft: [https://immersive-web.github.io/real-world-meshing/](https://immersive-web.github.io/real-world-meshing/)
+- Shortname: real-world-meshing
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### WebXR Raw Camera Access Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
@@ -10064,7 +10044,9 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [WebXR Mesh Detection Module](https://immersive-web.github.io/real-world-meshing/)
 
 
 ### WebXR Augmented Reality Module - Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -10155,6 +10137,7 @@ Normative references to this spec from:
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [WebXR Mesh Detection Module](https://immersive-web.github.io/real-world-meshing/)
 
 Informative references to this spec from:
 
@@ -10343,7 +10326,7 @@ Informative references to this spec from:
 
 ## JSON-LD Working Group {#group-json_ld_working_group}
 
-### JSON-LD 1.1 {data-spec=true data-error=true}
+### JSON-LD 1.1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -10356,15 +10339,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/json-ld-syntax/ triggered HTTP status 502 Error: Loading https://w3c.github.io/json-ld-syntax/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 425)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10406,7 +10381,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### JSON-LD 1.1 Processing Algorithms and API {data-spec=true data-error=true}
+### JSON-LD 1.1 Processing Algorithms and API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -10419,15 +10394,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/json-ld-api/ triggered HTTP status 502 Error: Loading https://w3c.github.io/json-ld-api/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 423)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10694,7 +10661,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Media Playback Quality {data-spec=true data-error=true}
+### Media Playback Quality {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -10706,15 +10673,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/media-playback-quality/ triggered HTTP status 502 Error: Loading https://w3c.github.io/media-playback-quality/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 136)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10726,7 +10685,7 @@ Informative references to this spec from:
 - [Media Source Extensions™](https://w3c.github.io/media-source/)
 
 
-### Media Session Standard {data-spec=true data-error=true}
+### Media Session Standard {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10739,15 +10698,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/mediasession/ triggered HTTP status 503 Error: Loading https://w3c.github.io/mediasession/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 441)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/), related reference "IMAGE-RESOURCE" uses URL [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11268,6 +11220,30 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Navigational-Tracking Mitigations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
+- Crawled URL: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
+- Crawled version: 24 April 2023
+- Editor's Draft: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
+- Shortname: nav-tracking-mitigations
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-clear-site-data`](https://w3c.github.io/webappsec-clear-site-data)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/), related reference "TRACKING-DNT" uses URL [`https://w3c.github.io/dnt/drafts/tracking-dnt.html`](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12830,6 +12806,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Push API](https://w3c.github.io/push-api/)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 - [WebUSB API](https://wicg.github.io/webusb/)
@@ -12995,6 +12972,7 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 
 
 ## W3C Process Community Group  {#group-w3c_process_community_group_}
@@ -13073,6 +13051,7 @@ Normative references to this spec from:
 
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Cookies Having Independent Partitioned State specification](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
 
 No informative reference to this spec from other specs.
@@ -13298,6 +13277,7 @@ Normative references to this spec from:
 - [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessFor/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 - [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
@@ -13348,6 +13328,7 @@ Normative references to this spec from:
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fenced frame](https://wicg.github.io/fenced-frame/)
@@ -13474,6 +13455,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
@@ -13574,7 +13556,7 @@ Informative references to this spec from:
 
 ## Web Applications Working Group {#group-web_applications_working_group}
 
-### ARIA in HTML {data-spec=true data-error=true}
+### ARIA in HTML {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -13587,15 +13569,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/html-aria/ triggered HTTP status 502 Error: Loading https://w3c.github.io/html-aria/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 414)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13765,7 +13739,7 @@ Informative references to this spec from:
 - [WebHID API](https://wicg.github.io/webhid/)
 
 
-### Gamepad Extensions {data-spec=true data-error=true}
+### Gamepad Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13777,15 +13751,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/gamepad/extensions.html triggered HTTP status 502 Error: Loading https://w3c.github.io/gamepad/extensions.html triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 134)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13847,6 +13814,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 
 Informative references to this spec from:
 
@@ -14798,6 +14766,7 @@ Normative references to this spec from:
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
@@ -14810,6 +14779,8 @@ Normative references to this spec from:
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
@@ -14819,6 +14790,7 @@ Normative references to this spec from:
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/)
 - [WebTransport](https://w3c.github.io/webtransport/)
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
+- [WebXR Mesh Detection Module](https://immersive-web.github.io/real-world-meshing/)
 - [Window Management](https://w3c.github.io/window-management/)
 
 Informative references to this spec from:
@@ -14940,7 +14912,7 @@ Informative references to this spec from:
 - [Reporting API](https://w3c.github.io/reporting/)
 
 
-### Paint Timing 1 {data-spec=true data-error=true}
+### Paint Timing 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -14953,15 +14925,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/paint-timing/ triggered HTTP status 502 Error: Loading https://w3c.github.io/paint-timing/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 455)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/)
+     * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15013,7 +14982,7 @@ Informative references to this spec from:
 - [Server Timing](https://w3c.github.io/server-timing/)
 
 
-### Reporting API {data-spec=true data-error=true}
+### Reporting API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -15026,15 +14995,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/reporting/ triggered HTTP status 503 Error: Loading https://w3c.github.io/reporting/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 472)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15089,7 +15050,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/resource-timing/](https://www.w3.org/TR/resource-timing/)
 - Crawled URL: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
-- Crawled version: 13 March 2023
+- Crawled version: 09 May 2023
 - Editor's Draft: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
 - Latest published version: [https://www.w3.org/TR/resource-timing/](https://www.w3.org/TR/resource-timing/)
 - Shortname: resource-timing
@@ -15133,7 +15094,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Timing Entry Names Registry {data-spec=true data-error=true}
+### Timing Entry Names Registry {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -15146,15 +15107,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/timing-entrytypes-registry/ triggered HTTP status 502 Error: Loading https://w3c.github.io/timing-entrytypes-registry/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 495)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15187,7 +15140,7 @@ No informative reference to this spec from other specs.
 
 ## Web Platform Incubator Community Group {#group-web_platform_incubator_community_group}
 
-### Accelerated Shape Detection in Images {data-spec=true data-error=true}
+### Accelerated Shape Detection in Images {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -15199,15 +15152,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/shape-detection-api/ triggered HTTP status 502 Error: Loading https://wicg.github.io/shape-detection-api/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 222)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15249,7 +15194,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 5 May 2023
+- Crawled version: 9 May 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -15566,6 +15511,49 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Direct Sockets API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
+- Crawled URL: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
+- Crawled version: 04 April 2023
+- Editor's Draft: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
+- Shortname: direct-sockets
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Document Picture-in-Picture Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/document-picture-in-picture/](https://wicg.github.io/document-picture-in-picture/)
+- Crawled URL: [https://wicg.github.io/document-picture-in-picture/](https://wicg.github.io/document-picture-in-picture/)
+- Crawled version: 1 May 2023
+- Editor's Draft: [https://wicg.github.io/document-picture-in-picture/](https://wicg.github.io/document-picture-in-picture/)
+- Shortname: document-picture-in-picture
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Document Policy {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
@@ -15588,7 +15576,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Early detection of input events {data-spec=true data-error=true}
+### Early detection of input events {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -15600,15 +15588,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/is-input-pending/ triggered HTTP status 502 Error: Loading https://wicg.github.io/is-input-pending/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 195)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15671,7 +15651,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 3 May 2023
+- Crawled version: 9 May 2023
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -15900,7 +15880,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Intervention Reporting {data-spec=true data-error=true}
+### Intervention Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15912,15 +15892,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/intervention-reporting/ triggered HTTP status 502 Error: Loading https://wicg.github.io/intervention-reporting/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 194)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16077,7 +16050,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
 - Crawled URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
-- Crawled version: 26 April 2023
+- Crawled version: 9 May 2023
 - Editor's Draft: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
 - Shortname: local-network-access
 
@@ -16394,7 +16367,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 8 May 2023
+- Crawled version: 9 May 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -16554,6 +16527,29 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Shared Storage API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/shared-storage/](https://wicg.github.io/shared-storage/)
+- Crawled URL: [https://wicg.github.io/shared-storage/](https://wicg.github.io/shared-storage/)
+- Crawled version: 6 April 2023
+- Editor's Draft: [https://wicg.github.io/shared-storage/](https://wicg.github.io/shared-storage/)
+- Shortname: shared-storage
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/)
+     * [`https://w3c.github.io/beacon/`](https://w3c.github.io/beacon/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Speculation Rules {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -16563,6 +16559,27 @@ No informative reference to this spec from other specs.
 - Crawled version: 28 April 2023
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Storage Buckets API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/storage-buckets/](https://wicg.github.io/storage-buckets/)
+- Crawled URL: [https://wicg.github.io/storage-buckets/](https://wicg.github.io/storage-buckets/)
+- Crawled version: 2 May 2023
+- Editor's Draft: [https://wicg.github.io/storage-buckets/](https://wicg.github.io/storage-buckets/)
+- Shortname: storage-buckets
 
 #### Potential issue(s) {.anomalies}
 
@@ -16663,7 +16680,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### User-Agent Client Hints {data-spec=true data-error=true}
+### User-Agent Client Hints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16675,15 +16692,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/ua-client-hints/ triggered HTTP status 503 Error: Loading https://wicg.github.io/ua-client-hints/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 228)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/)
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16919,7 +16930,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
 - Crawled URL: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
-- Crawled version: 08 September 2022
+- Crawled version: 09 May 2023
 - Editor's Draft: [https://wicg.github.io/window-controls-overlay/](https://wicg.github.io/window-controls-overlay/)
 - Shortname: window-controls-overlay
 
@@ -16974,7 +16985,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/uievents-code/](https://www.w3.org/TR/uievents-code/)
 - Crawled URL: [https://w3c.github.io/uievents-code/](https://w3c.github.io/uievents-code/)
-- Crawled version: 28 March 2023
+- Crawled version: 9 May 2023
 - Editor's Draft: [https://w3c.github.io/uievents-code/](https://w3c.github.io/uievents-code/)
 - Latest published version: [https://www.w3.org/TR/uievents-code/](https://www.w3.org/TR/uievents-code/)
 - Shortname: uievents-code
@@ -17004,7 +17015,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/uievents-key/](https://www.w3.org/TR/uievents-key/)
 - Crawled URL: [https://w3c.github.io/uievents-key/](https://w3c.github.io/uievents-key/)
-- Crawled version: 27 March 2023
+- Crawled version: 9 May 2023
 - Editor's Draft: [https://w3c.github.io/uievents-key/](https://w3c.github.io/uievents-key/)
 - Latest published version: [https://www.w3.org/TR/uievents-key/](https://www.w3.org/TR/uievents-key/)
 - Shortname: uievents-key
@@ -17149,6 +17160,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 
 Informative references to this spec from:
 
@@ -17634,7 +17646,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly JavaScript Interface {data-spec=true data-error=true}
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17647,15 +17659,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://webassembly.github.io/spec/js-api/ triggered HTTP status 502 Error: Loading https://webassembly.github.io/spec/js-api/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 508)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17870,6 +17877,8 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Direct Sockets API](https://wicg.github.io/direct-sockets/)
+- [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
@@ -17919,6 +17928,7 @@ Normative references to this spec from:
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Network Information API](https://wicg.github.io/netinfo/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
@@ -17957,6 +17967,7 @@ Normative references to this spec from:
 - [Selection API](https://w3c.github.io/selection-api/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
@@ -18364,6 +18375,8 @@ Normative references to this spec from:
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [Direct Sockets API](https://wicg.github.io/direct-sockets/)
+- [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
@@ -18438,6 +18451,7 @@ Normative references to this spec from:
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Network Information API](https://wicg.github.io/netinfo/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
@@ -18490,7 +18504,9 @@ Normative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
@@ -18707,6 +18723,7 @@ Normative references to this spec from:
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
@@ -18760,6 +18777,7 @@ Normative references to this spec from:
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
@@ -18796,7 +18814,9 @@ Normative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
@@ -18993,6 +19013,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [File System Access](https://wicg.github.io/file-system-access/)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 
 No informative reference to this spec from other specs.
@@ -19020,8 +19041,10 @@ Normative references to this spec from:
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
 
 Informative references to this spec from:
@@ -19054,6 +19077,7 @@ Normative references to this spec from:
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Compression Streams](https://wicg.github.io/compression/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
+- [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
@@ -19133,6 +19157,7 @@ Normative references to this spec from:
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
@@ -19155,6 +19180,7 @@ Normative references to this spec from:
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
@@ -19180,6 +19206,7 @@ Normative references to this spec from:
 - [Selection API](https://w3c.github.io/selection-api/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
@@ -19291,6 +19318,8 @@ Normative references to this spec from:
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
+- [Direct Sockets API](https://wicg.github.io/direct-sockets/)
+- [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [EditContext API](https://w3c.github.io/edit-context/)
@@ -19400,7 +19429,9 @@ Normative references to this spec from:
 - [Selection API](https://w3c.github.io/selection-api/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+- [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Test Utils Standard](https://testutils.spec.whatwg.org/)
@@ -19461,6 +19492,7 @@ Normative references to this spec from:
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/)
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
+- [WebXR Mesh Detection Module](https://immersive-web.github.io/real-world-meshing/)
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 - [Window Management](https://w3c.github.io/window-management/)

@@ -2,136 +2,7 @@
 % Strudy
 % May 09, 2023
 
-558 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/): `Error: Loading https://wicg.github.io/shape-detection-api/ triggered HTTP status 502 Error: Loading https://wicg.github.io/shape-detection-api/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 222)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [ARIA in HTML](https://w3c.github.io/html-aria/): `Error: Loading https://w3c.github.io/html-aria/ triggered HTTP status 502 Error: Loading https://w3c.github.io/html-aria/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 414)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/): `TypeError: Cannot read properties of null (reading 'status') TypeError: Cannot read properties of null (reading 'status')
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:544:25)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 365)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Decorators proposal](https://tc39.es/proposal-decorators/): `Error: Loading https://tc39.es/proposal-decorators/ triggered HTTP status 503 Error: Loading https://tc39.es/proposal-decorators/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 111)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Early detection of input events](https://wicg.github.io/is-input-pending/): `Error: Loading https://wicg.github.io/is-input-pending/ triggered HTTP status 502 Error: Loading https://wicg.github.io/is-input-pending/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 195)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [ECMAScript Async Explicit Resource Management](https://tc39.es/proposal-async-explicit-resource-management/): `Error: Loading https://tc39.es/proposal-async-explicit-resource-management/ triggered HTTP status 502 Error: Loading https://tc39.es/proposal-async-explicit-resource-management/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 108)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html): `Error: Loading https://w3c.github.io/gamepad/extensions.html triggered HTTP status 502 Error: Loading https://w3c.github.io/gamepad/extensions.html triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 134)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/): `Error: Loading https://w3c.github.io/graphics-aam/ triggered HTTP status 503 Error: Loading https://w3c.github.io/graphics-aam/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 409)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Intervention Reporting](https://wicg.github.io/intervention-reporting/): `Error: Loading https://wicg.github.io/intervention-reporting/ triggered HTTP status 502 Error: Loading https://wicg.github.io/intervention-reporting/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 194)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/): `Error: Loading https://w3c.github.io/json-ld-syntax/ triggered HTTP status 502 Error: Loading https://w3c.github.io/json-ld-syntax/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 425)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/): `Error: Loading https://w3c.github.io/json-ld-api/ triggered HTTP status 502 Error: Loading https://w3c.github.io/json-ld-api/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 423)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Media Playback Quality](https://w3c.github.io/media-playback-quality/): `Error: Loading https://w3c.github.io/media-playback-quality/ triggered HTTP status 502 Error: Loading https://w3c.github.io/media-playback-quality/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 136)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Media Session Standard](https://w3c.github.io/mediasession/): `Error: Loading https://w3c.github.io/mediasession/ triggered HTTP status 503 Error: Loading https://w3c.github.io/mediasession/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 441)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html): `Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 502 Error: Loading https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 120)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Paint Timing 1](https://w3c.github.io/paint-timing/): `Error: Loading https://w3c.github.io/paint-timing/ triggered HTTP status 502 Error: Loading https://w3c.github.io/paint-timing/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 455)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Reporting API](https://w3c.github.io/reporting/): `Error: Loading https://w3c.github.io/reporting/ triggered HTTP status 503 Error: Loading https://w3c.github.io/reporting/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 472)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Resizable ArrayBuffer and growable SharedArrayBuffer](https://tc39.es/proposal-resizablearraybuffer/): `Error: Loading https://tc39.es/proposal-resizablearraybuffer/ triggered HTTP status 502 Error: Loading https://tc39.es/proposal-resizablearraybuffer/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 126)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/): `Error: Loading https://w3c.github.io/timing-entrytypes-registry/ triggered HTTP status 502 Error: Loading https://w3c.github.io/timing-entrytypes-registry/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 495)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/): `Error: Loading https://wicg.github.io/ua-client-hints/ triggered HTTP status 503 Error: Loading https://wicg.github.io/ua-client-hints/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 228)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/): `Error: Loading https://webassembly.github.io/spec/js-api/ triggered HTTP status 502 Error: Loading https://webassembly.github.io/spec/js-api/ triggered HTTP status 502
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 508)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-=> 20 specifications found
+564 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -141,6 +12,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [ArrayBuffer transfer](https://tc39.es/proposal-arraybuffer-transfer/)
 - [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
 - [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
+- [Decorators proposal](https://tc39.es/proposal-decorators/)
+- [ECMAScript Async Explicit Resource Management](https://tc39.es/proposal-async-explicit-resource-management/)
 - [ECMAScript Explicit Resource Management](https://tc39.es/proposal-explicit-resource-management/)
 - [ECMAScript® 2024 Internationalization API Specification](https://tc39.es/ecma402/)
 - [ECMAScript® 2024 Language Specification](https://tc39.es/ecma262/multipage/)
@@ -156,11 +29,13 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
 - [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
 - [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
+- [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Proposal-array-find-from-last](https://tc39.es/proposal-array-find-from-last/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
 - [Regular Expression Pattern Modifiers for ECMAScript](https://tc39.es/proposal-regexp-modifiers/)
+- [Resizable ArrayBuffer and growable SharedArrayBuffer](https://tc39.es/proposal-resizablearraybuffer/)
 - [RFC 2397: The "data" URL scheme](https://www.rfc-editor.org/rfc/rfc2397)
 - [RFC 4120: The Kerberos Network Authentication Service (V5)](https://www.rfc-editor.org/rfc/rfc4120)
 - [RFC 6454: The Web Origin Concept](https://www.rfc-editor.org/rfc/rfc6454)
@@ -223,7 +98,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - [Well-Formed Unicode Strings](https://tc39.es/proposal-is-usv-string/)
 
-=> 86 specifications found
+=> 90 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -1000,6 +875,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html) but does not list it in its references
     * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html) but does not list it in its references
     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
+- [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/) links to [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/) but does not list it in its references
 - [DOM Standard](https://dom.spec.whatwg.org/) links to [`https://w3c.github.io/deviceorientation/spec-source-orientation.html`](https://w3c.github.io/deviceorientation/spec-source-orientation.html) but does not list it in its references
 - [ECMAScript® 2024 Language Specification](https://tc39.es/ecma262/multipage/) links to:
     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
@@ -1037,7 +913,13 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Gamepad Extensions](https://w3c.github.io/gamepad/extensions.html) links to [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/) but does not list it in its references
 - [Global Privacy Control (GPC)](https://privacycg.github.io/gpc-spec/) links to [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/) but does not list it in its references
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/) links to:
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+    * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but does not list it in its references
+    * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/) but does not list it in its references
+    * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
 - [Gyroscope](https://w3c.github.io/gyroscope/) links to [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/) but does not list it in its references
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/) but does not list it in its references
@@ -1103,6 +985,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/) links to [`https://w3c.github.io/webappsec-clear-site-data`](https://w3c.github.io/webappsec-clear-site-data) but does not list it in its references
 - [Network Information API](https://wicg.github.io/netinfo/) links to:
     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/) but does not list it in its references
     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/) but does not list it in its references
@@ -1116,6 +999,12 @@ Basically all specifications have normative dependencies on some other specifica
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/) links to:
     * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/) but does not list it in its references
     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
+- [Paint Timing 1](https://w3c.github.io/paint-timing/) links to:
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view) but does not list it in its references
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/) links to [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/) but does not list it in its references
 - [Performance Timeline](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to:
@@ -1243,6 +1132,9 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/payment-handler/`](https://w3c.github.io/payment-handler/) but does not list it in its references
     * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/) but does not list it in its references
+- [Shared Storage API](https://wicg.github.io/shared-storage/) links to:
+    * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/beacon/`](https://w3c.github.io/beacon/) but does not list it in its references
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/) links to [`http://www.w3.org/TR/owl2-test/`](http://www.w3.org/TR/owl2-test/) but does not list it in its references
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/) links to:
     * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/) but does not list it in its references
@@ -1332,6 +1224,9 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/) links to [`https://w3c.github.io/webappsec/specs/mixedcontent/`](https://w3c.github.io/webappsec/specs/mixedcontent/) but does not list it in its references
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/) links to [`https://w3c.github.io/selection-api/`](https://w3c.github.io/selection-api/) but does not list it in its references
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) links to:
+    * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
+    * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but does not list it in its references
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/) links to [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/) links to [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/) but does not list it in its references
@@ -1353,6 +1248,10 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/web-intents`](https://www.w3.org/TR/web-intents) but does not list it in its references
 - [WebAssembly Core Specification](https://webassembly.github.io/spec/core/bikeshed/) links to:
+    * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/) links to:
     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
@@ -1384,7 +1283,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 924 missing references for links found in 226 specifications
+=> 943 missing references for links found in 234 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1769,6 +1668,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/) links to [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/) but related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
@@ -1784,6 +1684,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - [Input Events Level 2](https://w3c.github.io/input-events/) links to [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/) links to [`https://www.w3.org/TR/2005/REC-charmod-20050215/`](https://www.w3.org/TR/2005/REC-charmod-20050215/) but related reference "CHARMOD" uses URL [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
+- [Intervention Reporting](https://wicg.github.io/intervention-reporting/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/) links to [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/) links to:
     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/) but related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
@@ -1800,6 +1701,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/) links to:
     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/) but related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
     * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/) but related reference "MEDIAQUERIES-4" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
+- [Media Session Standard](https://w3c.github.io/mediasession/) links to [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/)
 - [MediaStream Image Capture](https://w3c.github.io/mediacapture-image/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but related reference "GETUSERMEDIA" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/) links to:
     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
@@ -1809,6 +1711,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to:
     * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/) but related reference "CSS-IMAGES-3" uses URL [`https://drafts.csswg.org/css-images-3/`](https://drafts.csswg.org/css-images-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/) links to [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/) but related reference "TRACKING-DNT" uses URL [`https://w3c.github.io/dnt/drafts/tracking-dnt.html`](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 - [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/) links to [`https://www.w3.org/TR/presentation-api/`](https://www.w3.org/TR/presentation-api/) but related reference "PRESENTATION-API" uses URL [`https://w3c.github.io/presentation-api/`](https://w3c.github.io/presentation-api/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/) links to:
     * [`https://w3c.github.io/accelerometer/`](https://w3c.github.io/accelerometer/) but related reference "ACCELEROMETER" uses URL [`https://www.w3.org/TR/accelerometer/`](https://www.w3.org/TR/accelerometer/)
@@ -1989,7 +1892,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 491 inconsistent references for links found in 182 specifications
+=> 495 inconsistent references for links found in 186 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
