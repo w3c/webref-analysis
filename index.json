@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-09T06:33:28.635Z",
+  "date": "2023-05-09T12:49:42.195Z",
   "stats": {
     "crawled": 558,
     "errors": 20,
@@ -26688,7 +26688,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "03 May 2023",
+      "date": "09 May 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -26881,7 +26881,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "8 May 2023",
+      "date": "9 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -31846,7 +31846,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "04 May 2023",
+      "date": "09 May 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -53751,7 +53751,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "04 May 2023",
+      "date": "09 May 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
