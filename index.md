@@ -904,6 +904,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Cookies Having Independent Partitioned State specification](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
+- [The Storage Access API](https://privacycg.github.io/storage-access/)
 
 No informative reference to this spec from other specs.
 
@@ -11304,7 +11305,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
 - Crawled URL: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
-- Crawled version: 29 March 2023
+- Crawled version: 10 May 2023
 - Editor's Draft: [https://privacycg.github.io/storage-access/](https://privacycg.github.io/storage-access/)
 - Shortname: storage-access
 
@@ -18275,7 +18276,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 9 May 2023
+- Crawled version: 10 May 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

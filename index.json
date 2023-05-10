@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-10T06:32:58.996Z",
+  "date": "2023-05-10T12:41:59.136Z",
   "stats": {
     "crawled": 564,
     "errors": 0,
@@ -3086,6 +3086,11 @@
               "url": "https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies",
               "title": "Cookies Having Independent Partitioned State specification",
               "crawled": "https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html"
+            },
+            {
+              "url": "https://privacycg.github.io/storage-access/",
+              "title": "The Storage Access API",
+              "crawled": "https://privacycg.github.io/storage-access/"
             }
           ],
           "informative": []
@@ -27012,7 +27017,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "9 May 2023",
+      "date": "10 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -46463,7 +46468,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "29 March 2023",
+      "date": "10 May 2023",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
