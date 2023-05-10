@@ -19002,7 +19002,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Crawled URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
-- Crawled version: 8 May 2023
+- Crawled version: 9 May 2023
 - Editor's Draft: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Shortname: fs
 
