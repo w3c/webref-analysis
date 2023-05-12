@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-12T06:32:49.112Z",
+  "date": "2023-05-12T12:39:48.643Z",
   "stats": {
     "crawled": 564,
     "errors": 0,
@@ -31511,7 +31511,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "10 March 2023",
+      "date": "12 May 2023",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -36419,7 +36419,7 @@
     {
       "title": "preferCurrentTab",
       "shortname": "prefer-current-tab",
-      "date": "11 May 2023",
+      "date": "12 May 2023",
       "url": "https://wicg.github.io/prefer-current-tab/",
       "nightly": {
         "url": "https://wicg.github.io/prefer-current-tab/",
@@ -38423,7 +38423,7 @@
     {
       "title": "Reporting API",
       "shortname": "reporting-1",
-      "date": "17 September 2022",
+      "date": "12 May 2023",
       "url": "https://www.w3.org/TR/reporting-1/",
       "release": {
         "url": "https://www.w3.org/TR/reporting-1/",
@@ -48143,7 +48143,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/prefer-current-tab/",
+              "title": "preferCurrentTab",
+              "crawled": "https://wicg.github.io/prefer-current-tab/"
+            }
+          ],
           "informative": []
         },
         "ok": true

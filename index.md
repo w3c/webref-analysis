@@ -14994,7 +14994,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Crawled URL: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
-- Crawled version: 17 September 2022
+- Crawled version: 12 May 2023
 - Editor's Draft: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
 - Latest published version: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Shortname: reporting-1
@@ -16014,7 +16014,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 10 March 2023
+- Crawled version: 12 May 2023
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 
@@ -16263,7 +16263,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/prefer-current-tab/](https://wicg.github.io/prefer-current-tab/)
 - Crawled URL: [https://wicg.github.io/prefer-current-tab/](https://wicg.github.io/prefer-current-tab/)
-- Crawled version: 11 May 2023
+- Crawled version: 12 May 2023
 - Editor's Draft: [https://wicg.github.io/prefer-current-tab/](https://wicg.github.io/prefer-current-tab/)
 - Shortname: prefer-current-tab
 
@@ -17503,7 +17503,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
 
 No informative reference to this spec from other specs.
 
