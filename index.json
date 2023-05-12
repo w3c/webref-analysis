@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-12T12:39:48.643Z",
+  "date": "2023-05-12T18:34:39.948Z",
   "stats": {
     "crawled": 564,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "10 May 2023",
+      "date": "12 May 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3926,6 +3926,11 @@
               "url": "https://wicg.github.io/page-lifecycle/",
               "title": "Page Lifecycle",
               "crawled": "https://wicg.github.io/page-lifecycle/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-page-4/",
+              "title": "Proposals for the future of CSS Paged Media",
+              "crawled": "https://drafts.csswg.org/css-page-4/"
             },
             {
               "url": "https://quirks.spec.whatwg.org/",
@@ -9688,13 +9693,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://drafts.csswg.org/css-page-4/",
-              "title": "Proposals for the future of CSS Paged Media",
-              "crawled": "https://drafts.csswg.org/css-page-4/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-display-3/",
@@ -13600,7 +13599,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-syntax-3/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -13662,7 +13663,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -14438,6 +14439,11 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-page-4/",
+              "title": "Proposals for the future of CSS Paged Media",
+              "crawled": "https://drafts.csswg.org/css-page-4/"
             }
           ],
           "informative": [
@@ -15945,7 +15951,7 @@
     {
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
-      "date": "9 May 2023",
+      "date": "12 May 2023",
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
@@ -21518,7 +21524,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "11 May 2023",
+      "date": "12 May 2023",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -27028,7 +27034,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "10 May 2023",
+      "date": "12 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36801,7 +36807,7 @@
     {
       "title": "Proposals for the future of CSS Paged Media",
       "shortname": "css-page-4",
-      "date": "7 March 2013",
+      "date": "12 May 2023",
       "url": "https://drafts.csswg.org/css-page-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-page-4/",
@@ -37147,7 +37153,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "10 May 2023",
+      "date": "12 May 2023",
       "url": "https://w3c.github.io/rdf-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-concepts/spec/",
@@ -37253,7 +37259,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "05 May 2023",
+      "date": "12 May 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -37332,7 +37338,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "05 May 2023",
+      "date": "12 May 2023",
       "url": "https://w3c.github.io/rdf-n-triples/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
@@ -37579,7 +37585,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "05 May 2023",
+      "date": "12 May 2023",
       "url": "https://w3c.github.io/rdf-trig/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-trig/spec/",
@@ -37658,7 +37664,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "05 May 2023",
+      "date": "12 May 2023",
       "url": "https://w3c.github.io/rdf-turtle/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-turtle/spec/",
@@ -37752,7 +37758,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "05 May 2023",
+      "date": "12 May 2023",
       "url": "https://w3c.github.io/rdf-xml/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-xml/spec/",
@@ -47795,6 +47801,11 @@
               "crawled": "https://wicg.github.io/sms-one-time-codes/"
             },
             {
+              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
               "url": "https://www.w3.org/TR/remote-playback/",
               "title": "Remote Playback API",
               "crawled": "https://w3c.github.io/remote-playback/"
@@ -54332,7 +54343,7 @@
     {
       "title": "WebSockets Standard",
       "shortname": "websockets",
-      "date": "25 October 2022",
+      "date": "12 May 2023",
       "url": "https://websockets.spec.whatwg.org/",
       "nightly": {
         "url": "https://websockets.spec.whatwg.org/",
