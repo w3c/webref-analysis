@@ -19558,7 +19558,7 @@ Informative references to this spec from:
 
 ## sourcemaps.info {#group-sourcemaps_info}
 
-### Source Map Revision 3 Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### Source Map Revision 3 Proposal {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -19570,7 +19570,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
+The following network or parsing error occurred:
+`Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 520 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 520
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 100)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
