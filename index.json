@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-15T06:33:17.641Z",
+  "date": "2023-05-15T12:41:05.942Z",
   "stats": {
     "crawled": 564,
     "errors": 1,
@@ -398,7 +398,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "15 March 2023",
+      "date": "15 May 2023",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "09 May 2023",
+      "date": "15 May 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -3107,7 +3107,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "08 May 2023",
+      "date": "15 May 2023",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -26842,7 +26842,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "10 May 2023",
+      "date": "15 May 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",

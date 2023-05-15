@@ -2718,7 +2718,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 15 March 2023
+- Crawled version: 15 May 2023
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -2753,7 +2753,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 09 May 2023
+- Crawled version: 15 May 2023
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -2791,7 +2791,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Crawled URL: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
-- Crawled version: 08 May 2023
+- Crawled version: 15 May 2023
 - Editor's Draft: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
 - Latest published version: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Shortname: core-aam-1.2
@@ -2854,7 +2854,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 10 May 2023
+- Crawled version: 15 May 2023
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
