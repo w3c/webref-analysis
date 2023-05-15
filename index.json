@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-15T12:41:05.942Z",
+  "date": "2023-05-15T18:34:06.674Z",
   "stats": {
     "crawled": 564,
     "errors": 1,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "12 May 2023",
+      "date": "15 May 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3145,6 +3145,7 @@
         "missingLinkRef": [
           "http://www.w3.org/TR/wai-aria-implementation/",
           "http://www.w3.org/TR/wai-aria-practices/",
+          "https://w3c.github.io/webdriver/",
           "https://www.w3.org/TR/fingerprinting-guidance/"
         ],
         "inconsistentRef": [
@@ -27035,7 +27036,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "12 May 2023",
+      "date": "15 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36852,7 +36853,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "9 May 2023",
+      "date": "15 May 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37260,7 +37261,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "12 May 2023",
+      "date": "15 May 2023",
       "url": "https://w3c.github.io/rdf-n-quads/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
@@ -44277,7 +44278,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "05 May 2023",
+      "date": "15 May 2023",
       "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
@@ -44710,7 +44711,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "14 May 2023",
+      "date": "15 May 2023",
       "url": "https://w3c.github.io/sparql-query/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
@@ -44978,7 +44979,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "05 May 2023",
+      "date": "15 May 2023",
       "url": "https://w3c.github.io/sparql-results-json/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
@@ -45008,7 +45009,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -55338,7 +55341,7 @@
     {
       "title": "Well-Formed Unicode Strings",
       "shortname": "tc39-is-usv-string",
-      "date": "2 March 2023",
+      "date": "15 May 2023",
       "url": "https://tc39.es/proposal-is-usv-string/",
       "nightly": {
         "url": "https://tc39.es/proposal-is-usv-string/",

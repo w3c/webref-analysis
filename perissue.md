@@ -244,6 +244,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Core Accessibility API Mappings 1.2](https://w3c.github.io/core-aam/) links to:
     * [`http://www.w3.org/TR/wai-aria-implementation/`](http://www.w3.org/TR/wai-aria-implementation/) but does not list it in its references
     * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/) but does not list it in its references
+    * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but does not list it in its references
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/) links to [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/) but does not list it in its references
 - [CSS 2](https://drafts.csswg.org/css2/) links to:
@@ -1193,6 +1194,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/) links to [`http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/) but does not list it in its references
+- [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/) links to [`https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx`](https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx) but does not list it in its references
 - [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/) links to:
     * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/) but does not list it in its references
     * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/) but does not list it in its references
@@ -1297,7 +1299,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 944 missing references for links found in 234 specifications
+=> 946 missing references for links found in 235 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
