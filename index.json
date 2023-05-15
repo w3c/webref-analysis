@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-15T00:46:55.573Z",
+  "date": "2023-05-15T06:33:17.641Z",
   "stats": {
     "crawled": 564,
     "errors": 1,
@@ -19688,6 +19688,11 @@
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             },
             {
+              "url": "https://www.w3.org/TR/webnn/",
+              "title": "Web Neural Network API",
+              "crawled": "https://webmachinelearning.github.io/webnn/"
+            },
+            {
               "url": "https://wicg.github.io/webusb/",
               "title": "WebUSB API",
               "crawled": "https://wicg.github.io/webusb/"
@@ -25136,6 +25141,11 @@
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
               "crawled": "https://w3c.github.io/webauthn/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webnn/",
+              "title": "Web Neural Network API",
+              "crawled": "https://webmachinelearning.github.io/webnn/"
             },
             {
               "url": "https://www.w3.org/TR/web-share/",
@@ -50809,7 +50819,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "14 April 2023",
+      "date": "15 May 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
