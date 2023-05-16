@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-16T12:41:46.287Z",
+  "date": "2023-05-16T18:33:51.759Z",
   "stats": {
     "crawled": 564,
     "errors": 1,
@@ -737,7 +737,7 @@
     {
       "title": "Array Grouping",
       "shortname": "tc39-array-grouping",
-      "date": "13 June 2022",
+      "date": "16 May 2023",
       "url": "https://tc39.es/proposal-array-grouping/",
       "nightly": {
         "url": "https://tc39.es/proposal-array-grouping/",
@@ -16714,7 +16714,7 @@
     {
       "title": "CSS Syntax Module Level 3",
       "shortname": "css-syntax-3",
-      "date": "12 May 2023",
+      "date": "16 May 2023",
       "url": "https://www.w3.org/TR/css-syntax-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -21516,7 +21516,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "12 May 2023",
+      "date": "16 May 2023",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -23144,6 +23144,11 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
             },
             {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
+            {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
@@ -24260,7 +24265,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "11 May 2023",
+      "date": "16 May 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -37493,7 +37498,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "12 May 2023",
+      "date": "16 May 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -43814,7 +43819,7 @@
     {
       "title": "Set methods",
       "shortname": "tc39-set-methods",
-      "date": "22 March 2023",
+      "date": "16 May 2023",
       "url": "https://tc39.es/proposal-set-methods/",
       "nightly": {
         "url": "https://tc39.es/proposal-set-methods/",
@@ -47429,11 +47434,6 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://wicg.github.io/document-picture-in-picture/",
-              "title": "Document Picture-in-Picture Specification",
-              "crawled": "https://wicg.github.io/document-picture-in-picture/"
-            },
-            {
               "url": "https://dom.spec.whatwg.org/",
               "title": "DOM Standard",
               "crawled": "https://dom.spec.whatwg.org/"
@@ -50817,7 +50817,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "15 May 2023",
+      "date": "16 May 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -51842,6 +51842,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
+            },
             {
               "url": "https://www.w3.org/TR/generic-sensor/",
               "title": "Generic Sensor API",
