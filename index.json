@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-17T06:34:13.569Z",
+  "date": "2023-05-17T12:47:22.947Z",
   "stats": {
     "crawled": 564,
-    "errors": 1,
+    "errors": 0,
     "studied": 564
   },
   "results": [
@@ -1994,8 +1994,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "name": "Web Editing Working Group",
+          "url": "https://www.w3.org/groups/wg/webediting"
         }
       ],
       "report": {
@@ -15947,7 +15947,7 @@
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
-        "status": "Unofficial Proposal Draft",
+        "status": "Editor's Draft",
         "alternateUrls": [
           "https://w3c.github.io/csswg-drafts/css-scroll-snap-2/"
         ],
@@ -21525,7 +21525,7 @@
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
-        "status": "Unofficial Proposal Draft",
+        "status": "Draft Community Group Report",
         "alternateUrls": [],
         "repository": "https://github.com/WICG/document-picture-in-picture",
         "sourcePath": "spec.bs",
@@ -21697,7 +21697,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "31 March 2023",
+      "date": "17 May 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -21730,15 +21730,7 @@
         "missingLinkRef": [
           "https://w3c.github.io/deviceorientation/spec-source-orientation.html"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/i18n-glossary/",
-            "ref": {
-              "name": "I18N-GLOSSARY",
-              "url": "https://w3c.github.io/i18n-glossary/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -22794,7 +22786,7 @@
               "crawled": "https://drafts.csswg.org/selectors-nonelement-1/"
             },
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
@@ -23026,7 +23018,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "11 May 2023",
+      "date": "17 May 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -28720,12 +28712,12 @@
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
@@ -30485,8 +30477,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "name": "Web Editing Working Group",
+          "url": "https://www.w3.org/groups/wg/webediting"
         }
       ],
       "report": {
@@ -30585,11 +30577,6 @@
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
-            },
-            {
-              "url": "https://dom.spec.whatwg.org/",
-              "title": "DOM Standard",
-              "crawled": "https://dom.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -31047,7 +31034,7 @@
               "crawled": "https://w3c.github.io/json-ld-api/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
@@ -31059,12 +31046,12 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
             },
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             }
@@ -36818,12 +36805,12 @@
       "url": "https://drafts.csswg.org/css-page-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-page-4/",
-        "status": "Editor's Draft",
+        "status": "Unofficial Proposal Draft",
         "alternateUrls": [
           "https://w3c.github.io/csswg-drafts/css-page-4/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "css-page-4/Overview.src.html",
+        "sourcePath": "css-page-4/Overview.bs",
         "filename": "Overview.html"
       },
       "crawled": "https://drafts.csswg.org/css-page-4/",
@@ -37161,7 +37148,12 @@
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
       "date": "12 May 2023",
-      "url": "https://w3c.github.io/rdf-concepts/spec/",
+      "url": "https://www.w3.org/TR/rdf12-concepts/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf12-concepts/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/rdf-concepts/spec/",
         "status": "Editor's Draft",
@@ -37197,12 +37189,12 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
@@ -37212,17 +37204,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -37232,29 +37224,29 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -37267,7 +37259,12 @@
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
       "date": "15 May 2023",
-      "url": "https://w3c.github.io/rdf-n-quads/spec/",
+      "url": "https://www.w3.org/TR/rdf12-n-quads/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf12-n-quads/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-quads/spec/",
         "status": "Editor's Draft",
@@ -37301,19 +37298,19 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -37323,17 +37320,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
@@ -37346,7 +37343,12 @@
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
       "date": "12 May 2023",
-      "url": "https://w3c.github.io/rdf-n-triples/spec/",
+      "url": "https://www.w3.org/TR/rdf12-n-triples/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf12-n-triples/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/rdf-n-triples/spec/",
         "status": "Editor's Draft",
@@ -37380,24 +37382,24 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -37407,12 +37409,12 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             }
@@ -37425,7 +37427,12 @@
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
       "date": "08 May 2023",
-      "url": "https://w3c.github.io/rdf-schema/spec/",
+      "url": "https://www.w3.org/TR/rdf12-schema/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf12-schema/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/rdf-schema/spec/",
         "status": "Editor's Draft",
@@ -37466,32 +37473,32 @@
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
@@ -37538,7 +37545,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -37548,39 +37555,39 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             }
@@ -37593,7 +37600,12 @@
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
       "date": "12 May 2023",
-      "url": "https://w3c.github.io/rdf-trig/spec/",
+      "url": "https://www.w3.org/TR/rdf12-trig/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf12-trig/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/rdf-trig/spec/",
         "status": "Editor's Draft",
@@ -37627,29 +37639,29 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -37659,7 +37671,7 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             }
@@ -37672,7 +37684,12 @@
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
       "date": "12 May 2023",
-      "url": "https://w3c.github.io/rdf-turtle/spec/",
+      "url": "https://www.w3.org/TR/rdf12-turtle/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf12-turtle/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/rdf-turtle/spec/",
         "status": "Editor's Draft",
@@ -37706,27 +37723,27 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -37736,19 +37753,19 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -37766,7 +37783,12 @@
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
       "date": "12 May 2023",
-      "url": "https://w3c.github.io/rdf-xml/spec/",
+      "url": "https://www.w3.org/TR/rdf12-xml/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf12-xml/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/rdf-xml/spec/",
         "status": "Editor's Draft",
@@ -38038,34 +38060,34 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -38075,12 +38097,12 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             }
@@ -41003,12 +41025,12 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
@@ -41714,7 +41736,7 @@
               "crawled": "https://drafts.fxtf.org/geometry-1/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -42395,7 +42417,7 @@
               "crawled": "https://w3c.github.io/graphics-aam/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -43241,8 +43263,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "name": "Web Editing Working Group",
+          "url": "https://www.w3.org/groups/wg/webediting"
         }
       ],
       "report": {
@@ -43970,7 +43992,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 520 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 520\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 100)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -44037,54 +44058,54 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -44094,17 +44115,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -44114,17 +44135,17 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -44137,7 +44158,12 @@
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
       "date": "05 May 2023",
-      "url": "https://w3c.github.io/sparql-federated-query/spec/",
+      "url": "https://www.w3.org/TR/sparql12-federated-query/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-federated-query/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-federated-query/spec/",
         "status": "Editor's Draft",
@@ -44184,49 +44210,49 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -44236,17 +44262,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -44261,17 +44287,17 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -44284,7 +44310,12 @@
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
       "date": "15 May 2023",
-      "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+      "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
         "status": "Editor's Draft",
@@ -44329,49 +44360,49 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -44381,17 +44412,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -44406,17 +44437,17 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -44481,54 +44512,54 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -44538,17 +44569,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -44558,17 +44589,17 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -44581,7 +44612,12 @@
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
       "date": "05 May 2023",
-      "url": "https://w3c.github.io/sparql-protocol/spec/",
+      "url": "https://www.w3.org/TR/sparql12-protocol/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-protocol/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-protocol/spec/",
         "status": "Editor's Draft",
@@ -44622,49 +44658,49 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -44674,17 +44710,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -44694,17 +44730,17 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -44717,7 +44753,12 @@
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
       "date": "15 May 2023",
-      "url": "https://w3c.github.io/sparql-query/spec/",
+      "url": "https://www.w3.org/TR/sparql12-query/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-query/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-query/spec/",
         "status": "Editor's Draft",
@@ -44751,7 +44792,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
@@ -44761,54 +44802,54 @@
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -44818,12 +44859,12 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -44833,12 +44874,12 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -44851,7 +44892,12 @@
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
       "date": "05 May 2023",
-      "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+      "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
         "status": "Editor's Draft",
@@ -44885,49 +44931,49 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -44937,17 +44983,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -44962,17 +45008,17 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -44985,7 +45031,12 @@
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
       "date": "15 May 2023",
-      "url": "https://w3c.github.io/sparql-results-json/spec/",
+      "url": "https://www.w3.org/TR/sparql12-results-json/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-results-json/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-json/spec/",
         "status": "Editor's Draft",
@@ -45014,61 +45065,67 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx"
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx",
+            "ref": {
+              "name": "SPARQL12-RESULTS-XML",
+              "url": "https://w3c.github.io/sparql-results-xml/spec/"
+            }
+          }
         ],
-        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -45078,17 +45135,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -45103,12 +45160,12 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -45121,7 +45178,12 @@
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
       "date": "05 May 2023",
-      "url": "https://w3c.github.io/sparql-results-xml/spec/",
+      "url": "https://www.w3.org/TR/sparql12-results-xml/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-results-xml/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-results-xml/spec/",
         "status": "Editor's Draft",
@@ -45155,54 +45217,54 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -45212,17 +45274,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -45237,12 +45299,12 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             }
@@ -45255,7 +45317,12 @@
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
       "date": "05 May 2023",
-      "url": "https://w3c.github.io/sparql-service-description/spec/",
+      "url": "https://www.w3.org/TR/sparql12-service-description/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-service-description/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-service-description/spec/",
         "status": "Editor's Draft",
@@ -45289,49 +45356,49 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-update/spec/",
+              "url": "https://www.w3.org/TR/sparql12-update/",
               "title": "SPARQL 1.2 Update",
               "crawled": "https://w3c.github.io/sparql-update/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -45341,17 +45408,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -45366,17 +45433,17 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -45389,7 +45456,12 @@
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
       "date": "05 May 2023",
-      "url": "https://w3c.github.io/sparql-update/spec/",
+      "url": "https://www.w3.org/TR/sparql12-update/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-update/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-update/spec/",
         "status": "Editor's Draft",
@@ -45427,49 +45499,49 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-federated-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
               "title": "SPARQL 1.2 Federated Query",
               "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-graph-store-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
               "title": "SPARQL 1.2 Graph Store Protocol",
               "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-protocol/spec/",
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-csv-tsv/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
               "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
               "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-service-description/spec/",
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
             }
           ],
           "informative": [
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-quads/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
               "title": "RDF 1.2 N-Quads",
               "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-n-triples/spec/",
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
               "title": "RDF 1.2 N-Triples",
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-schema/spec/",
+              "url": "https://www.w3.org/TR/rdf12-schema/",
               "title": "RDF 1.2 Schema",
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
@@ -45479,17 +45551,17 @@
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-trig/spec/",
+              "url": "https://www.w3.org/TR/rdf12-trig/",
               "title": "RDF 1.2 TriG",
               "crawled": "https://w3c.github.io/rdf-trig/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-turtle/spec/",
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
               "title": "RDF 1.2 Turtle",
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-xml/spec/",
+              "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
@@ -45504,17 +45576,17 @@
               "crawled": "https://w3c.github.io/sparql-concepts/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-query/spec/",
+              "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-json/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
               "title": "SPARQL 1.2 Query Results JSON Format",
               "crawled": "https://w3c.github.io/sparql-results-json/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-results-xml/spec/",
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
               "title": "SPARQL 1.2 Query Results XML Format",
               "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
             }
@@ -47806,7 +47878,7 @@
               "crawled": "https://wicg.github.io/sms-one-time-codes/"
             },
             {
-              "url": "https://w3c.github.io/rdf-concepts/spec/",
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },

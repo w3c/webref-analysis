@@ -21,14 +21,6 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>564 specifications were crawled in this report.</p>
-  <section id="specifications-that-could-not-be-rendered" class="level2">
-  <h2>Specifications that could not be rendered</h2>
-  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
-  <ul>
-  <li><a href="https://sourcemaps.info/spec.html">Source Map Revision 3 Proposal</a>: <code>Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 520 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 520     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)     at async Promise.all (index 100)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)</code></li>
-  </ul>
-  <p>=&gt; 1 specification found</p>
-  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
@@ -71,6 +63,7 @@
   <li><a href="https://www.rfc-editor.org/rfc/rfc7578">RFC 7578: Returning Values from Forms: multipart/form-data</a></li>
   <li><a href="https://tc39.es/proposal-set-methods/">Set methods</a></li>
   <li><a href="https://tc39.es/proposal-shadowrealm/">ShadowRealm API</a></li>
+  <li><a href="https://sourcemaps.info/spec.html">Source Map Revision 3 Proposal</a></li>
   <li><a href="https://w3c.github.io/sparql-concepts/spec/">SPARQL 1.2 Overview</a></li>
   <li><a href="https://w3c.github.io/sparql-results-json/spec/">SPARQL 1.2 Query Results JSON Format</a></li>
   <li><a href="https://w3c.github.io/sparql-results-xml/spec/">SPARQL 1.2 Query Results XML Format</a></li>
@@ -122,7 +115,7 @@
   <li><a href="https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/">WebGL WEBGL_provoking_vertex Extension Specification</a></li>
   <li><a href="https://tc39.es/proposal-is-usv-string/">Well-Formed Unicode Strings</a></li>
   </ul>
-  <p>=&gt; 89 specifications found</p>
+  <p>=&gt; 90 specifications found</p>
   <p>Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.</p>
   </section>
   <section id="list-of-specifications-with-invalid-webidl-content" class="level2">
@@ -1480,7 +1473,6 @@
   <li><a href="http://www.w3.org/TR/turtle/"><code>http://www.w3.org/TR/turtle/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://w3c.github.io/sparql-protocol/spec/">SPARQL 1.2 Protocol</a> links to <a href="http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/"><code>http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/</code></a> but does not list it in its references</li>
-  <li><a href="https://w3c.github.io/sparql-results-json/spec/">SPARQL 1.2 Query Results JSON Format</a> links to <a href="https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx"><code>https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/sparql-update/spec/">SPARQL 1.2 Update</a> links to:
   <ul>
   <li><a href="http://www.w3.org/TR/2004/REC-rdf-mt-20040210/"><code>http://www.w3.org/TR/2004/REC-rdf-mt-20040210/</code></a> but does not list it in its references</li>
@@ -1623,7 +1615,7 @@
   <li><a href="https://w3c.github.io/window-management/">Window Management</a> links to <a href="https://www.w3.org/TR/cssom-view-1/"><code>https://www.w3.org/TR/cssom-view-1/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 946 missing references for links found in 235 specifications</p>
+  <p>=&gt; 945 missing references for links found in 234 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -2139,7 +2131,6 @@
   </ul></li>
   <li><a href="https://wicg.github.io/document-policy/">Document Policy</a> links to <a href="https://w3c.github.io/reporting/"><code>https://w3c.github.io/reporting/</code></a> but related reference “REPORTING” uses URL <a href="https://www.w3.org/TR/reporting-1/"><code>https://www.w3.org/TR/reporting-1/</code></a></li>
   <li><a href="https://w3c.github.io/DOM-Parsing/">DOM Parsing and Serialization</a> links to <a href="https://www.w3.org/TR/dom/"><code>https://www.w3.org/TR/dom/</code></a> but related reference “DOM4” uses URL <a href="https://dom.spec.whatwg.org/"><code>https://dom.spec.whatwg.org/</code></a></li>
-  <li><a href="https://dom.spec.whatwg.org/">DOM Standard</a> links to <a href="https://www.w3.org/TR/i18n-glossary/"><code>https://www.w3.org/TR/i18n-glossary/</code></a> but related reference “I18N-GLOSSARY” uses URL <a href="https://w3c.github.io/i18n-glossary/"><code>https://w3c.github.io/i18n-glossary/</code></a></li>
   <li><a href="https://wicg.github.io/element-timing/">Element Timing API</a> links to <a href="https://www.w3.org/TR/hr-time-2/"><code>https://www.w3.org/TR/hr-time-2/</code></a> but related reference “HR-TIME-2” uses URL <a href="https://w3c.github.io/hr-time/"><code>https://w3c.github.io/hr-time/</code></a></li>
   <li><a href="https://w3c.github.io/encrypted-media/">Encrypted Media Extensions</a> links to:
   <ul>
@@ -2353,6 +2344,7 @@
   <li><a href="https://www.w3.org/TR/css-ui-3/"><code>https://www.w3.org/TR/css-ui-3/</code></a> but related reference “CSS3UI” uses URL <a href="https://drafts.csswg.org/css-ui-3/"><code>https://drafts.csswg.org/css-ui-3/</code></a></li>
   <li><a href="https://www.w3.org/TR/selectors-3/"><code>https://www.w3.org/TR/selectors-3/</code></a> but related reference “SELECT” uses URL <a href="https://drafts.csswg.org/selectors-3/"><code>https://drafts.csswg.org/selectors-3/</code></a></li>
   </ul></li>
+  <li><a href="https://w3c.github.io/sparql-results-json/spec/">SPARQL 1.2 Query Results JSON Format</a> links to <a href="https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx"><code>https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx</code></a> but related reference “SPARQL12-RESULTS-XML” uses URL <a href="https://w3c.github.io/sparql-results-xml/spec/"><code>https://w3c.github.io/sparql-results-xml/spec/</code></a></li>
   <li><a href="https://w3c.github.io/webappsec-subresource-integrity/">Subresource Integrity</a> links to <a href="http://www.w3.org/TR/html5/infrastructure.html"><code>http://www.w3.org/TR/html5/infrastructure.html</code></a> but related reference “HTML” uses URL <a href="https://html.spec.whatwg.org/multipage/"><code>https://html.spec.whatwg.org/multipage/</code></a></li>
   <li><a href="https://w3c.github.io/svg-aam/">SVG Accessibility API Mappings</a> links to:
   <ul>
