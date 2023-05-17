@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-17T00:48:30.771Z",
+  "date": "2023-05-17T06:34:13.569Z",
   "stats": {
     "crawled": 564,
     "errors": 1,
@@ -27041,7 +27041,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 May 2023",
+      "date": "17 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36474,7 +36474,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "28 April 2023",
+      "date": "16 May 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -36516,7 +36516,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "28 April 2023",
+      "date": "16 May 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -45526,7 +45526,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "28 April 2023",
+      "date": "16 May 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
