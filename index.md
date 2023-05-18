@@ -12,7 +12,7 @@
 
 - Initial URL: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
 - Crawled URL: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
-- Crawled version: 16 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://tc39.es/proposal-array-grouping/](https://tc39.es/proposal-array-grouping/)
 - Shortname: tc39-array-grouping
 
@@ -670,7 +670,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 11 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -2786,13 +2786,13 @@ Informative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 
 
-### Core Accessibility API Mappings 1.2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Core Accessibility API Mappings 1.2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Crawled URL: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
-- Crawled version: 17 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
 - Latest published version: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Shortname: core-aam-1.2
@@ -2804,9 +2804,6 @@ Informative references to this spec from:
      * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/)
      * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/)
      * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
-     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4689,7 +4686,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
-- Crawled version: 15 February 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
 - Latest published version: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Shortname: css-contain-2
@@ -6811,6 +6808,7 @@ Normative references to this spec from:
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
@@ -8385,7 +8383,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 15 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -11422,7 +11420,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/rdf12-concepts/](https://www.w3.org/TR/rdf12-concepts/)
 - Crawled URL: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
-- Crawled version: 12 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-concepts/](https://www.w3.org/TR/rdf12-concepts/)
 - Shortname: rdf12-concepts
@@ -11459,7 +11457,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-n-quads/](https://www.w3.org/TR/rdf12-n-quads/)
 - Crawled URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
-- Crawled version: 15 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-n-quads/](https://www.w3.org/TR/rdf12-n-quads/)
 - Shortname: rdf12-n-quads
@@ -11490,7 +11488,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-n-triples/](https://www.w3.org/TR/rdf12-n-triples/)
 - Crawled URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
-- Crawled version: 12 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-n-triples/](https://www.w3.org/TR/rdf12-n-triples/)
 - Shortname: rdf12-n-triples
@@ -11521,7 +11519,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-schema/](https://www.w3.org/TR/rdf12-schema/)
 - Crawled URL: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
-- Crawled version: 08 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-schema/](https://www.w3.org/TR/rdf12-schema/)
 - Shortname: rdf12-schema
@@ -11584,7 +11582,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-trig/](https://www.w3.org/TR/rdf12-trig/)
 - Crawled URL: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
-- Crawled version: 12 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-trig/](https://www.w3.org/TR/rdf12-trig/)
 - Shortname: rdf12-trig
@@ -11615,7 +11613,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-turtle/](https://www.w3.org/TR/rdf12-turtle/)
 - Crawled URL: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
-- Crawled version: 12 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-turtle/](https://www.w3.org/TR/rdf12-turtle/)
 - Shortname: rdf12-turtle
@@ -11649,7 +11647,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-xml/](https://www.w3.org/TR/rdf12-xml/)
 - Crawled URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
-- Crawled version: 12 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-xml/](https://www.w3.org/TR/rdf12-xml/)
 - Shortname: rdf12-xml
@@ -11946,7 +11944,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-protocol/](https://www.w3.org/TR/sparql12-protocol/)
 - Crawled URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
-- Crawled version: 05 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-protocol/](https://www.w3.org/TR/sparql12-protocol/)
 - Shortname: sparql12-protocol
@@ -14919,7 +14917,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
 - Crawled URL: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
-- Crawled version: 30 July 2021
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
 - Latest published version: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
 - Shortname: network-error-logging-1
@@ -15220,7 +15218,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 17 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -15701,7 +15699,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 16 May 2023
+- Crawled version: 18 May 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 

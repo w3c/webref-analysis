@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-18T12:40:50.455Z",
+  "date": "2023-05-18T18:34:12.373Z",
   "stats": {
     "crawled": 564,
     "errors": 0,
@@ -737,7 +737,7 @@
     {
       "title": "Array Grouping",
       "shortname": "tc39-array-grouping",
-      "date": "16 May 2023",
+      "date": "18 May 2023",
       "url": "https://tc39.es/proposal-array-grouping/",
       "nightly": {
         "url": "https://tc39.es/proposal-array-grouping/",
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "17 May 2023",
+      "date": "18 May 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3107,7 +3107,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "17 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -3148,22 +3148,7 @@
           "https://w3c.github.io/webdriver/",
           "https://www.w3.org/TR/fingerprinting-guidance/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/accname/",
-            "ref": {
-              "name": "accname-1.2",
-              "url": "https://www.w3.org/TR/accname-1.2/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/aria/",
-            "ref": {
-              "name": "WAI-ARIA-1.2",
-              "url": "https://www.w3.org/TR/wai-aria-1.2/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -8159,7 +8144,7 @@
     {
       "title": "CSS Containment Module Level 2",
       "shortname": "css-contain-2",
-      "date": "15 February 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/css-contain-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-2/",
@@ -14835,6 +14820,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
@@ -19819,7 +19809,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "15 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -24312,7 +24302,7 @@
     {
       "title": "Fenced frame",
       "shortname": "fenced-frame",
-      "date": "16 May 2023",
+      "date": "18 May 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -34398,7 +34388,7 @@
     {
       "title": "Network Error Logging",
       "shortname": "network-error-logging-1",
-      "date": "30 July 2021",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/network-error-logging-1/",
       "release": {
         "url": "https://www.w3.org/TR/network-error-logging-1/",
@@ -37147,7 +37137,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "12 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -37258,7 +37248,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "15 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/rdf12-n-quads/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-quads/",
@@ -37342,7 +37332,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "12 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/rdf12-n-triples/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-triples/",
@@ -37426,7 +37416,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "08 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/rdf12-schema/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-schema/",
@@ -37599,7 +37589,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "12 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/rdf12-trig/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-trig/",
@@ -37683,7 +37673,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "12 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
@@ -37782,7 +37772,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "12 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/rdf12-xml/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-xml/",
@@ -44611,7 +44601,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "05 May 2023",
+      "date": "18 May 2023",
       "url": "https://www.w3.org/TR/sparql12-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-protocol/",
@@ -46398,7 +46388,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "11 May 2023",
+      "date": "18 May 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
