@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-19T12:41:22.420Z",
+  "date": "2023-05-19T18:33:51.781Z",
   "stats": {
     "crawled": 564,
     "errors": 0,
@@ -16714,7 +16714,7 @@
     {
       "title": "CSS Syntax Module Level 3",
       "shortname": "css-syntax-3",
-      "date": "18 May 2023",
+      "date": "19 May 2023",
       "url": "https://www.w3.org/TR/css-syntax-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -21522,7 +21522,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "16 May 2023",
+      "date": "19 May 2023",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -34560,7 +34560,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "22 March 2023",
+      "date": "19 May 2023",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -36846,7 +36846,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "18 May 2023",
+      "date": "19 May 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -46399,7 +46399,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "18 May 2023",
+      "date": "19 May 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -50895,7 +50895,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "16 May 2023",
+      "date": "19 May 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
