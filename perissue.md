@@ -146,30 +146,37 @@ Basically all specifications have normative dependencies on some other specifica
 => 0 missing reference for IDL definitions found in 0 specification
 
 
-## No definition for CSS properties
+## No definition for CSS constructs
 
-- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/):
-    * `contain` with type `property`
+- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
+    * `<feature-value-block>`
+    * `<font-feature-value-type>`
+- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces-3/):
+    * `@namespace`
+- [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
+    * `distance`
+- [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/):
+    * `<keyframe-selector>`
 
-=> 1 property without definition found in 1 specification
-
-
-## No definition for IDL properties
-
-
-=> 0 property without definition found in 0 specification
-
-
-## Possibly no definition for CSS properties
+=> 5 constructs without definition found in 4 specifications
 
 
-=> 0 property without definition found in 0 specification
+## No definition for IDL constructs
 
 
-## Possibly no definition for IDL properties
+=> 0 construct without definition found in 0 specification
 
 
-=> 0 property without definition found in 0 specification
+## Possibly no definition for CSS constructs
+
+
+=> 0 construct without definition found in 0 specification
+
+
+## Possibly no definition for IDL constructs
+
+
+=> 0 construct without definition found in 0 specification
 
 
 ## Missing references based on document links
@@ -898,7 +905,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but does not list it in its references
-- [Fenced frame](https://wicg.github.io/fenced-frame/) links to:
+- [Fenced Frame](https://wicg.github.io/fenced-frame/) links to:
     * [`https://w3c.github.io/webappsec-csp/custom-elements.html`](https://w3c.github.io/webappsec-csp/custom-elements.html) but does not list it in its references
     * [`https://w3c.github.io/webappsec-csp/form-control-infrastructure.html`](https://w3c.github.io/webappsec-csp/form-control-infrastructure.html) but does not list it in its references
     * [`https://w3c.github.io/webappsec-csp/interactive-elements.html`](https://w3c.github.io/webappsec-csp/interactive-elements.html) but does not list it in its references

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-24T12:52:21.756Z",
+  "date": "2023-05-24T18:32:39.351Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -2740,7 +2740,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -3865,7 +3865,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -8371,17 +8371,7 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [
-            {
-              "expected": {
-                "linkingText": [
-                  "contain"
-                ],
-                "type": "property",
-                "for": []
-              }
-            }
-          ],
+          "css": [],
           "idl": []
         },
         "missingLinkRef": [
@@ -10153,7 +10143,22 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "<feature-value-block>"
+                ]
+              }
+            },
+            {
+              "expected": {
+                "linkingText": [
+                  "<font-feature-value-type>"
+                ]
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [
@@ -13458,7 +13463,15 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "@namespace"
+                ]
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [
@@ -16475,7 +16488,15 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "distance"
+                ]
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [
@@ -22102,7 +22123,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -23492,7 +23513,7 @@
     {
       "title": "EditContext API",
       "shortname": "edit-context",
-      "date": "19 May 2023",
+      "date": "24 May 2023",
       "url": "https://www.w3.org/TR/edit-context/",
       "release": {
         "url": "https://www.w3.org/TR/edit-context/",
@@ -24274,7 +24295,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "16 May 2023",
+      "date": "24 May 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -24322,7 +24343,7 @@
       }
     },
     {
-      "title": "Fenced frame",
+      "title": "Fenced Frame",
       "shortname": "fenced-frame",
       "date": "24 May 2023",
       "url": "https://wicg.github.io/fenced-frame/",
@@ -24637,7 +24658,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -27695,7 +27716,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -29695,7 +29716,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -30573,7 +30594,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "24 April 2023",
+      "date": "24 May 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -35778,7 +35799,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "23 May 2023",
+      "date": "24 May 2023",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -35889,7 +35910,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -36350,7 +36371,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "01 May 2023",
+      "date": "24 May 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -36593,7 +36614,7 @@
           "normative": [
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             }
           ],
@@ -38261,7 +38282,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -42919,7 +42940,15 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "<keyframe-selector>"
+                ]
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [
@@ -43248,7 +43277,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "23 May 2023",
+      "date": "24 May 2023",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -47452,7 +47481,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "7 May 2023",
+      "date": "24 May 2023",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -47598,7 +47627,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
@@ -49973,7 +50002,7 @@
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced frame",
+              "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {

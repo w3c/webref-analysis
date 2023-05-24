@@ -3360,7 +3360,7 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
@@ -4768,8 +4768,6 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- No definition for CSS properties: 
-     * `contain` with type `property`
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
@@ -5354,6 +5352,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- No definition for CSS constructs: 
+     * `<feature-value-block>`
+     * `<font-feature-value-type>`
 - Missing references for links: 
      * [`https://w3c.github.io/mathml-core/`](https://w3c.github.io/mathml-core/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
@@ -6428,6 +6429,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- No definition for CSS constructs: 
+     * `@namespace`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/)
 
@@ -7443,6 +7446,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- No definition for CSS constructs: 
+     * `distance`
 - Missing references for links: 
      * [`https://w3c.github.io/webappsec-feature-policy/`](https://w3c.github.io/webappsec-feature-policy/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
@@ -9129,6 +9134,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- No definition for CSS constructs: 
+     * `<keyframe-selector>`
 - Missing references for links: 
      * [`http://www.w3.org/TR/css-transforms/`](http://www.w3.org/TR/css-transforms/)
      * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
@@ -10328,7 +10335,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 24 April 2023
+- Crawled version: 24 May 2023
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -11211,7 +11218,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 01 May 2023
+- Crawled version: 24 May 2023
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -13130,7 +13137,7 @@ Normative references to this spec from:
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Linear PCM WebCodecs Registration](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
@@ -13354,7 +13361,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
-- Crawled version: 23 May 2023
+- Crawled version: 24 May 2023
 - Editor's Draft: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
 - Latest published version: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Shortname: permissions-policy-1
@@ -13381,7 +13388,7 @@ Normative references to this spec from:
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -13448,7 +13455,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
@@ -14291,7 +14298,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Crawled URL: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
-- Crawled version: 19 May 2023
+- Crawled version: 24 May 2023
 - Editor's Draft: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
 - Latest published version: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Shortname: edit-context
@@ -14676,7 +14683,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Crawled URL: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
-- Crawled version: 23 May 2023
+- Crawled version: 24 May 2023
 - Editor's Draft: [https://w3c.github.io/secure-payment-confirmation/](https://w3c.github.io/secure-payment-confirmation/)
 - Latest published version: [https://www.w3.org/TR/secure-payment-confirmation/](https://www.w3.org/TR/secure-payment-confirmation/)
 - Shortname: secure-payment-confirmation
@@ -15704,7 +15711,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 16 May 2023
+- Crawled version: 24 May 2023
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -15722,7 +15729,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Fenced frame {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Fenced Frame {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16364,7 +16371,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 
 Informative references to this spec from:
 
@@ -17943,7 +17950,7 @@ Normative references to this spec from:
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/)
@@ -18205,7 +18212,7 @@ Normative references to this spec from:
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
@@ -18442,7 +18449,7 @@ Normative references to this spec from:
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
@@ -18785,7 +18792,7 @@ Normative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
@@ -19182,7 +19189,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 7 May 2023
+- Crawled version: 24 May 2023
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
@@ -19216,7 +19223,7 @@ Normative references to this spec from:
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
@@ -19384,7 +19391,7 @@ Normative references to this spec from:
 - [Event Timing API](https://w3c.github.io/event-timing)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
-- [Fenced frame](https://wicg.github.io/fenced-frame/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [File and Directory Entries API](https://wicg.github.io/entries-api/)
 - [File API](https://w3c.github.io/FileAPI/)
