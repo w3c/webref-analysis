@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-25T06:35:40.622Z",
+  "date": "2023-05-25T12:40:56.669Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -2443,7 +2443,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "13 April 2023",
+      "date": "25 May 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -28886,7 +28886,7 @@
     {
       "title": "IceTransport Extensions for WebRTC",
       "shortname": "webrtc-ice",
-      "date": "01 July 2022",
+      "date": "25 May 2023",
       "url": "https://w3c.github.io/webrtc-ice/",
       "nightly": {
         "url": "https://w3c.github.io/webrtc-ice/",
