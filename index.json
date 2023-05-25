@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-25T12:40:56.669Z",
+  "date": "2023-05-25T18:34:51.307Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "24 May 2023",
+      "date": "25 May 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -19846,7 +19846,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "18 May 2023",
+      "date": "25 May 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -23051,7 +23051,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "24 May 2023",
+      "date": "25 May 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -23972,7 +23972,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "19 May 2023",
+      "date": "25 May 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24038,7 +24038,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "19 May 2023",
+      "date": "25 May 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24345,7 +24345,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "24 May 2023",
+      "date": "25 May 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -31670,7 +31670,7 @@
     {
       "title": "Local Network Access",
       "shortname": "local-network-access",
-      "date": "9 May 2023",
+      "date": "25 May 2023",
       "url": "https://wicg.github.io/local-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-network-access/",
@@ -36371,7 +36371,7 @@
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
       "shortname": "PNG-spec",
-      "date": "24 May 2023",
+      "date": "25 May 2023",
       "url": "https://w3c.github.io/PNG-spec/",
       "nightly": {
         "url": "https://w3c.github.io/PNG-spec/",
@@ -36792,7 +36792,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "24 May 2023",
+      "date": "25 May 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -37585,7 +37585,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "16 May 2023",
+      "date": "25 May 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -37623,11 +37623,6 @@
               "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
-              "title": "SPARQL 1.2 Entailment Regimes",
-              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
             {
               "url": "https://www.w3.org/TR/sparql12-query/",
@@ -44111,7 +44106,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "03 May 2023",
+      "date": "25 May 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -44674,11 +44669,6 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
-              "title": "SPARQL 1.2 Entailment Regimes",
-              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
-            },
-            {
               "url": "https://www.w3.org/TR/sparql12-query/",
               "title": "SPARQL 1.2 Query Language",
               "crawled": "https://w3c.github.io/sparql-query/spec/"
@@ -44842,7 +44832,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "18 May 2023",
+      "date": "25 May 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
@@ -52068,7 +52058,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "23 May 2023",
+      "date": "25 May 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54264,7 +54254,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "27 April 2023",
+      "date": "25 May 2023",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",

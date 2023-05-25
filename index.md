@@ -187,7 +187,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 24 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -3092,7 +3092,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 23 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -8413,7 +8413,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 18 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -9854,7 +9854,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 19 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -9882,7 +9882,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 19 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -11218,7 +11218,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 24 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -11585,7 +11585,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Crawled URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
-- Crawled version: 16 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Shortname: rdf12-semantics
 
@@ -11598,7 +11598,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
-- [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 
 Informative references to this spec from:
@@ -11772,7 +11771,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Crawled URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
-- Crawled version: 03 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Shortname: sparql12-entailment
 
@@ -11967,7 +11966,6 @@ Informative references to this spec from:
 - [RDF 1.2 TriG](https://w3c.github.io/rdf-trig/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
-- [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 - [SPARQL 1.2 Query Language](https://w3c.github.io/sparql-query/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
@@ -12022,7 +12020,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-query/](https://www.w3.org/TR/sparql12-query/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 18 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-query/](https://www.w3.org/TR/sparql12-query/)
 - Shortname: sparql12-query
@@ -15254,7 +15252,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 24 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -15735,7 +15733,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 24 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -16110,7 +16108,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
 - Crawled URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
-- Crawled version: 9 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
 - Shortname: local-network-access
 
@@ -16406,7 +16404,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Crawled URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
-- Crawled version: 24 May 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Shortname: trust-token-api
 
@@ -17570,7 +17568,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-encoded-transform/](https://www.w3.org/TR/webrtc-encoded-transform/)
 - Crawled URL: [https://w3c.github.io/webrtc-encoded-transform/](https://w3c.github.io/webrtc-encoded-transform/)
-- Crawled version: 27 April 2023
+- Crawled version: 25 May 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-encoded-transform/](https://w3c.github.io/webrtc-encoded-transform/)
 - Latest published version: [https://www.w3.org/TR/webrtc-encoded-transform/](https://www.w3.org/TR/webrtc-encoded-transform/)
 - Shortname: webrtc-encoded-transform
