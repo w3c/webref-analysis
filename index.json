@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-25T00:47:41.738Z",
+  "date": "2023-05-25T06:35:40.622Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "23 May 2023",
+      "date": "24 May 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -27108,7 +27108,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 May 2023",
+      "date": "25 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
