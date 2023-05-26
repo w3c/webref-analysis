@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-26T06:32:38.648Z",
+  "date": "2023-05-26T12:42:00.129Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -1613,11 +1613,6 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-scrollbars-1/",
-              "title": "CSS Scrollbars Styling Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -3754,6 +3749,11 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-scrollbars-1/",
+              "title": "CSS Scrollbars Styling Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-shapes-1/",
               "title": "CSS Shapes Module Level 1",
               "crawled": "https://drafts.csswg.org/css-shapes-1/"
@@ -4650,7 +4650,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "27 February 2023",
+      "date": "25 May 2023",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -7335,11 +7335,6 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
-              "url": "https://www.w3.org/TR/css-scrollbars-1/",
-              "title": "CSS Scrollbars Styling Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -7519,6 +7514,11 @@
               "url": "https://www.w3.org/TR/css-scoping-1/",
               "title": "CSS Scoping Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scoping-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scrollbars-1/",
+              "title": "CSS Scrollbars Styling Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -16007,7 +16007,7 @@
     {
       "title": "CSS Scrollbars Styling Module Level 1",
       "shortname": "css-scrollbars-1",
-      "date": "6 December 2021",
+      "date": "26 May 2023",
       "url": "https://www.w3.org/TR/css-scrollbars-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scrollbars-1/",
@@ -16053,10 +16053,17 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/css-values-3/",
+            "ref": {
+              "name": "CSS-VALUES-3",
+              "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://www.w3.org/TR/css-values-3/"
+              "url": "https://drafts.csswg.org/css-values-3/"
             }
           }
         ],
@@ -21725,7 +21732,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "22 May 2023",
+      "date": "26 May 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -27103,7 +27110,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "25 May 2023",
+      "date": "26 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -31665,7 +31672,7 @@
     {
       "title": "Local Network Access",
       "shortname": "local-network-access",
-      "date": "25 May 2023",
+      "date": "26 May 2023",
       "url": "https://wicg.github.io/local-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-network-access/",
@@ -48815,6 +48822,11 @@
               "url": "https://www.w3.org/TR/css-properties-values-api-1/",
               "title": "CSS Properties and Values API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-scrollbars-1/",
+              "title": "CSS Scrollbars Styling Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
