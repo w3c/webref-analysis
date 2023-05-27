@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-27T06:32:35.990Z",
+  "date": "2023-05-27T12:39:14.727Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -44249,7 +44249,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "05 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-federated-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-federated-query/",
@@ -44401,7 +44401,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "15 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
@@ -44703,7 +44703,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "18 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-protocol/",
@@ -44844,7 +44844,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "25 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
@@ -44983,7 +44983,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "05 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
@@ -45122,7 +45122,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "15 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-results-json/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-json/",
@@ -45269,7 +45269,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "05 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-results-xml/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-xml/",
@@ -45408,7 +45408,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "05 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-service-description/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-service-description/",
@@ -45547,7 +45547,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "05 May 2023",
+      "date": "27 May 2023",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
