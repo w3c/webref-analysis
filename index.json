@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-30T06:32:37.582Z",
+  "date": "2023-05-30T12:43:06.446Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -2438,7 +2438,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "25 May 2023",
+      "date": "30 May 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -27110,7 +27110,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "26 May 2023",
+      "date": "30 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -33917,7 +33917,7 @@
     {
       "title": "MiniApp Packaging",
       "shortname": "miniapp-packaging",
-      "date": "26 January 2023",
+      "date": "30 May 2023",
       "url": "https://www.w3.org/TR/miniapp-packaging/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-packaging/",
@@ -51355,7 +51355,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "24 April 2023",
+      "date": "30 May 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -51406,7 +51406,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "24 April 2023",
+      "date": "30 May 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -51525,7 +51525,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "24 April 2023",
+      "date": "30 May 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -54027,7 +54027,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "29 May 2023",
+      "date": "30 May 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54102,7 +54102,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "29 May 2023",
+      "date": "30 May 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
