@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-31T06:33:10.037Z",
+  "date": "2023-05-31T12:43:07.859Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -21732,7 +21732,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "26 May 2023",
+      "date": "31 May 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -26426,7 +26426,7 @@
     {
       "title": "Graphics Accessibility API Mappings",
       "shortname": "graphics-aam-1.0",
-      "date": "21 July 2021",
+      "date": "31 May 2023",
       "url": "https://www.w3.org/TR/graphics-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/graphics-aam-1.0/",
@@ -27117,7 +27117,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -29354,7 +29354,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "5 April 2023",
+      "date": "31 May 2023",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -30429,6 +30429,11 @@
               "url": "https://www.w3.org/TR/css-text-4/",
               "title": "CSS Text Module Level 4",
               "crawled": "https://drafts.csswg.org/css-text-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/graphics-aam-1.0/",
+              "title": "Graphics Accessibility API Mappings",
+              "crawled": "https://w3c.github.io/graphics-aam/"
             },
             {
               "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -43757,7 +43762,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "17 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -45885,7 +45890,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "8 May 2023",
+      "date": "31 May 2023",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
