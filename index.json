@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-31T12:43:07.859Z",
+  "date": "2023-05-31T18:33:53.426Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -673,7 +673,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "15 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -19848,7 +19848,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "29 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -25000,7 +25000,7 @@
     {
       "title": "File and Directory Entries API",
       "shortname": "entries-api",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://wicg.github.io/entries-api/",
       "nightly": {
         "url": "https://wicg.github.io/entries-api/",
@@ -27072,7 +27072,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "24 November 2022",
+      "date": "31 May 2023",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -31642,7 +31642,7 @@
     {
       "title": "Local Font Access API",
       "shortname": "local-font-access",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://wicg.github.io/local-font-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-font-access/",
@@ -31842,7 +31842,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "19 May 2023",
+      "date": "31 May 2023",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -54044,7 +54044,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54119,7 +54119,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -55574,7 +55574,7 @@
     {
       "title": "Window Controls Overlay",
       "shortname": "window-controls-overlay",
-      "date": "09 May 2023",
+      "date": "31 May 2023",
       "url": "https://wicg.github.io/window-controls-overlay/",
       "nightly": {
         "url": "https://wicg.github.io/window-controls-overlay/",
