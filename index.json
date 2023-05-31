@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-05-30T18:33:10.320Z",
+  "date": "2023-05-31T00:46:57.265Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -23515,7 +23515,7 @@
     {
       "title": "EditContext API",
       "shortname": "edit-context",
-      "date": "24 May 2023",
+      "date": "30 May 2023",
       "url": "https://www.w3.org/TR/edit-context/",
       "release": {
         "url": "https://www.w3.org/TR/edit-context/",
@@ -23552,11 +23552,18 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/input-events",
-          "https://w3c.github.io/uievents/",
           "https://w3c.github.io/webappsec-secure-contexts/",
           "https://www.w3.org/TR/css-color-4/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/uievents/",
+            "ref": {
+              "name": "uievents",
+              "url": "https://www.w3.org/TR/uievents/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -24993,7 +25000,7 @@
     {
       "title": "File and Directory Entries API",
       "shortname": "entries-api",
-      "date": "15 September 2022",
+      "date": "30 May 2023",
       "url": "https://wicg.github.io/entries-api/",
       "nightly": {
         "url": "https://wicg.github.io/entries-api/",
@@ -31630,7 +31637,7 @@
     {
       "title": "Local Font Access API",
       "shortname": "local-font-access",
-      "date": "6 February 2023",
+      "date": "30 May 2023",
       "url": "https://wicg.github.io/local-font-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-font-access/",
@@ -36922,7 +36929,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "26 May 2023",
+      "date": "31 May 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -39066,7 +39073,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -39158,7 +39165,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -39421,7 +39428,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -39523,7 +39530,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -39603,7 +39610,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40368,7 +40375,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40408,7 +40415,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -40575,7 +40582,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -40966,7 +40973,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41022,7 +41029,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -41136,7 +41143,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41189,7 +41196,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41253,7 +41260,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41295,7 +41302,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -41343,7 +41350,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "30 May 2023",
+      "date": "31 May 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -47127,6 +47134,11 @@
               "url": "https://wicg.github.io/is-input-pending/",
               "title": "Early detection of input events",
               "crawled": "https://wicg.github.io/is-input-pending/"
+            },
+            {
+              "url": "https://www.w3.org/TR/edit-context/",
+              "title": "EditContext API",
+              "crawled": "https://w3c.github.io/edit-context/"
             },
             {
               "url": "https://www.w3.org/TR/event-timing/",
