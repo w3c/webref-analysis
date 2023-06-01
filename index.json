@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-01T12:40:57.524Z",
+  "date": "2023-06-01T18:35:00.534Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -7248,7 +7248,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "10 May 2023",
+      "date": "1 June 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7389,7 +7389,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "10 May 2023",
+      "date": "1 June 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -12210,11 +12210,6 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             }
           ],
           "informative": []
@@ -16218,11 +16213,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -19848,7 +19838,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "31 May 2023",
+      "date": "1 June 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -19918,7 +19908,7 @@
     {
       "title": "CSS Viewport Module Level 1",
       "shortname": "css-viewport",
-      "date": "11 October 2022",
+      "date": "1 June 2023",
       "url": "https://drafts.csswg.org/css-viewport/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-viewport/",
@@ -19956,11 +19946,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
             {
               "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
@@ -23053,7 +23038,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "31 May 2023",
+      "date": "1 June 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -26234,6 +26219,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -36934,7 +36924,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "31 May 2023",
+      "date": "1 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37236,7 +37226,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "18 May 2023",
+      "date": "01 June 2023",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -37871,7 +37861,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "25 May 2023",
+      "date": "01 June 2023",
       "url": "https://www.w3.org/TR/rdf12-xml/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-xml/",
@@ -46502,7 +46492,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "29 May 2023",
+      "date": "1 June 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -47945,6 +47935,11 @@
               "crawled": "https://w3c.github.io/webdriver-bidi/"
             },
             {
+              "url": "https://www.w3.org/TR/webrtc/",
+              "title": "WebRTC: Real-Time Communication in Browsers",
+              "crawled": "https://w3c.github.io/webrtc-pc/"
+            },
+            {
               "url": "https://websockets.spec.whatwg.org/",
               "title": "WebSockets Standard",
               "crawled": "https://websockets.spec.whatwg.org/"
@@ -48302,7 +48297,7 @@
     {
       "title": "Viewport Capture",
       "shortname": "mediacapture-viewport",
-      "date": "21 June 2022",
+      "date": "01 June 2023",
       "url": "https://www.w3.org/TR/mediacapture-viewport/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-viewport/",
@@ -52092,7 +52087,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "25 May 2023",
+      "date": "1 June 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54388,7 +54383,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "11 May 2023",
+      "date": "01 June 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
