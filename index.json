@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-01T06:33:20.747Z",
+  "date": "2023-06-01T12:40:57.524Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -30897,7 +30897,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "10 April 2023",
+      "date": "1 June 2023",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -44856,7 +44856,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "27 May 2023",
+      "date": "01 June 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
@@ -46676,7 +46676,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "10 May 2023",
+      "date": "1 June 2023",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
