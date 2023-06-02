@@ -904,13 +904,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but does not list it in its references
-- [Fenced Frame](https://wicg.github.io/fenced-frame/) links to:
-    * [`https://w3c.github.io/webappsec-csp/custom-elements.html`](https://w3c.github.io/webappsec-csp/custom-elements.html) but does not list it in its references
-    * [`https://w3c.github.io/webappsec-csp/form-control-infrastructure.html`](https://w3c.github.io/webappsec-csp/form-control-infrastructure.html) but does not list it in its references
-    * [`https://w3c.github.io/webappsec-csp/interactive-elements.html`](https://w3c.github.io/webappsec-csp/interactive-elements.html) but does not list it in its references
-    * [`https://w3c.github.io/webappsec-csp/popover.html`](https://w3c.github.io/webappsec-csp/popover.html) but does not list it in its references
-    * [`https://w3c.github.io/webappsec-csp/webappapis.html`](https://w3c.github.io/webappsec-csp/webappapis.html) but does not list it in its references
-    * [`https://w3c.github.io/webappsec-cspee/`](https://w3c.github.io/webappsec-cspee/) but does not list it in its references
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
     * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html) but does not list it in its references
     * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/) but does not list it in its references
@@ -1293,7 +1286,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 945 missing references for links found in 234 specifications
+=> 939 missing references for links found in 233 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

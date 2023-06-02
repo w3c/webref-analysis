@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-02T00:49:22.284Z",
+  "date": "2023-06-02T06:34:02.897Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -2914,7 +2914,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced Frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -24344,7 +24350,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "1 June 2023",
+      "date": "2 June 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -24374,14 +24380,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/webappsec-csp/custom-elements.html",
-          "https://w3c.github.io/webappsec-csp/form-control-infrastructure.html",
-          "https://w3c.github.io/webappsec-csp/interactive-elements.html",
-          "https://w3c.github.io/webappsec-csp/popover.html",
-          "https://w3c.github.io/webappsec-csp/webappapis.html",
-          "https://w3c.github.io/webappsec-cspee/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -24393,7 +24392,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -27112,7 +27111,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "31 May 2023",
+      "date": "2 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -54675,13 +54674,14 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
-          "informative": [
+          "normative": [
             {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
+            }
+          ],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",

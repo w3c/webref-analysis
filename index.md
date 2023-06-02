@@ -13185,7 +13185,9 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 
 No informative reference to this spec from other specs.
 
@@ -15731,25 +15733,19 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Fenced Frame {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Fenced Frame {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 1 June 2023
+- Crawled version: 2 June 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/webappsec-csp/custom-elements.html`](https://w3c.github.io/webappsec-csp/custom-elements.html)
-     * [`https://w3c.github.io/webappsec-csp/form-control-infrastructure.html`](https://w3c.github.io/webappsec-csp/form-control-infrastructure.html)
-     * [`https://w3c.github.io/webappsec-csp/interactive-elements.html`](https://w3c.github.io/webappsec-csp/interactive-elements.html)
-     * [`https://w3c.github.io/webappsec-csp/popover.html`](https://w3c.github.io/webappsec-csp/popover.html)
-     * [`https://w3c.github.io/webappsec-csp/webappapis.html`](https://w3c.github.io/webappsec-csp/webappapis.html)
-     * [`https://w3c.github.io/webappsec-cspee/`](https://w3c.github.io/webappsec-cspee/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17790,11 +17786,12 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 Informative references to this spec from:
 
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 
 
@@ -18339,7 +18336,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 31 May 2023
+- Crawled version: 2 June 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
