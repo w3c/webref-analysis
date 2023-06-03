@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-03T00:48:06.352Z",
+  "date": "2023-06-03T06:34:02.486Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -27111,7 +27111,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
