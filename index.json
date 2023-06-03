@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-02T18:34:02.053Z",
+  "date": "2023-06-03T00:48:06.352Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -4130,7 +4130,7 @@
     {
       "title": "CSS Animations Level 1",
       "shortname": "css-animations-1",
-      "date": "12 May 2023",
+      "date": "2 June 2023",
       "url": "https://www.w3.org/TR/css-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-1/",
@@ -4215,7 +4215,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "22 April 2023",
+      "date": "2 June 2023",
       "url": "https://www.w3.org/TR/css-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-2/",
@@ -36933,7 +36933,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "1 June 2023",
+      "date": "2 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37241,7 +37241,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "01 June 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -37352,7 +37352,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "18 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/rdf12-n-quads/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-quads/",
@@ -37436,7 +37436,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "18 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/rdf12-n-triples/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-triples/",
@@ -37520,7 +37520,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "22 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/rdf12-schema/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-schema/",
@@ -37604,7 +37604,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "25 May 2023",
+      "date": "02 June 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -37637,55 +37637,8 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/rdf12-xml/",
-              "title": "RDF 1.2 XML Syntax",
-              "crawled": "https://w3c.github.io/rdf-xml/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
-              "title": "SPARQL 1.2 Entailment Regimes",
-              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-query/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/rdf12-concepts/",
-              "title": "RDF 1.2 Concepts and Abstract Syntax",
-              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-n-quads/",
-              "title": "RDF 1.2 N-Quads",
-              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-n-triples/",
-              "title": "RDF 1.2 N-Triples",
-              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-schema/",
-              "title": "RDF 1.2 Schema",
-              "crawled": "https://w3c.github.io/rdf-schema/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-trig/",
-              "title": "RDF 1.2 TriG",
-              "crawled": "https://w3c.github.io/rdf-trig/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-turtle/",
-              "title": "RDF 1.2 Turtle",
-              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
-            }
-          ]
+          "normative": [],
+          "informative": []
         },
         "ok": true
       }
@@ -37693,7 +37646,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "18 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/rdf12-trig/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-trig/",
@@ -37777,7 +37730,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "18 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
@@ -37876,7 +37829,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "01 June 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/rdf12-xml/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-xml/",
@@ -39083,7 +39036,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -39175,7 +39128,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -39438,7 +39391,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -39540,7 +39493,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -39620,7 +39573,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40385,7 +40338,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40425,7 +40378,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -40592,7 +40545,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -40983,7 +40936,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41039,7 +40992,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -41153,7 +41106,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41206,7 +41159,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41270,7 +41223,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41312,7 +41265,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -41360,7 +41313,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "2 June 2023",
+      "date": "3 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -42924,7 +42877,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "1 June 2023",
+      "date": "2 June 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -44136,7 +44089,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "01 June 2023",
+      "date": "02 June 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -44171,100 +44124,8 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/sparql12-federated-query/",
-              "title": "SPARQL 1.2 Federated Query",
-              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
-              "title": "SPARQL 1.2 Graph Store Protocol",
-              "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-protocol/",
-              "title": "SPARQL 1.2 Protocol",
-              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
-              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
-              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-service-description/",
-              "title": "SPARQL 1.2 Service Description",
-              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-update/",
-              "title": "SPARQL 1.2 Update",
-              "crawled": "https://w3c.github.io/sparql-update/spec/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/rdf12-concepts/",
-              "title": "RDF 1.2 Concepts and Abstract Syntax",
-              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-n-quads/",
-              "title": "RDF 1.2 N-Quads",
-              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-n-triples/",
-              "title": "RDF 1.2 N-Triples",
-              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-schema/",
-              "title": "RDF 1.2 Schema",
-              "crawled": "https://w3c.github.io/rdf-schema/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
-              "title": "RDF 1.2 Semantics",
-              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-trig/",
-              "title": "RDF 1.2 TriG",
-              "crawled": "https://w3c.github.io/rdf-trig/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-turtle/",
-              "title": "RDF 1.2 Turtle",
-              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/rdf12-xml/",
-              "title": "RDF 1.2 XML Syntax",
-              "crawled": "https://w3c.github.io/rdf-xml/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/sparql-concepts/spec/",
-              "title": "SPARQL 1.2 Overview",
-              "crawled": "https://w3c.github.io/sparql-concepts/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-query/",
-              "title": "SPARQL 1.2 Query Language",
-              "crawled": "https://w3c.github.io/sparql-query/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-results-json/",
-              "title": "SPARQL 1.2 Query Results JSON Format",
-              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
-            },
-            {
-              "url": "https://www.w3.org/TR/sparql12-results-xml/",
-              "title": "SPARQL 1.2 Query Results XML Format",
-              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
-            }
-          ]
+          "normative": [],
+          "informative": []
         },
         "ok": false
       }
@@ -44272,7 +44133,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "27 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-federated-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-federated-query/",
@@ -44424,7 +44285,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "27 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
@@ -44574,7 +44435,7 @@
     {
       "title": "SPARQL 1.2 Overview",
       "shortname": "sparql12-concepts",
-      "date": "05 April 2023",
+      "date": "02 June 2023",
       "url": "https://w3c.github.io/sparql-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -44726,7 +44587,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "27 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-protocol/",
@@ -44867,7 +44728,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "01 June 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
@@ -45006,7 +44867,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "27 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
@@ -45145,7 +45006,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "27 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-json/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-json/",
@@ -45181,15 +45042,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/sparql12-results-xml/output-quoted.srx",
-            "ref": {
-              "name": "SPARQL12-RESULTS-XML",
-              "url": "https://w3c.github.io/sparql-results-xml/spec/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -45292,7 +45145,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "27 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-xml/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-xml/",
@@ -45431,7 +45284,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "27 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-service-description/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-service-description/",
@@ -45570,7 +45423,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "27 May 2023",
+      "date": "02 June 2023",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
