@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-04T00:47:16.989Z",
+  "date": "2023-06-04T06:32:16.095Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -3055,7 +3055,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "2 June 2023",
+      "date": "4 June 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21220,7 +21220,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "2 June 2023",
+      "date": "4 June 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
