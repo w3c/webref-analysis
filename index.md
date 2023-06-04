@@ -10025,7 +10025,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://immersive-web.github.io/real-world-meshing/](https://immersive-web.github.io/real-world-meshing/)
 - Crawled URL: [https://immersive-web.github.io/real-world-meshing/](https://immersive-web.github.io/real-world-meshing/)
-- Crawled version: 25 April 2023
+- Crawled version: 4 June 2023
 - Editor's Draft: [https://immersive-web.github.io/real-world-meshing/](https://immersive-web.github.io/real-world-meshing/)
 - Shortname: real-world-meshing
 
