@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-05T06:34:13.148Z",
+  "date": "2023-06-05T12:42:13.664Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -2438,7 +2438,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "30 May 2023",
+      "date": "05 June 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -2475,7 +2475,9 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/picture-in-picture/",
-          "https://www.w3.org/TR/design-principles/"
+          "https://www.w3.org/TR/design-principles/",
+          "https://www.w3.org/TR/permissions-policy/",
+          "https://www.w3.org/TR/privacy-principles/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -46366,7 +46368,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "1 June 2023",
+      "date": "5 June 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -46456,7 +46458,7 @@
     {
       "title": "The <model> element",
       "shortname": "model-element",
-      "date": "01 June 2023",
+      "date": "05 June 2023",
       "url": "https://immersive-web.github.io/model-element/",
       "nightly": {
         "url": "https://immersive-web.github.io/model-element/",
@@ -49502,7 +49504,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "28 April 2023",
+      "date": "4 June 2023",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",

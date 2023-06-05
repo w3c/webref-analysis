@@ -691,7 +691,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 1 June 2023
+- Crawled version: 5 June 2023
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -9480,7 +9480,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
-- Crawled version: 30 May 2023
+- Crawled version: 05 June 2023
 - Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Latest published version: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Shortname: compute-pressure
@@ -9490,6 +9490,8 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/)
      * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
+     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
+     * [`https://www.w3.org/TR/privacy-principles/`](https://www.w3.org/TR/privacy-principles/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10004,7 +10006,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
 - Crawled URL: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
-- Crawled version: 01 June 2023
+- Crawled version: 05 June 2023
 - Editor's Draft: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
 - Shortname: model-element
 
@@ -19280,7 +19282,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 28 April 2023
+- Crawled version: 4 June 2023
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
