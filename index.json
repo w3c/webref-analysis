@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-05T00:47:18.929Z",
+  "date": "2023-06-05T06:34:13.148Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -48609,7 +48609,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "29 March 2023",
+      "date": "5 June 2023",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
