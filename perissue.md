@@ -894,7 +894,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
     * [`https://html.spec.whatwg.org/multipage/obsolete.html`](https://html.spec.whatwg.org/multipage/obsolete.html) but does not list it in its references
 - [EditContext API](https://w3c.github.io/edit-context/) links to:
-    * [`https://w3c.github.io/input-events`](https://w3c.github.io/input-events) but does not list it in its references
+    * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/) links to [`https://www.w3.org/TR/encoding/`](https://www.w3.org/TR/encoding/) but does not list it in its references

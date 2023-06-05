@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-05T12:42:13.664Z",
+  "date": "2023-06-05T18:33:29.309Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -7256,7 +7256,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "2 June 2023",
+      "date": "5 June 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -23513,7 +23513,7 @@
     {
       "title": "EditContext API",
       "shortname": "edit-context",
-      "date": "01 June 2023",
+      "date": "05 June 2023",
       "url": "https://www.w3.org/TR/edit-context/",
       "release": {
         "url": "https://www.w3.org/TR/edit-context/",
@@ -23549,7 +23549,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/input-events",
+          "https://w3c.github.io/editing/docs/execCommand/",
           "https://w3c.github.io/webappsec-secure-contexts/",
           "https://www.w3.org/TR/css-color-4/"
         ],
@@ -24745,6 +24745,11 @@
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
+              "url": "https://privacycg.github.io/nav-tracking-mitigations/",
+              "title": "Navigational-Tracking Mitigations",
+              "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
             },
             {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
@@ -34436,7 +34441,7 @@
     {
       "title": "Navigational-Tracking Mitigations",
       "shortname": "nav-tracking-mitigations",
-      "date": "24 April 2023",
+      "date": "5 June 2023",
       "url": "https://privacycg.github.io/nav-tracking-mitigations/",
       "nightly": {
         "url": "https://privacycg.github.io/nav-tracking-mitigations/",
@@ -49504,7 +49509,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "4 June 2023",
+      "date": "5 June 2023",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
