@@ -1,13 +1,13 @@
-% Diff between report from "June 05, 2023" and reference report from "June 05, 2023"
+% Diff between report from "June 06, 2023" and reference report from "June 05, 2023"
 % Strudy
-% June 05, 2023
+% June 06, 2023
 
-## EditContext API
+## CSS View Transitions Module Level 1
 
-- Initial URL: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
+- Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
-- Missing references for links: *INS* https://w3c.github.io/editing/docs/execCommand/ / *DEL* https://w3c.github.io/input-events
+- Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
+- Missing references for links: *INS* https://www.w3.org/TR/css-animations/
 
 
 
