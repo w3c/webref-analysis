@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-07T06:33:47.469Z",
+  "date": "2023-06-07T12:43:19.234Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -27109,7 +27109,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "6 June 2023",
+      "date": "7 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -51832,7 +51832,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "21 March 2023",
+      "date": "07 June 2023",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
