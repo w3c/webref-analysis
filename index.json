@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-07T00:48:10.474Z",
+  "date": "2023-06-07T06:33:47.469Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -21544,7 +21544,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "5 June 2023",
+      "date": "6 June 2023",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -36547,7 +36547,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "2 June 2023",
+      "date": "6 June 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -36589,7 +36589,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "2 June 2023",
+      "date": "6 June 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -45562,7 +45562,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "2 June 2023",
+      "date": "6 June 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -49166,6 +49166,11 @@
               "url": "https://www.w3.org/TR/mediacapture-fromelement/",
               "title": "Media Capture from DOM Elements",
               "crawled": "https://w3c.github.io/mediacapture-fromelement/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
               "url": "https://www.w3.org/TR/webmidi/",
