@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-07T12:43:19.234Z",
+  "date": "2023-06-08T18:31:58.404Z",
   "stats": {
     "crawled": 565,
-    "errors": 0,
+    "errors": 1,
     "studied": 565
   },
   "results": [
@@ -112,7 +112,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -165,7 +165,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -503,7 +503,7 @@
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
-        "status": "Proposed Recommendation",
+        "status": "Recommendation",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "2 June 2023",
+      "date": "8 June 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1005,7 +1005,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1058,7 +1058,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -1848,7 +1848,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "26 April 2023",
+      "date": "7 June 2023",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -3373,7 +3373,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "pages": [],
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css2/",
       "organization": "W3C",
@@ -4022,7 +4022,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-anchor-position-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-anchor-position-1/",
       "organization": "W3C",
@@ -4148,7 +4148,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-animations-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-animations-1/",
       "organization": "W3C",
@@ -4221,7 +4221,7 @@
       "url": "https://www.w3.org/TR/css-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-2/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -4232,7 +4232,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-animations-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-animations-2/",
       "organization": "W3C",
@@ -4314,7 +4314,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-backgrounds-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-backgrounds-3/",
       "organization": "W3C",
@@ -4476,7 +4476,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-backgrounds-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-backgrounds-4/",
       "organization": "W3C",
@@ -4549,7 +4549,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-ui-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-ui-3/",
       "organization": "W3C",
@@ -4666,7 +4666,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-ui-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-ui-4/",
       "organization": "W3C",
@@ -4861,7 +4861,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-align-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-align-3/",
       "organization": "W3C",
@@ -4973,7 +4973,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-box-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-box-3/",
       "organization": "W3C",
@@ -5087,7 +5087,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-box-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-box-4/",
       "organization": "W3C",
@@ -5431,7 +5431,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-sizing-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-sizing-3/",
       "organization": "W3C",
@@ -5776,7 +5776,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-sizing-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-sizing-4/",
       "organization": "W3C",
@@ -5915,7 +5915,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-cascade-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-cascade-3/",
       "organization": "W3C",
@@ -6065,7 +6065,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-cascade-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-cascade-4/",
       "organization": "W3C",
@@ -6263,7 +6263,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-cascade-5/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-cascade-5/",
       "organization": "W3C",
@@ -6796,7 +6796,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-cascade-6/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-cascade-6/",
       "organization": "W3C",
@@ -6950,7 +6950,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-color-adjust-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-color-adjust-1/",
       "organization": "W3C",
@@ -7051,7 +7051,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-color-hdr/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-color-hdr/",
       "organization": "W3C",
@@ -7108,7 +7108,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-color-3/Overview.html",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-color-3/",
       "organization": "W3C",
@@ -7264,7 +7264,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-color-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-color-4/",
       "organization": "W3C",
@@ -7404,7 +7404,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-color-5/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-color-5/",
       "organization": "W3C",
@@ -7610,7 +7610,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-color-6/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-color-6/",
       "organization": "W3C",
@@ -7660,7 +7660,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-conditional-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-conditional-3/",
       "organization": "W3C",
@@ -7849,7 +7849,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-conditional-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-conditional-4/",
       "organization": "W3C",
@@ -7923,7 +7923,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-conditional-5/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-conditional-5/",
       "organization": "W3C",
@@ -7984,7 +7984,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-conditional-values-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-conditional-values-1/",
       "organization": "W3C",
@@ -8041,7 +8041,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-contain-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-contain-1/",
       "organization": "W3C",
@@ -8160,7 +8160,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-contain-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-contain-2/",
       "organization": "W3C",
@@ -8207,6 +8207,13 @@
             "ref": {
               "name": "CSS-VALUES-3",
               "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-view-transitions-1/",
+            "ref": {
+              "name": "CSS-VIEW-TRANSITIONS-1",
+              "url": "https://drafts.csswg.org/css-view-transitions-1/"
             }
           }
         ],
@@ -8352,7 +8359,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-contain-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-contain-3/",
       "organization": "W3C",
@@ -8451,7 +8458,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-counter-styles-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-counter-styles-3/",
       "organization": "W3C",
@@ -8514,7 +8521,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-highlight-api-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-highlight-api-1/",
       "organization": "W3C",
@@ -8564,7 +8571,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-variables-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-variables-1/",
       "organization": "W3C",
@@ -8638,7 +8645,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-variables-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-variables-2/",
       "organization": "W3C",
@@ -8824,7 +8831,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-display-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-display-3/",
       "organization": "W3C",
@@ -8946,7 +8953,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-display-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-display-4/",
       "organization": "W3C",
@@ -9384,7 +9391,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-easing-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-easing-1/",
       "organization": "W3C",
@@ -9454,7 +9461,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-easing-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-easing-2/",
       "organization": "W3C",
@@ -9561,7 +9568,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-env-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-env-1/",
       "organization": "W3C",
@@ -9617,7 +9624,7 @@
           "https://w3c.github.io/csswg-drafts/css-exclusions/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-exclusions-1/",
       "organization": "W3C",
@@ -9695,7 +9702,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-extensions-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-extensions-1/",
       "organization": "W3C",
@@ -9802,7 +9809,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-flexbox-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-flexbox-1/",
       "organization": "W3C",
@@ -10055,7 +10062,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-font-loading-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-font-loading-3/",
       "organization": "W3C",
@@ -10124,7 +10131,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-fonts-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-fonts-4/",
       "organization": "W3C",
@@ -10428,7 +10435,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-fonts-5/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-fonts-5/",
       "organization": "W3C",
@@ -10577,7 +10584,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-forms-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-forms-1/",
       "organization": "W3C",
@@ -10627,7 +10634,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-break-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-break-3/",
       "organization": "W3C",
@@ -10751,7 +10758,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-break-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-break-4/",
       "organization": "W3C",
@@ -11018,7 +11025,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-gcpm-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-gcpm-3/",
       "organization": "W3C",
@@ -11092,7 +11099,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-gcpm-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-gcpm-4/",
       "organization": "W3C",
@@ -11167,7 +11174,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-content-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-content-3/",
       "organization": "W3C",
@@ -11308,7 +11315,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-grid-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-grid-1/",
       "organization": "W3C",
@@ -11438,7 +11445,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-grid-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-grid-2/",
       "organization": "W3C",
@@ -11669,7 +11676,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-grid-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-grid-3/",
       "organization": "W3C",
@@ -11745,7 +11752,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-images-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-images-3/",
       "organization": "W3C",
@@ -12005,7 +12012,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-images-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-images-4/",
       "organization": "W3C",
@@ -12175,7 +12182,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-images-5/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-images-5/",
       "organization": "W3C",
@@ -12236,7 +12243,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-inline-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-inline-3/",
       "organization": "W3C",
@@ -12537,7 +12544,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-line-grid-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-line-grid-1/",
       "organization": "W3C",
@@ -12601,7 +12608,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-link-params-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-link-params-1/",
       "organization": "W3C",
@@ -12656,7 +12663,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-lists-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-lists-3/",
       "organization": "W3C",
@@ -12823,7 +12830,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-logical-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-logical-1/",
       "organization": "W3C",
@@ -13214,7 +13221,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-size-adjust-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-size-adjust-1/",
       "organization": "W3C",
@@ -13295,7 +13302,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-multicol-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-multicol-1/",
       "organization": "W3C",
@@ -13377,7 +13384,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-multicol-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-multicol-2/",
       "organization": "W3C",
@@ -13439,7 +13446,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-namespaces-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-namespaces-3/",
       "organization": "W3C",
@@ -13520,7 +13527,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-nesting-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-nesting-1/",
       "organization": "W3C",
@@ -13554,7 +13561,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "12 May 2023",
+      "date": "8 June 2023",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -13570,7 +13577,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "cssom-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/cssom-1/",
       "organization": "W3C",
@@ -13676,7 +13683,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-overflow-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-overflow-3/",
       "organization": "W3C",
@@ -14010,7 +14017,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-overflow-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-overflow-4/",
       "organization": "W3C",
@@ -14144,7 +14151,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-overscroll-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-overscroll-1/",
       "organization": "W3C",
@@ -14220,7 +14227,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-page-floats-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-page-floats-3/",
       "organization": "W3C",
@@ -14289,7 +14296,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-page-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-page-3/",
       "organization": "W3C",
@@ -14613,7 +14620,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-position-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-position-3/",
       "organization": "W3C",
@@ -14913,7 +14920,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-position-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-position-4/",
       "organization": "W3C",
@@ -15080,7 +15087,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-pseudo-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-pseudo-4/",
       "organization": "W3C",
@@ -15322,7 +15329,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-regions-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-regions-1/",
       "organization": "W3C",
@@ -15428,7 +15435,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-rhythm-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-rhythm-1/",
       "organization": "W3C",
@@ -15497,7 +15504,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-round-display-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-round-display-1/",
       "organization": "W3C",
@@ -15567,7 +15574,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-ruby-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-ruby-1/",
       "organization": "W3C",
@@ -15729,7 +15736,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-scoping-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-scoping-1/",
       "organization": "W3C",
@@ -15790,7 +15797,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-scroll-anchoring-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-scroll-anchoring-1/",
       "organization": "W3C",
@@ -15861,7 +15868,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-scroll-snap-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-scroll-snap-1/",
       "organization": "W3C",
@@ -15967,7 +15974,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-scroll-snap-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-scroll-snap-2/",
       "organization": "W3C",
@@ -16023,7 +16030,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-scrollbars-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-scrollbars-1/",
       "organization": "W3C",
@@ -16104,7 +16111,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-shadow-parts-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-shadow-parts-1/",
       "organization": "W3C",
@@ -16154,7 +16161,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-shapes-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-shapes-1/",
       "organization": "W3C",
@@ -16252,7 +16259,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-shapes-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-shapes-2/",
       "organization": "W3C",
@@ -16354,7 +16361,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-2022/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-2022/",
       "organization": "W3C",
@@ -16415,7 +16422,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-2023/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-2023/",
       "organization": "W3C",
@@ -16471,7 +16478,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-nav-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-nav-1/",
       "organization": "W3C",
@@ -16550,7 +16557,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-speech-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-speech-1/",
       "organization": "W3C",
@@ -16662,7 +16669,7 @@
           "https://w3c.github.io/csswg-drafts/css-style-attr/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-style-attr/",
       "organization": "W3C",
@@ -16759,7 +16766,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-syntax-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-syntax-3/",
       "organization": "W3C",
@@ -16865,7 +16872,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-tables-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-tables-3/",
       "organization": "W3C",
@@ -16999,7 +17006,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-text-decor-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-text-decor-3/",
       "organization": "W3C",
@@ -17157,7 +17164,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-text-decor-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-text-decor-4/",
       "organization": "W3C",
@@ -17384,7 +17391,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-text-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-text-3/",
       "organization": "W3C",
@@ -17632,7 +17639,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-text-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-text-4/",
       "organization": "W3C",
@@ -17928,7 +17935,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-transforms-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-transforms-1/",
       "organization": "W3C",
@@ -18045,7 +18052,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-transforms-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-transforms-2/",
       "organization": "W3C",
@@ -18177,7 +18184,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-transitions-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-transitions-1/",
       "organization": "W3C",
@@ -18271,7 +18278,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-transitions-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-transitions-2/",
       "organization": "W3C",
@@ -18489,7 +18496,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-values-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-values-3/",
       "organization": "W3C",
@@ -19019,7 +19026,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-values-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-values-4/",
       "organization": "W3C",
@@ -19759,7 +19766,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-values-5/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-values-5/",
       "organization": "W3C",
@@ -19835,7 +19842,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "5 June 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -19851,7 +19858,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-view-transitions-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-view-transitions-1/",
       "organization": "W3C",
@@ -19916,7 +19923,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-viewport/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-viewport/",
       "organization": "W3C",
@@ -19985,7 +19992,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-will-change-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-will-change-1/",
       "organization": "W3C",
@@ -20070,7 +20077,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-writing-modes-3/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-writing-modes-3/",
       "organization": "W3C",
@@ -20390,7 +20397,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-writing-modes-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-writing-modes-4/",
       "organization": "W3C",
@@ -20784,7 +20791,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "cssom-view-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/cssom-view-1/",
       "organization": "W3C",
@@ -21544,7 +21551,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "6 June 2023",
+      "date": "7 June 2023",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -23973,7 +23980,7 @@
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
-        "status": "Proposed Recommendation",
+        "status": "Recommendation",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -24039,7 +24046,7 @@
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
-        "status": "Proposed Recommendation",
+        "status": "Recommendation",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -24292,7 +24299,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "30 May 2023",
+      "date": "8 June 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -24467,7 +24474,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "2 June 2023",
+      "date": "7 June 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -25276,7 +25283,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -25557,7 +25564,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -25737,6 +25744,11 @@
               "url": "https://wicg.github.io/close-watcher/",
               "title": "Close Watcher API",
               "crawled": "https://wicg.github.io/close-watcher/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/device-posture/",
@@ -26543,7 +26555,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -26644,6 +26656,11 @@
               "url": "https://wicg.github.io/capability-delegation/spec.html",
               "title": "Capability Delegation",
               "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
+              "url": "https://wicg.github.io/client-hints-infrastructure/",
+              "title": "Client Hints Infrastructure",
+              "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
               "url": "https://wicg.github.io/close-watcher/",
@@ -27109,7 +27126,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -27178,7 +27195,7 @@
           "https://html.spec.whatwg.org/multipage/references.html",
           "https://html.spec.whatwg.org/multipage/acknowledgements.html"
         ],
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://html.spec.whatwg.org/multipage/",
       "organization": "WHATWG",
@@ -31544,7 +31561,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -31700,6 +31717,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://wicg.github.io/local-network-access/ triggered HTTP status 404 Error: Loading https://wicg.github.io/local-network-access/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 190)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -31717,7 +31735,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -32566,7 +32584,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "mediaqueries-3/Overview.html",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/mediaqueries-3/",
       "organization": "W3C",
@@ -32652,7 +32670,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "mediaqueries-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/mediaqueries-4/",
       "organization": "W3C",
@@ -32815,7 +32833,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "mediaqueries-5/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/mediaqueries-5/",
       "organization": "W3C",
@@ -34265,7 +34283,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -34318,7 +34336,7 @@
     {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
-      "date": "06 February 2023",
+      "date": "07 June 2023",
       "url": "https://www.w3.org/TR/navigation-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -34357,6 +34375,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://wicg.github.io/client-hints-infrastructure/",
+              "title": "Client Hints Infrastructure",
+              "crawled": "https://wicg.github.io/client-hints-infrastructure/"
+            },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
@@ -34484,7 +34507,7 @@
     {
       "title": "Network Error Logging",
       "shortname": "network-error-logging-1",
-      "date": "18 May 2023",
+      "date": "08 June 2023",
       "url": "https://www.w3.org/TR/network-error-logging-1/",
       "release": {
         "url": "https://www.w3.org/TR/network-error-logging-1/",
@@ -34609,7 +34632,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "selectors-nonelement-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/selectors-nonelement-1/",
       "organization": "W3C",
@@ -34779,7 +34802,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -35810,7 +35833,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "24 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -36897,7 +36920,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-page-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-page-4/",
       "organization": "W3C",
@@ -36931,7 +36954,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "6 June 2023",
+      "date": "8 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37239,7 +37262,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "02 June 2023",
+      "date": "08 June 2023",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -37518,7 +37541,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "02 June 2023",
+      "date": "08 June 2023",
       "url": "https://www.w3.org/TR/rdf12-schema/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-schema/",
@@ -37602,7 +37625,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "02 June 2023",
+      "date": "08 June 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -37728,7 +37751,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "02 June 2023",
+      "date": "08 June 2023",
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
@@ -38159,7 +38182,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "24 May 2023",
+      "date": "07 June 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -38855,7 +38878,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "resize-observer-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/resize-observer-1/",
       "organization": "W3C",
@@ -38910,7 +38933,7 @@
       "url": "https://www.w3.org/TR/resource-timing/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -39034,7 +39057,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -39126,7 +39149,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -39389,7 +39412,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -39491,7 +39514,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -39571,7 +39594,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40336,7 +40359,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40376,7 +40399,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -40543,7 +40566,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -40934,7 +40957,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -40990,7 +41013,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -41104,7 +41127,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41157,7 +41180,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41221,7 +41244,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41263,7 +41286,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -41311,7 +41334,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "7 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -42875,7 +42898,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "6 June 2023",
+      "date": "8 June 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -42891,7 +42914,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "scroll-animations-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/scroll-animations-1/",
       "organization": "W3C",
@@ -42972,9 +42995,9 @@
               "crawled": "https://drafts.csswg.org/css-ui-4/"
             },
             {
-              "url": "https://www.w3.org/TR/mediaqueries-5/",
-              "title": "Media Queries Level 5",
-              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
+              "url": "https://www.w3.org/TR/scroll-animations-1/",
+              "title": "Scroll-driven Animations",
+              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-2/",
@@ -42982,13 +43005,7 @@
               "crawled": "https://drafts.csswg.org/web-animations-2/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/scroll-animations-1/",
-              "title": "Scroll-driven Animations",
-              "crawled": "https://drafts.csswg.org/scroll-animations-1/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -43375,7 +43392,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "selectors-3/Overview.src.html",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/selectors-3/",
       "organization": "W3C",
@@ -43570,7 +43587,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "selectors-4/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/selectors-4/",
       "organization": "W3C",
@@ -45141,7 +45158,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "02 June 2023",
+      "date": "08 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-xml/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-xml/",
@@ -45419,7 +45436,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "02 June 2023",
+      "date": "08 June 2023",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
@@ -45454,11 +45471,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "http://www.w3.org/TR/2004/REC-rdf-mt-20040210/",
-          "http://www.w3.org/TR/rdf-mt/",
-          "http://www.w3.org/TR/xml-names/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -45556,7 +45569,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -45750,7 +45763,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "31 May 2023",
+      "date": "7 June 2023",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -46362,7 +46375,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "5 June 2023",
+      "date": "8 June 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -46849,7 +46862,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -47109,8 +47122,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "Web Platform Working Group",
-          "url": "https://www.w3.org/WebPlatform/WG/"
+          "name": "Web Applications Working Group",
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -47185,8 +47198,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "Web Platform Working Group",
-          "url": "https://www.w3.org/WebPlatform/WG/"
+          "name": "Web Applications Working Group",
+          "url": "https://www.w3.org/groups/wg/webapps"
         }
       ],
       "report": {
@@ -48275,7 +48288,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -48328,7 +48341,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -48381,7 +48394,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -48621,7 +48634,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "web-animations-1/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/web-animations-1/",
       "organization": "W3C",
@@ -48795,7 +48808,7 @@
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "web-animations-2/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/web-animations-2/",
       "organization": "W3C",
@@ -49427,7 +49440,7 @@
         "alternateUrls": [],
         "repository": "https://github.com/w3c/webcrypto",
         "sourcePath": "spec/Overview.html",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/webcrypto/",
       "organization": "W3C",
@@ -51083,7 +51096,7 @@
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
-        "status": "Proposed Recommendation",
+        "status": "Recommendation",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -51463,7 +51476,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -51617,7 +51630,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "11 May 2023",
+      "date": "7 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
@@ -52067,7 +52080,7 @@
     {
       "title": "WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification",
       "shortname": "ANGLE_instanced_arrays",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
@@ -52109,7 +52122,7 @@
     {
       "title": "WebGL EXT_blend_minmax Khronos Ratified Extension Specification",
       "shortname": "EXT_blend_minmax",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
@@ -52151,7 +52164,7 @@
     {
       "title": "WebGL EXT_color_buffer_float Extension Specification",
       "shortname": "EXT_color_buffer_float",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
@@ -52193,7 +52206,7 @@
     {
       "title": "WebGL EXT_color_buffer_half_float Extension Specification",
       "shortname": "EXT_color_buffer_half_float",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
@@ -52235,7 +52248,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query Extension Specification",
       "shortname": "EXT_disjoint_timer_query",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
@@ -52277,7 +52290,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query_webgl2 Extension Specification",
       "shortname": "EXT_disjoint_timer_query_webgl2",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -52319,7 +52332,7 @@
     {
       "title": "WebGL EXT_float_blend Extension Specification",
       "shortname": "EXT_float_blend",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
@@ -52361,7 +52374,7 @@
     {
       "title": "WebGL EXT_frag_depth Khronos Ratified Extension Specification",
       "shortname": "EXT_frag_depth",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
@@ -52403,7 +52416,7 @@
     {
       "title": "WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification",
       "shortname": "EXT_shader_texture_lod",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
@@ -52445,7 +52458,7 @@
     {
       "title": "WebGL EXT_sRGB Extension Specification",
       "shortname": "EXT_sRGB",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
@@ -52487,7 +52500,7 @@
     {
       "title": "WebGL EXT_texture_compression_bptc Extension Specification",
       "shortname": "EXT_texture_compression_bptc",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
@@ -52529,7 +52542,7 @@
     {
       "title": "WebGL EXT_texture_compression_rgtc Extension Specification",
       "shortname": "EXT_texture_compression_rgtc",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
@@ -52571,7 +52584,7 @@
     {
       "title": "WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification",
       "shortname": "EXT_texture_filter_anisotropic",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -52613,7 +52626,7 @@
     {
       "title": "WebGL EXT_texture_norm16 Extension Specification",
       "shortname": "EXT_texture_norm16",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
@@ -52655,7 +52668,7 @@
     {
       "title": "WebGL KHR_parallel_shader_compile Extension Specification",
       "shortname": "KHR_parallel_shader_compile",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
@@ -52697,7 +52710,7 @@
     {
       "title": "WebGL OES_draw_buffers_indexed Extension Specification",
       "shortname": "OES_draw_buffers_indexed",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
@@ -52739,7 +52752,7 @@
     {
       "title": "WebGL OES_element_index_uint Khronos Ratified Extension Specification",
       "shortname": "OES_element_index_uint",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
@@ -52781,7 +52794,7 @@
     {
       "title": "WebGL OES_fbo_render_mipmap Extension Specification",
       "shortname": "OES_fbo_render_mipmap",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
@@ -52823,7 +52836,7 @@
     {
       "title": "WebGL OES_standard_derivatives Khronos Ratified Extension Specification",
       "shortname": "OES_standard_derivatives",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
@@ -52865,7 +52878,7 @@
     {
       "title": "WebGL OES_texture_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
@@ -52907,7 +52920,7 @@
     {
       "title": "WebGL OES_texture_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float_linear",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
@@ -52949,7 +52962,7 @@
     {
       "title": "WebGL OES_texture_half_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
@@ -52991,7 +53004,7 @@
     {
       "title": "WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float_linear",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
@@ -53033,7 +53046,7 @@
     {
       "title": "WebGL OES_vertex_array_object Khronos Ratified Extension Specification",
       "shortname": "OES_vertex_array_object",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
@@ -53075,7 +53088,7 @@
     {
       "title": "WebGL OVR_multiview2 Extension Specification",
       "shortname": "OVR_multiview2",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
@@ -53158,7 +53171,7 @@
     {
       "title": "WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification",
       "shortname": "WEBGL_blend_equation_advanced_coherent",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -53200,7 +53213,7 @@
     {
       "title": "WebGL WEBGL_clip_cull_distance Extension Draft Specification",
       "shortname": "WEBGL_clip_cull_distance",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
@@ -53242,7 +53255,7 @@
     {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
@@ -53284,7 +53297,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_astc Extension Specification",
       "shortname": "WEBGL_compressed_texture_astc",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
@@ -53326,7 +53339,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
@@ -53368,7 +53381,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc1 Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc1",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
@@ -53410,7 +53423,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_pvrtc Extension Specification",
       "shortname": "WEBGL_compressed_texture_pvrtc",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
@@ -53452,7 +53465,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
@@ -53494,7 +53507,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc_srgb",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
@@ -53536,7 +53549,7 @@
     {
       "title": "WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_renderer_info",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
@@ -53578,7 +53591,7 @@
     {
       "title": "WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_shaders",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
@@ -53620,7 +53633,7 @@
     {
       "title": "WebGL WEBGL_depth_texture Khronos Ratified Extension Specification",
       "shortname": "WEBGL_depth_texture",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
@@ -53662,7 +53675,7 @@
     {
       "title": "WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification",
       "shortname": "WEBGL_draw_buffers",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
@@ -53704,7 +53717,7 @@
     {
       "title": "WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_draw_instanced_base_vertex_base_instance",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -53746,7 +53759,7 @@
     {
       "title": "WebGL WEBGL_lose_context Khronos Ratified Extension Specification",
       "shortname": "WEBGL_lose_context",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
@@ -53788,7 +53801,7 @@
     {
       "title": "WebGL WEBGL_multi_draw Extension Specification",
       "shortname": "WEBGL_multi_draw",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
@@ -53830,7 +53843,7 @@
     {
       "title": "WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_multi_draw_instanced_base_vertex_base_instance",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -53872,7 +53885,7 @@
     {
       "title": "WebGL WEBGL_provoking_vertex Extension Specification",
       "shortname": "WEBGL_provoking_vertex",
-      "date": "19 May 2023",
+      "date": "7 June 2023",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
@@ -55696,7 +55709,7 @@
         "alternateUrls": [],
         "repository": "https://github.com/w3ctag/promises-guide",
         "sourcePath": "index.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
       "crawled": "https://www.w3.org/2001/tag/doc/promises-guide",
       "organization": "W3C",

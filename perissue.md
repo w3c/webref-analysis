@@ -1,8 +1,22 @@
 % Reffy crawl
 % Strudy
-% June 07, 2023
+% June 08, 2023
 
 565 specifications were crawled in this report.
+
+
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [Local Network Access](https://wicg.github.io/local-network-access/): `Error: Loading https://wicg.github.io/local-network-access/ triggered HTTP status 404 Error: Loading https://wicg.github.io/local-network-access/ triggered HTTP status 404
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 190)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+=> 1 specification found
 
 
 ## Specifications without normative dependencies
@@ -1186,10 +1200,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/) links to [`http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/) but does not list it in its references
-- [SPARQL 1.2 Update](https://w3c.github.io/sparql-update/spec/) links to:
-    * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/) but does not list it in its references
-    * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/) but does not list it in its references
-    * [`http://www.w3.org/TR/xml-names/`](http://www.w3.org/TR/xml-names/) but does not list it in its references
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/) links to [`http://www.w3.org/TR/powerful-features/`](http://www.w3.org/TR/powerful-features/) but does not list it in its references
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/) links to:
     * [`http://www.w3.org/TR/2012/WD-css-masking-20121115/`](http://www.w3.org/TR/2012/WD-css-masking-20121115/) but does not list it in its references
@@ -1290,7 +1300,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 943 missing references for links found in 233 specifications
+=> 940 missing references for links found in 232 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1399,6 +1409,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/) but related reference "CSS-CONTAIN-1" uses URL [`https://drafts.csswg.org/css-contain-1/`](https://drafts.csswg.org/css-contain-1/)
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/) but related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://drafts.csswg.org/css-view-transitions-1/`](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/) links to:
     * [`https://www.w3.org/TR/css-contain-2/`](https://www.w3.org/TR/css-contain-2/) but related reference "CSS-CONTAIN-2" uses URL [`https://drafts.csswg.org/css-contain-2/`](https://drafts.csswg.org/css-contain-2/)
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1896,7 +1907,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 492 inconsistent references for links found in 183 specifications
+=> 493 inconsistent references for links found in 183 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
