@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-12T12:41:39.995Z",
+  "date": "2023-06-12T18:32:26.266Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -673,7 +673,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "31 May 2023",
+      "date": "12 June 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -36959,7 +36959,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "9 June 2023",
+      "date": "12 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -38187,7 +38187,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "09 June 2023",
+      "date": "12 June 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -48505,7 +48505,7 @@
     {
       "title": "W3C Process Document",
       "shortname": "w3c-process",
-      "date": "2 November 2021",
+      "date": "12 June 2023",
       "url": "https://www.w3.org/Consortium/Process/",
       "nightly": {
         "url": "https://www.w3.org/Consortium/Process/",
@@ -48552,6 +48552,11 @@
               "url": "https://www.w3.org/Consortium/Patent-Policy/",
               "title": "W3C Patent Policy",
               "crawled": "https://www.w3.org/Consortium/Patent-Policy/"
+            },
+            {
+              "url": "https://www.w3.org/Consortium/Process/",
+              "title": "W3C Process Document",
+              "crawled": "https://www.w3.org/Consortium/Process/"
             }
           ],
           "informative": []

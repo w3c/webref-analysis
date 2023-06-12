@@ -2966,7 +2966,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
 - Crawled URL: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
-- Crawled version: 2 November 2021
+- Crawled version: 12 June 2023
 - Editor's Draft: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
 - Shortname: w3c-process
 
@@ -2980,6 +2980,7 @@ Normative references to this spec from:
 
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
+- [W3C Process Document](https://www.w3.org/Consortium/Process/)
 
 No informative reference to this spec from other specs.
 
@@ -11404,7 +11405,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 09 June 2023
+- Crawled version: 12 June 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
@@ -13007,7 +13008,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
 - Crawled URL: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
-- Crawled version: 2 November 2021
+- Crawled version: 12 June 2023
 - Editor's Draft: [https://www.w3.org/Consortium/Process/](https://www.w3.org/Consortium/Process/)
 - Shortname: w3c-process
 
@@ -13021,6 +13022,7 @@ Normative references to this spec from:
 
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
+- [W3C Process Document](https://www.w3.org/Consortium/Process/)
 
 No informative reference to this spec from other specs.
 
@@ -13588,7 +13590,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
-- Crawled version: 31 May 2023
+- Crawled version: 12 June 2023
 - Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
 - Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Shortname: html-aria
@@ -16463,7 +16465,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 9 June 2023
+- Crawled version: 12 June 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
