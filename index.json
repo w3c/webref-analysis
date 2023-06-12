@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-12T00:47:15.154Z",
+  "date": "2023-06-12T06:33:46.207Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -54281,7 +54281,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "01 June 2023",
+      "date": "12 June 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
