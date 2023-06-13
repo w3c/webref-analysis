@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-13T06:33:40.498Z",
+  "date": "2023-06-13T12:40:45.103Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -2438,7 +2438,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "05 June 2023",
+      "date": "13 June 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -46385,7 +46385,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "12 June 2023",
+      "date": "13 June 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
