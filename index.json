@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-14T00:48:48.729Z",
+  "date": "2023-06-14T06:34:05.657Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -4002,6 +4002,11 @@
               "url": "https://www.w3.org/TR/uievents/",
               "title": "UI Events",
               "crawled": "https://w3c.github.io/uievents/"
+            },
+            {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
             }
           ]
         },
@@ -36580,7 +36585,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "6 June 2023",
+      "date": "13 June 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -36622,7 +36627,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "6 June 2023",
+      "date": "13 June 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -36964,7 +36969,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "13 June 2023",
+      "date": "14 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -45595,7 +45600,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "6 June 2023",
+      "date": "13 June 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -48643,7 +48648,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "5 June 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
