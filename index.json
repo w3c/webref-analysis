@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-14T06:34:05.657Z",
+  "date": "2023-06-14T12:42:38.341Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -11434,7 +11434,7 @@
     {
       "title": "CSS Grid Layout Module Level 2",
       "shortname": "css-grid-2",
-      "date": "14 March 2023",
+      "date": "8 June 2023",
       "url": "https://www.w3.org/TR/css-grid-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-2/",
@@ -27096,7 +27096,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "31 May 2023",
+      "date": "14 June 2023",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -27141,7 +27141,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "12 June 2023",
+      "date": "14 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -31756,7 +31756,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "12 April 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
