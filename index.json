@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-14T12:42:38.341Z",
+  "date": "2023-06-14T18:34:06.664Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -398,7 +398,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "15 May 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -673,7 +673,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "12 June 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -3057,7 +3057,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "13 June 2023",
+      "date": "14 June 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21224,7 +21224,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "13 June 2023",
+      "date": "14 June 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -21556,7 +21556,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "13 June 2023",
+      "date": "14 June 2023",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -51285,7 +51285,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "6 June 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -51336,7 +51336,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "6 June 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -51455,7 +51455,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "6 June 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -53957,7 +53957,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "9 June 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54032,7 +54032,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "9 June 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -55536,7 +55536,7 @@
     {
       "title": "Window Management",
       "shortname": "window-management",
-      "date": "13 June 2023",
+      "date": "14 June 2023",
       "url": "https://www.w3.org/TR/window-management/",
       "release": {
         "url": "https://www.w3.org/TR/window-management/",
