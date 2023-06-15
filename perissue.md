@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 14, 2023
+% June 15, 2023
 
 565 specifications were crawled in this report.
 
@@ -1062,6 +1062,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf) but does not list it in its references
     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt) but does not list it in its references
     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf) but does not list it in its references
+- [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/) links to [`https://w3c.github.io/rdf-canon/tests/`](https://w3c.github.io/rdf-canon/tests/) but does not list it in its references
 - [Region Capture](https://w3c.github.io/mediacapture-region/) links to [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/) but does not list it in its references
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/) links to:
     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/) but does not list it in its references
@@ -1300,7 +1301,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 940 missing references for links found in 232 specifications
+=> 941 missing references for links found in 233 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
