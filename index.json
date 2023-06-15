@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-15T12:40:10.480Z",
+  "date": "2023-06-15T18:32:22.841Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -20843,11 +20843,6 @@
               "crawled": "https://w3c.github.io/pointerevents/"
             },
             {
-              "url": "https://wicg.github.io/responsive-image-client-hints/",
-              "title": "Responsive Image Client Hints",
-              "crawled": "https://wicg.github.io/responsive-image-client-hints/"
-            },
-            {
               "url": "https://www.w3.org/TR/screen-orientation/",
               "title": "Screen Orientation",
               "crawled": "https://w3c.github.io/screen-orientation/"
@@ -22984,7 +22979,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "2 June 2023",
+      "date": "15 June 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -28961,7 +28956,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "11 May 2023",
+      "date": "15 June 2023",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -36969,7 +36964,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "14 June 2023",
+      "date": "15 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37640,7 +37635,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "13 June 2023",
+      "date": "15 June 2023",
       "url": "https://w3c.github.io/rdf-semantics/spec/",
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
@@ -39027,7 +39022,7 @@
     {
       "title": "Responsive Image Client Hints",
       "shortname": "responsive-image-client-hints",
-      "date": "1 September 2021",
+      "date": "15 June 2023",
       "url": "https://wicg.github.io/responsive-image-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/responsive-image-client-hints/",
@@ -39057,15 +39052,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/respimg-usecases/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/webappsec-permissions-policy/",
+            "link": "https://www.w3.org/TR/fingerprinting-guidance/",
             "ref": {
-              "name": "PERMISSIONS-POLICY-1",
-              "url": "https://www.w3.org/TR/permissions-policy-1/"
+              "name": "FINGERPRINTING-GUIDANCE",
+              "url": "https://w3c.github.io/fingerprinting-guidance/"
             }
           }
         ],
@@ -44129,7 +44122,7 @@
     {
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
-      "date": "13 June 2023",
+      "date": "15 June 2023",
       "url": "https://w3c.github.io/sparql-entailment/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
@@ -47962,7 +47955,7 @@
     {
       "title": "User Agent Interaction with First-Party Sets",
       "shortname": "first-party-sets",
-      "date": "4 May 2023",
+      "date": "15 June 2023",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
@@ -49548,7 +49541,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "5 June 2023",
+      "date": "15 June 2023",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -54303,7 +54296,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "12 June 2023",
+      "date": "15 June 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
