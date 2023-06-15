@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-15T06:34:07.271Z",
+  "date": "2023-06-15T12:40:10.480Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -2673,7 +2673,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "3 May 2023",
+      "date": "15 June 2023",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -25298,7 +25298,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "14 June 2023",
+      "date": "15 June 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
