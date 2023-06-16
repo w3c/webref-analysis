@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-16T06:32:45.213Z",
+  "date": "2023-06-16T18:32:16.606Z",
   "stats": {
     "crawled": 565,
     "errors": 1,
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "12 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -24354,7 +24354,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "15 June 2023",
+      "date": "16 June 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -27136,7 +27136,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "14 June 2023",
+      "date": "16 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36964,7 +36964,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "15 June 2023",
+      "date": "16 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -44191,7 +44191,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-federated-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-federated-query/",
@@ -44343,7 +44343,7 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
@@ -44493,7 +44493,7 @@
     {
       "title": "SPARQL 1.2 Overview",
       "shortname": "sparql12-concepts",
-      "date": "02 June 2023",
+      "date": "16 June 2023",
       "url": "https://w3c.github.io/sparql-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -44645,7 +44645,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-protocol/",
@@ -44786,7 +44786,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
@@ -44925,7 +44925,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
@@ -45064,7 +45064,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-json/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-json/",
@@ -45203,7 +45203,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-xml/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-xml/",
@@ -45342,7 +45342,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-service-description/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-service-description/",
@@ -45481,7 +45481,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "13 June 2023",
+      "date": "16 June 2023",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
