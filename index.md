@@ -2775,7 +2775,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 16 June 2023
+- Crawled version: 20 June 2023
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -9859,7 +9859,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 29 May 2023
+- Crawled version: 20 June 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -9887,7 +9887,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 29 May 2023
+- Crawled version: 20 June 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -12828,7 +12828,6 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
@@ -12836,6 +12835,7 @@ Normative references to this spec from:
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -13119,11 +13119,11 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Linear PCM WebCodecs Registration](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
@@ -13262,7 +13262,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 
@@ -13474,12 +13474,12 @@ Normative references to this spec from:
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
@@ -14559,7 +14559,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 6 June 2023
+- Crawled version: 20 June 2023
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -16142,35 +16142,6 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Local Network Access {data-spec=true data-error=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
-- Crawled URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
-- Crawled version: 26 May 2023
-- Editor's Draft: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
-- Shortname: local-network-access
-
-#### Potential issue(s) {.anomalies}
-
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/local-network-access/ triggered HTTP status 404 Error: Loading https://wicg.github.io/local-network-access/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 190)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
 ### Manifest Incubations {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -16444,6 +16415,29 @@ Informative references to this spec from:
 No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
+
+
+### Private Network Access {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
+- Crawled URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
+- Crawled version: 16 June 2023
+- Editor's Draft: [https://wicg.github.io/local-network-access/](https://wicg.github.io/local-network-access/)
+- Shortname: local-network-access
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 
 
 ### Private State Token API {data-spec=true data-missingDfns=true data-ok=true}
@@ -17969,7 +17963,6 @@ Normative references to this spec from:
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -17999,6 +17992,7 @@ Normative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
@@ -18215,7 +18209,6 @@ Normative references to this spec from:
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Media Session Standard](https://w3c.github.io/mediasession/)
 - [MediaStream Recording](https://w3c.github.io/mediacapture-record/)
@@ -18233,6 +18226,7 @@ Normative references to this spec from:
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -18484,7 +18478,6 @@ Normative references to this spec from:
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/)
@@ -18530,6 +18523,7 @@ Normative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
@@ -18690,8 +18684,8 @@ Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/)
 
 Informative references to this spec from:
@@ -18820,7 +18814,6 @@ Normative references to this spec from:
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -18851,6 +18844,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
@@ -19229,7 +19223,6 @@ Normative references to this spec from:
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
-- [Local Network Access](https://wicg.github.io/local-network-access/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Media Session Standard](https://w3c.github.io/mediasession/)
@@ -19250,6 +19243,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)

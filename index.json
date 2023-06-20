@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-20T06:35:09.887Z",
+  "date": "2023-06-20T12:43:14.273Z",
   "stats": {
     "crawled": 565,
-    "errors": 1,
+    "errors": 0,
     "studied": 565
   },
   "results": [
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "16 June 2023",
+      "date": "20 June 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -2761,11 +2761,6 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://www.w3.org/TR/network-error-logging-1/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
@@ -2784,6 +2779,11 @@
               "url": "https://wicg.github.io/nav-speculation/prefetch.html",
               "title": "Prefetch",
               "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://wicg.github.io/csp-next/scripting-policy.html",
@@ -22264,11 +22264,6 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://www.w3.org/TR/longtasks-1/",
               "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
@@ -22412,6 +22407,11 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://wicg.github.io/trust-token-api/",
@@ -23991,7 +23991,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "29 May 2023",
+      "date": "20 June 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24057,7 +24057,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "29 May 2023",
+      "date": "20 June 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24724,11 +24724,6 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://wicg.github.io/media-feeds/",
               "title": "Media Feeds",
               "crawled": "https://wicg.github.io/media-feeds/"
@@ -24812,6 +24807,11 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://wicg.github.io/trust-token-api/",
@@ -27953,11 +27953,6 @@
               "crawled": "https://wicg.github.io/local-font-access/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://www.w3.org/TR/longtasks-1/",
               "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
@@ -28181,6 +28176,11 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://wicg.github.io/trust-token-api/",
@@ -29918,11 +29918,6 @@
               "crawled": "https://wicg.github.io/local-font-access/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://www.w3.org/TR/magnetometer/",
               "title": "Magnetometer",
               "crawled": "https://w3c.github.io/magnetometer/"
@@ -30071,6 +30066,11 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://wicg.github.io/trust-token-api/",
@@ -31713,49 +31713,6 @@
           "informative": []
         },
         "ok": true
-      }
-    },
-    {
-      "title": "Local Network Access",
-      "shortname": "local-network-access",
-      "date": "26 May 2023",
-      "url": "https://wicg.github.io/local-network-access/",
-      "nightly": {
-        "url": "https://wicg.github.io/local-network-access/",
-        "status": "Draft Community Group Report",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/local-network-access",
-        "sourcePath": "index.src.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://wicg.github.io/local-network-access/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "error": "Error: Loading https://wicg.github.io/local-network-access/ triggered HTTP status 404 Error: Loading https://wicg.github.io/local-network-access/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 190)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
       }
     },
     {
@@ -34199,8 +34156,8 @@
             },
             {
               "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/secure-contexts/",
@@ -36839,6 +36796,54 @@
         "referencedBy": {
           "normative": [],
           "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "Private Network Access",
+      "shortname": "local-network-access",
+      "date": "16 June 2023",
+      "url": "https://wicg.github.io/local-network-access/",
+      "nightly": {
+        "url": "https://wicg.github.io/local-network-access/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/local-network-access",
+        "sourcePath": "index.src.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/private-network-access/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
+            }
+          ]
         },
         "ok": true
       }
@@ -43152,11 +43157,6 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
               "crawled": "https://w3c.github.io/media-capabilities/"
@@ -43180,6 +43180,11 @@
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://wicg.github.io/trust-token-api/",
@@ -43868,11 +43873,6 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://wicg.github.io/performance-measure-memory/",
               "title": "Measure Memory API",
               "crawled": "https://wicg.github.io/performance-measure-memory/"
@@ -43906,6 +43906,11 @@
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -47624,11 +47629,6 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://wicg.github.io/manifest-incubations/",
               "title": "Manifest Incubations",
               "crawled": "https://wicg.github.io/manifest-incubations/"
@@ -47727,6 +47727,11 @@
               "url": "https://privacycg.github.io/private-click-measurement/",
               "title": "Private Click Measurement",
               "crawled": "https://privacycg.github.io/private-click-measurement/"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://wicg.github.io/trust-token-api/",
@@ -50957,7 +50962,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "6 June 2023",
+      "date": "20 June 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -54533,14 +54538,14 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Local Network Access",
-              "crawled": "https://wicg.github.io/local-network-access/"
-            },
-            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
+            },
+            {
+              "url": "https://wicg.github.io/local-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://www.w3.org/TR/webrtc/",
