@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-21T00:47:54.918Z",
+  "date": "2023-06-21T06:32:57.339Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -36979,7 +36979,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "20 June 2023",
+      "date": "21 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -49581,7 +49581,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "15 June 2023",
+      "date": "20 June 2023",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
