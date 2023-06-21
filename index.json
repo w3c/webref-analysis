@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-21T12:42:57.214Z",
+  "date": "2023-06-21T18:33:11.686Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "13 June 2023",
+      "date": "21 June 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -23058,7 +23058,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "15 June 2023",
+      "date": "21 June 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -25303,7 +25303,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "20 June 2023",
+      "date": "21 June 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -36851,7 +36851,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "25 May 2023",
+      "date": "21 June 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -37287,7 +37287,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "15 June 2023",
+      "date": "21 June 2023",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -37398,7 +37398,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "15 June 2023",
+      "date": "21 June 2023",
       "url": "https://www.w3.org/TR/rdf12-n-quads/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-quads/",
@@ -37487,7 +37487,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "15 June 2023",
+      "date": "21 June 2023",
       "url": "https://www.w3.org/TR/rdf12-n-triples/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-triples/",
@@ -37707,7 +37707,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "13 June 2023",
+      "date": "21 June 2023",
       "url": "https://www.w3.org/TR/rdf12-trig/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-trig/",
@@ -37796,7 +37796,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "15 June 2023",
+      "date": "21 June 2023",
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
@@ -37895,7 +37895,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "15 June 2023",
+      "date": "21 June 2023",
       "url": "https://www.w3.org/TR/rdf12-xml/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-xml/",
@@ -38232,7 +38232,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "19 June 2023",
+      "date": "21 June 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -43270,7 +43270,7 @@
     {
       "title": "Secure Curves in the Web Cryptography API",
       "shortname": "webcrypto-secure-curves",
-      "date": "12 December 2022",
+      "date": "21 June 2023",
       "url": "https://wicg.github.io/webcrypto-secure-curves/",
       "nightly": {
         "url": "https://wicg.github.io/webcrypto-secure-curves/",
