@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-22T12:41:55.859Z",
+  "date": "2023-06-22T18:39:40.545Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -112,7 +112,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -165,7 +165,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -1005,7 +1005,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1058,7 +1058,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -2781,7 +2781,7 @@
               "crawled": "https://wicg.github.io/nav-speculation/prefetch.html"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -19046,7 +19046,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "2 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -22435,7 +22435,7 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -22973,7 +22973,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "20 June 2023",
+      "date": "22 June 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -23015,7 +23015,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "17 June 2023",
+      "date": "22 June 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -24390,7 +24390,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -24835,7 +24835,7 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -25271,7 +25271,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "20 June 2023",
+      "date": "22 June 2023",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -25610,7 +25610,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -26601,7 +26601,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -28204,7 +28204,7 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -30094,7 +30094,7 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -31607,7 +31607,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -34181,7 +34181,7 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -34286,7 +34286,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -34458,7 +34458,7 @@
     {
       "title": "Navigational-Tracking Mitigations",
       "shortname": "nav-tracking-mitigations",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://privacycg.github.io/nav-tracking-mitigations/",
       "nightly": {
         "url": "https://privacycg.github.io/nav-tracking-mitigations/",
@@ -34489,7 +34489,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/webappsec-clear-site-data"
+          "https://w3c.github.io/webappsec-clear-site-data",
+          "https://w3c.github.io/webauthn/"
         ],
         "inconsistentRef": [
           {
@@ -34805,7 +34806,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -36828,14 +36829,14 @@
     },
     {
       "title": "Private Network Access",
-      "shortname": "local-network-access",
+      "shortname": "private-network-access",
       "date": "16 June 2023",
-      "url": "https://wicg.github.io/local-network-access/",
+      "url": "https://wicg.github.io/private-network-access/",
       "nightly": {
-        "url": "https://wicg.github.io/local-network-access/",
+        "url": "https://wicg.github.io/private-network-access/",
         "status": "Draft Community Group Report",
         "alternateUrls": [],
-        "repository": "https://github.com/WICG/local-network-access",
+        "repository": "https://github.com/WICG/private-network-access",
         "sourcePath": "index.src.html",
         "filename": "index.html"
       },
@@ -36863,13 +36864,7 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://wicg.github.io/local-network-access/",
-              "title": "Private Network Access",
-              "crawled": "https://wicg.github.io/private-network-access/"
-            }
-          ]
+          "informative": []
         },
         "ok": true
       }
@@ -37317,7 +37312,7 @@
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -37365,7 +37360,7 @@
               "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -37385,7 +37380,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -37428,7 +37423,7 @@
       "url": "https://www.w3.org/TR/rdf12-n-quads/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-quads/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -37481,7 +37476,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -37501,7 +37496,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             }
@@ -37517,7 +37512,7 @@
       "url": "https://www.w3.org/TR/rdf12-n-triples/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-triples/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -37575,7 +37570,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -37590,7 +37585,7 @@
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             }
@@ -37602,11 +37597,11 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "15 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/rdf12-schema/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-schema/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -37642,7 +37637,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             }
@@ -37679,7 +37674,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             }
@@ -37692,7 +37687,12 @@
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
       "date": "15 June 2023",
-      "url": "https://w3c.github.io/rdf-semantics/spec/",
+      "url": "https://www.w3.org/TR/rdf12-semantics/",
+      "release": {
+        "url": "https://www.w3.org/TR/rdf12-semantics/",
+        "status": "Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/rdf-semantics/spec/",
         "status": "Editor's Draft",
@@ -37724,8 +37724,55 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
-          "informative": []
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/rdf12-xml/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
+              "title": "SPARQL 1.2 Entailment Regimes",
+              "crawled": "https://w3c.github.io/sparql-entailment/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-query/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-schema/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-trig/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            }
+          ]
         },
         "ok": true
       }
@@ -37733,7 +37780,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "21 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/rdf12-trig/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-trig/",
@@ -37800,7 +37847,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -37810,7 +37857,7 @@
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             }
@@ -37826,7 +37873,7 @@
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -37887,7 +37934,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -37909,7 +37956,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             }
@@ -37925,7 +37972,7 @@
       "url": "https://www.w3.org/TR/rdf12-xml/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-xml/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -38231,7 +38278,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -38246,7 +38293,7 @@
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             }
@@ -43202,7 +43249,7 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -43342,7 +43389,7 @@
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
-        "status": "Working Draft",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -43928,7 +43975,7 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -44189,7 +44236,12 @@
       "title": "SPARQL 1.2 Entailment Regimes",
       "shortname": "sparql12-entailment",
       "date": "15 June 2023",
-      "url": "https://w3c.github.io/sparql-entailment/spec/",
+      "url": "https://www.w3.org/TR/sparql12-entailment/",
+      "release": {
+        "url": "https://www.w3.org/TR/sparql12-entailment/",
+        "status": "Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://w3c.github.io/sparql-entailment/spec/",
         "status": "Editor's Draft",
@@ -44223,8 +44275,100 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
-          "informative": []
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/sparql12-federated-query/",
+              "title": "SPARQL 1.2 Federated Query",
+              "crawled": "https://w3c.github.io/sparql-federated-query/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
+              "title": "SPARQL 1.2 Graph Store Protocol",
+              "crawled": "https://w3c.github.io/sparql-graph-store-protocol/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-protocol/",
+              "title": "SPARQL 1.2 Protocol",
+              "crawled": "https://w3c.github.io/sparql-protocol/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
+              "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+              "crawled": "https://w3c.github.io/sparql-results-csv-tsv/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-service-description/",
+              "title": "SPARQL 1.2 Service Description",
+              "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-update/",
+              "title": "SPARQL 1.2 Update",
+              "crawled": "https://w3c.github.io/sparql-update/spec/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-n-quads/",
+              "title": "RDF 1.2 N-Quads",
+              "crawled": "https://w3c.github.io/rdf-n-quads/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-n-triples/",
+              "title": "RDF 1.2 N-Triples",
+              "crawled": "https://w3c.github.io/rdf-n-triples/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-schema/",
+              "title": "RDF 1.2 Schema",
+              "crawled": "https://w3c.github.io/rdf-schema/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
+              "title": "RDF 1.2 Semantics",
+              "crawled": "https://w3c.github.io/rdf-semantics/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-trig/",
+              "title": "RDF 1.2 TriG",
+              "crawled": "https://w3c.github.io/rdf-trig/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-turtle/",
+              "title": "RDF 1.2 Turtle",
+              "crawled": "https://w3c.github.io/rdf-turtle/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-xml/",
+              "title": "RDF 1.2 XML Syntax",
+              "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/sparql-concepts/spec/",
+              "title": "SPARQL 1.2 Overview",
+              "crawled": "https://w3c.github.io/sparql-concepts/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-query/",
+              "title": "SPARQL 1.2 Query Language",
+              "crawled": "https://w3c.github.io/sparql-query/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-results-json/",
+              "title": "SPARQL 1.2 Query Results JSON Format",
+              "crawled": "https://w3c.github.io/sparql-results-json/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/sparql12-results-xml/",
+              "title": "SPARQL 1.2 Query Results XML Format",
+              "crawled": "https://w3c.github.io/sparql-results-xml/spec/"
+            }
+          ]
         },
         "ok": false
       }
@@ -44232,11 +44376,11 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-federated-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-federated-query/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -44332,7 +44476,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -44352,7 +44496,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -44384,11 +44528,11 @@
     {
       "title": "SPARQL 1.2 Graph Store Protocol",
       "shortname": "sparql12-graph-store-protocol",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -44482,7 +44626,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -44502,7 +44646,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -44534,7 +44678,7 @@
     {
       "title": "SPARQL 1.2 Overview",
       "shortname": "sparql12-concepts",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://w3c.github.io/sparql-concepts/spec/",
       "nightly": {
         "url": "https://w3c.github.io/sparql-concepts/spec/",
@@ -44639,7 +44783,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -44659,7 +44803,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -44686,11 +44830,11 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-protocol/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -44728,7 +44872,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -44780,7 +44924,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -44827,11 +44971,11 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -44867,7 +45011,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -44924,7 +45068,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -44966,11 +45110,11 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -45053,7 +45197,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -45073,7 +45217,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -45105,11 +45249,11 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-json/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-json/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -45197,7 +45341,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -45217,7 +45361,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -45244,11 +45388,11 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-xml/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-xml/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -45336,7 +45480,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -45356,7 +45500,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -45383,11 +45527,11 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-service-description/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-service-description/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -45470,7 +45614,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -45490,7 +45634,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -45522,11 +45666,11 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "16 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -45609,7 +45753,7 @@
               "crawled": "https://w3c.github.io/rdf-schema/spec/"
             },
             {
-              "url": "https://w3c.github.io/rdf-semantics/spec/",
+              "url": "https://www.w3.org/TR/rdf12-semantics/",
               "title": "RDF 1.2 Semantics",
               "crawled": "https://w3c.github.io/rdf-semantics/spec/"
             },
@@ -45629,7 +45773,7 @@
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             },
             {
-              "url": "https://w3c.github.io/sparql-entailment/spec/",
+              "url": "https://www.w3.org/TR/sparql12-entailment/",
               "title": "SPARQL 1.2 Entailment Regimes",
               "crawled": "https://w3c.github.io/sparql-entailment/spec/"
             },
@@ -46948,7 +47092,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -47749,7 +47893,7 @@
               "crawled": "https://privacycg.github.io/private-click-measurement/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
@@ -48374,7 +48518,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -48427,7 +48571,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -48480,7 +48624,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -51567,7 +51711,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -51721,7 +51865,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "8 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
@@ -52066,7 +52210,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "19 June 2023",
+      "date": "22 June 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54563,7 +54707,7 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
-              "url": "https://wicg.github.io/local-network-access/",
+              "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
             },
