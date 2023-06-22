@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-22T06:34:47.691Z",
+  "date": "2023-06-22T12:41:55.859Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "21 June 2023",
+      "date": "22 June 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2438,7 +2438,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "13 June 2023",
+      "date": "22 June 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -4271,7 +4271,15 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/web-animations-1/",
+            "ref": {
+              "name": "WEB-ANIMATIONS",
+              "url": "https://drafts.csswg.org/web-animations-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -9376,6 +9384,11 @@
               "url": "https://www.w3.org/TR/css-fonts-5/",
               "title": "CSS Fonts Module Level 5",
               "crawled": "https://drafts.csswg.org/css-fonts-5/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "title": "CSS Transitions Level 2",
+              "crawled": "https://drafts.csswg.org/css-transitions-2/"
             }
           ]
         },
@@ -10532,6 +10545,11 @@
               "url": "https://www.w3.org/TR/css-scoping-1/",
               "title": "CSS Scoping Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scoping-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "title": "CSS Transitions Level 2",
+              "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -18278,7 +18296,7 @@
     {
       "title": "CSS Transitions Level 2",
       "shortname": "css-transitions-2",
-      "date": "25 April 2023",
+      "date": "22 June 2023",
       "url": "https://drafts.csswg.org/css-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-transitions-2/",
@@ -18311,7 +18329,15 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/web-animations-1/",
+            "ref": {
+              "name": "WEB-ANIMATIONS",
+              "url": "https://drafts.csswg.org/web-animations-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -18327,7 +18353,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -36979,7 +37005,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "21 June 2023",
+      "date": "22 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
