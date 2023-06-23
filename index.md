@@ -138,7 +138,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Crawled URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
-- Crawled version: 22 June 2023
+- Crawled version: 23 June 2023
 - Editor's Draft: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Shortname: tc39-explicit-resource-management
 
@@ -9864,7 +9864,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 20 June 2023
+- Crawled version: 23 June 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -9892,7 +9892,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 20 June 2023
+- Crawled version: 23 June 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -11276,21 +11276,18 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Navigational-Tracking Mitigations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Navigational-Tracking Mitigations {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
 - Crawled URL: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
-- Crawled version: 22 June 2023
+- Crawled version: 23 June 2023
 - Editor's Draft: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
 - Shortname: nav-tracking-mitigations
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/webappsec-clear-site-data`](https://w3c.github.io/webappsec-clear-site-data)
-     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/), related reference "TRACKING-DNT" uses URL [`https://w3c.github.io/dnt/drafts/tracking-dnt.html`](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 
@@ -12869,6 +12866,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
@@ -12886,7 +12884,6 @@ Informative references to this spec from:
 - [Beacon](https://w3c.github.io/beacon/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
-- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -13127,7 +13124,9 @@ Normative references to this spec from:
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 
 
 ### Content Security Policy Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -14245,6 +14244,7 @@ Normative references to this spec from:
 
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 
@@ -15035,7 +15035,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
 - Crawled URL: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
-- Crawled version: 08 June 2023
+- Crawled version: 23 June 2023
 - Editor's Draft: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
 - Latest published version: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
 - Shortname: network-error-logging-1
@@ -15864,7 +15864,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
 - Crawled URL: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
-- Crawled version: 22 June 2023
+- Crawled version: 23 June 2023
 - Editor's Draft: [https://wicg.github.io/file-system-access/](https://wicg.github.io/file-system-access/)
 - Shortname: file-system-access
 
@@ -17045,7 +17045,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webusb/](https://wicg.github.io/webusb/)
 - Crawled URL: [https://wicg.github.io/webusb/](https://wicg.github.io/webusb/)
-- Crawled version: 20 June 2023
+- Crawled version: 23 June 2023
 - Editor's Draft: [https://wicg.github.io/webusb/](https://wicg.github.io/webusb/)
 - Shortname: webusb
 
