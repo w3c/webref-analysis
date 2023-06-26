@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-26T06:36:32.139Z",
+  "date": "2023-06-26T12:45:00.677Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -2444,7 +2444,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "22 June 2023",
+      "date": "26 June 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -3116,7 +3116,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "18 May 2023",
+      "date": "26 June 2023",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -3155,7 +3155,9 @@
           "http://www.w3.org/TR/wai-aria-implementation/",
           "http://www.w3.org/TR/wai-aria-practices/",
           "https://w3c.github.io/webdriver/",
-          "https://www.w3.org/TR/fingerprinting-guidance/"
+          "https://www.w3.org/TR/accname-aam-1.1/",
+          "https://www.w3.org/TR/fingerprinting-guidance/",
+          "https://www.w3.org/TR/wai-aria-1.1/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -27178,7 +27180,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "22 June 2023",
+      "date": "26 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -32163,7 +32165,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "19 June 2023",
+      "date": "26 June 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -52218,7 +52220,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "22 June 2023",
+      "date": "26 June 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54514,7 +54516,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "19 June 2023",
+      "date": "26 June 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
