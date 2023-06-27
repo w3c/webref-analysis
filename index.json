@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-27T06:35:39.604Z",
+  "date": "2023-06-27T12:43:52.549Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -26984,7 +26984,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "17 June 2023",
+      "date": "27 June 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
