@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-28T12:44:31.524Z",
+  "date": "2023-06-28T18:37:18.186Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -896,7 +896,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -2679,7 +2685,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "15 June 2023",
+      "date": "28 June 2023",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -3116,7 +3122,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "26 June 2023",
+      "date": "28 June 2023",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -3157,7 +3163,22 @@
           "https://w3c.github.io/webdriver/",
           "https://www.w3.org/TR/fingerprinting-guidance/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/accname/",
+            "ref": {
+              "name": "accname-1.2",
+              "url": "https://www.w3.org/TR/accname-1.2/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/aria/",
+            "ref": {
+              "name": "WAI-ARIA-1.2",
+              "url": "https://www.w3.org/TR/wai-aria-1.2/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -7413,7 +7434,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "2 June 2023",
+      "date": "28 June 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -27188,7 +27209,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "26 June 2023",
+      "date": "28 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -37013,7 +37034,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "26 June 2023",
+      "date": "28 June 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
