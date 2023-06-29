@@ -5,6 +5,50 @@
 565 specifications were crawled in this report.
 
 
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942): `Error: Loading https://www.rfc-editor.org/rfc/rfc8942 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc8942 triggered HTTP status 403
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 253)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [RFC 9111: HTTP Caching](https://www.rfc-editor.org/rfc/rfc9111): `Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered HTTP status 403
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 255)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [RFC 9112: HTTP/1.1](https://www.rfc-editor.org/rfc/rfc9112): `Error: Loading https://www.rfc-editor.org/rfc/rfc9112 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9112 triggered HTTP status 403
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 256)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [RFC 9113: HTTP/2](https://www.rfc-editor.org/rfc/rfc9113): `Error: Loading https://www.rfc-editor.org/rfc/rfc9113 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9113 triggered HTTP status 403
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 257)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [RFC 9114: HTTP/3](https://www.rfc-editor.org/rfc/rfc9114): `Error: Loading https://www.rfc-editor.org/rfc/rfc9114 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9114 triggered HTTP status 403
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 258)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [RFC 9163: Expect-CT Extension for HTTP](https://www.rfc-editor.org/rfc/rfc9163): `Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 403
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 259)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+=> 6 specifications found
+
+
 ## Specifications without normative dependencies
 
 - [A Method for Writing Testable Conformance Requirements](https://www.w3.org/TR/test-methodology/)
