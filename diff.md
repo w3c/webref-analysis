@@ -7,7 +7,7 @@
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Spec could not be rendered: *INS* Error: Loading https://www.rfc-editor.org/rfc/rfc8942 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc8942 triggered HTTP status 403
+- Spec could not be rendered: *DEL* Error: Loading https://www.rfc-editor.org/rfc/rfc8942 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc8942 triggered HTTP status 403
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
@@ -20,7 +20,7 @@
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Spec could not be rendered: *INS* Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered HTTP status 403
+- Spec could not be rendered: *DEL* Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered HTTP status 403
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
@@ -33,7 +33,7 @@
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Spec could not be rendered: *INS* Error: Loading https://www.rfc-editor.org/rfc/rfc9112 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9112 triggered HTTP status 403
+- Spec could not be rendered: *DEL* Error: Loading https://www.rfc-editor.org/rfc/rfc9112 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9112 triggered HTTP status 403
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
@@ -46,7 +46,7 @@
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Spec could not be rendered: *INS* Error: Loading https://www.rfc-editor.org/rfc/rfc9113 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9113 triggered HTTP status 403
+- Spec could not be rendered: *DEL* Error: Loading https://www.rfc-editor.org/rfc/rfc9113 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9113 triggered HTTP status 403
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
@@ -59,7 +59,7 @@
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Spec could not be rendered: *INS* Error: Loading https://www.rfc-editor.org/rfc/rfc9114 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9114 triggered HTTP status 403
+- Spec could not be rendered: *DEL* Error: Loading https://www.rfc-editor.org/rfc/rfc9114 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9114 triggered HTTP status 403
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
@@ -72,7 +72,7 @@
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Spec could not be rendered: *INS* Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 403
+- Spec could not be rendered: *DEL* Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 403
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)

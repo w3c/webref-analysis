@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-06-29T12:44:25.166Z",
+  "date": "2023-06-29T18:37:44.025Z",
   "stats": {
     "crawled": 565,
-    "errors": 6,
+    "errors": 0,
     "studied": 565
   },
   "results": [
@@ -10165,7 +10165,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "22 May 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -22532,6 +22532,11 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             },
             {
+              "url": "https://www.w3.org/TR/screen-capture/",
+              "title": "Screen Capture",
+              "crawled": "https://w3c.github.io/mediacapture-screen-share/"
+            },
+            {
               "url": "https://www.w3.org/TR/screen-orientation/",
               "title": "Screen Orientation",
               "crawled": "https://w3c.github.io/screen-orientation/"
@@ -22894,11 +22899,6 @@
               "crawled": "https://www.w3.org/TR/SVG11/"
             },
             {
-              "url": "https://www.w3.org/TR/screen-capture/",
-              "title": "Screen Capture",
-              "crawled": "https://w3c.github.io/mediacapture-screen-share/"
-            },
-            {
               "url": "https://www.w3.org/TR/selectors-3/",
               "title": "Selectors Level 3",
               "crawled": "https://drafts.csswg.org/selectors-3/"
@@ -23111,7 +23111,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "23 June 2023",
+      "date": "29 June 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -27209,7 +27209,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "28 June 2023",
+      "date": "29 June 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -37342,7 +37342,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "21 June 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -41136,7 +41136,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc8942 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc8942 triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 253)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41170,7 +41169,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -41309,7 +41308,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 255)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41338,7 +41336,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -41363,7 +41361,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9112 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9112 triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 256)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41403,7 +41400,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -41428,7 +41425,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9113 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9113 triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 257)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41446,7 +41442,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -41471,7 +41467,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9114 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9114 triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 258)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41495,7 +41490,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -41520,7 +41515,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 403 Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 259)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41544,7 +41538,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -42754,7 +42748,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "13 April 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -45011,7 +45005,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "22 June 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
@@ -45150,7 +45144,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "22 June 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
@@ -54212,7 +54206,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "26 June 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54287,7 +54281,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "26 June 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -54456,7 +54450,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "2 June 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -54556,7 +54550,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "26 June 2023",
+      "date": "29 June 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
