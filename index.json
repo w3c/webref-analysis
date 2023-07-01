@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-01T12:41:10.600Z",
+  "date": "2023-07-01T18:34:33.966Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -7293,7 +7293,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "5 June 2023",
+      "date": "1 July 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7434,7 +7434,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "28 June 2023",
+      "date": "1 July 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -7953,7 +7953,7 @@
     {
       "title": "CSS Conditional Rules Module Level 5",
       "shortname": "css-conditional-5",
-      "date": "12 May 2023",
+      "date": "1 July 2023",
       "url": "https://www.w3.org/TR/css-conditional-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-5/",
@@ -8008,6 +8008,11 @@
               "url": "https://www.w3.org/TR/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             }
           ],
           "informative": []
@@ -41347,7 +41352,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "30 June 2023",
+      "date": "1 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
