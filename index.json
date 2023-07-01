@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-01T00:50:51.371Z",
+  "date": "2023-07-01T06:34:14.511Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -40733,7 +40733,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "30 June 2023",
+      "date": "1 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
