@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-03T06:35:08.118Z",
+  "date": "2023-07-03T12:44:15.384Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -3069,7 +3069,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "2 July 2023",
+      "date": "3 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21292,7 +21292,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "2 July 2023",
+      "date": "3 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -31796,7 +31796,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "14 June 2023",
+      "date": "3 July 2023",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -34560,7 +34560,7 @@
     {
       "title": "Network Error Logging",
       "shortname": "network-error-logging-1",
-      "date": "27 June 2023",
+      "date": "03 July 2023",
       "url": "https://www.w3.org/TR/network-error-logging-1/",
       "release": {
         "url": "https://www.w3.org/TR/network-error-logging-1/",
@@ -39691,7 +39691,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "2 July 2023",
+      "date": "3 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40743,7 +40743,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "2 July 2023",
+      "date": "3 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41511,7 +41511,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "2 July 2023",
+      "date": "3 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -46654,7 +46654,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "29 June 2023",
+      "date": "3 July 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -52269,7 +52269,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "30 June 2023",
+      "date": "3 July 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54221,7 +54221,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "29 June 2023",
+      "date": "3 July 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54296,7 +54296,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "29 June 2023",
+      "date": "3 July 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
