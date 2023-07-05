@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-05T12:43:52.787Z",
+  "date": "2023-07-05T18:37:14.843Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -112,7 +112,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -165,7 +165,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -398,7 +398,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "14 June 2023",
+      "date": "05 July 2023",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "20 June 2023",
+      "date": "05 July 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -673,7 +673,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "29 June 2023",
+      "date": "05 July 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "30 June 2023",
+      "date": "5 July 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1011,7 +1011,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1064,7 +1064,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -3122,7 +3122,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "28 June 2023",
+      "date": "05 July 2023",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -7293,7 +7293,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "1 July 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7434,7 +7434,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "1 July 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -12062,7 +12062,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "5 May 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -25652,7 +25652,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -26522,7 +26522,7 @@
     {
       "title": "Graphics Accessibility API Mappings",
       "shortname": "graphics-aam-1.0",
-      "date": "31 May 2023",
+      "date": "05 July 2023",
       "url": "https://www.w3.org/TR/graphics-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/graphics-aam-1.0/",
@@ -26648,7 +26648,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -27030,7 +27030,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "27 June 2023",
+      "date": "05 July 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -30967,7 +30967,7 @@
     {
       "title": "Intl Locale Info Proposal",
       "shortname": "tc39-intl-locale-info",
-      "date": "27 February 2023",
+      "date": "5 July 2023",
       "url": "https://tc39.es/proposal-intl-locale-info/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-locale-info/",
@@ -31659,7 +31659,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -34338,7 +34338,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -34855,7 +34855,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -41421,7 +41421,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "4 July 2023",
+      "date": "5 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -47141,7 +47141,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -48567,7 +48567,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -48620,7 +48620,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -48673,7 +48673,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -51765,7 +51765,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -51919,7 +51919,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "28 June 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
