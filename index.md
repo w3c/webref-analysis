@@ -3989,7 +3989,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-sizing-4/](https://www.w3.org/TR/css-sizing-4/)
 - Crawled URL: [https://drafts.csswg.org/css-sizing-4/](https://drafts.csswg.org/css-sizing-4/)
-- Crawled version: 3 March 2023
+- Crawled version: 6 July 2023
 - Editor's Draft: [https://drafts.csswg.org/css-sizing-4/](https://drafts.csswg.org/css-sizing-4/)
 - Latest published version: [https://www.w3.org/TR/css-sizing-4/](https://www.w3.org/TR/css-sizing-4/)
 - Shortname: css-sizing-4
@@ -4426,7 +4426,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 5 July 2023
+- Crawled version: 6 July 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -4472,7 +4472,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 5 July 2023
+- Crawled version: 6 July 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -10714,9 +10714,10 @@ Normative references to this spec from:
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
 - [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
 ### Media Playback Quality {data-spec=true data-missingDfns=true data-ok=true}
@@ -11014,7 +11015,7 @@ Informative references to this spec from:
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
 
 
-### WebCodecs Codec Registry {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### WebCodecs Codec Registry {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -11027,20 +11028,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/webcodecs-aac-codec-registration/`](https://www.w3.org/TR/webcodecs-aac-codec-registration/), related reference "WEBCODECS-AAC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/aac_codec_registration.html`](https://w3c.github.io/webcodecs/aac_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-alaw-codec-registration/`](https://www.w3.org/TR/webcodecs-alaw-codec-registration/), related reference "WEBCODECS-ALAW-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/alaw_codec_registration.html`](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-av1-codec-registration/`](https://www.w3.org/TR/webcodecs-av1-codec-registration/), related reference "WEBCODECS-AV1-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/av1_codec_registration.html`](https://w3c.github.io/webcodecs/av1_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-avc-codec-registration/`](https://www.w3.org/TR/webcodecs-avc-codec-registration/), related reference "WEBCODECS-AVC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/avc_codec_registration.html`](https://w3c.github.io/webcodecs/avc_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-flac-codec-registration/`](https://www.w3.org/TR/webcodecs-flac-codec-registration/), related reference "WEBCODECS-FLAC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/flac_codec_registration.html`](https://w3c.github.io/webcodecs/flac_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-hevc-codec-registration/`](https://www.w3.org/TR/webcodecs-hevc-codec-registration/), related reference "WEBCODECS-HEVC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/hevc_codec_registration.html`](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-mp3-codec-registration/`](https://www.w3.org/TR/webcodecs-mp3-codec-registration/), related reference "WEBCODECS-MP3-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/mp3_codec_registration.html`](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-opus-codec-registration/`](https://www.w3.org/TR/webcodecs-opus-codec-registration/), related reference "WEBCODECS-OPUS-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/opus_codec_registration.html`](https://w3c.github.io/webcodecs/opus_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-pcm-codec-registration/`](https://www.w3.org/TR/webcodecs-pcm-codec-registration/), related reference "WEBCODECS-PCM-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/pcm_codec_registration.html`](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-ulaw-codec-registration/`](https://www.w3.org/TR/webcodecs-ulaw-codec-registration/), related reference "WEBCODECS-ULAW-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/ulaw_codec_registration.html`](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-vorbis-codec-registration/`](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/), related reference "WEBCODECS-VORBIS-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vorbis_codec_registration.html`](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-vp8-codec-registration/`](https://www.w3.org/TR/webcodecs-vp8-codec-registration/), related reference "WEBCODECS-VP8-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vp8_codec_registration.html`](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
-     * [`https://www.w3.org/TR/webcodecs-vp9-codec-registration/`](https://www.w3.org/TR/webcodecs-vp9-codec-registration/), related reference "WEBCODECS-VP9-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vp9_codec_registration.html`](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12258,7 +12246,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-update/](https://www.w3.org/TR/sparql12-update/)
 - Crawled URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
-- Crawled version: 22 June 2023
+- Crawled version: 06 July 2023
 - Editor's Draft: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-update/](https://www.w3.org/TR/sparql12-update/)
 - Shortname: sparql12-update
@@ -15347,7 +15335,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 5 July 2023
+- Crawled version: 6 July 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -15806,7 +15794,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 20 June 2023
+- Crawled version: 6 July 2023
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -17524,7 +17512,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-capture/](https://www.w3.org/TR/screen-capture/)
 - Crawled URL: [https://w3c.github.io/mediacapture-screen-share/](https://w3c.github.io/mediacapture-screen-share/)
-- Crawled version: 29 June 2023
+- Crawled version: 06 July 2023
 - Editor's Draft: [https://w3c.github.io/mediacapture-screen-share/](https://w3c.github.io/mediacapture-screen-share/)
 - Latest published version: [https://www.w3.org/TR/screen-capture/](https://www.w3.org/TR/screen-capture/)
 - Shortname: screen-capture
@@ -17674,7 +17662,6 @@ Normative references to this spec from:
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
 - [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 - [WebRTC Priority Control API](https://w3c.github.io/webrtc-priority/)
 
@@ -17685,6 +17672,7 @@ Informative references to this spec from:
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
+- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebTransport](https://w3c.github.io/webtransport/)
 
 

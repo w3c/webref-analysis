@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-06T12:44:12.865Z",
+  "date": "2023-07-06T18:34:51.985Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "5 July 2023",
+      "date": "6 July 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -5811,7 +5811,7 @@
     {
       "title": "CSS Box Sizing Module Level 4",
       "shortname": "css-sizing-4",
-      "date": "3 March 2023",
+      "date": "6 July 2023",
       "url": "https://www.w3.org/TR/css-sizing-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-sizing-4/",
@@ -7298,7 +7298,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "5 July 2023",
+      "date": "6 July 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7439,7 +7439,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "5 July 2023",
+      "date": "6 July 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -24392,7 +24392,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "20 June 2023",
+      "date": "6 July 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -32204,14 +32204,15 @@
               "url": "https://www.w3.org/TR/webrtc-svc/",
               "title": "Scalable Video Coding (SVC) Extension for WebRTC",
               "crawled": "https://w3c.github.io/webrtc-svc/"
-            },
+            }
+          ],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/webcodecs/",
               "title": "WebCodecs",
               "crawled": "https://w3c.github.io/webcodecs/"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": false
       }
@@ -42773,7 +42774,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "29 June 2023",
+      "date": "06 July 2023",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -45725,7 +45726,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "22 June 2023",
+      "date": "06 July 2023",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
@@ -51965,99 +51966,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-AAC-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/aac_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-ALAW-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/alaw_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-AV1-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/av1_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-AVC-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/avc_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-FLAC-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/flac_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-HEVC-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/hevc_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-MP3-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/mp3_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-OPUS-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/opus_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-PCM-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-ULAW-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/ulaw_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-VORBIS-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/vorbis_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-VP8-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/vp8_codec_registration.html"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
-            "ref": {
-              "name": "WEBCODECS-VP9-CODEC-REGISTRATION",
-              "url": "https://w3c.github.io/webcodecs/vp9_codec_registration.html"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": [
@@ -52138,7 +52047,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -54672,11 +54581,6 @@
               "crawled": "https://webaudio.github.io/web-audio-api/"
             },
             {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
-            },
-            {
               "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
               "title": "WebRTC Encoded Transform",
               "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
@@ -54712,6 +54616,11 @@
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
             },
             {
               "url": "https://www.w3.org/TR/webtransport/",
