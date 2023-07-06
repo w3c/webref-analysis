@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 05, 2023
+% July 06, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -3389,6 +3389,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
@@ -3407,7 +3408,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
 - Crawled URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
-- Crawled version: 27 June 2023
+- Crawled version: 5 July 2023
 - Editor's Draft: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
 - Shortname: css-anchor-position-1
 
@@ -5880,7 +5881,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
 - Crawled URL: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
-- Crawled version: 5 May 2023
+- Crawled version: 5 July 2023
 - Editor's Draft: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
 - Latest published version: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
 - Shortname: css-images-3
@@ -6950,6 +6951,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
@@ -15852,7 +15854,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
 - Crawled URL: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
-- Crawled version: 27 June 2023
+- Crawled version: 5 July 2023
 - Editor's Draft: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
 - Shortname: entries-api
 

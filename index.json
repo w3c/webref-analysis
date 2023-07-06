@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-05T18:37:14.843Z",
+  "date": "2023-07-06T00:48:30.879Z",
   "stats": {
     "crawled": 565,
     "errors": 0,
@@ -3991,6 +3991,11 @@
           ],
           "informative": [
             {
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -4048,7 +4053,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "27 June 2023",
+      "date": "5 July 2023",
       "url": "https://drafts.csswg.org/css-anchor-position-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-anchor-position-1/",
@@ -11801,7 +11806,7 @@
     {
       "title": "CSS Images Module Level 3",
       "shortname": "css-images-3",
-      "date": "5 May 2023",
+      "date": "5 July 2023",
       "url": "https://www.w3.org/TR/css-images-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-3/",
@@ -15188,6 +15193,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
@@ -25081,7 +25091,7 @@
     {
       "title": "File and Directory Entries API",
       "shortname": "entries-api",
-      "date": "27 June 2023",
+      "date": "5 July 2023",
       "url": "https://wicg.github.io/entries-api/",
       "nightly": {
         "url": "https://wicg.github.io/entries-api/",
