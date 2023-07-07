@@ -239,6 +239,7 @@ Normative references to this spec from:
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
@@ -258,6 +259,7 @@ Normative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Publications](https://w3c.github.io/wpub/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
@@ -1107,7 +1109,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled version: 7 July 2023
+- Crawled version: 6 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
@@ -1131,7 +1133,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 7 July 2023
+- Crawled version: 5 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1158,7 +1160,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 7 July 2023
+- Crawled version: 6 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1592,6 +1594,8 @@ Normative references to this spec from:
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
+- [Web Publications](https://w3c.github.io/wpub/)
 
 No informative reference to this spec from other specs.
 
@@ -1604,7 +1608,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 6 July 2023
+- Crawled version: 7 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -3051,6 +3055,118 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+## Audiobooks Working Group {#group-audiobooks_working_group}
+
+### Audiobooks {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/audiobooks/](https://www.w3.org/TR/audiobooks/)
+- Crawled URL: [https://w3c.github.io/audiobooks/](https://w3c.github.io/audiobooks/)
+- Crawled version: 20 June 2023
+- Editor's Draft: [https://w3c.github.io/audiobooks/](https://w3c.github.io/audiobooks/)
+- Latest published version: [https://www.w3.org/TR/audiobooks/](https://www.w3.org/TR/audiobooks/)
+- Shortname: audiobooks
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/annotation-model/`](https://www.w3.org/TR/annotation-model/)
+     * [`https://www.w3.org/TR/lpf/`](https://www.w3.org/TR/lpf/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/), related reference "pub-manifest" uses URL [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
+
+
+### Publication Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/pub-manifest/](https://www.w3.org/TR/pub-manifest/)
+- Crawled URL: [https://w3c.github.io/pub-manifest/](https://w3c.github.io/pub-manifest/)
+- Crawled version: 20 June 2023
+- Editor's Draft: [https://w3c.github.io/pub-manifest/](https://w3c.github.io/pub-manifest/)
+- Latest published version: [https://www.w3.org/TR/pub-manifest/](https://www.w3.org/TR/pub-manifest/)
+- Shortname: pub-manifest
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/), related reference "json-ld10" uses URL [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Audiobooks](https://w3c.github.io/audiobooks/)
+
+No informative reference to this spec from other specs.
+
+
+### Web Annotation Extensions for Web Publications {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/wpub-ann/](https://www.w3.org/TR/wpub-ann/)
+- Crawled URL: [https://w3c.github.io/wpub-ann/](https://w3c.github.io/wpub-ann/)
+- Crawled version: 01 October 2020
+- Editor's Draft: [https://w3c.github.io/wpub-ann/](https://w3c.github.io/wpub-ann/)
+- Latest published version: [https://www.w3.org/TR/wpub-ann/](https://www.w3.org/TR/wpub-ann/)
+- Shortname: wpub-ann
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Web Publications {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/wpub/](https://www.w3.org/TR/wpub/)
+- Crawled URL: [https://w3c.github.io/wpub/](https://w3c.github.io/wpub/)
+- Crawled version: 20 June 2023
+- Editor's Draft: [https://w3c.github.io/wpub/](https://w3c.github.io/wpub/)
+- Latest published version: [https://www.w3.org/TR/wpub/](https://www.w3.org/TR/wpub/)
+- Shortname: wpub
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/), related reference "json-ld" uses URL [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/)
+     * [`https://www.w3.org/TR/html/dom.html`](https://www.w3.org/TR/html/dom.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html/editing.html`](https://www.w3.org/TR/html/editing.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html/grouping-content.html`](https://www.w3.org/TR/html/grouping-content.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html/infrastructure.html`](https://www.w3.org/TR/html/infrastructure.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html/references.html`](https://www.w3.org/TR/html/references.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html/sections.html`](https://www.w3.org/TR/html/sections.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html/textlevel-semantics.html`](https://www.w3.org/TR/html/textlevel-semantics.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/html5/semantics-scripting.html`](https://www.w3.org/TR/html5/semantics-scripting.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Web Annotation Extensions for Web Publications](https://w3c.github.io/wpub-ann/)
+
+
 ## Browser Testing and Tools Working Group {#group-browser_testing_and_tools_working_group}
 
 ### WebDriver {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -3404,10 +3520,11 @@ Informative references to this spec from:
 
 #### Spec info {.info}
 
-- Initial URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
+- Initial URL: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
 - Crawled URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
 - Crawled version: 6 July 2023
 - Editor's Draft: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
+- Latest published version: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
 - Shortname: css-anchor-position-1
 
 #### Potential issue(s) {.anomalies}
@@ -9230,6 +9347,7 @@ Informative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [Web Annotation Extensions for Web Publications](https://w3c.github.io/wpub-ann/)
 
 
 ### Selectors Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -10403,10 +10521,12 @@ Normative references to this spec from:
 
 - [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
 - [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 
 Informative references to this spec from:
 
+- [Audiobooks](https://w3c.github.io/audiobooks/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
@@ -11206,7 +11326,7 @@ Normative references to this spec from:
 
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Ink API](https://wicg.github.io/ink-enhancement/)
 - [UI Events](https://w3c.github.io/uievents/)
@@ -12727,6 +12847,50 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+## Screen Capture Community Group {#group-screen_capture_community_group}
+
+### Captured Mouse Events {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://screen-share.github.io/captured-mouse-events/](https://screen-share.github.io/captured-mouse-events/)
+- Crawled URL: [https://screen-share.github.io/captured-mouse-events/](https://screen-share.github.io/captured-mouse-events/)
+- Crawled version: 06 July 2023
+- Editor's Draft: [https://screen-share.github.io/captured-mouse-events/](https://screen-share.github.io/captured-mouse-events/)
+- Shortname: captured-mouse-events
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Element Capture {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
+- Crawled URL: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
+- Crawled version: 03 July 2023
+- Editor's Draft: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
+- Shortname: element-capture
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ## Second Screen Working Group {#group-second_screen_working_group}
 
 ### Open Screen Protocol {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -13560,6 +13724,8 @@ Normative references to this spec from:
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
+- [Web Publications](https://w3c.github.io/wpub/)
 
 Informative references to this spec from:
 
@@ -14007,6 +14173,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
@@ -14014,7 +14181,7 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [EditContext API](https://w3c.github.io/edit-context/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -14496,7 +14663,7 @@ Normative references to this spec from:
 
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Input Device Capabilities](https://wicg.github.io/input-device-capabilities/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
@@ -14834,9 +15001,9 @@ No informative reference to this spec from other specs.
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/event-timing/](https://www.w3.org/TR/event-timing/)
-- Crawled URL: [https://w3c.github.io/event-timing](https://w3c.github.io/event-timing)
+- Crawled URL: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
 - Crawled version: 8 December 2022
-- Editor's Draft: [https://w3c.github.io/event-timing](https://w3c.github.io/event-timing)
+- Editor's Draft: [https://w3c.github.io/event-timing/](https://w3c.github.io/event-timing/)
 - Latest published version: [https://www.w3.org/TR/event-timing/](https://www.w3.org/TR/event-timing/)
 - Shortname: event-timing
 
@@ -14885,7 +15052,7 @@ Normative references to this spec from:
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Gamepad](https://w3c.github.io/gamepad/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -15075,7 +15242,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
@@ -15104,7 +15271,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [Element Timing API](https://wicg.github.io/element-timing/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -15757,7 +15924,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
@@ -17268,7 +17435,9 @@ Normative references to this spec from:
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
+- [Element Capture](https://screen-share.github.io/element-capture/)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
@@ -17473,7 +17642,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Element Capture](https://screen-share.github.io/element-capture/)
 
 No informative reference to this spec from other specs.
 
@@ -17525,6 +17696,8 @@ Normative references to this spec from:
 
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
+- [Element Capture](https://screen-share.github.io/element-capture/)
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [preferCurrentTab](https://wicg.github.io/prefer-current-tab/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
@@ -17649,6 +17822,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
@@ -17902,9 +18076,11 @@ Normative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Audiobooks](https://w3c.github.io/audiobooks/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
@@ -17963,11 +18139,12 @@ Normative references to this spec from:
 - [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [EditContext API](https://w3c.github.io/edit-context/)
+- [Element Capture](https://screen-share.github.io/element-capture/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
@@ -18029,6 +18206,7 @@ Normative references to this spec from:
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -18073,6 +18251,7 @@ Normative references to this spec from:
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Speech API](https://wicg.github.io/speech-api/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
@@ -18281,6 +18460,7 @@ Normative references to this spec from:
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
+- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
@@ -18379,6 +18559,7 @@ Normative references to this spec from:
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Audiobooks](https://w3c.github.io/audiobooks/)
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Badging API](https://w3c.github.io/badging/)
@@ -18386,6 +18567,7 @@ Normative references to this spec from:
 - [Beacon](https://w3c.github.io/beacon/)
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
@@ -18465,11 +18647,12 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [EditContext API](https://w3c.github.io/edit-context/)
+- [Element Capture](https://screen-share.github.io/element-capture/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
@@ -18560,6 +18743,7 @@ Normative references to this spec from:
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -18626,6 +18810,7 @@ Normative references to this spec from:
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
@@ -18755,6 +18940,7 @@ Normative references to this spec from:
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Audiobooks](https://w3c.github.io/audiobooks/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Badging API](https://w3c.github.io/badging/)
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
@@ -18814,7 +19000,7 @@ Normative references to this spec from:
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
@@ -18882,6 +19068,7 @@ Normative references to this spec from:
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [Push API](https://w3c.github.io/push-api/)
 - [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -19228,6 +19415,7 @@ Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Audiobooks](https://w3c.github.io/audiobooks/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Beacon](https://w3c.github.io/beacon/)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
@@ -19280,6 +19468,7 @@ Normative references to this spec from:
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
@@ -19304,6 +19493,7 @@ Normative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -19322,6 +19512,7 @@ Informative references to this spec from:
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
+- [Web Annotation Extensions for Web Publications](https://w3c.github.io/wpub-ann/)
 - [WebOTP API](https://wicg.github.io/web-otp/)
 
 
@@ -19361,6 +19552,7 @@ Normative references to this spec from:
 - [Beacon](https://w3c.github.io/beacon/)
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
+- [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Close Watcher API](https://wicg.github.io/close-watcher/)
@@ -19411,11 +19603,12 @@ Normative references to this spec from:
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [EditContext API](https://w3c.github.io/edit-context/)
+- [Element Capture](https://screen-share.github.io/element-capture/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-- [Event Timing API](https://w3c.github.io/event-timing)
+- [Event Timing API](https://w3c.github.io/event-timing/)
 - [EyeDropper API](https://wicg.github.io/eyedropper-api/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
@@ -19552,6 +19745,7 @@ Normative references to this spec from:
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
@@ -19591,6 +19785,7 @@ Informative references to this spec from:
 - [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/)
+- [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 

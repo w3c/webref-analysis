@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-07T06:35:05.581Z",
+  "date": "2023-07-07T12:51:24.754Z",
   "stats": {
-    "crawled": 565,
+    "crawled": 571,
     "errors": 0,
-    "studied": 565
+    "studied": 571
   },
   "results": [
     {
@@ -77,7 +77,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -693,7 +693,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -931,7 +931,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -959,6 +959,75 @@
           "informative": []
         },
         "ok": true
+      }
+    },
+    {
+      "title": "Audiobooks",
+      "shortname": "audiobooks",
+      "date": "20 June 2023",
+      "url": "https://www.w3.org/TR/audiobooks/",
+      "release": {
+        "url": "https://www.w3.org/TR/audiobooks/",
+        "status": "Recommendation",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/audiobooks/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/audiobooks",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/audiobooks/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Audiobooks Working Group",
+          "url": "https://www.w3.org/publishing/groups/publ-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/annotation-model/",
+          "https://www.w3.org/TR/lpf/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/pub-manifest/",
+            "ref": {
+              "name": "pub-manifest",
+              "url": "https://www.w3.org/TR/pub-manifest/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            }
+          ]
+        },
+        "ok": false
       }
     },
     {
@@ -1209,7 +1278,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -1431,7 +1500,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -1455,6 +1524,48 @@
           "informative": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "Captured Mouse Events",
+      "shortname": "captured-mouse-events",
+      "date": "06 July 2023",
+      "url": "https://screen-share.github.io/captured-mouse-events/",
+      "nightly": {
+        "url": "https://screen-share.github.io/captured-mouse-events/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/screen-share/captured-mouse-events",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://screen-share.github.io/captured-mouse-events/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Screen Capture Community Group",
+          "url": "https://www.w3.org/community/sccg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
       }
     },
     {
@@ -1747,7 +1858,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -2002,7 +2113,7 @@
       "groups": [
         {
           "name": "Web Editing Working Group",
-          "url": "https://www.w3.org/groups/wg/webediting"
+          "url": "https://www.w3.org/groups/wg/webediting/"
         }
       ],
       "report": {
@@ -2601,7 +2712,7 @@
         },
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -2705,7 +2816,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -2902,7 +3013,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -2958,7 +3069,7 @@
       "groups": [
         {
           "name": "Web Editing Working Group",
-          "url": "https://www.w3.org/groups/wg/webediting"
+          "url": "https://www.w3.org/groups/wg/webediting/"
         }
       ],
       "report": {
@@ -3280,7 +3391,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -3991,7 +4102,7 @@
           ],
           "informative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -4054,7 +4165,12 @@
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
       "date": "6 July 2023",
-      "url": "https://drafts.csswg.org/css-anchor-position-1/",
+      "url": "https://www.w3.org/TR/css-anchor-position-1/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-anchor-position-1/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://drafts.csswg.org/css-anchor-position-1/",
         "status": "Editor's Draft",
@@ -5191,7 +5307,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -5542,7 +5658,7 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -6402,7 +6518,7 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -9076,7 +9192,7 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -10895,7 +11011,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -12954,7 +13070,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -13808,7 +13924,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -14751,7 +14867,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -15023,7 +15139,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -15194,7 +15310,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -19175,7 +19291,7 @@
               "crawled": "https://w3c.github.io/webappsec-cspee/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -20544,7 +20660,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -21862,6 +21978,11 @@
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
+              "url": "https://www.w3.org/TR/audiobooks/",
+              "title": "Audiobooks",
+              "crawled": "https://w3c.github.io/audiobooks/"
+            },
+            {
               "url": "https://wicg.github.io/background-fetch/",
               "title": "Background Fetch",
               "crawled": "https://wicg.github.io/background-fetch/"
@@ -21875,6 +21996,11 @@
               "url": "https://www.w3.org/TR/capture-handle-identity/",
               "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
+              "url": "https://screen-share.github.io/captured-mouse-events/",
+              "title": "Captured Mouse Events",
+              "crawled": "https://screen-share.github.io/captured-mouse-events/"
             },
             {
               "url": "https://www.w3.org/TR/clipboard-apis/",
@@ -21927,7 +22053,7 @@
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -22167,6 +22293,11 @@
               "crawled": "https://w3c.github.io/edit-context/"
             },
             {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
+            },
+            {
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
@@ -22189,7 +22320,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://wicg.github.io/eyedropper-api/",
@@ -22497,6 +22628,11 @@
               "crawled": "https://wicg.github.io/turtledove/"
             },
             {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -22715,6 +22851,11 @@
               "url": "https://wicg.github.io/periodic-background-sync/",
               "title": "Web Periodic Background Synchronization",
               "crawled": "https://wicg.github.io/periodic-background-sync/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wpub/",
+              "title": "Web Publications",
+              "crawled": "https://w3c.github.io/wpub/"
             },
             {
               "url": "https://wicg.github.io/serial/",
@@ -23394,6 +23535,11 @@
               "crawled": "https://wicg.github.io/turtledove/"
             },
             {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -23487,6 +23633,11 @@
               "url": "https://w3c.github.io/web-nfc/",
               "title": "Web NFC",
               "crawled": "https://w3c.github.io/web-nfc/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wpub/",
+              "title": "Web Publications",
+              "crawled": "https://w3c.github.io/wpub/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -23618,7 +23769,7 @@
       "groups": [
         {
           "name": "Web Editing Working Group",
-          "url": "https://www.w3.org/groups/wg/webediting"
+          "url": "https://www.w3.org/groups/wg/webediting/"
         }
       ],
       "report": {
@@ -23652,6 +23803,48 @@
           "informative": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "Element Capture",
+      "shortname": "element-capture",
+      "date": "03 July 2023",
+      "url": "https://screen-share.github.io/element-capture/",
+      "nightly": {
+        "url": "https://screen-share.github.io/element-capture/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/screen-share/element-capture",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://screen-share.github.io/element-capture/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Screen Capture Community Group",
+          "url": "https://www.w3.org/community/sccg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
       }
     },
     {
@@ -23702,7 +23895,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://www.w3.org/TR/largest-contentful-paint/",
@@ -24237,18 +24430,18 @@
       "url": "https://www.w3.org/TR/event-timing/",
       "release": {
         "url": "https://www.w3.org/TR/event-timing/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
-        "url": "https://w3c.github.io/event-timing",
+        "url": "https://w3c.github.io/event-timing/",
         "status": "Editor's Draft",
         "alternateUrls": [],
         "repository": "https://github.com/w3c/event-timing",
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/event-timing",
+      "crawled": "https://w3c.github.io/event-timing/",
       "organization": "W3C",
       "groups": [
         {
@@ -24515,7 +24708,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -24992,6 +25185,11 @@
               "crawled": "https://webaudio.github.io/web-audio-api/"
             },
             {
+              "url": "https://www.w3.org/TR/wpub/",
+              "title": "Web Publications",
+              "crawled": "https://w3c.github.io/wpub/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-share/",
               "title": "Web Share API",
               "crawled": "https://w3c.github.io/web-share/"
@@ -25159,7 +25357,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -25958,7 +26156,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -26017,7 +26215,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -26793,7 +26991,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -27376,6 +27574,11 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://www.w3.org/TR/audiobooks/",
+              "title": "Audiobooks",
+              "crawled": "https://w3c.github.io/audiobooks/"
+            },
+            {
               "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
@@ -27409,6 +27612,11 @@
               "url": "https://www.w3.org/TR/capture-handle-identity/",
               "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
+              "url": "https://screen-share.github.io/captured-mouse-events/",
+              "title": "Captured Mouse Events",
+              "crawled": "https://screen-share.github.io/captured-mouse-events/"
             },
             {
               "url": "https://www.w3.org/TR/clear-site-data/",
@@ -27806,6 +28014,11 @@
               "crawled": "https://w3c.github.io/edit-context/"
             },
             {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
+            },
+            {
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
@@ -27828,7 +28041,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://wicg.github.io/eyedropper-api/",
@@ -28281,6 +28494,11 @@
               "crawled": "https://wicg.github.io/turtledove/"
             },
             {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -28611,6 +28829,11 @@
               "crawled": "https://wicg.github.io/periodic-background-sync/"
             },
             {
+              "url": "https://www.w3.org/TR/wpub/",
+              "title": "Web Publications",
+              "crawled": "https://w3c.github.io/wpub/"
+            },
+            {
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
@@ -28778,7 +29001,7 @@
               "crawled": "https://w3c.github.io/webappsec-csp/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -29027,7 +29250,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -29074,7 +29297,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -29144,7 +29367,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -29278,7 +29501,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -29409,7 +29632,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -29541,6 +29764,11 @@
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
+              "url": "https://www.w3.org/TR/audiobooks/",
+              "title": "Audiobooks",
+              "crawled": "https://w3c.github.io/audiobooks/"
+            },
+            {
               "url": "https://wicg.github.io/background-fetch/",
               "title": "Background Fetch",
               "crawled": "https://wicg.github.io/background-fetch/"
@@ -29631,7 +29859,7 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -29838,7 +30066,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://fedidcg.github.io/FedCM/",
@@ -30174,6 +30402,11 @@
               "url": "https://www.w3.org/TR/proximity/",
               "title": "Proximity Sensor",
               "crawled": "https://w3c.github.io/proximity/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
             },
             {
               "url": "https://www.w3.org/TR/push-api/",
@@ -30689,7 +30922,7 @@
       "groups": [
         {
           "name": "Web Editing Working Group",
-          "url": "https://www.w3.org/groups/wg/webediting"
+          "url": "https://www.w3.org/groups/wg/webediting/"
         }
       ],
       "report": {
@@ -30834,7 +31067,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -31245,12 +31478,22 @@
               "crawled": "https://w3c.github.io/json-ld-api/"
             },
             {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
               "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/audiobooks/",
+              "title": "Audiobooks",
+              "crawled": "https://w3c.github.io/audiobooks/"
+            },
             {
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
@@ -31810,7 +32053,7 @@
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -32240,7 +32483,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -32275,9 +32518,19 @@
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
             },
             {
+              "url": "https://screen-share.github.io/captured-mouse-events/",
+              "title": "Captured Mouse Events",
+              "crawled": "https://screen-share.github.io/captured-mouse-events/"
+            },
+            {
               "url": "https://www.w3.org/TR/compute-pressure/",
               "title": "Compute Pressure Level 1",
               "crawled": "https://w3c.github.io/compute-pressure/"
+            },
+            {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
             },
             {
               "url": "https://www.w3.org/TR/html-media-capture/",
@@ -32444,7 +32697,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -32499,7 +32752,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -33310,7 +33563,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -33382,7 +33635,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -33473,7 +33726,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -33520,7 +33773,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -34085,7 +34338,7 @@
       "groups": [
         {
           "name": "Privacy Interest Group",
-          "url": "https://www.w3.org/Privacy/"
+          "url": "https://www.w3.org/Privacy/IG/"
         }
       ],
       "report": {
@@ -34179,7 +34432,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -35159,7 +35412,7 @@
       "url": "https://www.w3.org/TR/paint-timing/",
       "release": {
         "url": "https://www.w3.org/TR/paint-timing/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -35203,7 +35456,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -35425,7 +35678,7 @@
       "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request-1.1/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -35561,7 +35814,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -35648,7 +35901,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -35917,7 +36170,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -36310,7 +36563,7 @@
       "groups": [
         {
           "name": "Pointer Events Working Group",
-          "url": "https://www.w3.org/groups/wg/pointer-events"
+          "url": "https://www.w3.org/groups/wg/pointer-events/"
         }
       ],
       "report": {
@@ -36350,7 +36603,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -36402,7 +36655,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -37165,6 +37418,67 @@
       }
     },
     {
+      "title": "Publication Manifest",
+      "shortname": "pub-manifest",
+      "date": "20 June 2023",
+      "url": "https://www.w3.org/TR/pub-manifest/",
+      "release": {
+        "url": "https://www.w3.org/TR/pub-manifest/",
+        "status": "Recommendation",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/pub-manifest/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/pub-manifest",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/pub-manifest/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Audiobooks Working Group",
+          "url": "https://www.w3.org/publishing/groups/publ-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/json-ld/",
+            "ref": {
+              "name": "json-ld10",
+              "url": "https://www.w3.org/TR/2014/REC-json-ld-20140116/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/audiobooks/",
+              "title": "Audiobooks",
+              "crawled": "https://w3c.github.io/audiobooks/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Push API",
       "shortname": "push-api",
       "date": "30 June 2022",
@@ -37187,7 +37501,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -37388,7 +37702,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -37499,7 +37813,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -37588,7 +37902,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -37677,7 +37991,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -37766,7 +38080,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -37844,7 +38158,7 @@
       "url": "https://www.w3.org/TR/rdf12-trig/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-trig/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -37860,7 +38174,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -37949,7 +38263,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -38048,7 +38362,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -38385,7 +38699,7 @@
       "groups": [
         {
           "name": "RDF Dataset Canonicalization and Hash Working Group",
-          "url": "https://www.w3.org/groups/wg/rch"
+          "url": "https://www.w3.org/groups/wg/rch/"
         }
       ],
       "report": {
@@ -38434,7 +38748,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -38532,7 +38846,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -38552,7 +38866,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -39245,7 +39565,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41087,6 +41407,16 @@
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wpub/",
+              "title": "Web Publications",
+              "crawled": "https://w3c.github.io/wpub/"
             }
           ],
           "informative": []
@@ -41315,7 +41645,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "7 July 2023",
+      "date": "6 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41368,7 +41698,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "7 July 2023",
+      "date": "5 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41432,7 +41762,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "7 July 2023",
+      "date": "6 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -42735,7 +43065,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -42794,7 +43124,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -42822,6 +43152,16 @@
               "url": "https://www.w3.org/TR/capture-handle-identity/",
               "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
+            },
+            {
+              "url": "https://screen-share.github.io/captured-mouse-events/",
+              "title": "Captured Mouse Events",
+              "crawled": "https://screen-share.github.io/captured-mouse-events/"
+            },
+            {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
             },
             {
               "url": "https://w3c.github.io/mediacapture-automation/",
@@ -42893,7 +43233,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -43221,7 +43561,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -43522,7 +43862,7 @@
       "groups": [
         {
           "name": "Web Editing Working Group",
-          "url": "https://www.w3.org/groups/wg/webediting"
+          "url": "https://www.w3.org/groups/wg/webediting/"
         }
       ],
       "report": {
@@ -43750,6 +44090,11 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wpub-ann/",
+              "title": "Web Annotation Extensions for Web Publications",
+              "crawled": "https://w3c.github.io/wpub-ann/"
             }
           ]
         },
@@ -44315,7 +44660,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -44456,7 +44801,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -44608,7 +44953,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -44753,7 +45098,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -44910,7 +45255,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -45051,7 +45396,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -45190,7 +45535,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -45329,7 +45674,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -45468,7 +45813,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -45607,7 +45952,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -45746,7 +46091,7 @@
       "groups": [
         {
           "name": "RDF-star Working Group",
-          "url": "https://www.w3.org/groups/wg/rdf-star"
+          "url": "https://www.w3.org/groups/wg/rdf-star/"
         }
       ],
       "report": {
@@ -46207,7 +46552,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -46250,6 +46595,16 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wpub/",
+              "title": "Web Publications",
+              "crawled": "https://w3c.github.io/wpub/"
             }
           ],
           "informative": [
@@ -46812,7 +47167,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -46996,7 +47351,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -47114,7 +47469,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -47225,7 +47580,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -47274,6 +47629,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://screen-share.github.io/captured-mouse-events/",
+              "title": "Captured Mouse Events",
+              "crawled": "https://screen-share.github.io/captured-mouse-events/"
+            },
+            {
               "url": "https://wicg.github.io/close-watcher/",
               "title": "Close Watcher API",
               "crawled": "https://wicg.github.io/close-watcher/"
@@ -47311,7 +47671,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -47413,7 +47773,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -47489,7 +47849,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -47565,7 +47925,7 @@
       "groups": [
         {
           "name": "Web Application Security Working Group",
-          "url": "https://www.w3.org/groups/wg/webappsec"
+          "url": "https://www.w3.org/groups/wg/webappsec/"
         }
       ],
       "report": {
@@ -47706,6 +48066,11 @@
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/audiobooks/",
+              "title": "Audiobooks",
+              "crawled": "https://w3c.github.io/audiobooks/"
             },
             {
               "url": "https://wicg.github.io/background-fetch/",
@@ -47968,6 +48333,11 @@
               "crawled": "https://wicg.github.io/turtledove/"
             },
             {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -48088,6 +48458,11 @@
               "crawled": "https://w3c.github.io/web-nfc/"
             },
             {
+              "url": "https://www.w3.org/TR/wpub/",
+              "title": "Web Publications",
+              "crawled": "https://w3c.github.io/wpub/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-share/",
               "title": "Web Share API",
               "crawled": "https://w3c.github.io/web-share/"
@@ -48163,6 +48538,11 @@
               "url": "https://www.w3.org/TR/remote-playback/",
               "title": "Remote Playback API",
               "crawled": "https://w3c.github.io/remote-playback/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wpub-ann/",
+              "title": "Web Annotation Extensions for Web Publications",
+              "crawled": "https://w3c.github.io/wpub-ann/"
             },
             {
               "url": "https://wicg.github.io/web-otp/",
@@ -48490,7 +48870,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -48543,7 +48923,7 @@
       "groups": [
         {
           "name": "Web Editing Working Group",
-          "url": "https://www.w3.org/groups/wg/webediting"
+          "url": "https://www.w3.org/groups/wg/webediting/"
         }
       ],
       "report": {
@@ -49179,6 +49559,55 @@
       }
     },
     {
+      "title": "Web Annotation Extensions for Web Publications",
+      "shortname": "wpub-ann",
+      "date": "01 October 2020",
+      "url": "https://www.w3.org/TR/wpub-ann/",
+      "release": {
+        "url": "https://www.w3.org/TR/wpub-ann/",
+        "status": "Discontinued Draft",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/wpub-ann/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/wpub-ann",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/wpub-ann/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Audiobooks Working Group",
+          "url": "https://www.w3.org/publishing/groups/publ-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css3-selectors/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Web App Launch Handler API",
       "shortname": "web-app-launch",
       "date": "05 January 2023",
@@ -49243,7 +49672,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -49302,7 +49731,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -49426,7 +49855,7 @@
       "groups": [
         {
           "name": "Audio Working Group",
-          "url": "https://www.w3.org/groups/wg/audio"
+          "url": "https://www.w3.org/groups/wg/audio/"
         }
       ],
       "report": {
@@ -49928,6 +50357,11 @@
               "crawled": "https://w3c.github.io/mediacapture-handle/identity/"
             },
             {
+              "url": "https://screen-share.github.io/captured-mouse-events/",
+              "title": "Captured Mouse Events",
+              "crawled": "https://screen-share.github.io/captured-mouse-events/"
+            },
+            {
               "url": "https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html",
               "title": "Client to Authenticator Protocol (CTAP)",
               "crawled": "https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html"
@@ -49983,7 +50417,7 @@
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
             },
             {
-              "url": "https://drafts.csswg.org/css-anchor-position-1/",
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
@@ -50178,6 +50612,11 @@
               "crawled": "https://w3c.github.io/edit-context/"
             },
             {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
+            },
+            {
               "url": "https://wicg.github.io/element-timing/",
               "title": "Element Timing API",
               "crawled": "https://wicg.github.io/element-timing/"
@@ -50200,7 +50639,7 @@
             {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
-              "crawled": "https://w3c.github.io/event-timing"
+              "crawled": "https://w3c.github.io/event-timing/"
             },
             {
               "url": "https://wicg.github.io/eyedropper-api/",
@@ -50883,6 +51322,11 @@
               "crawled": "https://w3c.github.io/web-nfc/"
             },
             {
+              "url": "https://www.w3.org/TR/wpub/",
+              "title": "Web Publications",
+              "crawled": "https://w3c.github.io/wpub/"
+            },
+            {
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
@@ -51065,6 +51509,11 @@
               "crawled": "https://wicg.github.io/overscroll-scrollend-events/"
             },
             {
+              "url": "https://www.w3.org/TR/pub-manifest/",
+              "title": "Publication Manifest",
+              "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
               "url": "https://www.w3.org/TR/tracking-dnt/",
               "title": "Tracking Preference Expression (DNT)",
               "crawled": "https://w3c.github.io/dnt/drafts/tracking-dnt.html"
@@ -51102,7 +51551,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -51163,7 +51612,7 @@
       "groups": [
         {
           "name": "Audio Working Group",
-          "url": "https://www.w3.org/groups/wg/audio"
+          "url": "https://www.w3.org/groups/wg/audio/"
         }
       ],
       "report": {
@@ -51347,6 +51796,123 @@
       }
     },
     {
+      "title": "Web Publications",
+      "shortname": "wpub",
+      "date": "20 June 2023",
+      "url": "https://www.w3.org/TR/wpub/",
+      "release": {
+        "url": "https://www.w3.org/TR/wpub/",
+        "status": "Discontinued Draft",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/wpub/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/wpub",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/wpub/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Audiobooks Working Group",
+          "url": "https://www.w3.org/publishing/groups/publ-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2014/REC-json-ld-20140116/",
+            "ref": {
+              "name": "json-ld",
+              "url": "https://www.w3.org/TR/json-ld/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/html/dom.html",
+            "ref": {
+              "name": "html",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/html/editing.html",
+            "ref": {
+              "name": "html",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/html/grouping-content.html",
+            "ref": {
+              "name": "html",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/html/infrastructure.html",
+            "ref": {
+              "name": "html",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/html/references.html",
+            "ref": {
+              "name": "html",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/html/sections.html",
+            "ref": {
+              "name": "html",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/html/textlevel-semantics.html",
+            "ref": {
+              "name": "html",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/html5/semantics-scripting.html",
+            "ref": {
+              "name": "html",
+              "url": "https://html.spec.whatwg.org/multipage/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/wpub-ann/",
+              "title": "Web Annotation Extensions for Web Publications",
+              "crawled": "https://w3c.github.io/wpub-ann/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Web Serial API",
       "shortname": "serial",
       "date": "15 June 2023",
@@ -51417,7 +51983,7 @@
       "groups": [
         {
           "name": "Web Applications Working Group",
-          "url": "https://www.w3.org/groups/wg/webapps"
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -51580,7 +52146,7 @@
       "groups": [
         {
           "name": "WebAssembly Working Group",
-          "url": "https://www.w3.org/groups/wg/wasm"
+          "url": "https://www.w3.org/groups/wg/wasm/"
         }
       ],
       "report": {
@@ -51631,7 +52197,7 @@
       "groups": [
         {
           "name": "WebAssembly Working Group",
-          "url": "https://www.w3.org/groups/wg/wasm"
+          "url": "https://www.w3.org/groups/wg/wasm/"
         }
       ],
       "report": {
@@ -51750,7 +52316,7 @@
       "groups": [
         {
           "name": "WebAssembly Working Group",
-          "url": "https://www.w3.org/groups/wg/wasm"
+          "url": "https://www.w3.org/groups/wg/wasm/"
         }
       ],
       "report": {
@@ -54403,7 +54969,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -54450,7 +55016,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -54503,7 +55069,7 @@
       "groups": [
         {
           "name": "Web Real-Time Communications Working Group",
-          "url": "https://www.w3.org/groups/wg/webrtc"
+          "url": "https://www.w3.org/groups/wg/webrtc/"
         }
       ],
       "report": {
@@ -54524,6 +55090,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://screen-share.github.io/captured-mouse-events/",
+              "title": "Captured Mouse Events",
+              "crawled": "https://screen-share.github.io/captured-mouse-events/"
+            },
             {
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
