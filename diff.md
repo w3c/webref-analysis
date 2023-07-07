@@ -2,67 +2,13 @@
 % Strudy
 % July 07, 2023
 
-## Audiobooks
+## WebCodecs Codec Registry
 
-- Initial URL: [https://www.w3.org/TR/audiobooks/](https://www.w3.org/TR/audiobooks/)
+- Initial URL: [https://www.w3.org/TR/webcodecs-codec-registry/](https://www.w3.org/TR/webcodecs-codec-registry/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/audiobooks/](https://w3c.github.io/audiobooks/)
-- This specification was not in the reference crawl report.
-
-
-## Captured Mouse Events
-
-- Initial URL: [https://screen-share.github.io/captured-mouse-events/](https://screen-share.github.io/captured-mouse-events/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://screen-share.github.io/captured-mouse-events/](https://screen-share.github.io/captured-mouse-events/)
-- This specification was not in the reference crawl report.
-
-
-## CSS Anchor Positioning
-
-- Initial URL: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
-- This specification was not in the reference crawl report.
-
-
-## CSS Anchor Positioning
-
-- Initial URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
-- Crawled URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
-- This specification is not in the new crawl report.
-
-
-## Element Capture
-
-- Initial URL: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
-- This specification was not in the reference crawl report.
-
-
-## Publication Manifest
-
-- Initial URL: [https://www.w3.org/TR/pub-manifest/](https://www.w3.org/TR/pub-manifest/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/pub-manifest/](https://w3c.github.io/pub-manifest/)
-- This specification was not in the reference crawl report.
-
-
-## Web Annotation Extensions for Web Publications
-
-- Initial URL: [https://www.w3.org/TR/wpub-ann/](https://www.w3.org/TR/wpub-ann/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/wpub-ann/](https://w3c.github.io/wpub-ann/)
-- This specification was not in the reference crawl report.
-
-
-## Web Publications
-
-- Initial URL: [https://www.w3.org/TR/wpub/](https://www.w3.org/TR/wpub/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/wpub/](https://w3c.github.io/wpub/)
-- This specification was not in the reference crawl report.
+- Editor's Draft: [https://w3c.github.io/webcodecs/codec_registry.html](https://w3c.github.io/webcodecs/codec_registry.html)
+- Spec is OK: *INS* false / *DEL* true
+- Inconsistent references for links: *INS* https://www.w3.org/TR/webcodecs-aac-codec-registration/, https://www.w3.org/TR/webcodecs-alaw-codec-registration/, https://www.w3.org/TR/webcodecs-av1-codec-registration/, https://www.w3.org/TR/webcodecs-avc-codec-registration/, https://www.w3.org/TR/webcodecs-flac-codec-registration/, https://www.w3.org/TR/webcodecs-hevc-codec-registration/, https://www.w3.org/TR/webcodecs-mp3-codec-registration/, https://www.w3.org/TR/webcodecs-opus-codec-registration/, https://www.w3.org/TR/webcodecs-pcm-codec-registration/, https://www.w3.org/TR/webcodecs-ulaw-codec-registration/, https://www.w3.org/TR/webcodecs-vorbis-codec-registration/, https://www.w3.org/TR/webcodecs-vp8-codec-registration/, https://www.w3.org/TR/webcodecs-vp9-codec-registration/
 
 
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-07T12:51:24.754Z",
+  "date": "2023-07-07T18:35:25.209Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -112,7 +112,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -165,7 +165,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -1080,7 +1080,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1133,7 +1133,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -3180,7 +3180,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -19209,7 +19209,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "29 June 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -21418,7 +21418,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -25860,7 +25860,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -26244,7 +26244,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -26856,7 +26856,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -31912,7 +31912,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -34602,7 +34602,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -35119,7 +35119,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -40022,7 +40022,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41531,7 +41531,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -41645,7 +41645,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41698,7 +41698,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "5 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41762,7 +41762,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -47507,7 +47507,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -48958,7 +48958,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -49011,7 +49011,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -49064,7 +49064,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -52347,7 +52347,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -52501,7 +52501,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "6 July 2023",
+      "date": "7 July 2023",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
@@ -52537,7 +52537,99 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-AAC-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/aac_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-ALAW-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/alaw_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-AV1-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/av1_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-AVC-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/avc_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-FLAC-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/flac_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-HEVC-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/hevc_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-MP3-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/mp3_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-OPUS-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/opus_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-PCM-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-ULAW-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/ulaw_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-VORBIS-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/vorbis_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-VP8-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/vp8_codec_registration.html"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
+            "ref": {
+              "name": "WEBCODECS-VP9-CODEC-REGISTRATION",
+              "url": "https://w3c.github.io/webcodecs/vp9_codec_registration.html"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": [
@@ -52618,7 +52710,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
