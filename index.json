@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-08T06:33:49.108Z",
+  "date": "2023-07-08T12:41:07.484Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -1529,7 +1529,7 @@
     {
       "title": "Captured Mouse Events",
       "shortname": "captured-mouse-events",
-      "date": "07 July 2023",
+      "date": "08 July 2023",
       "url": "https://screen-share.github.io/captured-mouse-events/",
       "nightly": {
         "url": "https://screen-share.github.io/captured-mouse-events/",
@@ -39920,7 +39920,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "7 July 2023",
+      "date": "8 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41698,7 +41698,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "7 July 2023",
+      "date": "8 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41804,7 +41804,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "7 July 2023",
+      "date": "8 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
