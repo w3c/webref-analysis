@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 10, 2023
+% July 11, 2023
 
 571 specifications were crawled in this report.
 
@@ -1736,6 +1736,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
     * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/) but related reference "REFERRER-POLICY" uses URL [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/) links to [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/) but related reference "REQUESTIDLECALLBACK" uses URL [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/) links to [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/) but related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/) links to [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/) but related reference "json-ld10" uses URL [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/)
 - [RDF 1.1 N-Quads](https://www.w3.org/TR/n-quads/) links to:
     * [`http://www.w3.org/TR/n-triples/`](http://www.w3.org/TR/n-triples/) but related reference "N-TRIPLES" uses URL [`http://www.w3.org/TR/2014/REC-n-triples-20140225/`](http://www.w3.org/TR/2014/REC-n-triples-20140225/)
@@ -1914,7 +1915,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 509 inconsistent references for links found in 190 specifications
+=> 510 inconsistent references for links found in 191 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
