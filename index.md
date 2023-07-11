@@ -159,7 +159,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 30 June 2023
+- Crawled version: 11 July 2023
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -771,7 +771,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 10 July 2023
+- Crawled version: 11 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -11359,7 +11359,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 02 July 2023
+- Crawled version: 11 July 2023
 - Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
 - Shortname: PNG-spec
 
@@ -16369,7 +16369,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Crawled URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
-- Crawled version: 07 July 2023
+- Crawled version: 11 July 2023
 - Editor's Draft: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Shortname: manifest-incubations
 
