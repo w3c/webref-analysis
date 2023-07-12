@@ -1072,7 +1072,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
-- Crawled version: 11 July 2023
+- Crawled version: 12 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Shortname: rfc9110
 
@@ -10600,7 +10600,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 26 June 2023
+- Crawled version: 12 July 2023
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
