@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-13T12:44:13.267Z",
+  "date": "2023-07-13T18:35:46.699Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -7348,6 +7348,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://privacycg.github.io/nav-tracking-mitigations/",
+              "title": "Navigational-Tracking Mitigations",
+              "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
+            },
+            {
               "url": "https://www.w3.org/TR/paint-timing/",
               "title": "Paint Timing 1",
               "crawled": "https://w3c.github.io/paint-timing/"
@@ -8318,7 +8323,7 @@
     {
       "title": "CSS Containment Module Level 2",
       "shortname": "css-contain-2",
-      "date": "18 May 2023",
+      "date": "13 July 2023",
       "url": "https://www.w3.org/TR/css-contain-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-2/",
@@ -23189,7 +23194,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "6 July 2023",
+      "date": "13 July 2023",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -26714,7 +26719,7 @@
     {
       "title": "Global Privacy Control (GPC)",
       "shortname": "gpc-spec",
-      "date": "20 April 2023",
+      "date": "13 July 2023",
       "url": "https://privacycg.github.io/gpc-spec/",
       "nightly": {
         "url": "https://privacycg.github.io/gpc-spec/",
@@ -34784,7 +34789,7 @@
     {
       "title": "Navigational-Tracking Mitigations",
       "shortname": "nav-tracking-mitigations",
-      "date": "26 June 2023",
+      "date": "13 July 2023",
       "url": "https://privacycg.github.io/nav-tracking-mitigations/",
       "nightly": {
         "url": "https://privacycg.github.io/nav-tracking-mitigations/",
@@ -34816,6 +34821,13 @@
         },
         "missingLinkRef": [],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/pub-manifest/",
+            "ref": {
+              "name": "PUB-MANIFEST",
+              "url": "https://w3c.github.io/pub-manifest/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/tracking-dnt/",
             "ref": {
@@ -37195,7 +37207,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "12 July 2023",
+      "date": "13 July 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -37494,6 +37506,11 @@
               "url": "https://www.w3.org/TR/audiobooks/",
               "title": "Audiobooks",
               "crawled": "https://w3c.github.io/audiobooks/"
+            },
+            {
+              "url": "https://privacycg.github.io/nav-tracking-mitigations/",
+              "title": "Navigational-Tracking Mitigations",
+              "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -40050,7 +40067,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "12 July 2023",
+      "date": "13 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -55085,7 +55102,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "29 June 2023",
+      "date": "13 July 2023",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -55185,7 +55202,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "29 June 2023",
+      "date": "13 July 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
@@ -56759,6 +56776,11 @@
               "url": "https://www.w3.org/TR/mixed-content/",
               "title": "Mixed Content",
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
+            },
+            {
+              "url": "https://wicg.github.io/trust-token-api/",
+              "title": "Private State Token API",
+              "crawled": "https://wicg.github.io/trust-token-api/"
             }
           ],
           "informative": [
