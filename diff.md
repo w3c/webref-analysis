@@ -1,4 +1,4 @@
-% Diff between report from "July 13, 2023" and reference report from "July 12, 2023"
+% Diff between report from "July 13, 2023" and reference report from "July 13, 2023"
 % Strudy
 % July 13, 2023
 
