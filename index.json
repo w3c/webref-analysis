@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-12T18:36:01.517Z",
+  "date": "2023-07-13T00:49:10.980Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -13711,7 +13711,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "6 July 2023",
+      "date": "13 July 2023",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -16967,7 +16967,7 @@
     {
       "title": "CSS Syntax Module Level 3",
       "shortname": "css-syntax-3",
-      "date": "2 November 2022",
+      "date": "12 July 2023",
       "url": "https://www.w3.org/TR/css-syntax-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -19647,11 +19647,6 @@
               "url": "https://www.w3.org/TR/css-namespaces-3/",
               "title": "CSS Namespaces Module Level 3",
               "crawled": "https://drafts.csswg.org/css-namespaces-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -29067,11 +29062,6 @@
               "url": "https://www.w3.org/TR/css-grid-2/",
               "title": "CSS Grid Layout Module Level 2",
               "crawled": "https://drafts.csswg.org/css-grid-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -38717,7 +38707,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "10 July 2023",
+      "date": "12 July 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -40140,7 +40130,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "12 July 2023",
+      "date": "13 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41683,7 +41673,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "11 July 2023",
+      "date": "13 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -49988,7 +49978,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "28 June 2023",
+      "date": "12 July 2023",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
