@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-14T06:36:52.731Z",
+  "date": "2023-07-14T12:42:51.539Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -1846,7 +1846,7 @@
     {
       "title": "Clear Site Data",
       "shortname": "clear-site-data",
-      "date": "18 February 2021",
+      "date": "14 July 2023",
       "url": "https://www.w3.org/TR/clear-site-data/",
       "release": {
         "url": "https://www.w3.org/TR/clear-site-data/",
@@ -1881,19 +1881,8 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/IndexedDB/",
-          "https://w3c.github.io/ServiceWorker/"
-        ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-mixed-content/",
-            "ref": {
-              "name": "MIXED-CONTENT",
-              "url": "https://www.w3.org/TR/mixed-content/"
-            }
-          }
-        ],
+        "missingLinkRef": [],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -1925,7 +1914,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -2015,6 +2004,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/clear-site-data/",
+              "title": "Clear Site Data",
+              "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
+            },
             {
               "url": "https://wicg.github.io/netinfo/",
               "title": "Network Information API",
@@ -29670,6 +29664,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/clear-site-data/",
+              "title": "Clear Site Data",
+              "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -39702,7 +39701,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40002,6 +40001,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/clear-site-data/",
+              "title": "Clear Site Data",
+              "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
+            },
             {
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
               "title": "Cookies: HTTP State Management Mechanism",
@@ -40859,11 +40863,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/clear-site-data/",
-              "title": "Clear Site Data",
-              "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
-            },
-            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -41520,7 +41519,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41611,6 +41610,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/clear-site-data/",
+              "title": "Clear Site Data",
+              "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
+            },
+            {
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
@@ -41690,7 +41694,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41807,7 +41811,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41849,7 +41853,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -44355,6 +44359,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/clear-site-data/",
+              "title": "Clear Site Data",
+              "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
+            },
+            {
               "url": "https://wicg.github.io/client-hints-infrastructure/",
               "title": "Client Hints Infrastructure",
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
@@ -46116,7 +46125,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "06 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
@@ -52912,7 +52921,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "12 July 2023",
+      "date": "14 July 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
