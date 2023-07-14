@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-14T00:48:07.510Z",
+  "date": "2023-07-14T06:36:52.731Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -27465,7 +27465,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -39610,7 +39610,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -40952,7 +40952,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41119,7 +41119,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41743,7 +41743,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41897,7 +41897,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
