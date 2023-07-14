@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-14T12:42:51.539Z",
+  "date": "2023-07-14T18:35:09.443Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -1891,6 +1891,11 @@
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
+              "url": "https://wicg.github.io/client-hints-infrastructure/",
+              "title": "Client Hints Infrastructure",
+              "crawled": "https://wicg.github.io/client-hints-infrastructure/"
+            },
+            {
               "url": "https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies",
               "title": "Cookies Having Independent Partitioned State specification",
               "crawled": "https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html"
@@ -1968,7 +1973,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "29 June 2023",
+      "date": "14 July 2023",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -13710,7 +13715,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -13760,7 +13765,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "8 June 2023",
+      "date": "14 July 2023",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -37206,7 +37211,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -40071,7 +40076,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40151,7 +40156,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41575,7 +41580,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "13 July 2023",
+      "date": "14 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -50570,11 +50575,6 @@
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
