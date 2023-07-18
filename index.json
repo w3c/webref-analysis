@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-17T18:34:35.488Z",
+  "date": "2023-07-18T00:53:29.331Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -11179,6 +11179,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
+            },
+            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -11288,7 +11293,7 @@
     {
       "title": "CSS Generated Content for Paged Media Module Level 4",
       "shortname": "css-gcpm-4",
-      "date": "27 June 2022",
+      "date": "17 July 2023",
       "url": "https://drafts.csswg.org/css-gcpm-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-gcpm-4/",
@@ -11499,7 +11504,7 @@
     {
       "title": "CSS Grid Layout Module Level 1",
       "shortname": "css-grid-1",
-      "date": "14 March 2023",
+      "date": "17 July 2023",
       "url": "https://www.w3.org/TR/css-grid-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-1/",
@@ -11628,7 +11633,7 @@
     {
       "title": "CSS Grid Layout Module Level 2",
       "shortname": "css-grid-2",
-      "date": "8 June 2023",
+      "date": "17 July 2023",
       "url": "https://www.w3.org/TR/css-grid-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-2/",
@@ -12345,6 +12350,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
             },
             {
               "url": "https://www.w3.org/TR/motion-1/",
@@ -13798,7 +13808,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-nesting-1/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -13860,7 +13872,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -18360,6 +18372,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
             },
             {
               "url": "https://www.w3.org/TR/geometry-1/",
@@ -23835,7 +23852,7 @@
     {
       "title": "Element Capture",
       "shortname": "element-capture",
-      "date": "12 July 2023",
+      "date": "17 July 2023",
       "url": "https://screen-share.github.io/element-capture/",
       "nightly": {
         "url": "https://screen-share.github.io/element-capture/",
@@ -25872,6 +25889,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
             },
             {
               "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
@@ -38723,7 +38745,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "15 July 2023",
+      "date": "17 July 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -39701,7 +39723,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -39964,7 +39986,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40151,7 +40173,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40911,7 +40933,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40951,7 +40973,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41118,7 +41140,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41519,7 +41541,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41694,7 +41716,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41747,7 +41769,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41811,7 +41833,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41853,7 +41875,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -41901,7 +41923,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "17 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -54862,7 +54884,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "12 July 2023",
+      "date": "17 July 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54937,7 +54959,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "12 July 2023",
+      "date": "17 July 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
