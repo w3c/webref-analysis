@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-18T18:34:55.217Z",
+  "date": "2023-07-19T01:00:29.375Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -4171,7 +4171,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "11 July 2023",
+      "date": "18 July 2023",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -25333,7 +25333,7 @@
     {
       "title": "File and Directory Entries API",
       "shortname": "entries-api",
-      "date": "5 July 2023",
+      "date": "18 July 2023",
       "url": "https://wicg.github.io/entries-api/",
       "nightly": {
         "url": "https://wicg.github.io/entries-api/",
@@ -39723,7 +39723,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "18 July 2023",
+      "date": "19 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40093,7 +40093,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "18 July 2023",
+      "date": "19 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41140,7 +41140,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "18 July 2023",
+      "date": "19 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41541,7 +41541,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "18 July 2023",
+      "date": "19 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41875,7 +41875,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "18 July 2023",
+      "date": "19 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -55463,7 +55463,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "21 June 2023",
+      "date": "18 July 2023",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
@@ -55524,7 +55524,7 @@
     {
       "title": "WebUSB API",
       "shortname": "webusb",
-      "date": "23 June 2023",
+      "date": "18 July 2023",
       "url": "https://wicg.github.io/webusb/",
       "nightly": {
         "url": "https://wicg.github.io/webusb/",
