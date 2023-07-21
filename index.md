@@ -4547,7 +4547,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 11 July 2023
+- Crawled version: 21 July 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -6405,7 +6405,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-masking-1/](https://www.w3.org/TR/css-masking-1/)
 - Crawled URL: [https://drafts.fxtf.org/css-masking-1/](https://drafts.fxtf.org/css-masking-1/)
-- Crawled version: 20 September 2022
+- Crawled version: 21 July 2023
 - Editor's Draft: [https://drafts.fxtf.org/css-masking-1/](https://drafts.fxtf.org/css-masking-1/)
 - Latest published version: [https://www.w3.org/TR/css-masking-1/](https://www.w3.org/TR/css-masking-1/)
 - Shortname: css-masking-1
@@ -11551,7 +11551,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 20 July 2023
+- Crawled version: 21 July 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
@@ -13478,6 +13478,7 @@ Normative references to this spec from:
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 
 Informative references to this spec from:
@@ -13528,6 +13529,7 @@ Normative references to this spec from:
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Relinquishing Permissions](https://wicg.github.io/permissions-revoke/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
@@ -16654,7 +16656,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
 - Crawled URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
-- Crawled version: 16 June 2023
+- Crawled version: 21 July 2023
 - Editor's Draft: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
 - Shortname: private-network-access
 
@@ -19710,6 +19712,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)

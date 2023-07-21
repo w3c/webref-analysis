@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-21T12:40:06.025Z",
+  "date": "2023-07-21T18:34:03.522Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -7420,7 +7420,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "11 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -13191,7 +13191,7 @@
     {
       "title": "CSS Masking Module Level 1",
       "shortname": "css-masking-1",
-      "date": "20 September 2022",
+      "date": "21 July 2023",
       "url": "https://www.w3.org/TR/css-masking-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-masking-1/",
@@ -34495,6 +34495,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://wicg.github.io/private-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
@@ -36048,6 +36053,11 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
+              "url": "https://wicg.github.io/private-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
+            },
+            {
               "url": "https://www.w3.org/TR/push-api/",
               "title": "Push API",
               "crawled": "https://w3c.github.io/push-api/"
@@ -37160,7 +37170,7 @@
     {
       "title": "Private Network Access",
       "shortname": "private-network-access",
-      "date": "16 June 2023",
+      "date": "21 July 2023",
       "url": "https://wicg.github.io/private-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/private-network-access/",
@@ -38719,7 +38729,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "20 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -51086,6 +51096,11 @@
               "url": "https://wicg.github.io/scheduling-apis/",
               "title": "Prioritized Task Scheduling",
               "crawled": "https://wicg.github.io/scheduling-apis/"
+            },
+            {
+              "url": "https://wicg.github.io/private-network-access/",
+              "title": "Private Network Access",
+              "crawled": "https://wicg.github.io/private-network-access/"
             },
             {
               "url": "https://wicg.github.io/trust-token-api/",
