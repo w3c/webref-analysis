@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-21T18:34:03.522Z",
+  "date": "2023-07-22T00:48:05.149Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -615,7 +615,7 @@
     {
       "title": "Ambient Light Sensor",
       "shortname": "ambient-light",
-      "date": "30 January 2023",
+      "date": "21 July 2023",
       "url": "https://www.w3.org/TR/ambient-light/",
       "release": {
         "url": "https://www.w3.org/TR/ambient-light/",
@@ -3187,7 +3187,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "20 July 2023",
+      "date": "21 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21436,7 +21436,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "20 July 2023",
+      "date": "21 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -23221,7 +23221,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "11 July 2023",
+      "date": "21 July 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -37340,7 +37340,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "18 July 2023",
+      "date": "21 July 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -39615,7 +39615,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -39707,7 +39707,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -39747,7 +39747,7 @@
     {
       "title": "RFC 6265 - HTTP State Management Mechanism",
       "shortname": "rfc6265",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6265",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6265.html",
@@ -39916,7 +39916,7 @@
     {
       "title": "RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)",
       "shortname": "rfc6266",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6266",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6266.html",
@@ -39970,7 +39970,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40077,7 +40077,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40157,7 +40157,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40211,7 +40211,7 @@
     {
       "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
       "shortname": "rfc7230",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7230",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7230.html",
@@ -40365,7 +40365,7 @@
     {
       "title": "RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
       "shortname": "rfc7231",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7231",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7231.html",
@@ -40544,7 +40544,7 @@
     {
       "title": "RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
       "shortname": "rfc7232",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7232",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7232.html",
@@ -40627,7 +40627,7 @@
     {
       "title": "RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests",
       "shortname": "rfc7233",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7233",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7233.html",
@@ -40695,7 +40695,7 @@
     {
       "title": "RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching",
       "shortname": "rfc7234",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7234",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7234.html",
@@ -40834,7 +40834,7 @@
     {
       "title": "RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication",
       "shortname": "rfc7235",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7235",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7235.html",
@@ -40917,7 +40917,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40957,7 +40957,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41015,7 +41015,7 @@
     {
       "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
       "shortname": "rfc7538",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7538",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7538.html",
@@ -41065,7 +41065,7 @@
     {
       "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
       "shortname": "rfc7540",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7540",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7540.html",
@@ -41124,7 +41124,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41177,7 +41177,7 @@
     {
       "title": "RFC 7616 - HTTP Digest Access Authentication",
       "shortname": "rfc7616",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7616",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7616.html",
@@ -41225,7 +41225,7 @@
     {
       "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
       "shortname": "rfc7617",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7617",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7617.html",
@@ -41273,7 +41273,7 @@
     {
       "title": "RFC 7725 - An HTTP Status Code to Report Legal Obstacles",
       "shortname": "rfc7725",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7725",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7725.html",
@@ -41315,7 +41315,7 @@
     {
       "title": "RFC 7838 - HTTP Alternative Services",
       "shortname": "rfc7838",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7838",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7838.html",
@@ -41357,7 +41357,7 @@
     {
       "title": "RFC 8246 - HTTP Immutable Responses",
       "shortname": "rfc8246",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8246",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8246.html",
@@ -41399,7 +41399,7 @@
     {
       "title": "RFC 8288 - Web Linking",
       "shortname": "rfc8288",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8288",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8288.html",
@@ -41477,7 +41477,7 @@
     {
       "title": "RFC 8470 - Using Early Data in HTTP",
       "shortname": "rfc8470",
-      "date": "19 July 2023",
+      "date": "21 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8470",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8470.html",
@@ -41525,7 +41525,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41700,7 +41700,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41753,7 +41753,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41817,7 +41817,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41859,7 +41859,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -41907,7 +41907,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "21 July 2023",
+      "date": "22 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -55513,7 +55513,7 @@
     {
       "title": "WebUSB API",
       "shortname": "webusb",
-      "date": "18 July 2023",
+      "date": "21 July 2023",
       "url": "https://wicg.github.io/webusb/",
       "nightly": {
         "url": "https://wicg.github.io/webusb/",
