@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-23T12:38:42.055Z",
+  "date": "2023-07-23T18:32:09.332Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -41538,7 +41538,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "22 July 2023",
+      "date": "23 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41713,7 +41713,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "22 July 2023",
+      "date": "23 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
