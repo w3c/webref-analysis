@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-24T00:46:36.260Z",
+  "date": "2023-07-24T06:35:40.152Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -23290,7 +23290,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "29 June 2023",
+      "date": "24 July 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -27463,7 +27463,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "20 July 2023",
+      "date": "24 July 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -39720,7 +39720,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "23 July 2023",
+      "date": "24 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41872,7 +41872,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "23 July 2023",
+      "date": "24 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -52215,7 +52215,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "12 July 2023",
+      "date": "24 July 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -52266,7 +52266,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "12 July 2023",
+      "date": "24 July 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -52385,7 +52385,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "12 July 2023",
+      "date": "24 July 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
