@@ -694,7 +694,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 19 July 2023
+- Crawled version: 24 July 2023
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -3109,6 +3109,7 @@ Normative references to this spec from:
 
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Audiobooks](https://w3c.github.io/audiobooks/)
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
@@ -16007,19 +16008,20 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Fenced Frame {data-spec=true data-missingDfns=true data-ok=true}
+### Fenced Frame {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 24 June 2023
+- Crawled version: 24 July 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/), related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16699,7 +16701,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 21 July 2023
+- Crawled version: 24 July 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 

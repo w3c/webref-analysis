@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-24T12:43:03.566Z",
+  "date": "2023-07-24T18:33:58.058Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -24653,7 +24653,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "24 June 2023",
+      "date": "24 July 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -24684,7 +24684,15 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/pub-manifest/",
+            "ref": {
+              "name": "PUB-MANIFEST",
+              "url": "https://w3c.github.io/pub-manifest/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -24700,7 +24708,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -37348,7 +37356,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "21 July 2023",
+      "date": "24 July 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37519,6 +37527,11 @@
               "url": "https://www.w3.org/TR/audiobooks/",
               "title": "Audiobooks",
               "crawled": "https://w3c.github.io/audiobooks/"
+            },
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced Frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -47093,7 +47106,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "19 July 2023",
+      "date": "24 July 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
