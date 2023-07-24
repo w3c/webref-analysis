@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-24T06:35:40.152Z",
+  "date": "2023-07-24T12:43:03.566Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -21944,7 +21944,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "19 June 2023",
+      "date": "24 July 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -23826,7 +23826,7 @@
     {
       "title": "Element Capture",
       "shortname": "element-capture",
-      "date": "18 July 2023",
+      "date": "24 July 2023",
       "url": "https://screen-share.github.io/element-capture/",
       "nightly": {
         "url": "https://screen-share.github.io/element-capture/",
@@ -39628,7 +39628,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "23 July 2023",
+      "date": "24 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -39983,7 +39983,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "23 July 2023",
+      "date": "24 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40090,7 +40090,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "23 July 2023",
+      "date": "24 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
