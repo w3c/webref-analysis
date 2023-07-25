@@ -1708,7 +1708,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 24 July 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1768,7 +1768,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 24 July 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -16993,7 +16993,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/user-preference-media-features-headers/](https://wicg.github.io/user-preference-media-features-headers/)
 - Crawled URL: [https://wicg.github.io/user-preference-media-features-headers/](https://wicg.github.io/user-preference-media-features-headers/)
-- Crawled version: 20 September 2022
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://wicg.github.io/user-preference-media-features-headers/](https://wicg.github.io/user-preference-media-features-headers/)
 - Shortname: user-preference-media-features-headers
 
@@ -18391,7 +18391,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 21 July 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -18555,7 +18555,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 24 July 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

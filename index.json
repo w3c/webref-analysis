@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-25T06:33:10.031Z",
+  "date": "2023-07-25T12:43:43.530Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -24737,7 +24737,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "21 July 2023",
+      "date": "25 July 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -27407,7 +27407,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 July 2023",
+      "date": "25 July 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -40029,7 +40029,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "24 July 2023",
+      "date": "25 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40909,7 +40909,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "24 July 2023",
+      "date": "25 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -48657,7 +48657,7 @@
     {
       "title": "User Preference Media Features Client Hints Headers",
       "shortname": "user-preference-media-features-headers",
-      "date": "20 September 2022",
+      "date": "25 July 2023",
       "url": "https://wicg.github.io/user-preference-media-features-headers/",
       "nightly": {
         "url": "https://wicg.github.io/user-preference-media-features-headers/",
