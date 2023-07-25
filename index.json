@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-25T12:43:43.530Z",
+  "date": "2023-07-25T18:34:10.908Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -7548,7 +7548,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "6 July 2023",
+      "date": "25 July 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -24599,7 +24599,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "24 July 2023",
+      "date": "25 July 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -37112,7 +37112,7 @@
     {
       "title": "Private Network Access",
       "shortname": "private-network-access",
-      "date": "21 July 2023",
+      "date": "25 July 2023",
       "url": "https://wicg.github.io/private-network-access/",
       "nightly": {
         "url": "https://wicg.github.io/private-network-access/",
@@ -38681,7 +38681,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "21 July 2023",
+      "date": "25 July 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
