@@ -771,7 +771,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 24 July 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -916,7 +916,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 24 July 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -940,7 +940,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 24 July 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -10111,13 +10111,13 @@ No informative reference to this spec from other specs.
 
 ## HTML Media Extensions Working Group {#group-html_media_extensions_working_group}
 
-### Encrypted Media Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Encrypted Media Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Crawled URL: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
-- Crawled version: 23 August 2022
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
 - Latest published version: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Shortname: encrypted-media
@@ -10125,13 +10125,7 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/encoding/`](https://www.w3.org/TR/encoding/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/html51/browsers.html`](https://www.w3.org/TR/html51/browsers.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html51/infrastructure.html`](https://www.w3.org/TR/html51/infrastructure.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html51/semantics-embedded-content.html`](https://www.w3.org/TR/html51/semantics-embedded-content.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html51/webappapis.html`](https://www.w3.org/TR/html51/webappapis.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13717,7 +13711,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
-- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
@@ -14202,7 +14195,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
-- [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
@@ -15076,7 +15068,6 @@ Normative references to this spec from:
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
-- [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
@@ -15475,6 +15466,27 @@ No informative reference to this spec from other specs.
 
 ## Web Platform Incubator Community Group {#group-web_platform_incubator_community_group}
 
+### [No title found for https://wicg.github.io/close-watcher/] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
+- Crawled URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
+- Crawled version: 25 July 2023
+- Editor's Draft: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
+- Shortname: close-watcher
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Accelerated Shape Detection in Images {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -15626,28 +15638,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
-
-
-### Close Watcher API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
-- Crawled URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
-- Crawled version: 3 June 2022
-- Editor's Draft: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
-- Shortname: close-watcher
-
-#### Potential issue(s) {.anomalies}
-
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/), related reference "HR-TIME-2" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
 
 
 ### Compression Streams {data-spec=true data-missingDfns=true data-ok=true}
@@ -18080,7 +18070,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 
 
@@ -18114,7 +18103,6 @@ Normative references to this spec from:
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/)
 - [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Content Index](https://wicg.github.io/content-index/spec/)
@@ -18538,7 +18526,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
-- [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
@@ -18603,7 +18590,6 @@ Normative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
@@ -18978,7 +18964,6 @@ Normative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Console Standard](https://console.spec.whatwg.org/)
@@ -19586,7 +19571,6 @@ Normative references to this spec from:
 - [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [Close Watcher API](https://wicg.github.io/close-watcher/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compression Streams](https://wicg.github.io/compression/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)

@@ -2,13 +2,55 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-25T00:48:04.211Z",
+  "date": "2023-07-25T06:33:10.031Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
     "studied": 571
   },
   "results": [
+    {
+      "title": "[No title found for https://wicg.github.io/close-watcher/]",
+      "shortname": "close-watcher",
+      "date": "25 July 2023",
+      "url": "https://wicg.github.io/close-watcher/",
+      "nightly": {
+        "url": "https://wicg.github.io/close-watcher/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/close-watcher",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/close-watcher/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
     {
       "title": "A Method for Writing Testable Conformance Requirements",
       "shortname": "test-methodology",
@@ -2184,56 +2226,6 @@
       }
     },
     {
-      "title": "Close Watcher API",
-      "shortname": "close-watcher",
-      "date": "3 June 2022",
-      "url": "https://wicg.github.io/close-watcher/",
-      "nightly": {
-        "url": "https://wicg.github.io/close-watcher/",
-        "status": "Draft Community Group Report",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/close-watcher",
-        "sourcePath": "spec.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://wicg.github.io/close-watcher/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/hr-time-2/",
-            "ref": {
-              "name": "HR-TIME-2",
-              "url": "https://w3c.github.io/hr-time/"
-            }
-          }
-        ],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Compatibility Standard",
       "shortname": "compat",
       "date": "19 June 2023",
@@ -2677,11 +2669,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://wicg.github.io/close-watcher/",
-              "title": "Close Watcher API",
-              "crawled": "https://wicg.github.io/close-watcher/"
-            },
             {
               "url": "https://wicg.github.io/nav-speculation/prefetch.html",
               "title": "Prefetch",
@@ -3187,7 +3174,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "24 July 2023",
+      "date": "25 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21436,7 +21423,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "24 July 2023",
+      "date": "25 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -22024,11 +22011,6 @@
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
-              "url": "https://wicg.github.io/close-watcher/",
-              "title": "Close Watcher API",
-              "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
               "url": "https://compat.spec.whatwg.org/",
@@ -24178,7 +24160,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "23 August 2022",
+      "date": "25 July 2023",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -24214,45 +24196,9 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/encoding/"
+          "https://mimesniff.spec.whatwg.org/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/dom/",
-            "ref": {
-              "name": "DOM",
-              "url": "https://dom.spec.whatwg.org/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html51/browsers.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html51/infrastructure.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html51/semantics-embedded-content.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/html51/webappapis.html",
-            "ref": {
-              "name": "HTML",
-              "url": "https://html.spec.whatwg.org/multipage/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -26076,11 +26022,6 @@
               "crawled": "https://wicg.github.io/capability-delegation/spec.html"
             },
             {
-              "url": "https://wicg.github.io/close-watcher/",
-              "title": "Close Watcher API",
-              "crawled": "https://wicg.github.io/close-watcher/"
-            },
-            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
@@ -27003,11 +26944,6 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
-              "url": "https://wicg.github.io/close-watcher/",
-              "title": "Close Watcher API",
-              "crawled": "https://wicg.github.io/close-watcher/"
-            },
-            {
               "url": "https://www.w3.org/TR/compute-pressure/",
               "title": "Compute Pressure Level 1",
               "crawled": "https://w3c.github.io/compute-pressure/"
@@ -27671,11 +27607,6 @@
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
-              "url": "https://wicg.github.io/close-watcher/",
-              "title": "Close Watcher API",
-              "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
               "url": "https://compat.spec.whatwg.org/",
@@ -29823,11 +29754,6 @@
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
-              "url": "https://wicg.github.io/close-watcher/",
-              "title": "Close Watcher API",
-              "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
               "url": "https://compat.spec.whatwg.org/",
@@ -41150,7 +41076,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "24 July 2023",
+      "date": "25 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43780,11 +43706,6 @@
               "url": "https://wicg.github.io/document-picture-in-picture/",
               "title": "Document Picture-in-Picture Specification",
               "crawled": "https://wicg.github.io/document-picture-in-picture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/encrypted-media/",
-              "title": "Encrypted Media Extensions",
-              "crawled": "https://w3c.github.io/encrypted-media/"
             },
             {
               "url": "https://www.w3.org/TR/generic-sensor/",
@@ -47720,11 +47641,6 @@
               "crawled": "https://screen-share.github.io/captured-mouse-events/"
             },
             {
-              "url": "https://wicg.github.io/close-watcher/",
-              "title": "Close Watcher API",
-              "crawled": "https://wicg.github.io/close-watcher/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
@@ -50472,11 +50388,6 @@
               "url": "https://www.w3.org/TR/clipboard-apis/",
               "title": "Clipboard API and events",
               "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
-              "url": "https://wicg.github.io/close-watcher/",
-              "title": "Close Watcher API",
-              "crawled": "https://wicg.github.io/close-watcher/"
             },
             {
               "url": "https://compat.spec.whatwg.org/",
