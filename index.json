@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-26T12:41:02.373Z",
+  "date": "2023-07-26T18:32:50.915Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -23203,7 +23203,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "21 July 2023",
+      "date": "26 July 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -37282,7 +37282,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "24 July 2023",
+      "date": "26 July 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -44508,7 +44508,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "26 January 2023",
+      "date": "26 July 2023",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
@@ -48025,7 +48025,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "24 May 2023",
+      "date": "26 July 2023",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -54815,7 +54815,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "21 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54890,7 +54890,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "21 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
