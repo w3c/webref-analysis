@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-25T18:34:10.908Z",
+  "date": "2023-07-26T00:46:38.911Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -3174,7 +3174,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21423,7 +21423,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -24226,7 +24226,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "23 June 2023",
+      "date": "25 July 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24292,7 +24292,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "23 June 2023",
+      "date": "25 July 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -26219,7 +26219,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "7 July 2023",
+      "date": "25 July 2023",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -39659,7 +39659,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40109,7 +40109,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40869,7 +40869,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41477,7 +41477,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41533,7 +41533,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "21 July 2023",
+      "date": "25 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -41652,7 +41652,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41811,7 +41811,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -41859,7 +41859,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "25 July 2023",
+      "date": "26 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -50153,6 +50153,11 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://wicg.github.io/serial/",
+              "title": "Web Serial API",
+              "crawled": "https://wicg.github.io/serial/"
             }
           ],
           "informative": [
@@ -50160,11 +50165,6 @@
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
-            },
-            {
-              "url": "https://wicg.github.io/serial/",
-              "title": "Web Serial API",
-              "crawled": "https://wicg.github.io/serial/"
             }
           ]
         },
@@ -51928,7 +51928,7 @@
     {
       "title": "Web Serial API",
       "shortname": "serial",
-      "date": "19 July 2023",
+      "date": "25 July 2023",
       "url": "https://wicg.github.io/serial/",
       "nightly": {
         "url": "https://wicg.github.io/serial/",
