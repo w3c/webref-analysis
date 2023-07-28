@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-28T12:40:17.577Z",
+  "date": "2023-07-28T18:33:52.594Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -18474,7 +18474,7 @@
     {
       "title": "CSS Transitions Level 2",
       "shortname": "css-transitions-2",
-      "date": "22 June 2023",
+      "date": "28 July 2023",
       "url": "https://drafts.csswg.org/css-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-transitions-2/",
@@ -18506,7 +18506,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/web-animations-1/",
@@ -19789,6 +19795,11 @@
               "url": "https://www.w3.org/TR/css-transitions-1/",
               "title": "CSS Transitions",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "title": "CSS Transitions Level 2",
+              "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -37282,7 +37293,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "27 July 2023",
+      "date": "28 July 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -38681,7 +38692,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "27 July 2023",
+      "date": "28 July 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -45661,7 +45672,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "27 July 2023",
+      "date": "28 July 2023",
       "url": "https://www.w3.org/TR/sparql12-results-json/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-json/",
@@ -45800,7 +45811,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "27 July 2023",
+      "date": "28 July 2023",
       "url": "https://www.w3.org/TR/sparql12-results-xml/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-xml/",
