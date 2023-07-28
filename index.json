@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-07-28T00:46:40.844Z",
+  "date": "2023-07-28T06:32:46.627Z",
   "stats": {
     "crawled": 571,
     "errors": 0,
@@ -27213,7 +27213,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "05 July 2023",
+      "date": "28 July 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -41477,7 +41477,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "27 July 2023",
+      "date": "28 July 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",

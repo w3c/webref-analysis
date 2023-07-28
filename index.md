@@ -1047,7 +1047,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 27 July 2023
+- Crawled version: 28 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -2883,7 +2883,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 05 July 2023
+- Crawled version: 28 July 2023
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
