@@ -75,7 +75,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
 - Crawled URL: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
-- Crawled version: 18 March 2023
+- Crawled version: 1 August 2023
 - Editor's Draft: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
 - Shortname: tc39-change-array-by-copy
 
@@ -259,7 +259,6 @@ Normative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
-- [Web Publications](https://w3c.github.io/wpub/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
@@ -603,29 +602,6 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Resizable ArrayBuffer and growable SharedArrayBuffer {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
-- Crawled URL: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
-- Crawled version: 7 July 2023
-- Editor's Draft: [https://tc39.es/proposal-resizablearraybuffer/](https://tc39.es/proposal-resizablearraybuffer/)
-- Shortname: tc39-resizablearraybuffer
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
-
-No informative reference to this spec from other specs.
-
-
 ### Set methods {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -772,7 +748,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 1 August 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -1019,6 +995,29 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### RFC 8297 - An HTTP Status Code for Indicating Hints {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc8297](https://www.rfc-editor.org/rfc/rfc8297)
+- Crawled URL: [https://httpwg.org/specs/rfc8297.html](https://httpwg.org/specs/rfc8297.html)
+- Crawled version: 21 July 2023
+- Editor's Draft: [https://httpwg.org/specs/rfc8297.html](https://httpwg.org/specs/rfc8297.html)
+- Shortname: rfc8297
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+No informative reference to this spec from other specs.
+
+
 ### RFC 8470 - Using Early Data in HTTP {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -1048,7 +1047,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 1 August 2023
+- Crawled version: 27 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1073,7 +1072,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
-- Crawled version: 31 July 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Shortname: rfc9110
 
@@ -1111,7 +1110,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled version: 1 August 2023
+- Crawled version: 31 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
@@ -1135,7 +1134,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 31 July 2023
+- Crawled version: 26 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1162,7 +1161,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 1 August 2023
+- Crawled version: 25 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1183,7 +1182,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 1 August 2023
+- Crawled version: 29 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1356,6 +1355,7 @@ Normative references to this spec from:
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
 - [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
+- [RFC 8297 - An HTTP Status Code for Indicating Hints](https://httpwg.org/specs/rfc8297.html)
 - [RFC 8470 - Using Early Data in HTTP](https://httpwg.org/specs/rfc8470.html)
 - [Save Data API](https://wicg.github.io/savedata/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
@@ -1540,6 +1540,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
+- [RFC 8297 - An HTTP Status Code for Indicating Hints](https://httpwg.org/specs/rfc8297.html)
 
 Informative references to this spec from:
 
@@ -1596,7 +1597,6 @@ Normative references to this spec from:
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
-- [Web Publications](https://w3c.github.io/wpub/)
 
 No informative reference to this spec from other specs.
 
@@ -1609,7 +1609,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 1 August 2023
+- Crawled version: 27 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1644,7 +1644,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 1 August 2023
+- Crawled version: 29 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -1669,7 +1669,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 1 August 2023
+- Crawled version: 27 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1709,7 +1709,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 31 July 2023
+- Crawled version: 28 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1742,7 +1742,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 1 August 2023
+- Crawled version: 27 July 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -3116,65 +3116,6 @@ Normative references to this spec from:
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 
 No informative reference to this spec from other specs.
-
-
-### Web Annotation Extensions for Web Publications {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/wpub-ann/](https://www.w3.org/TR/wpub-ann/)
-- Crawled URL: [https://w3c.github.io/wpub-ann/](https://w3c.github.io/wpub-ann/)
-- Crawled version: 01 October 2020
-- Editor's Draft: [https://w3c.github.io/wpub-ann/](https://w3c.github.io/wpub-ann/)
-- Latest published version: [https://www.w3.org/TR/wpub-ann/](https://www.w3.org/TR/wpub-ann/)
-- Shortname: wpub-ann
-
-#### Potential issue(s) {.anomalies}
-
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
-- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
-
-No informative reference to this spec from other specs.
-
-
-### Web Publications {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/wpub/](https://www.w3.org/TR/wpub/)
-- Crawled URL: [https://w3c.github.io/wpub/](https://w3c.github.io/wpub/)
-- Crawled version: 20 June 2023
-- Editor's Draft: [https://w3c.github.io/wpub/](https://w3c.github.io/wpub/)
-- Latest published version: [https://www.w3.org/TR/wpub/](https://www.w3.org/TR/wpub/)
-- Shortname: wpub
-
-#### Potential issue(s) {.anomalies}
-
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/), related reference "json-ld" uses URL [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/)
-     * [`https://www.w3.org/TR/html/dom.html`](https://www.w3.org/TR/html/dom.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html/editing.html`](https://www.w3.org/TR/html/editing.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html/grouping-content.html`](https://www.w3.org/TR/html/grouping-content.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html/infrastructure.html`](https://www.w3.org/TR/html/infrastructure.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html/references.html`](https://www.w3.org/TR/html/references.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html/sections.html`](https://www.w3.org/TR/html/sections.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html/textlevel-semantics.html`](https://www.w3.org/TR/html/textlevel-semantics.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-     * [`https://www.w3.org/TR/html5/semantics-scripting.html`](https://www.w3.org/TR/html5/semantics-scripting.html), related reference "html" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [Web Annotation Extensions for Web Publications](https://w3c.github.io/wpub-ann/)
 
 
 ## Browser Testing and Tools Working Group {#group-browser_testing_and_tools_working_group}
@@ -7070,9 +7011,9 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/)
+     * [`https://www.w3.org/TR/wpub-ann/`](https://www.w3.org/TR/wpub-ann/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-lists-3/`](https://www.w3.org/TR/css-lists-3/), related reference "CSS-LISTS-3" uses URL [`https://drafts.csswg.org/css-lists-3/`](https://drafts.csswg.org/css-lists-3/)
-     * [`https://www.w3.org/TR/wpub-ann/`](https://www.w3.org/TR/wpub-ann/), related reference "WPUB-ANN" uses URL [`https://w3c.github.io/wpub-ann/`](https://w3c.github.io/wpub-ann/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7964,13 +7905,13 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
      * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/wpub-ann/`](https://www.w3.org/TR/wpub-ann/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
      * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
      * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
-     * [`https://www.w3.org/TR/wpub-ann/`](https://www.w3.org/TR/wpub-ann/), related reference "WPUB-ANN" uses URL [`https://w3c.github.io/wpub-ann/`](https://w3c.github.io/wpub-ann/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9367,7 +9308,6 @@ Informative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
-- [Web Annotation Extensions for Web Publications](https://w3c.github.io/wpub-ann/)
 
 
 ### Selectors Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -11547,6 +11487,30 @@ Informative references to this spec from:
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 
 
+## Private Advertising Technology Community Group {#group-private_advertising_technology_community_group}
+
+### Topics API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
+- Crawled URL: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
+- Crawled version: 19 July 2023
+- Editor's Draft: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
+- Shortname: topics
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ## RDF Dataset Canonicalization and Hash Working Group {#group-rdf_dataset_canonicalization_and_hash_working_group}
 
 ### RDF Dataset Canonicalization {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -13617,6 +13581,7 @@ Normative references to this spec from:
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
@@ -13712,6 +13677,7 @@ Normative references to this spec from:
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
@@ -13753,7 +13719,6 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
-- [Web Publications](https://w3c.github.io/wpub/)
 
 Informative references to this spec from:
 
@@ -15115,6 +15080,7 @@ Normative references to this spec from:
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
@@ -15473,27 +15439,6 @@ No informative reference to this spec from other specs.
 
 
 ## Web Platform Incubator Community Group {#group-web_platform_incubator_community_group}
-
-### [No title found for https://wicg.github.io/close-watcher/] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
-- Crawled URL: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
-- Crawled version: 27 July 2023
-- Editor's Draft: [https://wicg.github.io/close-watcher/](https://wicg.github.io/close-watcher/)
-- Shortname: close-watcher
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
 
 ### Accelerated Shape Detection in Images {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -18261,6 +18206,7 @@ Normative references to this spec from:
 - [SVG Animations](https://svgwg.org/specs/animations/)
 - [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [UI Events](https://w3c.github.io/uievents/)
@@ -18279,7 +18225,6 @@ Normative references to this spec from:
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
-- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Speech API](https://wicg.github.io/speech-api/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
@@ -18484,12 +18429,12 @@ Normative references to this spec from:
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
@@ -18808,6 +18753,7 @@ Normative references to this spec from:
 - [The <model> element](https://immersive-web.github.io/model-element/)
 - [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -18836,7 +18782,6 @@ Normative references to this spec from:
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
-- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
@@ -19118,6 +19063,7 @@ Normative references to this spec from:
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 - [Test Utils Standard](https://testutils.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [UI Events KeyboardEvent code Values](https://w3c.github.io/uievents-code/)
@@ -19508,6 +19454,7 @@ Normative references to this spec from:
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
@@ -19517,7 +19464,6 @@ Normative references to this spec from:
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
-- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -19536,7 +19482,6 @@ Informative references to this spec from:
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
-- [Web Annotation Extensions for Web Publications](https://w3c.github.io/wpub-ann/)
 - [WebOTP API](https://wicg.github.io/web-otp/)
 
 
@@ -19743,6 +19688,7 @@ Normative references to this spec from:
 - [The <model> element](https://immersive-web.github.io/model-element/)
 - [The Capture-Handle Actions Mechanism](https://w3c.github.io/mediacapture-handle/actions/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
+- [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [UI Events](https://w3c.github.io/uievents/)
@@ -19769,7 +19715,6 @@ Normative references to this spec from:
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
-- [Web Publications](https://w3c.github.io/wpub/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
