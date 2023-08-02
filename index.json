@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-02T12:40:21.601Z",
+  "date": "2023-08-02T18:32:23.679Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -24505,7 +24505,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "31 July 2023",
+      "date": "2 August 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -39866,7 +39866,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "1 August 2023",
+      "date": "2 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41542,7 +41542,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "1 August 2023",
+      "date": "2 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41701,7 +41701,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "1 August 2023",
+      "date": "2 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -54568,7 +54568,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "1 August 2023",
+      "date": "2 August 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54643,7 +54643,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "1 August 2023",
+      "date": "2 August 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
