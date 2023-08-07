@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-07T12:42:29.811Z",
+  "date": "2023-08-07T18:40:19.910Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "3 August 2023",
+      "date": "7 August 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -4111,7 +4111,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "2 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -4316,7 +4316,7 @@
     {
       "title": "CSS Animations Level 2",
       "shortname": "css-animations-2",
-      "date": "12 June 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-2/",
@@ -4751,7 +4751,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "25 May 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -5857,7 +5857,7 @@
     {
       "title": "CSS Box Sizing Module Level 4",
       "shortname": "css-sizing-4",
-      "date": "6 July 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-sizing-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-sizing-4/",
@@ -6877,7 +6877,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "12 May 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-cascade-6/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -7349,7 +7349,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "21 July 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7485,7 +7485,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "25 July 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -7735,7 +7735,7 @@
     {
       "title": "CSS Conditional Rules Module Level 3",
       "shortname": "css-conditional-3",
-      "date": "12 May 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-conditional-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -7925,7 +7925,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "4 August 2022",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -7999,7 +7999,7 @@
     {
       "title": "CSS Conditional Rules Module Level 5",
       "shortname": "css-conditional-5",
-      "date": "1 July 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-conditional-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-5/",
@@ -8122,7 +8122,7 @@
     {
       "title": "CSS Containment Module Level 1",
       "shortname": "css-contain-1",
-      "date": "15 January 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-contain-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-1/",
@@ -8440,7 +8440,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "12 May 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -8538,7 +8538,7 @@
     {
       "title": "CSS Counter Styles Level 3",
       "shortname": "css-counter-styles-3",
-      "date": "25 May 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-counter-styles-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -8651,7 +8651,7 @@
     {
       "title": "CSS Custom Properties for Cascading Variables Module Level 1",
       "shortname": "css-variables-1",
-      "date": "27 June 2022",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-variables-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-variables-1/",
@@ -8731,7 +8731,7 @@
     {
       "title": "CSS Custom Properties for Cascading Variables Module Level 2",
       "shortname": "css-variables-2",
-      "date": "29 June 2022",
+      "date": "7 August 2023",
       "url": "https://drafts.csswg.org/css-variables-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-variables-2/",
@@ -8911,7 +8911,7 @@
     {
       "title": "CSS Display Module Level 3",
       "shortname": "css-display-3",
-      "date": "27 March 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-display-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-display-3/",
@@ -9034,7 +9034,7 @@
     {
       "title": "CSS Display Module Level 4",
       "shortname": "css-display-4",
-      "date": "20 April 2023",
+      "date": "7 August 2023",
       "url": "https://drafts.csswg.org/css-display-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-display-4/",
@@ -10143,7 +10143,7 @@
     {
       "title": "CSS Font Loading Module Level 3",
       "shortname": "css-font-loading-3",
-      "date": "3 April 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-font-loading-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-font-loading-3/",
@@ -10212,7 +10212,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "29 June 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -11541,7 +11541,7 @@
     {
       "title": "CSS Grid Layout Module Level 2",
       "shortname": "css-grid-2",
-      "date": "27 July 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-grid-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-2/",
@@ -12104,7 +12104,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "4 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -12704,7 +12704,7 @@
     {
       "title": "CSS Linked Parameters",
       "shortname": "css-link-params-1",
-      "date": "16 December 2022",
+      "date": "7 August 2023",
       "url": "https://drafts.csswg.org/css-link-params-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-link-params-1/",
@@ -13776,7 +13776,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "28 March 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -14111,7 +14111,7 @@
     {
       "title": "CSS Overflow Module Level 4",
       "shortname": "css-overflow-4",
-      "date": "21 March 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-overflow-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -14713,7 +14713,7 @@
     {
       "title": "CSS Positioned Layout Module Level 3",
       "shortname": "css-position-3",
-      "date": "29 March 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-position-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-position-3/",
@@ -15533,7 +15533,7 @@
     {
       "title": "CSS Rhythmic Sizing",
       "shortname": "css-rhythm-1",
-      "date": "3 March 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-rhythm-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-rhythm-1/",
@@ -15672,7 +15672,7 @@
     {
       "title": "CSS Ruby Annotation Layout Module Level 1",
       "shortname": "css-ruby-1",
-      "date": "14 March 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-ruby-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-ruby-1/",
@@ -15834,7 +15834,7 @@
     {
       "title": "CSS Scoping Module Level 1",
       "shortname": "css-scoping-1",
-      "date": "20 July 2022",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-scoping-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scoping-1/",
@@ -16073,7 +16073,7 @@
     {
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
-      "date": "10 May 2023",
+      "date": "7 August 2023",
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
@@ -16254,7 +16254,7 @@
     {
       "title": "CSS Shapes Module Level 1",
       "shortname": "css-shapes-1",
-      "date": "6 September 2022",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-shapes-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-shapes-1/",
@@ -16655,7 +16655,7 @@
     {
       "title": "CSS Speech Module Level 1",
       "shortname": "css-speech-1",
-      "date": "6 September 2022",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-speech-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-speech-1/",
@@ -16970,7 +16970,7 @@
     {
       "title": "CSS Table Module Level 3",
       "shortname": "css-tables-3",
-      "date": "30 June 2022",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-tables-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-tables-3/",
@@ -17489,7 +17489,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "11 July 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -17738,7 +17738,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "11 July 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -18028,7 +18028,7 @@
     {
       "title": "CSS Transforms Module Level 1",
       "shortname": "css-transforms-1",
-      "date": "6 April 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-transforms-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-transforms-1/",
@@ -19965,7 +19965,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "3 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -20028,7 +20028,7 @@
     {
       "title": "CSS Viewport Module Level 1",
       "shortname": "css-viewport",
-      "date": "1 June 2023",
+      "date": "7 August 2023",
       "url": "https://drafts.csswg.org/css-viewport/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-viewport/",
@@ -20496,7 +20496,7 @@
     {
       "title": "CSS Writing Modes Level 4",
       "shortname": "css-writing-modes-4",
-      "date": "2 July 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/css-writing-modes-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-writing-modes-4/",
@@ -20890,7 +20890,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "24 April 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -32841,7 +32841,7 @@
     {
       "title": "Media Queries Level 4",
       "shortname": "mediaqueries-4",
-      "date": "13 March 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/mediaqueries-4/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -33005,7 +33005,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "24 August 2022",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -39404,7 +39404,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "4 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -39496,7 +39496,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "4 August 2023",
+      "date": "6 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -39759,7 +39759,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "3 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -39866,7 +39866,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "4 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40711,7 +40711,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "6 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40751,7 +40751,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "6 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -40923,7 +40923,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "6 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41423,7 +41423,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "6 August 2023",
+      "date": "1 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -41542,7 +41542,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "3 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41595,7 +41595,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "2 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41659,7 +41659,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "6 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41701,7 +41701,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "6 August 2023",
+      "date": "7 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -49400,7 +49400,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "4 April 2023",
+      "date": "7 August 2023",
       "url": "https://www.w3.org/TR/web-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-2/",
