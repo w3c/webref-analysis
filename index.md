@@ -3114,7 +3114,9 @@ Normative references to this spec from:
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 
 No informative reference to this spec from other specs.
 
@@ -11324,7 +11326,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
 - Crawled URL: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
-- Crawled version: 20 July 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
 - Shortname: gpc-spec
 
@@ -11499,7 +11501,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 31 July 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
@@ -11785,7 +11787,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-xml/](https://www.w3.org/TR/rdf12-xml/)
 - Crawled URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
-- Crawled version: 27 July 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-xml/](https://www.w3.org/TR/rdf12-xml/)
 - Shortname: rdf12-xml
@@ -16514,7 +16516,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
-- Crawled version: 4 July 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Shortname: prefetch
 
@@ -16529,19 +16531,20 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Prerendering Revamped {data-spec=true data-missingDfns=true data-ok=true}
+### Prerendering Revamped {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Crawled version: 4 July 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Shortname: prerendering-revamped
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/), related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16811,19 +16814,20 @@ Informative references to this spec from:
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
 
 
-### Speculation Rules {data-spec=true data-missingDfns=true data-ok=true}
+### Speculation Rules {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled version: 4 July 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/), related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 
 #### Known dependencies on this specification {.dependencies}
 

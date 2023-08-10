@@ -1723,6 +1723,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Portals](https://wicg.github.io/portals/) links to:
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
     * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/) but related reference "REFERRER-POLICY" uses URL [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html) links to [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/) but related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/) links to [`https://www.w3.org/TR/requestidlecallback/`](https://www.w3.org/TR/requestidlecallback/) but related reference "REQUESTIDLECALLBACK" uses URL [`https://w3c.github.io/requestidlecallback/`](https://w3c.github.io/requestidlecallback/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/) links to [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/) but related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/) links to [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/) but related reference "json-ld10" uses URL [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/)
@@ -1826,6 +1827,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/) but related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/) but related reference "CSS3UI" uses URL [`https://drafts.csswg.org/css-ui-3/`](https://drafts.csswg.org/css-ui-3/)
     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/) but related reference "SELECT" uses URL [`https://drafts.csswg.org/selectors-3/`](https://drafts.csswg.org/selectors-3/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html) links to [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/) but related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/) links to [`http://www.w3.org/TR/html5/infrastructure.html`](http://www.w3.org/TR/html5/infrastructure.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/) links to:
     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/) but related reference "GRAPHICS-AAM" uses URL [`https://www.w3.org/TR/graphics-aam-1.0/`](https://www.w3.org/TR/graphics-aam-1.0/)
@@ -1894,7 +1896,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 490 inconsistent references for links found in 187 specifications
+=> 492 inconsistent references for links found in 189 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

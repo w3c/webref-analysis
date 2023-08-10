@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-10T12:41:16.730Z",
+  "date": "2023-08-10T18:32:26.792Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -26572,7 +26572,7 @@
     {
       "title": "Global Privacy Control (GPC)",
       "shortname": "gpc-spec",
-      "date": "20 July 2023",
+      "date": "10 August 2023",
       "url": "https://privacycg.github.io/gpc-spec/",
       "nightly": {
         "url": "https://privacycg.github.io/gpc-spec/",
@@ -36741,7 +36741,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "4 July 2023",
+      "date": "10 August 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -36783,7 +36783,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "4 July 2023",
+      "date": "10 August 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -36814,7 +36814,15 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/pub-manifest/",
+            "ref": {
+              "name": "PUB-MANIFEST",
+              "url": "https://w3c.github.io/pub-manifest/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -36831,7 +36839,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -37355,9 +37363,19 @@
               "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
             },
             {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
               "url": "https://wicg.github.io/turtledove/",
               "title": "Protected Audience (formerly FLEDGE)",
               "crawled": "https://wicg.github.io/turtledove/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             }
           ],
           "informative": []
@@ -38229,7 +38247,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "27 July 2023",
+      "date": "10 August 2023",
       "url": "https://www.w3.org/TR/rdf12-xml/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-xml/",
@@ -38566,7 +38584,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "31 July 2023",
+      "date": "10 August 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -46107,7 +46125,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "4 July 2023",
+      "date": "10 August 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -46138,12 +46156,20 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/pub-manifest/",
+            "ref": {
+              "name": "PUB-MANIFEST",
+              "url": "https://w3c.github.io/pub-manifest/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
