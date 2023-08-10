@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-10T06:32:52.814Z",
+  "date": "2023-08-10T12:41:16.730Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -26125,7 +26125,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "8 August 2023",
+      "date": "10 August 2023",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -39759,7 +39759,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "9 August 2023",
+      "date": "10 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -39866,7 +39866,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "8 August 2023",
+      "date": "10 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41595,7 +41595,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "8 August 2023",
+      "date": "10 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -46912,7 +46912,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "9 August 2023",
+      "date": "10 August 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -51538,7 +51538,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "20 June 2023",
+      "date": "10 August 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
