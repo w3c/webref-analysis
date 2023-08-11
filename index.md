@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 10, 2023
+% August 11, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -4796,7 +4796,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/), related reference "CSS-CONTAIN-1" uses URL [`https://drafts.csswg.org/css-contain-1/`](https://drafts.csswg.org/css-contain-1/)
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://drafts.csswg.org/css-view-transitions-1/`](https://drafts.csswg.org/css-view-transitions-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8296,7 +8295,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 11 July 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
@@ -8514,9 +8513,7 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -15476,7 +15473,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 9 August 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -15939,7 +15936,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 2 August 2023
+- Crawled version: 10 August 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 

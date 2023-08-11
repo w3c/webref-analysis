@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-10T18:32:26.792Z",
+  "date": "2023-08-11T00:48:50.263Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "9 August 2023",
+      "date": "10 August 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -8303,13 +8303,6 @@
             "ref": {
               "name": "CSS-VALUES-3",
               "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-view-transitions-1/",
-            "ref": {
-              "name": "CSS-VIEW-TRANSITIONS-1",
-              "url": "https://drafts.csswg.org/css-view-transitions-1/"
             }
           }
         ],
@@ -19133,7 +19126,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "11 July 2023",
+      "date": "10 August 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -20013,13 +20006,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-contain-2/",
-              "title": "CSS Containment Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-contain-2/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -24505,7 +24492,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "2 August 2023",
+      "date": "10 August 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",

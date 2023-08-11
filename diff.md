@@ -1,23 +1,13 @@
-% Diff between report from "August 10, 2023" and reference report from "August 10, 2023"
+% Diff between report from "August 11, 2023" and reference report from "August 10, 2023"
 % Strudy
-% August 10, 2023
+% August 11, 2023
 
-## Prerendering Revamped
+## CSS Containment Module Level 2
 
-- Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
+- Initial URL: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Spec is OK: *INS* false / *DEL* true
-- Inconsistent references for links: *INS* https://www.w3.org/TR/pub-manifest/
-
-
-## Speculation Rules
-
-- Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Spec is OK: *INS* false / *DEL* true
-- Inconsistent references for links: *INS* https://www.w3.org/TR/pub-manifest/
+- Editor's Draft: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
+- Inconsistent references for links: *DEL* https://www.w3.org/TR/css-view-transitions-1/
 
 
 
