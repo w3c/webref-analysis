@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-15T06:32:07.516Z",
+  "date": "2023-08-15T12:39:49.551Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -4890,6 +4890,11 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-decor-4/",
+              "title": "CSS Text Decoration Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -17256,7 +17261,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "2 September 2022",
+      "date": "15 August 2023",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -18370,7 +18375,7 @@
     {
       "title": "CSS Transitions Level 2",
       "shortname": "css-transitions-2",
-      "date": "28 July 2023",
+      "date": "3 August 2023",
       "url": "https://drafts.csswg.org/css-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-transitions-2/",
@@ -39871,7 +39876,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "14 August 2023",
+      "date": "15 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
