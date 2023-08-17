@@ -749,7 +749,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 16 August 2023
+- Crawled version: 17 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -1097,6 +1097,7 @@ Normative references to this spec from:
 - [Reporting API](https://w3c.github.io/reporting/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 Informative references to this spec from:
 
@@ -1135,7 +1136,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 15 August 2023
+- Crawled version: 17 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1162,7 +1163,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 16 August 2023
+- Crawled version: 17 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -3170,7 +3171,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 9 August 2023
+- Crawled version: 17 August 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -16902,7 +16903,9 @@ Normative references to this spec from:
 
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
 ### User Agent Interaction with First-Party Sets {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
