@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-17T18:32:20.534Z",
+  "date": "2023-08-18T00:46:33.206Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -3175,7 +3175,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "16 August 2023",
+      "date": "17 August 2023",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -18392,7 +18392,7 @@
     {
       "title": "CSS Transitions Level 2",
       "shortname": "css-transitions-2",
-      "date": "3 August 2023",
+      "date": "17 August 2023",
       "url": "https://drafts.csswg.org/css-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-transitions-2/",
@@ -24464,7 +24464,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "11 August 2023",
+      "date": "17 August 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -27209,6 +27209,11 @@
               "url": "https://www.w3.org/TR/html-aria/",
               "title": "ARIA in HTML",
               "crawled": "https://w3c.github.io/html-aria/"
+            },
+            {
+              "url": "https://www.w3.org/TR/core-aam-1.2/",
+              "title": "Core Accessibility API Mappings 1.2",
+              "crawled": "https://w3c.github.io/core-aam/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -39898,7 +39903,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "16 August 2023",
+      "date": "17 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40743,7 +40748,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "17 August 2023",
+      "date": "18 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41399,7 +41404,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "17 August 2023",
+      "date": "18 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
