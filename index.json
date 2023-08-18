@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-18T12:38:19.679Z",
+  "date": "2023-08-18T18:33:01.771Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -17472,7 +17472,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "16 August 2023",
+      "date": "18 August 2023",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -38603,7 +38603,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "16 August 2023",
+      "date": "18 August 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -43365,7 +43365,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "20 June 2023",
+      "date": "15 August 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -46962,7 +46962,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 August 2023",
+      "date": "18 August 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -49456,7 +49456,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "7 August 2023",
+      "date": "18 August 2023",
       "url": "https://www.w3.org/TR/web-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-2/",
