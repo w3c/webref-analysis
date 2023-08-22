@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-22T12:38:48.433Z",
+  "date": "2023-08-22T18:33:27.008Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "21 August 2023",
+      "date": "22 August 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -39446,7 +39446,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "21 August 2023",
+      "date": "22 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -43729,7 +43729,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "31 July 2023",
+      "date": "22 August 2023",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -49286,7 +49286,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "15 June 2023",
+      "date": "18 August 2023",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
@@ -49324,7 +49324,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-easing/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/hr-time/",
@@ -49461,7 +49463,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "18 August 2023",
+      "date": "22 August 2023",
       "url": "https://www.w3.org/TR/web-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-2/",
@@ -52338,7 +52340,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "21 August 2023",
+      "date": "22 August 2023",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
