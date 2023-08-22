@@ -14434,7 +14434,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/WebCryptoAPI/](https://www.w3.org/TR/WebCryptoAPI/)
 - Crawled URL: [https://w3c.github.io/webcrypto/](https://w3c.github.io/webcrypto/)
-- Crawled version: 18 August 2023
+- Crawled version: 22 August 2023
 - Editor's Draft: [https://w3c.github.io/webcrypto/](https://w3c.github.io/webcrypto/)
 - Latest published version: [https://www.w3.org/TR/WebCryptoAPI/](https://www.w3.org/TR/WebCryptoAPI/)
 - Shortname: WebCryptoAPI
@@ -18311,6 +18311,7 @@ Normative references to this spec from:
 - [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- [Web Cryptography API](https://w3c.github.io/webcrypto/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
