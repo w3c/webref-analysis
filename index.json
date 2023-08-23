@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-22T18:33:27.008Z",
+  "date": "2023-08-23T00:45:21.428Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -24268,7 +24268,7 @@
     {
       "title": "ES Array.fromAsync (2022)",
       "shortname": "tc39-array-from-async",
-      "date": "11 May 2023",
+      "date": "23 August 2023",
       "url": "https://tc39.es/proposal-array-from-async/",
       "nightly": {
         "url": "https://tc39.es/proposal-array-from-async/",
@@ -37397,6 +37397,11 @@
               "crawled": "https://wicg.github.io/turtledove/"
             },
             {
+              "url": "https://wicg.github.io/shared-storage/",
+              "title": "Shared Storage API",
+              "crawled": "https://wicg.github.io/shared-storage/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -39446,7 +39451,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "22 August 2023",
+      "date": "23 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -39538,7 +39543,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "22 August 2023",
+      "date": "23 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -39988,7 +39993,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "22 August 2023",
+      "date": "23 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40753,7 +40758,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "22 August 2023",
+      "date": "23 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40793,7 +40798,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "22 August 2023",
+      "date": "23 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -40965,7 +40970,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "22 August 2023",
+      "date": "23 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41409,7 +41414,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "22 August 2023",
+      "date": "23 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -44487,7 +44492,7 @@
     {
       "title": "Shared Storage API",
       "shortname": "shared-storage",
-      "date": "6 April 2023",
+      "date": "22 August 2023",
       "url": "https://wicg.github.io/shared-storage/",
       "nightly": {
         "url": "https://wicg.github.io/shared-storage/",
@@ -44521,7 +44526,15 @@
           "https://storage.spec.whatwg.org/",
           "https://w3c.github.io/beacon/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/pub-manifest/",
+            "ref": {
+              "name": "PUB-MANIFEST",
+              "url": "https://w3c.github.io/pub-manifest/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": [

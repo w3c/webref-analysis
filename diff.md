@@ -1,13 +1,13 @@
-% Diff between report from "August 22, 2023" and reference report from "August 22, 2023"
+% Diff between report from "August 23, 2023" and reference report from "August 22, 2023"
 % Strudy
-% August 22, 2023
+% August 23, 2023
 
-## Web Animations
+## Shared Storage API
 
-- Initial URL: [https://www.w3.org/TR/web-animations-1/](https://www.w3.org/TR/web-animations-1/)
+- Initial URL: [https://wicg.github.io/shared-storage/](https://wicg.github.io/shared-storage/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/web-animations-1/](https://drafts.csswg.org/web-animations-1/)
-- Missing references for links: *INS* https://www.w3.org/TR/css-easing/
+- Editor's Draft: [https://wicg.github.io/shared-storage/](https://wicg.github.io/shared-storage/)
+- Inconsistent references for links: *INS* https://www.w3.org/TR/pub-manifest/
 
 
 
