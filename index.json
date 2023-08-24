@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-24T12:39:09.377Z",
+  "date": "2023-08-24T18:33:25.202Z",
   "stats": {
     "crawled": 569,
     "errors": 0,
@@ -1750,6 +1750,11 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
@@ -2338,6 +2343,11 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -2440,11 +2450,6 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -4291,7 +4296,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -4537,6 +4548,11 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -7441,6 +7457,11 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -8987,6 +9008,11 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -13736,6 +13762,11 @@
               "crawled": "https://wicg.github.io/css-parser-api/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/input-events-2/",
               "title": "Input Events Level 2",
               "crawled": "https://w3c.github.io/input-events/"
@@ -15859,6 +15890,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
             {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
@@ -18138,6 +18174,11 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -18392,7 +18433,7 @@
     {
       "title": "CSS Transitions Level 2",
       "shortname": "css-transitions-2",
-      "date": "23 August 2023",
+      "date": "24 August 2023",
       "url": "https://drafts.csswg.org/css-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-transitions-2/",
@@ -19980,7 +20021,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "7 August 2023",
+      "date": "24 August 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -20026,7 +20067,15 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/pointerevents/",
+            "ref": {
+              "name": "POINTEREVENTS3",
+              "url": "https://www.w3.org/TR/pointerevents3/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -20941,6 +20990,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
             {
               "url": "https://www.w3.org/TR/intersection-observer/",
               "title": "Intersection Observer",
@@ -24656,7 +24710,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "25 July 2023",
+      "date": "24 August 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -26629,7 +26683,7 @@
     {
       "title": "Graphics Accessibility API Mappings",
       "shortname": "graphics-aam-1.0",
-      "date": "05 July 2023",
+      "date": "24 August 2023",
       "url": "https://www.w3.org/TR/graphics-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/graphics-aam-1.0/",
@@ -30854,7 +30908,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "17 July 2023",
+      "date": "24 August 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -36022,7 +36076,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "17 July 2023",
+      "date": "24 August 2023",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -41593,7 +41647,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "23 August 2023",
+      "date": "24 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -44137,6 +44191,11 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
@@ -49793,7 +49852,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "18 July 2023",
+      "date": "24 August 2023",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",

@@ -1112,7 +1112,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled version: 23 August 2023
+- Crawled version: 24 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
@@ -2856,7 +2856,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/graphics-aam-1.0/](https://www.w3.org/TR/graphics-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/graphics-aam/](https://w3c.github.io/graphics-aam/)
-- Crawled version: 05 July 2023
+- Crawled version: 24 August 2023
 - Editor's Draft: [https://w3c.github.io/graphics-aam/](https://w3c.github.io/graphics-aam/)
 - Latest published version: [https://www.w3.org/TR/graphics-aam-1.0/](https://www.w3.org/TR/graphics-aam-1.0/)
 - Shortname: graphics-aam-1.0
@@ -3006,7 +3006,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Crawled URL: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
-- Crawled version: 18 July 2023
+- Crawled version: 24 August 2023
 - Editor's Draft: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
 - Latest published version: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Shortname: webaudio
@@ -3227,6 +3227,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -3273,6 +3274,7 @@ Normative references to this spec from:
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
@@ -3315,7 +3317,6 @@ Normative references to this spec from:
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 
 No informative reference to this spec from other specs.
@@ -3550,7 +3551,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 Informative references to this spec from:
 
@@ -3645,6 +3648,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 
@@ -4520,6 +4524,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
@@ -5033,6 +5038,7 @@ Normative references to this spec from:
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
@@ -6573,6 +6579,7 @@ Normative references to this spec from:
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -7226,6 +7233,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 No informative reference to this spec from other specs.
@@ -7998,6 +8006,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
@@ -8093,7 +8102,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
-- Crawled version: 23 August 2023
+- Crawled version: 24 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
 - Shortname: css-transitions-2
 
@@ -8499,13 +8508,13 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS View Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS View Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 7 August 2023
+- Crawled version: 24 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -8519,6 +8528,8 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/), related reference "POINTEREVENTS3" uses URL [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8786,6 +8797,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
@@ -9338,6 +9350,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 
@@ -10416,7 +10429,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 17 July 2023
+- Crawled version: 24 August 2023
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -12419,6 +12432,7 @@ Normative references to this spec from:
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
@@ -13521,7 +13535,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
-- Crawled version: 17 July 2023
+- Crawled version: 24 August 2023
 - Editor's Draft: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
 - Latest published version: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Shortname: permissions-policy-1
@@ -18340,7 +18354,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 25 July 2023
+- Crawled version: 24 August 2023
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
