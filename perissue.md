@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 23, 2023
+% August 24, 2023
 
 569 specifications were crawled in this report.
 
@@ -906,7 +906,6 @@ Basically all specifications have normative dependencies on some other specifica
 - [EditContext API](https://w3c.github.io/edit-context/) links to:
     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/) links to [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/) but does not list it in its references
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/) links to:
     * [`https://w3c.github.io/epub-structural-tests/`](https://w3c.github.io/epub-structural-tests/) but does not list it in its references
@@ -1296,7 +1295,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 950 missing references for links found in 235 specifications
+=> 949 missing references for links found in 235 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
