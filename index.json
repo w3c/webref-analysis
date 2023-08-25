@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-25T12:41:17.009Z",
+  "date": "2023-08-25T18:41:11.395Z",
   "stats": {
-    "crawled": 569,
+    "crawled": 570,
     "errors": 0,
-    "studied": 569
+    "studied": 570
   },
   "results": [
     {
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "23 August 2023",
+      "date": "25 August 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3537,6 +3537,11 @@
               "crawled": "https://drafts.csswg.org/css-ui-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align-3/"
@@ -4960,6 +4965,58 @@
       }
     },
     {
+      "title": "CSS Borders and Box Decorations Module Level 4",
+      "shortname": "css-borders-4",
+      "date": "2 August 2023",
+      "url": "https://drafts.csswg.org/css-borders-4/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-borders-4/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-borders-4/",
+          "https://w3c.github.io/csswg-drafts/css-borders/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-borders-4/Overview.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-borders-4/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-logical-1/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "CSS Box Alignment Module Level 3",
       "shortname": "css-align-3",
       "date": "11 July 2023",
@@ -5271,6 +5328,11 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-align-3/",
@@ -7558,6 +7620,11 @@
               "crawled": "https://drafts.csswg.org/css-ui-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -9618,6 +9685,11 @@
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
             {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-transitions-1/",
               "title": "CSS Transitions",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
@@ -11653,6 +11725,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align-3/"
@@ -12192,6 +12269,11 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-sizing-4/",
@@ -14812,6 +14894,11 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-align-3/",
@@ -17508,7 +17595,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "18 August 2023",
+      "date": "25 August 2023",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -17789,7 +17876,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "18 August 2023",
+      "date": "25 August 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -17874,6 +17961,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
+            },
             {
               "url": "https://www.w3.org/TR/css-sizing-3/",
               "title": "CSS Box Sizing Module Level 3",
@@ -19309,6 +19401,11 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-align-3/",
@@ -41523,7 +41620,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "22 August 2023",
+      "date": "21 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -41647,7 +41744,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "25 August 2023",
+      "date": "23 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -47318,7 +47415,7 @@
       "url": "https://patcg-individual-drafts.github.io/topics/",
       "nightly": {
         "url": "https://patcg-individual-drafts.github.io/topics/",
-        "status": "Draft Community Group Report",
+        "status": "Unofficial Proposal Draft",
         "alternateUrls": [],
         "repository": "https://github.com/patcg-individual-drafts/topics",
         "sourcePath": "spec.bs",
@@ -49956,7 +50053,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "16 August 2023",
+      "date": "25 August 2023",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
