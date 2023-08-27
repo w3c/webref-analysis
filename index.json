@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-27T12:38:41.335Z",
+  "date": "2023-08-27T18:33:14.569Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -673,7 +673,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "21 August 2023",
+      "date": "27 August 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -10304,7 +10304,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "7 August 2023",
+      "date": "17 August 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -41626,7 +41626,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "24 August 2023",
+      "date": "26 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
