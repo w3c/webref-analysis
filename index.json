@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-27T06:32:04.039Z",
+  "date": "2023-08-27T12:38:41.335Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -17601,7 +17601,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "26 August 2023",
+      "date": "27 August 2023",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -17882,7 +17882,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "26 August 2023",
+      "date": "27 August 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -40954,7 +40954,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "26 August 2023",
+      "date": "27 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
