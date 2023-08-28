@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-28T06:32:25.859Z",
+  "date": "2023-08-28T12:41:38.928Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -3127,7 +3127,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "27 August 2023",
+      "date": "28 August 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21490,7 +21490,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "27 August 2023",
+      "date": "28 August 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -23879,7 +23879,7 @@
     {
       "title": "Element Capture",
       "shortname": "element-capture",
-      "date": "25 August 2023",
+      "date": "28 August 2023",
       "url": "https://screen-share.github.io/element-capture/",
       "nightly": {
         "url": "https://screen-share.github.io/element-capture/",
@@ -27493,7 +27493,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "25 August 2023",
+      "date": "28 August 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
