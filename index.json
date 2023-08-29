@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-29T06:32:20.467Z",
+  "date": "2023-08-29T12:41:33.183Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -27509,7 +27509,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -40085,7 +40085,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -52880,7 +52880,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "21 August 2023",
+      "date": "29 August 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
