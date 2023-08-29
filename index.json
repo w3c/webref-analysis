@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-29T12:41:33.183Z",
+  "date": "2023-08-29T18:32:23.113Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -37371,7 +37371,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41766,7 +41766,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -55405,7 +55405,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "15 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
