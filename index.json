@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-28T18:31:53.523Z",
+  "date": "2023-08-29T00:47:18.942Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -3127,7 +3127,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3414,7 +3414,7 @@
     {
       "title": "CSS 2",
       "shortname": "CSS22",
-      "date": "11 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/CSS22/",
       "release": {
         "url": "https://www.w3.org/TR/CSS22/",
@@ -4421,7 +4421,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "17 March 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -4584,7 +4584,7 @@
     {
       "title": "CSS Backgrounds Module Level 4",
       "shortname": "css-backgrounds-4",
-      "date": "30 July 2023",
+      "date": "28 August 2023",
       "url": "https://drafts.csswg.org/css-backgrounds-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-backgrounds-4/",
@@ -4967,7 +4967,7 @@
     {
       "title": "CSS Borders and Box Decorations Module Level 4",
       "shortname": "css-borders-4",
-      "date": "2 August 2023",
+      "date": "28 August 2023",
       "url": "https://drafts.csswg.org/css-borders-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-borders-4/",
@@ -5025,7 +5025,7 @@
     {
       "title": "CSS Box Alignment Module Level 3",
       "shortname": "css-align-3",
-      "date": "11 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-align-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-align-3/",
@@ -5137,7 +5137,7 @@
     {
       "title": "CSS Box Model Module Level 3",
       "shortname": "css-box-3",
-      "date": "3 March 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-box-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-3/",
@@ -5252,7 +5252,7 @@
     {
       "title": "CSS Box Model Module Level 4",
       "shortname": "css-box-4",
-      "date": "3 March 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-box-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-4/",
@@ -5404,6 +5404,11 @@
               "url": "https://www.w3.org/TR/css-grid-2/",
               "title": "CSS Grid Layout Module Level 2",
               "crawled": "https://drafts.csswg.org/css-grid-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-grid-3/",
+              "title": "CSS Grid Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-grid-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-inline-3/",
@@ -5578,11 +5583,6 @@
               "crawled": "https://drafts.csswg.org/css-variables-2/"
             },
             {
-              "url": "https://drafts.csswg.org/css-grid-3/",
-              "title": "CSS Grid Layout Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-grid-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-values-3/",
               "title": "CSS Values and Units Module Level 3",
               "crawled": "https://drafts.csswg.org/css-values-3/"
@@ -5595,7 +5595,7 @@
     {
       "title": "CSS Box Sizing Module Level 3",
       "shortname": "css-sizing-3",
-      "date": "27 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-sizing-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-sizing-3/",
@@ -5941,7 +5941,7 @@
     {
       "title": "CSS Box Sizing Module Level 4",
       "shortname": "css-sizing-4",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-sizing-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-sizing-4/",
@@ -6080,7 +6080,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 3",
       "shortname": "css-cascade-3",
-      "date": "11 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-cascade-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-3/",
@@ -6229,7 +6229,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 4",
       "shortname": "css-cascade-4",
-      "date": "11 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-cascade-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -6428,7 +6428,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 5",
       "shortname": "css-cascade-5",
-      "date": "11 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-cascade-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-5/",
@@ -6707,6 +6707,11 @@
               "crawled": "https://drafts.csswg.org/css-grid-2/"
             },
             {
+              "url": "https://drafts.csswg.org/css-grid-3/",
+              "title": "CSS Grid Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-grid-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
               "crawled": "https://drafts.csswg.org/css-images-3/"
@@ -6961,7 +6966,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-cascade-6/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -7114,7 +7119,7 @@
     {
       "title": "CSS Color Adjustment Module Level 1",
       "shortname": "css-color-adjust-1",
-      "date": "14 June 2022",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-color-adjust-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-adjust-1/",
@@ -7824,7 +7829,7 @@
     {
       "title": "CSS Conditional Rules Module Level 3",
       "shortname": "css-conditional-3",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-conditional-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -8014,7 +8019,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -8088,7 +8093,7 @@
     {
       "title": "CSS Conditional Rules Module Level 5",
       "shortname": "css-conditional-5",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-conditional-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-5/",
@@ -8993,7 +8998,7 @@
     {
       "title": "CSS Display Module Level 3",
       "shortname": "css-display-3",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-display-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-display-3/",
@@ -9116,7 +9121,7 @@
     {
       "title": "CSS Display Module Level 4",
       "shortname": "css-display-4",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://drafts.csswg.org/css-display-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-display-4/",
@@ -9982,7 +9987,7 @@
     {
       "title": "CSS Flexible Box Layout Module Level 1",
       "shortname": "css-flexbox-1",
-      "date": "17 March 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-flexbox-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -10817,7 +10822,7 @@
     {
       "title": "CSS Fragmentation Module Level 3",
       "shortname": "css-break-3",
-      "date": "21 December 2022",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-break-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-break-3/",
@@ -10942,7 +10947,7 @@
     {
       "title": "CSS Fragmentation Module Level 4",
       "shortname": "css-break-4",
-      "date": "21 December 2022",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-break-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-break-4/",
@@ -11504,7 +11509,7 @@
     {
       "title": "CSS Grid Layout Module Level 1",
       "shortname": "css-grid-1",
-      "date": "27 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-grid-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-1/",
@@ -11633,7 +11638,7 @@
     {
       "title": "CSS Grid Layout Module Level 2",
       "shortname": "css-grid-2",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-grid-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-2/",
@@ -11870,7 +11875,7 @@
     {
       "title": "CSS Grid Layout Module Level 3",
       "shortname": "css-grid-3",
-      "date": "22 February 2021",
+      "date": "28 August 2023",
       "url": "https://drafts.csswg.org/css-grid-3/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-grid-3/",
@@ -11904,6 +11909,7 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-grid/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
@@ -11940,7 +11946,7 @@
     {
       "title": "CSS Images Module Level 3",
       "shortname": "css-images-3",
-      "date": "5 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-images-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-3/",
@@ -12201,7 +12207,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -12381,7 +12387,7 @@
     {
       "title": "CSS Images Module Level 5",
       "shortname": "css-images-5",
-      "date": "28 November 2022",
+      "date": "28 August 2023",
       "url": "https://drafts.csswg.org/css-images-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-images-5/",
@@ -12436,7 +12442,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "11 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -12856,7 +12862,7 @@
     {
       "title": "CSS Lists and Counters Module Level 3",
       "shortname": "css-lists-3",
-      "date": "14 March 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-lists-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-lists-3/",
@@ -13023,7 +13029,7 @@
     {
       "title": "CSS Logical Properties and Values Level 1",
       "shortname": "css-logical-1",
-      "date": "3 March 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-logical-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-logical-1/",
@@ -13644,7 +13650,7 @@
     {
       "title": "CSS Namespaces Module Level 3",
       "shortname": "css-namespaces-3",
-      "date": "18 August 2020",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-namespaces-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-namespaces-3/",
@@ -13878,7 +13884,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -14213,7 +14219,7 @@
     {
       "title": "CSS Overflow Module Level 4",
       "shortname": "css-overflow-4",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-overflow-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -14491,7 +14497,7 @@
     {
       "title": "CSS Paged Media Module Level 3",
       "shortname": "css-page-3",
-      "date": "5 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-page-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-page-3/",
@@ -14815,7 +14821,7 @@
     {
       "title": "CSS Positioned Layout Module Level 3",
       "shortname": "css-position-3",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-position-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-position-3/",
@@ -15121,7 +15127,7 @@
     {
       "title": "CSS Positioned Layout Module Level 4",
       "shortname": "css-position-4",
-      "date": "18 May 2023",
+      "date": "28 August 2023",
       "url": "https://drafts.csswg.org/css-position-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-position-4/",
@@ -15287,7 +15293,7 @@
     {
       "title": "CSS Pseudo-Elements Module Level 4",
       "shortname": "css-pseudo-4",
-      "date": "4 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-pseudo-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -15640,7 +15646,7 @@
     {
       "title": "CSS Rhythmic Sizing",
       "shortname": "css-rhythm-1",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-rhythm-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-rhythm-1/",
@@ -15779,7 +15785,7 @@
     {
       "title": "CSS Ruby Annotation Layout Module Level 1",
       "shortname": "css-ruby-1",
-      "date": "21 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-ruby-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-ruby-1/",
@@ -16073,7 +16079,7 @@
     {
       "title": "CSS Scroll Snap Module Level 1",
       "shortname": "css-scroll-snap-1",
-      "date": "20 April 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-scroll-snap-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scroll-snap-1/",
@@ -16185,7 +16191,7 @@
     {
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
@@ -16572,7 +16578,7 @@
     {
       "title": "CSS Snapshot 2022",
       "shortname": "css-2022",
-      "date": "21 November 2022",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-2022/",
       "release": {
         "url": "https://www.w3.org/TR/css-2022/",
@@ -16633,7 +16639,7 @@
     {
       "title": "CSS Snapshot 2023",
       "shortname": "css-2023",
-      "date": "10 February 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-2023/",
       "release": {
         "url": "https://www.w3.org/TR/css-2023/",
@@ -16767,7 +16773,7 @@
     {
       "title": "CSS Speech Module Level 1",
       "shortname": "css-speech-1",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-speech-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-speech-1/",
@@ -17216,7 +17222,7 @@
     {
       "title": "CSS Text Decoration Module Level 3",
       "shortname": "css-text-decor-3",
-      "date": "18 August 2022",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-text-decor-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-3/",
@@ -17375,7 +17381,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "15 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -17601,7 +17607,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "27 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -17882,7 +17888,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "27 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -18758,7 +18764,7 @@
     {
       "title": "CSS Values and Units Module Level 3",
       "shortname": "css-values-3",
-      "date": "11 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-values-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-3/",
@@ -19287,7 +19293,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "10 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -20043,7 +20049,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "6 April 2023",
+      "date": "28 August 2023",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -20338,7 +20344,7 @@
     {
       "title": "CSS Writing Modes Level 3",
       "shortname": "css-writing-modes-3",
-      "date": "2 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-writing-modes-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -20657,7 +20663,7 @@
     {
       "title": "CSS Writing Modes Level 4",
       "shortname": "css-writing-modes-4",
-      "date": "7 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/css-writing-modes-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-writing-modes-4/",
@@ -20815,6 +20821,11 @@
               "url": "https://www.w3.org/TR/css-grid-2/",
               "title": "CSS Grid Layout Module Level 2",
               "crawled": "https://drafts.csswg.org/css-grid-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-grid-3/",
+              "title": "CSS Grid Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-grid-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-inline-3/",
@@ -21490,7 +21501,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -22203,6 +22214,11 @@
               "url": "https://www.w3.org/TR/css-font-loading-3/",
               "title": "CSS Font Loading Module Level 3",
               "crawled": "https://drafts.csswg.org/css-font-loading-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-grid-3/",
+              "title": "CSS Grid Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-grid-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-inline-3/",
@@ -31300,7 +31316,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "9 August 2023",
+      "date": "28 August 2023",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -37355,7 +37371,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "23 August 2023",
+      "date": "28 August 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -39607,7 +39623,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -39962,7 +39978,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40149,7 +40165,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40914,7 +40930,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40954,7 +40970,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41126,7 +41142,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41570,7 +41586,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41750,7 +41766,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "27 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41803,7 +41819,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "27 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41867,7 +41883,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41909,7 +41925,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -41957,7 +41973,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "28 August 2023",
+      "date": "29 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -43531,7 +43547,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "15 August 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -44204,7 +44220,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "11 July 2023",
+      "date": "28 August 2023",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -50220,7 +50236,7 @@
     {
       "title": "Web Bluetooth",
       "shortname": "web-bluetooth",
-      "date": "14 July 2023",
+      "date": "28 August 2023",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/",

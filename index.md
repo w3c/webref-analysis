@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 28, 2023
+% August 29, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -397,7 +397,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
 - Crawled URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
-- Crawled version: 9 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
 - Shortname: tc39-intl-duration-format
 
@@ -749,7 +749,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -777,7 +777,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -894,7 +894,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -918,7 +918,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -1048,7 +1048,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1112,7 +1112,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled version: 27 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
@@ -1136,7 +1136,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 27 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1163,7 +1163,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1184,7 +1184,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1611,7 +1611,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1646,7 +1646,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -1671,7 +1671,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1744,7 +1744,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1771,7 +1771,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 28 August 2023
+- Crawled version: 29 August 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3328,7 +3328,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
 - Crawled URL: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
-- Crawled version: 11 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css2/](https://drafts.csswg.org/css2/)
 - Latest published version: [https://www.w3.org/TR/CSS22/](https://www.w3.org/TR/CSS22/)
 - Shortname: CSS22
@@ -3604,7 +3604,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
 - Crawled URL: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
-- Crawled version: 17 March 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
 - Latest published version: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
 - Shortname: css-backgrounds-3
@@ -3664,7 +3664,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
 - Crawled URL: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
-- Crawled version: 30 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
 - Shortname: css-backgrounds-4
 
@@ -3796,7 +3796,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
 - Crawled URL: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
-- Crawled version: 2 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
 - Shortname: css-borders-4
 
@@ -3825,7 +3825,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
 - Crawled URL: [https://drafts.csswg.org/css-align-3/](https://drafts.csswg.org/css-align-3/)
-- Crawled version: 11 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-align-3/](https://drafts.csswg.org/css-align-3/)
 - Latest published version: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
 - Shortname: css-align-3
@@ -3868,7 +3868,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
 - Crawled URL: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
-- Crawled version: 3 March 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
 - Latest published version: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
 - Shortname: css-box-3
@@ -3912,7 +3912,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-box-4/](https://www.w3.org/TR/css-box-4/)
 - Crawled URL: [https://drafts.csswg.org/css-box-4/](https://drafts.csswg.org/css-box-4/)
-- Crawled version: 3 March 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-box-4/](https://drafts.csswg.org/css-box-4/)
 - Latest published version: [https://www.w3.org/TR/css-box-4/](https://www.w3.org/TR/css-box-4/)
 - Shortname: css-box-4
@@ -3956,6 +3956,7 @@ Normative references to this spec from:
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
@@ -3993,7 +3994,6 @@ Informative references to this spec from:
 
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
-- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
@@ -4003,7 +4003,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-sizing-3/](https://www.w3.org/TR/css-sizing-3/)
 - Crawled URL: [https://drafts.csswg.org/css-sizing-3/](https://drafts.csswg.org/css-sizing-3/)
-- Crawled version: 27 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-sizing-3/](https://drafts.csswg.org/css-sizing-3/)
 - Latest published version: [https://www.w3.org/TR/css-sizing-3/](https://www.w3.org/TR/css-sizing-3/)
 - Shortname: css-sizing-3
@@ -4090,7 +4090,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-sizing-4/](https://www.w3.org/TR/css-sizing-4/)
 - Crawled URL: [https://drafts.csswg.org/css-sizing-4/](https://drafts.csswg.org/css-sizing-4/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-sizing-4/](https://drafts.csswg.org/css-sizing-4/)
 - Latest published version: [https://www.w3.org/TR/css-sizing-4/](https://www.w3.org/TR/css-sizing-4/)
 - Shortname: css-sizing-4
@@ -4135,7 +4135,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-3/](https://www.w3.org/TR/css-cascade-3/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-3/](https://drafts.csswg.org/css-cascade-3/)
-- Crawled version: 11 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-3/](https://drafts.csswg.org/css-cascade-3/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-3/](https://www.w3.org/TR/css-cascade-3/)
 - Shortname: css-cascade-3
@@ -4182,7 +4182,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-4/](https://drafts.csswg.org/css-cascade-4/)
-- Crawled version: 11 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-4/](https://drafts.csswg.org/css-cascade-4/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-4/](https://www.w3.org/TR/css-cascade-4/)
 - Shortname: css-cascade-4
@@ -4242,7 +4242,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
-- Crawled version: 11 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-5/](https://drafts.csswg.org/css-cascade-5/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-5/](https://www.w3.org/TR/css-cascade-5/)
 - Shortname: css-cascade-5
@@ -4307,6 +4307,7 @@ Normative references to this spec from:
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
@@ -4367,7 +4368,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
 - Shortname: css-cascade-6
@@ -4414,7 +4415,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-adjust-1/](https://www.w3.org/TR/css-color-adjust-1/)
 - Crawled URL: [https://drafts.csswg.org/css-color-adjust-1/](https://drafts.csswg.org/css-color-adjust-1/)
-- Crawled version: 14 June 2022
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-adjust-1/](https://drafts.csswg.org/css-color-adjust-1/)
 - Latest published version: [https://www.w3.org/TR/css-color-adjust-1/](https://www.w3.org/TR/css-color-adjust-1/)
 - Shortname: css-color-adjust-1
@@ -4650,7 +4651,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Shortname: css-conditional-3
@@ -4703,7 +4704,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-4/](https://www.w3.org/TR/css-conditional-4/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-4/](https://drafts.csswg.org/css-conditional-4/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-4/](https://drafts.csswg.org/css-conditional-4/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-4/](https://www.w3.org/TR/css-conditional-4/)
 - Shortname: css-conditional-4
@@ -4731,7 +4732,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-5/](https://www.w3.org/TR/css-conditional-5/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-5/](https://drafts.csswg.org/css-conditional-5/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-5/](https://drafts.csswg.org/css-conditional-5/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-5/](https://www.w3.org/TR/css-conditional-5/)
 - Shortname: css-conditional-5
@@ -5041,7 +5042,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-display-3/](https://www.w3.org/TR/css-display-3/)
 - Crawled URL: [https://drafts.csswg.org/css-display-3/](https://drafts.csswg.org/css-display-3/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-display-3/](https://drafts.csswg.org/css-display-3/)
 - Latest published version: [https://www.w3.org/TR/css-display-3/](https://www.w3.org/TR/css-display-3/)
 - Shortname: css-display-3
@@ -5085,7 +5086,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-display-4/](https://drafts.csswg.org/css-display-4/)
 - Crawled URL: [https://drafts.csswg.org/css-display-4/](https://drafts.csswg.org/css-display-4/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-display-4/](https://drafts.csswg.org/css-display-4/)
 - Shortname: css-display-4
 
@@ -5363,7 +5364,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Crawled URL: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
-- Crawled version: 17 March 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
 - Latest published version: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Shortname: css-flexbox-1
@@ -5611,7 +5612,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-break-3/](https://www.w3.org/TR/css-break-3/)
 - Crawled URL: [https://drafts.csswg.org/css-break-3/](https://drafts.csswg.org/css-break-3/)
-- Crawled version: 21 December 2022
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-break-3/](https://drafts.csswg.org/css-break-3/)
 - Latest published version: [https://www.w3.org/TR/css-break-3/](https://www.w3.org/TR/css-break-3/)
 - Shortname: css-break-3
@@ -5659,7 +5660,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-break-4/](https://www.w3.org/TR/css-break-4/)
 - Crawled URL: [https://drafts.csswg.org/css-break-4/](https://drafts.csswg.org/css-break-4/)
-- Crawled version: 21 December 2022
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-break-4/](https://drafts.csswg.org/css-break-4/)
 - Latest published version: [https://www.w3.org/TR/css-break-4/](https://www.w3.org/TR/css-break-4/)
 - Shortname: css-break-4
@@ -5841,7 +5842,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-grid-1/](https://www.w3.org/TR/css-grid-1/)
 - Crawled URL: [https://drafts.csswg.org/css-grid-1/](https://drafts.csswg.org/css-grid-1/)
-- Crawled version: 27 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-grid-1/](https://drafts.csswg.org/css-grid-1/)
 - Latest published version: [https://www.w3.org/TR/css-grid-1/](https://www.w3.org/TR/css-grid-1/)
 - Shortname: css-grid-1
@@ -5888,7 +5889,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Crawled URL: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
 - Latest published version: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
 - Shortname: css-grid-2
@@ -5956,7 +5957,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-grid-3/](https://drafts.csswg.org/css-grid-3/)
 - Crawled URL: [https://drafts.csswg.org/css-grid-3/](https://drafts.csswg.org/css-grid-3/)
-- Crawled version: 22 February 2021
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-grid-3/](https://drafts.csswg.org/css-grid-3/)
 - Shortname: css-grid-3
 
@@ -5964,6 +5965,7 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
@@ -5984,7 +5986,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
 - Crawled URL: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
-- Crawled version: 5 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
 - Latest published version: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
 - Shortname: css-images-3
@@ -6056,7 +6058,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Crawled URL: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
 - Latest published version: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Shortname: css-images-4
@@ -6112,7 +6114,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-images-5/](https://drafts.csswg.org/css-images-5/)
 - Crawled URL: [https://drafts.csswg.org/css-images-5/](https://drafts.csswg.org/css-images-5/)
-- Crawled version: 28 November 2022
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-images-5/](https://drafts.csswg.org/css-images-5/)
 - Shortname: css-images-5
 
@@ -6139,7 +6141,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
 - Crawled URL: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
-- Crawled version: 11 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
 - Latest published version: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
 - Shortname: css-inline-3
@@ -6284,7 +6286,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-lists-3/](https://www.w3.org/TR/css-lists-3/)
 - Crawled URL: [https://drafts.csswg.org/css-lists-3/](https://drafts.csswg.org/css-lists-3/)
-- Crawled version: 14 March 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-lists-3/](https://drafts.csswg.org/css-lists-3/)
 - Latest published version: [https://www.w3.org/TR/css-lists-3/](https://www.w3.org/TR/css-lists-3/)
 - Shortname: css-lists-3
@@ -6334,7 +6336,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
 - Crawled URL: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
-- Crawled version: 3 March 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
 - Latest published version: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
 - Shortname: css-logical-1
@@ -6542,7 +6544,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-namespaces-3/](https://www.w3.org/TR/css-namespaces-3/)
 - Crawled URL: [https://drafts.csswg.org/css-namespaces-3/](https://drafts.csswg.org/css-namespaces-3/)
-- Crawled version: 18 August 2020
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-namespaces-3/](https://drafts.csswg.org/css-namespaces-3/)
 - Latest published version: [https://www.w3.org/TR/css-namespaces-3/](https://www.w3.org/TR/css-namespaces-3/)
 - Shortname: css-namespaces-3
@@ -6628,7 +6630,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
 - Crawled URL: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-3/](https://drafts.csswg.org/css-overflow-3/)
 - Latest published version: [https://www.w3.org/TR/css-overflow-3/](https://www.w3.org/TR/css-overflow-3/)
 - Shortname: css-overflow-3
@@ -6712,7 +6714,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-overflow-4/](https://www.w3.org/TR/css-overflow-4/)
 - Crawled URL: [https://drafts.csswg.org/css-overflow-4/](https://drafts.csswg.org/css-overflow-4/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-4/](https://drafts.csswg.org/css-overflow-4/)
 - Latest published version: [https://www.w3.org/TR/css-overflow-4/](https://www.w3.org/TR/css-overflow-4/)
 - Shortname: css-overflow-4
@@ -6812,7 +6814,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-page-3/](https://www.w3.org/TR/css-page-3/)
 - Crawled URL: [https://drafts.csswg.org/css-page-3/](https://drafts.csswg.org/css-page-3/)
-- Crawled version: 5 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-page-3/](https://drafts.csswg.org/css-page-3/)
 - Latest published version: [https://www.w3.org/TR/css-page-3/](https://www.w3.org/TR/css-page-3/)
 - Shortname: css-page-3
@@ -6900,7 +6902,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-position-3/](https://www.w3.org/TR/css-position-3/)
 - Crawled URL: [https://drafts.csswg.org/css-position-3/](https://drafts.csswg.org/css-position-3/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-position-3/](https://drafts.csswg.org/css-position-3/)
 - Latest published version: [https://www.w3.org/TR/css-position-3/](https://www.w3.org/TR/css-position-3/)
 - Shortname: css-position-3
@@ -6977,7 +6979,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-position-4/](https://drafts.csswg.org/css-position-4/)
 - Crawled URL: [https://drafts.csswg.org/css-position-4/](https://drafts.csswg.org/css-position-4/)
-- Crawled version: 18 May 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-position-4/](https://drafts.csswg.org/css-position-4/)
 - Shortname: css-position-4
 
@@ -7041,7 +7043,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-pseudo-4/](https://www.w3.org/TR/css-pseudo-4/)
 - Crawled URL: [https://drafts.csswg.org/css-pseudo-4/](https://drafts.csswg.org/css-pseudo-4/)
-- Crawled version: 4 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-pseudo-4/](https://drafts.csswg.org/css-pseudo-4/)
 - Latest published version: [https://www.w3.org/TR/css-pseudo-4/](https://www.w3.org/TR/css-pseudo-4/)
 - Shortname: css-pseudo-4
@@ -7148,7 +7150,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-rhythm-1/](https://www.w3.org/TR/css-rhythm-1/)
 - Crawled URL: [https://drafts.csswg.org/css-rhythm-1/](https://drafts.csswg.org/css-rhythm-1/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-rhythm-1/](https://drafts.csswg.org/css-rhythm-1/)
 - Latest published version: [https://www.w3.org/TR/css-rhythm-1/](https://www.w3.org/TR/css-rhythm-1/)
 - Shortname: css-rhythm-1
@@ -7205,7 +7207,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-ruby-1/](https://www.w3.org/TR/css-ruby-1/)
 - Crawled URL: [https://drafts.csswg.org/css-ruby-1/](https://drafts.csswg.org/css-ruby-1/)
-- Crawled version: 21 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-ruby-1/](https://drafts.csswg.org/css-ruby-1/)
 - Latest published version: [https://www.w3.org/TR/css-ruby-1/](https://www.w3.org/TR/css-ruby-1/)
 - Shortname: css-ruby-1
@@ -7311,7 +7313,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-scroll-snap-1/](https://www.w3.org/TR/css-scroll-snap-1/)
 - Crawled URL: [https://drafts.csswg.org/css-scroll-snap-1/](https://drafts.csswg.org/css-scroll-snap-1/)
-- Crawled version: 20 April 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-1/](https://drafts.csswg.org/css-scroll-snap-1/)
 - Latest published version: [https://www.w3.org/TR/css-scroll-snap-1/](https://www.w3.org/TR/css-scroll-snap-1/)
 - Shortname: css-scroll-snap-1
@@ -7350,7 +7352,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Crawled URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Shortname: css-scroll-snap-2
 
@@ -7507,7 +7509,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-2022/](https://www.w3.org/TR/css-2022/)
 - Crawled URL: [https://drafts.csswg.org/css-2022/](https://drafts.csswg.org/css-2022/)
-- Crawled version: 21 November 2022
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-2022/](https://drafts.csswg.org/css-2022/)
 - Latest published version: [https://www.w3.org/TR/css-2022/](https://www.w3.org/TR/css-2022/)
 - Shortname: css-2022
@@ -7536,7 +7538,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
 - Crawled URL: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
-- Crawled version: 10 February 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
 - Latest published version: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
 - Shortname: css-2023
@@ -7595,7 +7597,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-speech-1/](https://www.w3.org/TR/css-speech-1/)
 - Crawled URL: [https://drafts.csswg.org/css-speech-1/](https://drafts.csswg.org/css-speech-1/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-speech-1/](https://drafts.csswg.org/css-speech-1/)
 - Latest published version: [https://www.w3.org/TR/css-speech-1/](https://www.w3.org/TR/css-speech-1/)
 - Shortname: css-speech-1
@@ -7750,7 +7752,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-decor-3/](https://www.w3.org/TR/css-text-decor-3/)
 - Crawled URL: [https://drafts.csswg.org/css-text-decor-3/](https://drafts.csswg.org/css-text-decor-3/)
-- Crawled version: 18 August 2022
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-decor-3/](https://drafts.csswg.org/css-text-decor-3/)
 - Latest published version: [https://www.w3.org/TR/css-text-decor-3/](https://www.w3.org/TR/css-text-decor-3/)
 - Shortname: css-text-decor-3
@@ -7800,7 +7802,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
-- Crawled version: 15 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-decor-4/](https://drafts.csswg.org/css-text-decor-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-decor-4/](https://www.w3.org/TR/css-text-decor-4/)
 - Shortname: css-text-decor-4
@@ -7862,7 +7864,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
 - Crawled URL: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
-- Crawled version: 27 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-3/](https://drafts.csswg.org/css-text-3/)
 - Latest published version: [https://www.w3.org/TR/css-text-3/](https://www.w3.org/TR/css-text-3/)
 - Shortname: css-text-3
@@ -7936,7 +7938,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
-- Crawled version: 27 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Shortname: css-text-4
@@ -8227,7 +8229,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-values-3/](https://www.w3.org/TR/css-values-3/)
 - Crawled URL: [https://drafts.csswg.org/css-values-3/](https://drafts.csswg.org/css-values-3/)
-- Crawled version: 11 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-values-3/](https://drafts.csswg.org/css-values-3/)
 - Latest published version: [https://www.w3.org/TR/css-values-3/](https://www.w3.org/TR/css-values-3/)
 - Shortname: css-values-3
@@ -8350,7 +8352,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
-- Crawled version: 10 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
 - Latest published version: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Shortname: css-values-4
@@ -8523,7 +8525,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Crawled URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
-- Crawled version: 6 April 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Shortname: css-values-5
 
@@ -8642,7 +8644,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-writing-modes-3/](https://www.w3.org/TR/css-writing-modes-3/)
 - Crawled URL: [https://drafts.csswg.org/css-writing-modes-3/](https://drafts.csswg.org/css-writing-modes-3/)
-- Crawled version: 2 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-writing-modes-3/](https://drafts.csswg.org/css-writing-modes-3/)
 - Latest published version: [https://www.w3.org/TR/css-writing-modes-3/](https://www.w3.org/TR/css-writing-modes-3/)
 - Shortname: css-writing-modes-3
@@ -8723,7 +8725,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-writing-modes-4/](https://www.w3.org/TR/css-writing-modes-4/)
 - Crawled URL: [https://drafts.csswg.org/css-writing-modes-4/](https://drafts.csswg.org/css-writing-modes-4/)
-- Crawled version: 7 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-writing-modes-4/](https://drafts.csswg.org/css-writing-modes-4/)
 - Latest published version: [https://www.w3.org/TR/css-writing-modes-4/](https://www.w3.org/TR/css-writing-modes-4/)
 - Shortname: css-writing-modes-4
@@ -8766,6 +8768,7 @@ Normative references to this spec from:
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
@@ -9267,7 +9270,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Crawled URL: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
-- Crawled version: 15 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/scroll-animations-1/](https://drafts.csswg.org/scroll-animations-1/)
 - Latest published version: [https://www.w3.org/TR/scroll-animations-1/](https://www.w3.org/TR/scroll-animations-1/)
 - Shortname: scroll-animations-1
@@ -9361,7 +9364,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/selectors-4/](https://www.w3.org/TR/selectors-4/)
 - Crawled URL: [https://drafts.csswg.org/selectors-4/](https://drafts.csswg.org/selectors-4/)
-- Crawled version: 11 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://drafts.csswg.org/selectors-4/](https://drafts.csswg.org/selectors-4/)
 - Latest published version: [https://www.w3.org/TR/selectors-4/](https://www.w3.org/TR/selectors-4/)
 - Shortname: selectors-4
@@ -14460,7 +14463,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
-- Crawled version: 14 July 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Shortname: web-bluetooth
 
@@ -16686,7 +16689,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 23 August 2023
+- Crawled version: 28 August 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18128,6 +18131,7 @@ Normative references to this spec from:
 - [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
