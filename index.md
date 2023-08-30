@@ -7938,7 +7938,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
-- Crawled version: 28 August 2023
+- Crawled version: 30 August 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Shortname: css-text-4
@@ -14793,20 +14793,21 @@ Informative references to this spec from:
 
 ## Web Machine Learning Working Group {#group-web_machine_learning_working_group}
 
-### Web Neural Network API {data-spec=true data-missingDfns=true data-ok=true}
+### Web Neural Network API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 10 August 2023
+- Crawled version: 30 August 2023
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webgpu/`](https://www.w3.org/TR/webgpu/), related reference "WEBGPU" uses URL [`https://gpuweb.github.io/gpuweb/`](https://gpuweb.github.io/gpuweb/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16371,7 +16372,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Crawled URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
-- Crawled version: 04 August 2023
+- Crawled version: 30 August 2023
 - Editor's Draft: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Shortname: manifest-incubations
 
@@ -16836,7 +16837,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webcrypto-secure-curves/](https://wicg.github.io/webcrypto-secure-curves/)
 - Crawled URL: [https://wicg.github.io/webcrypto-secure-curves/](https://wicg.github.io/webcrypto-secure-curves/)
-- Crawled version: 21 June 2023
+- Crawled version: 30 August 2023
 - Editor's Draft: [https://wicg.github.io/webcrypto-secure-curves/](https://wicg.github.io/webcrypto-secure-curves/)
 - Shortname: webcrypto-secure-curves
 

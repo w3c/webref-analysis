@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-30T06:32:22.923Z",
+  "date": "2023-08-30T12:41:18.577Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -17888,7 +17888,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "28 August 2023",
+      "date": "30 August 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -32229,7 +32229,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "04 August 2023",
+      "date": "30 August 2023",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -43864,7 +43864,7 @@
     {
       "title": "Secure Curves in the Web Cryptography API",
       "shortname": "webcrypto-secure-curves",
-      "date": "21 June 2023",
+      "date": "30 August 2023",
       "url": "https://wicg.github.io/webcrypto-secure-curves/",
       "nightly": {
         "url": "https://wicg.github.io/webcrypto-secure-curves/",
@@ -51791,7 +51791,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "10 August 2023",
+      "date": "30 August 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -51827,12 +51827,20 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/webgpu/",
+            "ref": {
+              "name": "WEBGPU",
+              "url": "https://gpuweb.github.io/gpuweb/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
