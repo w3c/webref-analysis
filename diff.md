@@ -2,12 +2,12 @@
 % Strudy
 % September 01, 2023
 
-## Portable Network Graphics (PNG) Specification (Third Edition)
+## CSS View Transitions Module Level 1
 
-- Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
+- Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Missing references for links: *INS* https://www.w3.org/TR/2023/WD-png-3-20230720/
+- Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
+- Inconsistent references for links: *DEL* https://w3c.github.io/pointerevents/
 
 
 

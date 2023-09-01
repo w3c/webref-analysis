@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-01T12:41:02.808Z",
+  "date": "2023-09-01T18:33:30.325Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -7197,6 +7197,11 @@
               "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -10320,7 +10325,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "17 August 2023",
+      "date": "1 September 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -20202,15 +20207,7 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/pointerevents/",
-            "ref": {
-              "name": "POINTEREVENTS3",
-              "url": "https://www.w3.org/TR/pointerevents3/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -41669,7 +41666,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "29 August 2023",
+      "date": "31 August 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -52915,7 +52912,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "29 August 2023",
+      "date": "1 September 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
