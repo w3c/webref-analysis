@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-01T06:32:27.613Z",
+  "date": "2023-09-01T12:41:02.808Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "31 August 2023",
+      "date": "1 September 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -27535,7 +27535,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "31 August 2023",
+      "date": "1 September 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -36831,6 +36831,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/2003/REC-PNG-20031110/",
           "https://www.w3.org/TR/2022/WD-png-3-20221025/",
+          "https://www.w3.org/TR/2023/WD-png-3-20230720/",
           "https://www.w3.org/TR/i18n-glossary/",
           "https://www.w3.org/TR/png/"
         ],
@@ -39741,7 +39742,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "31 August 2023",
+      "date": "1 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41845,7 +41846,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "31 August 2023",
+      "date": "1 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41951,7 +41952,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "31 August 2023",
+      "date": "1 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
