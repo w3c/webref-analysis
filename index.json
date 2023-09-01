@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-08-31T18:34:24.752Z",
+  "date": "2023-09-01T00:47:05.836Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "30 August 2023",
+      "date": "31 August 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -4977,7 +4977,7 @@
     {
       "title": "CSS Borders and Box Decorations Module Level 4",
       "shortname": "css-borders-4",
-      "date": "28 August 2023",
+      "date": "31 August 2023",
       "url": "https://drafts.csswg.org/css-borders-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-borders-4/",
@@ -8017,11 +8017,6 @@
               "crawled": "https://drafts.csswg.org/css-nesting-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-text-4/",
-              "title": "CSS Text Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-text-4/"
-            },
-            {
               "url": "https://webidl.spec.whatwg.org/",
               "title": "Web IDL Standard",
               "crawled": "https://webidl.spec.whatwg.org/"
@@ -11053,6 +11048,11 @@
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
               "title": "CSS Backgrounds and Borders Module Level 3",
               "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-box-3/",
@@ -17916,7 +17916,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "30 August 2023",
+      "date": "31 August 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -37814,7 +37814,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "17 August 2023",
+      "date": "31 August 2023",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -37925,7 +37925,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "27 July 2023",
+      "date": "31 August 2023",
       "url": "https://www.w3.org/TR/rdf12-n-quads/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-quads/",
@@ -38014,7 +38014,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "27 July 2023",
+      "date": "31 August 2023",
       "url": "https://www.w3.org/TR/rdf12-n-triples/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-triples/",
@@ -38375,7 +38375,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "27 July 2023",
+      "date": "31 August 2023",
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
@@ -38474,7 +38474,7 @@
     {
       "title": "RDF 1.2 XML Syntax",
       "shortname": "rdf12-xml",
-      "date": "10 August 2023",
+      "date": "31 August 2023",
       "url": "https://www.w3.org/TR/rdf12-xml/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-xml/",
@@ -40191,7 +40191,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "31 August 2023",
+      "date": "1 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40956,7 +40956,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "31 August 2023",
+      "date": "1 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
