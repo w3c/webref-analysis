@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-04T12:41:36.358Z",
+  "date": "2023-09-04T18:33:03.276Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -3127,7 +3127,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "3 September 2023",
+      "date": "4 September 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -10325,7 +10325,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "1 September 2023",
+      "date": "4 September 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10630,7 +10630,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "1 March 2023",
+      "date": "4 September 2023",
       "url": "https://www.w3.org/TR/css-fonts-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -21524,7 +21524,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "3 September 2023",
+      "date": "4 September 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -41997,7 +41997,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "3 September 2023",
+      "date": "4 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -52912,7 +52912,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "1 September 2023",
+      "date": "4 September 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
