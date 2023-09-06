@@ -777,7 +777,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 5 September 2023
+- Crawled version: 6 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1136,7 +1136,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 5 September 2023
+- Crawled version: 6 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1163,7 +1163,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 5 September 2023
+- Crawled version: 6 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1184,7 +1184,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 5 September 2023
+- Crawled version: 6 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -11564,7 +11564,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 05 September 2023
+- Crawled version: 06 September 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
@@ -15152,7 +15152,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/largest-contentful-paint/](https://www.w3.org/TR/largest-contentful-paint/)
 - Crawled URL: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
-- Crawled version: 19 July 2022
+- Crawled version: 5 September 2023
 - Editor's Draft: [https://w3c.github.io/largest-contentful-paint/](https://w3c.github.io/largest-contentful-paint/)
 - Latest published version: [https://www.w3.org/TR/largest-contentful-paint/](https://www.w3.org/TR/largest-contentful-paint/)
 - Shortname: largest-contentful-paint
@@ -18563,7 +18563,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 4 September 2023
+- Crawled version: 6 September 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
