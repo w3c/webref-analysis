@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-05T18:33:57.386Z",
+  "date": "2023-09-06T00:45:35.444Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -36419,6 +36419,11 @@
               "crawled": "https://w3c.github.io/screen-wake-lock/"
             },
             {
+              "url": "https://wicg.github.io/shared-storage/",
+              "title": "Shared Storage API",
+              "crawled": "https://wicg.github.io/shared-storage/"
+            },
+            {
               "url": "https://privacycg.github.io/storage-access/",
               "title": "The Storage Access API",
               "crawled": "https://privacycg.github.io/storage-access/"
@@ -38790,7 +38795,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "01 September 2023",
+      "date": "05 September 2023",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -39628,7 +39633,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "4 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -40975,7 +40980,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41147,7 +41152,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41591,7 +41596,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41771,7 +41776,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -44674,7 +44679,7 @@
     {
       "title": "Shared Storage API",
       "shortname": "shared-storage",
-      "date": "29 August 2023",
+      "date": "5 September 2023",
       "url": "https://wicg.github.io/shared-storage/",
       "nightly": {
         "url": "https://wicg.github.io/shared-storage/",
