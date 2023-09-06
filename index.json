@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-06T06:34:08.896Z",
+  "date": "2023-09-06T12:41:43.064Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -7438,7 +7438,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "27 August 2023",
+      "date": "6 September 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -10309,7 +10309,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10614,7 +10614,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "4 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.w3.org/TR/css-fonts-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -24833,7 +24833,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "24 August 2023",
+      "date": "6 September 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -39725,7 +39725,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -39988,7 +39988,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40095,7 +40095,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40175,7 +40175,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41935,7 +41935,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -52898,7 +52898,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "5 September 2023",
+      "date": "6 September 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54844,7 +54844,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "30 August 2023",
+      "date": "6 September 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54919,7 +54919,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "30 August 2023",
+      "date": "6 September 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
