@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-06T18:34:34.978Z",
+  "date": "2023-09-07T00:45:24.907Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -3127,7 +3127,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "5 September 2023",
+      "date": "7 September 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21505,7 +21505,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "5 September 2023",
+      "date": "7 September 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -32233,7 +32233,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "30 August 2023",
+      "date": "06 September 2023",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -40095,7 +40095,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "6 September 2023",
+      "date": "7 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40980,7 +40980,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "6 September 2023",
+      "date": "7 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41596,7 +41596,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "6 September 2023",
+      "date": "7 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41893,7 +41893,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "6 September 2023",
+      "date": "7 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41935,7 +41935,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "6 September 2023",
+      "date": "7 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -50085,7 +50085,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "25 August 2023",
+      "date": "6 September 2023",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -56428,7 +56428,7 @@
     {
       "title": "Window Management",
       "shortname": "window-management",
-      "date": "29 August 2023",
+      "date": "6 September 2023",
       "url": "https://www.w3.org/TR/window-management/",
       "release": {
         "url": "https://www.w3.org/TR/window-management/",
