@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-07T12:39:25.745Z",
+  "date": "2023-09-07T18:33:17.796Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "6 September 2023",
+      "date": "7 September 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -5015,6 +5015,11 @@
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             }
           ],
           "informative": []
@@ -7438,7 +7443,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "6 September 2023",
+      "date": "7 September 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7579,7 +7584,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "29 August 2023",
+      "date": "7 September 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -11880,7 +11885,7 @@
     {
       "title": "CSS Grid Layout Module Level 3",
       "shortname": "css-grid-3",
-      "date": "28 August 2023",
+      "date": "7 September 2023",
       "url": "https://drafts.csswg.org/css-grid-3/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-grid-3/",
@@ -23290,7 +23295,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "24 August 2023",
+      "date": "7 September 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
