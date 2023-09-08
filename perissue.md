@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 07, 2023
+% September 08, 2023
 
 570 specifications were crawled in this report.
 
@@ -79,7 +79,7 @@
 - [WebGL OES_vertex_array_object Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - [WebGL OVR_multiview2 Extension Specification](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - [WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- [WebGL WEBGL_clip_cull_distance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
+- [WebGL WEBGL_clip_cull_distance Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - [WebGL WEBGL_color_buffer_float Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - [WebGL WEBGL_compressed_texture_astc Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - [WebGL WEBGL_compressed_texture_etc Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
@@ -424,6 +424,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/selection-api/`](https://www.w3.org/TR/selection-api/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1304,7 +1305,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 957 missing references for links found in 236 specifications
+=> 958 missing references for links found in 236 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
