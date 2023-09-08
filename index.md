@@ -2784,7 +2784,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 02 September 2023
+- Crawled version: 08 September 2023
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -3173,7 +3173,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 7 September 2023
+- Crawled version: 8 September 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -4576,7 +4576,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 7 September 2023
+- Crawled version: 8 September 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -8348,6 +8348,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Resource Timing](https://w3c.github.io/resource-timing/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
 ### CSS Values and Units Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -11543,7 +11544,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
 - Crawled URL: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
-- Crawled version: 18 August 2023
+- Crawled version: 8 September 2023
 - Editor's Draft: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
 - Shortname: topics
 
@@ -15544,7 +15545,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 7 September 2023
+- Crawled version: 8 September 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-08T12:41:56.766Z",
+  "date": "2023-09-08T18:33:44.086Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -499,7 +499,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "02 September 2023",
+      "date": "08 September 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "7 September 2023",
+      "date": "8 September 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -7584,7 +7584,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "7 September 2023",
+      "date": "8 September 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -19302,6 +19302,11 @@
               "url": "https://www.w3.org/TR/resource-timing/",
               "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
+              "url": "https://w3c.github.io/webdriver-bidi/",
+              "title": "WebDriver BiDi",
+              "crawled": "https://w3c.github.io/webdriver-bidi/"
             }
           ]
         },
@@ -47454,7 +47459,7 @@
     {
       "title": "Topics API",
       "shortname": "topics",
-      "date": "18 August 2023",
+      "date": "8 September 2023",
       "url": "https://patcg-individual-drafts.github.io/topics/",
       "nightly": {
         "url": "https://patcg-individual-drafts.github.io/topics/",
@@ -52909,7 +52914,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "7 September 2023",
+      "date": "8 September 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
