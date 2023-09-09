@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-08T18:33:44.086Z",
+  "date": "2023-09-09T00:46:10.574Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -17082,11 +17082,6 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
-              "url": "https://www.w3.org/TR/intersection-observer/",
-              "title": "Intersection Observer",
-              "crawled": "https://w3c.github.io/IntersectionObserver/"
-            },
-            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -21130,11 +21125,6 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
-              "url": "https://www.w3.org/TR/intersection-observer/",
-              "title": "Intersection Observer",
-              "crawled": "https://w3c.github.io/IntersectionObserver/"
-            },
-            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -24711,7 +24701,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "26 August 2023",
+      "date": "8 September 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -24742,15 +24732,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/pub-manifest/",
-            "ref": {
-              "name": "PUB-MANIFEST",
-              "url": "https://w3c.github.io/pub-manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -24766,7 +24748,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -31131,7 +31113,7 @@
     {
       "title": "Intersection Observer",
       "shortname": "intersection-observer",
-      "date": "6 July 2022",
+      "date": "9 September 2023",
       "url": "https://www.w3.org/TR/intersection-observer/",
       "release": {
         "url": "https://www.w3.org/TR/intersection-observer/",
@@ -35160,7 +35142,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "5 March 2023",
+      "date": "8 September 2023",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -37397,7 +37379,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "7 September 2023",
+      "date": "8 September 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37568,11 +37550,6 @@
               "url": "https://www.w3.org/TR/audiobooks/",
               "title": "Audiobooks",
               "crawled": "https://w3c.github.io/audiobooks/"
-            },
-            {
-              "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced Frame",
-              "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -40956,7 +40933,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "8 September 2023",
+      "date": "9 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41792,7 +41769,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "8 September 2023",
+      "date": "9 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41909,7 +41886,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "8 September 2023",
+      "date": "9 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41951,7 +41928,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "8 September 2023",
+      "date": "9 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -52972,7 +52949,7 @@
     {
       "title": "WebGL 2.0 Specification",
       "shortname": "webgl2",
-      "date": "30 June 2023",
+      "date": "8 September 2023",
       "url": "https://registry.khronos.org/webgl/specs/latest/2.0/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/specs/latest/2.0/",
