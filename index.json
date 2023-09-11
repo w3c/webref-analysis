@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-11T12:39:46.643Z",
+  "date": "2023-09-11T18:32:13.026Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "8 September 2023",
+      "date": "11 September 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -31113,7 +31113,7 @@
     {
       "title": "Intersection Observer",
       "shortname": "intersection-observer",
-      "date": "9 September 2023",
+      "date": "11 September 2023",
       "url": "https://www.w3.org/TR/intersection-observer/",
       "release": {
         "url": "https://www.w3.org/TR/intersection-observer/",
@@ -37379,7 +37379,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "8 September 2023",
+      "date": "11 September 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -39981,7 +39981,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "9 September 2023",
+      "date": "11 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41822,7 +41822,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "10 September 2023",
+      "date": "11 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",

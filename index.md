@@ -1136,7 +1136,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 10 September 2023
+- Crawled version: 11 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1671,7 +1671,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 9 September 2023
+- Crawled version: 11 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -14077,7 +14077,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/intersection-observer/](https://www.w3.org/TR/intersection-observer/)
 - Crawled URL: [https://w3c.github.io/IntersectionObserver/](https://w3c.github.io/IntersectionObserver/)
-- Crawled version: 9 September 2023
+- Crawled version: 11 September 2023
 - Editor's Draft: [https://w3c.github.io/IntersectionObserver/](https://w3c.github.io/IntersectionObserver/)
 - Latest published version: [https://www.w3.org/TR/intersection-observer/](https://www.w3.org/TR/intersection-observer/)
 - Shortname: intersection-observer
@@ -15542,7 +15542,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 8 September 2023
+- Crawled version: 11 September 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16692,7 +16692,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 8 September 2023
+- Crawled version: 11 September 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
