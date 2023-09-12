@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-12T06:32:37.994Z",
+  "date": "2023-09-12T12:39:38.352Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -25075,7 +25075,7 @@
             },
             {
               "url": "https://www.w3.org/TR/mediasession/",
-              "title": "Media Session Standard",
+              "title": "Media Session",
               "crawled": "https://w3c.github.io/mediasession/"
             },
             {
@@ -28389,7 +28389,7 @@
             },
             {
               "url": "https://www.w3.org/TR/mediasession/",
-              "title": "Media Session Standard",
+              "title": "Media Session",
               "crawled": "https://w3c.github.io/mediasession/"
             },
             {
@@ -29610,7 +29610,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/mediasession/",
-              "title": "Media Session Standard",
+              "title": "Media Session",
               "crawled": "https://w3c.github.io/mediasession/"
             },
             {
@@ -30341,7 +30341,7 @@
             },
             {
               "url": "https://www.w3.org/TR/mediasession/",
-              "title": "Media Session Standard",
+              "title": "Media Session",
               "crawled": "https://w3c.github.io/mediasession/"
             },
             {
@@ -31087,6 +31087,11 @@
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/rdf12-concepts/",
+              "title": "RDF 1.2 Concepts and Abstract Syntax",
+              "crawled": "https://w3c.github.io/rdf-concepts/spec/"
             },
             {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -33474,9 +33479,9 @@
       }
     },
     {
-      "title": "Media Session Standard",
+      "title": "Media Session",
       "shortname": "mediasession",
-      "date": "20 September 2022",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -33512,15 +33517,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/image-resource/",
-            "ref": {
-              "name": "IMAGE-RESOURCE",
-              "url": "https://w3c.github.io/image-resource/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": [
@@ -33531,7 +33528,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -34138,7 +34135,7 @@
             },
             {
               "url": "https://www.w3.org/TR/mediasession/",
-              "title": "Media Session Standard",
+              "title": "Media Session",
               "crawled": "https://w3c.github.io/mediasession/"
             },
             {
@@ -37379,7 +37376,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "11 September 2023",
+      "date": "12 September 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37791,7 +37788,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "31 August 2023",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -47160,7 +47157,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "1 September 2023",
+      "date": "12 September 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -48414,7 +48411,7 @@
             },
             {
               "url": "https://www.w3.org/TR/mediasession/",
-              "title": "Media Session Standard",
+              "title": "Media Session",
               "crawled": "https://w3c.github.io/mediasession/"
             },
             {
@@ -51047,7 +51044,7 @@
             },
             {
               "url": "https://www.w3.org/TR/mediasession/",
-              "title": "Media Session Standard",
+              "title": "Media Session",
               "crawled": "https://w3c.github.io/mediasession/"
             },
             {
@@ -52891,7 +52888,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "11 September 2023",
+      "date": "12 September 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54837,7 +54834,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "6 September 2023",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54912,7 +54909,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "6 September 2023",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
