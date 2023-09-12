@@ -2,14 +2,12 @@
 % Strudy
 % September 12, 2023
 
-## Media Session
+## User Agent Interaction with Related Website Sets
 
-- Initial URL: [https://www.w3.org/TR/mediasession/](https://www.w3.org/TR/mediasession/)
+- Initial URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://w3c.github.io/mediasession/](https://w3c.github.io/mediasession/)
-- Spec title: *INS* Media Session / *DEL* Media Session Standard
-- Spec is OK: *INS* true / *DEL* false
-- Inconsistent references for links: *DEL* https://www.w3.org/TR/image-resource/
+- Editor's Draft: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
+- Spec title: *INS* User Agent Interaction with Related Website Sets / *DEL* User Agent Interaction with First-Party Sets
 
 
 

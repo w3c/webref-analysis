@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-12T12:39:38.352Z",
+  "date": "2023-09-12T18:33:02.456Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "11 September 2023",
+      "date": "12 September 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1902,7 +1902,7 @@
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             }
           ],
@@ -23365,7 +23365,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "31 August 2023",
+      "date": "12 September 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -24179,7 +24179,7 @@
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {
@@ -24328,7 +24328,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "11 September 2023",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24394,7 +24394,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "11 September 2023",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -28809,7 +28809,7 @@
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {
@@ -30641,7 +30641,7 @@
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {
@@ -36121,7 +36121,7 @@
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {
@@ -36194,7 +36194,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "11 September 2023",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -39382,7 +39382,7 @@
     {
       "title": "requestStorageAccessFor API",
       "shortname": "requestStorageAccessFor",
-      "date": "29 March 2023",
+      "date": "12 September 2023",
       "url": "https://privacycg.github.io/requestStorageAccessFor/",
       "nightly": {
         "url": "https://privacycg.github.io/requestStorageAccessFor/",
@@ -39418,7 +39418,7 @@
           "normative": [
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             }
           ],
@@ -47374,7 +47374,7 @@
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             }
           ],
@@ -48621,7 +48621,7 @@
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {
@@ -48734,7 +48734,7 @@
     {
       "title": "URLPattern API",
       "shortname": "urlpattern",
-      "date": "21 November 2022",
+      "date": "12 September 2023",
       "url": "https://wicg.github.io/urlpattern/",
       "nightly": {
         "url": "https://wicg.github.io/urlpattern/",
@@ -48786,9 +48786,9 @@
       }
     },
     {
-      "title": "User Agent Interaction with First-Party Sets",
+      "title": "User Agent Interaction with Related Website Sets",
       "shortname": "first-party-sets",
-      "date": "21 August 2023",
+      "date": "12 September 2023",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
@@ -50075,7 +50075,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "6 September 2023",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -51374,7 +51374,7 @@
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
-              "title": "User Agent Interaction with First-Party Sets",
+              "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {

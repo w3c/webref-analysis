@@ -187,7 +187,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 31 August 2023
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -9996,7 +9996,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 11 September 2023
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -10024,7 +10024,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 11 September 2023
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -11456,7 +11456,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://privacycg.github.io/requestStorageAccessFor/](https://privacycg.github.io/requestStorageAccessFor/)
 - Crawled URL: [https://privacycg.github.io/requestStorageAccessFor/](https://privacycg.github.io/requestStorageAccessFor/)
-- Crawled version: 29 March 2023
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://privacycg.github.io/requestStorageAccessFor/](https://privacycg.github.io/requestStorageAccessFor/)
 - Shortname: requestStorageAccessFor
 
@@ -11468,7 +11468,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 
 No informative reference to this spec from other specs.
 
@@ -11493,7 +11493,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessFor/)
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 
 No informative reference to this spec from other specs.
 
@@ -13320,7 +13320,7 @@ Normative references to this spec from:
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Cookies Having Independent Partitioned State specification](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 
 Informative references to this spec from:
 
@@ -13554,7 +13554,7 @@ Normative references to this spec from:
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
@@ -13578,7 +13578,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
-- Crawled version: 11 September 2023
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
 - Latest published version: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Shortname: permissions-policy-1
@@ -14429,7 +14429,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 6 September 2023
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
@@ -15542,7 +15542,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 11 September 2023
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16952,7 +16952,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
 - Crawled URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
-- Crawled version: 21 November 2022
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
 - Shortname: urlpattern
 
@@ -16971,13 +16971,13 @@ Informative references to this spec from:
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
-### User Agent Interaction with First-Party Sets {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### User Agent Interaction with Related Website Sets {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Crawled URL: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
-- Crawled version: 21 August 2023
+- Crawled version: 12 September 2023
 - Editor's Draft: [https://wicg.github.io/first-party-sets/](https://wicg.github.io/first-party-sets/)
 - Shortname: first-party-sets
 
@@ -18371,7 +18371,7 @@ Normative references to this spec from:
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [URL Standard](https://url.spec.whatwg.org/)
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
@@ -18817,7 +18817,7 @@ Normative references to this spec from:
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Standard](https://url.spec.whatwg.org/)
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
@@ -19128,7 +19128,7 @@ Normative references to this spec from:
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [URLPattern API](https://wicg.github.io/urlpattern/)
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
@@ -19515,7 +19515,7 @@ Normative references to this spec from:
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URLPattern API](https://wicg.github.io/urlpattern/)
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
@@ -19752,7 +19752,7 @@ Normative references to this spec from:
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [URLPattern API](https://wicg.github.io/urlpattern/)
-- [User Agent Interaction with First-Party Sets](https://wicg.github.io/first-party-sets/)
+- [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
