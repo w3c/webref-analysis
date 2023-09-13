@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-12T18:33:02.456Z",
+  "date": "2023-09-13T00:45:53.691Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -37569,6 +37569,11 @@
               "crawled": "https://wicg.github.io/turtledove/"
             },
             {
+              "url": "https://www.w3.org/TR/service-workers/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
               "url": "https://wicg.github.io/shared-storage/",
               "title": "Shared Storage API",
               "crawled": "https://wicg.github.io/shared-storage/"
@@ -40085,7 +40090,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "11 September 2023",
+      "date": "12 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40165,7 +40170,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40970,7 +40975,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41142,7 +41147,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41586,7 +41591,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -41766,7 +41771,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41819,7 +41824,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41883,7 +41888,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41925,7 +41930,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -44382,7 +44387,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "31 May 2023",
+      "date": "12 September 2023",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -44422,7 +44427,15 @@
           "https://w3c.github.io/payment-handler/",
           "https://w3c.github.io/push-api/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/pub-manifest/",
+            "ref": {
+              "name": "PUB-MANIFEST",
+              "url": "https://w3c.github.io/pub-manifest/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
