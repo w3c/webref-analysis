@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-13T12:39:58.103Z",
+  "date": "2023-09-13T18:32:26.339Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -24651,7 +24651,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "23 August 2023",
+      "date": "13 September 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -24701,7 +24701,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "8 September 2023",
+      "date": "13 September 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -39720,7 +39720,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -48747,7 +48747,7 @@
     {
       "title": "URLPattern API",
       "shortname": "urlpattern",
-      "date": "12 September 2023",
+      "date": "13 September 2023",
       "url": "https://wicg.github.io/urlpattern/",
       "nightly": {
         "url": "https://wicg.github.io/urlpattern/",
