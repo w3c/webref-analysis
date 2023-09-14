@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-14T06:32:30.928Z",
+  "date": "2023-09-14T12:39:31.932Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -31114,6 +31114,11 @@
               "url": "https://www.w3.org/TR/css-highlight-api-1/",
               "title": "CSS Custom Highlight API Module Level 1",
               "crawled": "https://drafts.csswg.org/css-highlight-api-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/input-events-2/",
+              "title": "Input Events Level 2",
+              "crawled": "https://w3c.github.io/input-events/"
             }
           ]
         },
@@ -41776,7 +41781,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "13 September 2023",
+      "date": "14 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -51756,7 +51761,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "11 September 2023",
+      "date": "14 September 2023",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
