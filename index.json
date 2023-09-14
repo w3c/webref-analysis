@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-14T00:45:46.093Z",
+  "date": "2023-09-14T06:32:30.928Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -14171,6 +14171,11 @@
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/intersection-observer/",
+              "title": "Intersection Observer",
+              "crawled": "https://w3c.github.io/IntersectionObserver/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -30968,7 +30973,7 @@
     {
       "title": "Input Events Level 2",
       "shortname": "input-events-2",
-      "date": "11 March 2022",
+      "date": "14 September 2023",
       "url": "https://www.w3.org/TR/input-events-2/",
       "release": {
         "url": "https://www.w3.org/TR/input-events-2/",
@@ -31118,7 +31123,7 @@
     {
       "title": "Intersection Observer",
       "shortname": "intersection-observer",
-      "date": "11 September 2023",
+      "date": "14 September 2023",
       "url": "https://www.w3.org/TR/intersection-observer/",
       "release": {
         "url": "https://www.w3.org/TR/intersection-observer/",
@@ -41824,7 +41829,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "13 September 2023",
+      "date": "14 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
