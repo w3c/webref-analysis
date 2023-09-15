@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-15T06:32:49.468Z",
+  "date": "2023-09-15T12:39:13.936Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -22596,6 +22596,11 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
+              "url": "https://www.w3.org/TR/mediasession/",
+              "title": "Media Session",
+              "crawled": "https://w3c.github.io/mediasession/"
+            },
+            {
               "url": "https://www.w3.org/TR/media-source-2/",
               "title": "Media Source Extensions™",
               "crawled": "https://w3c.github.io/media-source/"
@@ -25658,7 +25663,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "24 July 2023",
+      "date": "15 September 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -33491,7 +33496,7 @@
     {
       "title": "Media Session",
       "shortname": "mediasession",
-      "date": "12 September 2023",
+      "date": "15 September 2023",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -33526,7 +33531,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/permissions-policy-1/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
@@ -33538,7 +33545,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -51761,7 +51768,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "14 September 2023",
+      "date": "15 September 2023",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
