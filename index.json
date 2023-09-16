@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-16T06:32:14.213Z",
+  "date": "2023-09-16T12:37:36.270Z",
   "stats": {
     "crawled": 570,
     "errors": 0,
@@ -39737,7 +39737,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "15 September 2023",
+      "date": "16 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
