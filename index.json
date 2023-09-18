@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-18T06:34:07.125Z",
+  "date": "2023-09-18T12:41:23.053Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -4767,7 +4767,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "16 August 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -25663,7 +25663,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "15 September 2023",
+      "date": "18 September 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -33496,7 +33496,7 @@
     {
       "title": "Media Session",
       "shortname": "mediasession",
-      "date": "15 September 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -50417,7 +50417,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "10 September 2023",
+      "date": "18 September 2023",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -55365,7 +55365,7 @@
     {
       "title": "WebSockets Standard",
       "shortname": "websockets",
-      "date": "12 May 2023",
+      "date": "18 September 2023",
       "url": "https://websockets.spec.whatwg.org/",
       "nightly": {
         "url": "https://websockets.spec.whatwg.org/",
