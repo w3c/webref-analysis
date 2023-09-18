@@ -462,7 +462,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
 - Crawled URL: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
-- Crawled version: 27 January 2023
+- Crawled version: 18 September 2023
 - Editor's Draft: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
 - Shortname: tc39-json-parse-with-source
 
@@ -894,7 +894,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 17 September 2023
+- Crawled version: 18 September 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -918,7 +918,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 17 September 2023
+- Crawled version: 18 September 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -7942,7 +7942,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
-- Crawled version: 5 September 2023
+- Crawled version: 3 September 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Shortname: css-text-4
@@ -14535,7 +14535,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/clipboard-apis/](https://www.w3.org/TR/clipboard-apis/)
 - Crawled URL: [https://w3c.github.io/clipboard-apis/](https://w3c.github.io/clipboard-apis/)
-- Crawled version: 20 May 2022
+- Crawled version: 18 September 2023
 - Editor's Draft: [https://w3c.github.io/clipboard-apis/](https://w3c.github.io/clipboard-apis/)
 - Latest published version: [https://www.w3.org/TR/clipboard-apis/](https://www.w3.org/TR/clipboard-apis/)
 - Shortname: clipboard-apis
@@ -14546,8 +14546,7 @@ Informative references to this spec from:
      * [`http://w3c.github.io/editing/contentEditable.html`](http://w3c.github.io/editing/contentEditable.html)
      * [`https://w3c.github.io/editing/`](https://w3c.github.io/editing/)
 - Inconsistent references for links: 
-     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/), related reference "FileAPI" uses URL [`https://www.w3.org/TR/FileAPI/`](https://www.w3.org/TR/FileAPI/)
-     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
+     * [`http://www.w3.org/TR/html5/browsers.html`](http://www.w3.org/TR/html5/browsers.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14588,7 +14587,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Crawled URL: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
-- Crawled version: 13 September 2023
+- Crawled version: 18 September 2023
 - Editor's Draft: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
 - Latest published version: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Shortname: edit-context
@@ -18879,7 +18878,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)

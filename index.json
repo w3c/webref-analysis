@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-18T12:41:23.053Z",
+  "date": "2023-09-18T18:33:55.229Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -2095,7 +2095,7 @@
     {
       "title": "Clipboard API and events",
       "shortname": "clipboard-apis",
-      "date": "20 May 2022",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/clipboard-apis/",
       "release": {
         "url": "https://www.w3.org/TR/clipboard-apis/",
@@ -2136,17 +2136,10 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/FileAPI/",
+            "link": "http://www.w3.org/TR/html5/browsers.html",
             "ref": {
-              "name": "FileAPI",
-              "url": "https://www.w3.org/TR/FileAPI/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/permissions/",
-            "ref": {
-              "name": "PERMISSIONS",
-              "url": "https://www.w3.org/TR/permissions/"
+              "name": "HTML",
+              "url": "https://html.spec.whatwg.org/multipage/"
             }
           }
         ],
@@ -3127,7 +3120,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "17 September 2023",
+      "date": "18 September 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -17906,7 +17899,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "5 September 2023",
+      "date": "3 September 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -21516,7 +21509,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "17 September 2023",
+      "date": "18 September 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -23857,7 +23850,7 @@
     {
       "title": "EditContext API",
       "shortname": "edit-context",
-      "date": "13 September 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/edit-context/",
       "release": {
         "url": "https://www.w3.org/TR/edit-context/",
@@ -29080,11 +29073,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/clipboard-apis/",
-              "title": "Clipboard API and events",
-              "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
@@ -31719,7 +31707,7 @@
     {
       "title": "JSON.parse source text access",
       "shortname": "tc39-json-parse-with-source",
-      "date": "27 January 2023",
+      "date": "18 September 2023",
       "url": "https://tc39.es/proposal-json-parse-with-source/",
       "nightly": {
         "url": "https://tc39.es/proposal-json-parse-with-source/",
