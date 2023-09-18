@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-18T00:46:01.311Z",
+  "date": "2023-09-18T06:34:07.125Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -10315,7 +10315,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "6 September 2023",
+      "date": "16 September 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -14520,7 +14520,7 @@
     {
       "title": "CSS Paged Media Module Level 3",
       "shortname": "css-page-3",
-      "date": "28 August 2023",
+      "date": "13 September 2023",
       "url": "https://www.w3.org/TR/css-page-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-page-3/",
@@ -18319,7 +18319,7 @@
     {
       "title": "CSS Transforms Module Level 2",
       "shortname": "css-transforms-2",
-      "date": "11 July 2023",
+      "date": "13 September 2023",
       "url": "https://www.w3.org/TR/css-transforms-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-transforms-2/",
@@ -19316,7 +19316,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "28 August 2023",
+      "date": "15 September 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -32549,7 +32549,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "17 August 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -43569,7 +43569,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "28 August 2023",
+      "date": "13 September 2023",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -49684,7 +49684,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "22 August 2023",
+      "date": "13 September 2023",
       "url": "https://www.w3.org/TR/web-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-2/",
@@ -55209,7 +55209,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "17 August 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
