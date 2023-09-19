@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-19T12:42:03.242Z",
+  "date": "2023-09-19T18:34:48.246Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -25604,7 +25604,7 @@
     {
       "title": "File System Access",
       "shortname": "file-system-access",
-      "date": "28 August 2023",
+      "date": "19 September 2023",
       "url": "https://wicg.github.io/file-system-access/",
       "nightly": {
         "url": "https://wicg.github.io/file-system-access/",
@@ -40106,7 +40106,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "18 September 2023",
+      "date": "19 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41787,7 +41787,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "18 September 2023",
+      "date": "19 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
