@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-18T18:33:55.229Z",
+  "date": "2023-09-19T00:46:14.515Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -3120,7 +3120,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "18 September 2023",
+      "date": "19 September 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21509,7 +21509,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "18 September 2023",
+      "date": "19 September 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -23899,7 +23899,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-typed-om-1/",
+              "title": "CSS Typed OM Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -30711,6 +30717,11 @@
               "url": "https://www.w3.org/TR/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://w3c.github.io/web-locks/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webmidi/",
+              "title": "Web MIDI API",
+              "crawled": "https://webaudio.github.io/web-midi-api/"
             },
             {
               "url": "https://www.w3.org/TR/webnn/",
@@ -39725,7 +39736,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "18 September 2023",
+      "date": "19 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41935,7 +41946,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "18 September 2023",
+      "date": "19 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -41983,7 +41994,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "18 September 2023",
+      "date": "19 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -47176,7 +47187,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "14 September 2023",
+      "date": "18 September 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -48180,7 +48191,7 @@
     {
       "title": "URL Fragment Text Directives",
       "shortname": "scroll-to-text-fragment",
-      "date": "12 April 2023",
+      "date": "18 September 2023",
       "url": "https://wicg.github.io/scroll-to-text-fragment/",
       "nightly": {
         "url": "https://wicg.github.io/scroll-to-text-fragment/",
@@ -51757,7 +51768,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "15 September 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",

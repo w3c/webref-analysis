@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 18, 2023
+% September 19, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -672,7 +672,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 14 September 2023
+- Crawled version: 18 September 2023
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -894,7 +894,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 18 September 2023
+- Crawled version: 19 September 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -918,7 +918,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 18 September 2023
+- Crawled version: 19 September 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -1184,7 +1184,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 18 September 2023
+- Crawled version: 19 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1558,7 +1558,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 18 September 2023
+- Crawled version: 19 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1646,7 +1646,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 18 September 2023
+- Crawled version: 19 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -3042,7 +3042,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Crawled URL: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
-- Crawled version: 15 September 2023
+- Crawled version: 18 September 2023
 - Editor's Draft: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
 - Latest published version: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Shortname: webmidi
@@ -14602,7 +14602,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 
 No informative reference to this spec from other specs.
 
@@ -16935,7 +16937,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
 - Crawled URL: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
-- Crawled version: 12 April 2023
+- Crawled version: 18 September 2023
 - Editor's Draft: [https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)
 - Shortname: scroll-to-text-fragment
 
@@ -19148,6 +19150,7 @@ Normative references to this spec from:
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
+- [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
