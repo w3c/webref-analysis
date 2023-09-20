@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-20T12:41:06.737Z",
+  "date": "2023-09-20T18:33:39.754Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -7577,7 +7577,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "8 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -10372,55 +10372,6 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
               "name": "CSS-VALUES-3",
@@ -10461,11 +10412,6 @@
               "url": "https://www.w3.org/TR/css-font-loading-3/",
               "title": "CSS Font Loading Module Level 3",
               "crawled": "https://drafts.csswg.org/css-font-loading-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-fonts-4/",
-              "title": "CSS Fonts Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -24231,11 +24177,6 @@
               "crawled": "https://wicg.github.io/csp-next/scripting-policy.html"
             },
             {
-              "url": "https://www.w3.org/TR/service-workers/",
-              "title": "Service Workers Nightly",
-              "crawled": "https://w3c.github.io/ServiceWorker/"
-            },
-            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -24396,7 +24337,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "12 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24462,7 +24403,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "12 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -41722,7 +41663,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "19 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -44462,7 +44403,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "12 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -48294,7 +48235,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "19 September 2023",
+      "date": "20 September 2023",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
