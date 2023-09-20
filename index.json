@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-20T06:32:48.186Z",
+  "date": "2023-09-20T12:41:06.737Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -2736,7 +2736,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "4 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -10308,7 +10308,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "16 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10372,6 +10372,55 @@
         ],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
               "name": "CSS-VALUES-3",
@@ -10412,6 +10461,11 @@
               "url": "https://www.w3.org/TR/css-font-loading-3/",
               "title": "CSS Font Loading Module Level 3",
               "crawled": "https://drafts.csswg.org/css-font-loading-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -14235,7 +14289,7 @@
     {
       "title": "CSS Overflow Module Level 4",
       "shortname": "css-overflow-4",
-      "date": "28 August 2023",
+      "date": "17 September 2023",
       "url": "https://www.w3.org/TR/css-overflow-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-4/",
@@ -14513,7 +14567,7 @@
     {
       "title": "CSS Paged Media Module Level 3",
       "shortname": "css-page-3",
-      "date": "13 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.w3.org/TR/css-page-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-page-3/",
@@ -23904,6 +23958,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view-1/"
             }
           ],
           "informative": []
@@ -40106,7 +40165,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "19 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41163,7 +41222,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "19 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41904,7 +41963,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "18 September 2023",
+      "date": "20 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -52918,7 +52977,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "19 September 2023",
+      "date": "20 September 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
