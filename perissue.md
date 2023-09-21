@@ -9,18 +9,6 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
-- [RFC 9111: HTTP Caching](https://www.rfc-editor.org/rfc/rfc9111): `Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 257)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [RFC 9163: Expect-CT Extension for HTTP](https://www.rfc-editor.org/rfc/rfc9163): `Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 522 Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 522
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 261)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html): `Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
@@ -28,7 +16,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async Promise.all (index 103)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 
-=> 3 specifications found
+=> 1 specification found
 
 
 ## Specifications without normative dependencies
@@ -222,9 +210,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html) links to:
     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/) but does not list it in its references
     * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/) but does not list it in its references
-- [Clipboard API and events](https://w3c.github.io/clipboard-apis/) links to:
-    * [`http://w3c.github.io/editing/contentEditable.html`](http://w3c.github.io/editing/contentEditable.html) but does not list it in its references
-    * [`https://w3c.github.io/editing/`](https://w3c.github.io/editing/) but does not list it in its references
+- [Clipboard API and events](https://w3c.github.io/clipboard-apis/) links to [`https://w3c.github.io/editing/`](https://w3c.github.io/editing/) but does not list it in its references
 - [Compatibility Standard](https://compat.spec.whatwg.org/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
@@ -1331,7 +1317,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 959 missing references for links found in 237 specifications
+=> 958 missing references for links found in 237 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

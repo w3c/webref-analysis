@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-21T12:44:20.588Z",
+  "date": "2023-09-21T18:32:11.097Z",
   "stats": {
     "crawled": 570,
-    "errors": 3,
+    "errors": 1,
     "studied": 570
   },
   "results": [
@@ -2095,7 +2095,7 @@
     {
       "title": "Clipboard API and events",
       "shortname": "clipboard-apis",
-      "date": "18 September 2023",
+      "date": "21 September 2023",
       "url": "https://www.w3.org/TR/clipboard-apis/",
       "release": {
         "url": "https://www.w3.org/TR/clipboard-apis/",
@@ -2131,7 +2131,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "http://w3c.github.io/editing/contentEditable.html",
           "https://w3c.github.io/editing/"
         ],
         "inconsistentRef": [
@@ -23798,11 +23797,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/clipboard-apis/",
-              "title": "Clipboard API and events",
-              "crawled": "https://w3c.github.io/clipboard-apis/"
-            },
-            {
               "url": "https://www.w3.org/TR/compute-pressure/",
               "title": "Compute Pressure Level 1",
               "crawled": "https://w3c.github.io/compute-pressure/"
@@ -32548,7 +32542,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "18 September 2023",
+      "date": "21 September 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -41806,7 +41800,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 257)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41835,7 +41828,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -42014,7 +42007,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 522 Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 522\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 261)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -42038,7 +42030,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -52920,7 +52912,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "20 September 2023",
+      "date": "21 September 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54866,7 +54858,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "12 September 2023",
+      "date": "21 September 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54941,7 +54933,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "12 September 2023",
+      "date": "21 September 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
