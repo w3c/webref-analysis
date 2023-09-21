@@ -9,6 +9,18 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
+- [RFC 9111: HTTP Caching](https://www.rfc-editor.org/rfc/rfc9111): `Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 257)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [RFC 9163: Expect-CT Extension for HTTP](https://www.rfc-editor.org/rfc/rfc9163): `Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 522 Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 522
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 261)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html): `Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
@@ -16,7 +28,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async Promise.all (index 103)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 
-=> 1 specification found
+=> 3 specifications found
 
 
 ## Specifications without normative dependencies

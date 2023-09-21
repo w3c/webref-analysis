@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-21T06:32:30.739Z",
+  "date": "2023-09-21T12:44:20.588Z",
   "stats": {
     "crawled": 570,
-    "errors": 1,
+    "errors": 3,
     "studied": 570
   },
   "results": [
@@ -39999,7 +39999,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "20 September 2023",
+      "date": "21 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40106,7 +40106,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "20 September 2023",
+      "date": "21 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41163,7 +41163,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "20 September 2023",
+      "date": "21 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41806,6 +41806,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://www.rfc-editor.org/rfc/rfc9111 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 257)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41834,7 +41835,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -42013,6 +42014,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 522 Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered HTTP status 522\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 261)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -42036,7 +42038,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -50001,7 +50003,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "30 August 2023",
+      "date": "21 September 2023",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
