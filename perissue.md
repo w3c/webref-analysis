@@ -160,9 +160,6 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## No definition for CSS constructs
 
-- [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/):
-    * `<feature-value-block>`
-    * `<font-feature-value-type>`
 - [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces-3/):
     * `@namespace`
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
@@ -170,7 +167,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/):
     * `<keyframe-selector>`
 
-=> 5 constructs without definition found in 4 specifications
+=> 3 constructs without definition found in 3 specifications
 
 
 ## No definition for IDL constructs
