@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 22, 2023
+% September 23, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -242,6 +242,7 @@ Normative references to this spec from:
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [Push API](https://w3c.github.io/push-api/)
+- [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
@@ -748,7 +749,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 21 September 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -776,7 +777,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 21 September 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -799,7 +800,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6265](https://www.rfc-editor.org/rfc/rfc6265)
 - Crawled URL: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
 - Shortname: rfc6265
 
@@ -938,7 +939,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
 - Crawled URL: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
 - Shortname: rfc7725
 
@@ -959,7 +960,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
 - Crawled URL: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
 - Shortname: rfc7838
 
@@ -980,7 +981,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
 - Crawled URL: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
 - Shortname: rfc8246
 
@@ -1001,7 +1002,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8297](https://www.rfc-editor.org/rfc/rfc8297)
 - Crawled URL: [https://httpwg.org/specs/rfc8297.html](https://httpwg.org/specs/rfc8297.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc8297.html](https://httpwg.org/specs/rfc8297.html)
 - Shortname: rfc8297
 
@@ -1024,7 +1025,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
 - Crawled URL: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
 - Shortname: rfc8470
 
@@ -1183,7 +1184,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 22 September 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1208,7 +1209,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7616](https://www.rfc-editor.org/rfc/rfc7616)
 - Crawled URL: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
 - Shortname: rfc7616
 
@@ -1231,7 +1232,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7617](https://www.rfc-editor.org/rfc/rfc7617)
 - Crawled URL: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
 - Shortname: rfc7617
 
@@ -1256,7 +1257,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6266](https://www.rfc-editor.org/rfc/rfc6266)
 - Crawled URL: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
 - Shortname: rfc6266
 
@@ -1281,7 +1282,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7230](https://www.rfc-editor.org/rfc/rfc7230)
 - Crawled URL: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
 - Shortname: rfc7230
 
@@ -1326,7 +1327,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7231](https://www.rfc-editor.org/rfc/rfc7231)
 - Crawled URL: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
 - Shortname: rfc7231
 
@@ -1377,7 +1378,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7232](https://www.rfc-editor.org/rfc/rfc7232)
 - Crawled URL: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
 - Shortname: rfc7232
 
@@ -1407,7 +1408,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7233](https://www.rfc-editor.org/rfc/rfc7233)
 - Crawled URL: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
 - Shortname: rfc7233
 
@@ -1434,7 +1435,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7234](https://www.rfc-editor.org/rfc/rfc7234)
 - Crawled URL: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
 - Shortname: rfc7234
 
@@ -1476,7 +1477,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7235](https://www.rfc-editor.org/rfc/rfc7235)
 - Crawled URL: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
 - Shortname: rfc7235
 
@@ -1506,7 +1507,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7538](https://www.rfc-editor.org/rfc/rfc7538)
 - Crawled URL: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7538.html](https://httpwg.org/specs/rfc7538.html)
 - Shortname: rfc7538
 
@@ -1528,7 +1529,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7540](https://www.rfc-editor.org/rfc/rfc7540)
 - Crawled URL: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc7540.html](https://httpwg.org/specs/rfc7540.html)
 - Shortname: rfc7540
 
@@ -1580,7 +1581,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8288](https://www.rfc-editor.org/rfc/rfc8288)
 - Crawled URL: [https://httpwg.org/specs/rfc8288.html](https://httpwg.org/specs/rfc8288.html)
-- Crawled version: 24 August 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://httpwg.org/specs/rfc8288.html](https://httpwg.org/specs/rfc8288.html)
 - Shortname: rfc8288
 
@@ -1610,7 +1611,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 22 September 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1743,7 +1744,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 21 September 2023
+- Crawled version: 22 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1770,7 +1771,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 22 September 2023
+- Crawled version: 23 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -11619,7 +11620,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/rdf12-concepts/](https://www.w3.org/TR/rdf12-concepts/)
 - Crawled URL: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
-- Crawled version: 12 September 2023
+- Crawled version: 22 September 2023
 - Editor's Draft: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-concepts/](https://www.w3.org/TR/rdf12-concepts/)
 - Shortname: rdf12-concepts
@@ -11752,7 +11753,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-semantics/](https://www.w3.org/TR/rdf12-semantics/)
 - Crawled URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
-- Crawled version: 20 July 2023
+- Crawled version: 22 September 2023
 - Editor's Draft: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-semantics/](https://www.w3.org/TR/rdf12-semantics/)
 - Shortname: rdf12-semantics
@@ -16696,7 +16697,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 20 September 2023
+- Crawled version: 22 September 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
