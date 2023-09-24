@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-24T06:34:10.663Z",
+  "date": "2023-09-24T12:37:35.429Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -41829,7 +41829,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "23 September 2023",
+      "date": "24 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
