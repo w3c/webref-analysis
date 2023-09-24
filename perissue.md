@@ -160,14 +160,12 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## No definition for CSS constructs
 
-- [CSS Namespaces Module Level 3](https://drafts.csswg.org/css-namespaces-3/):
-    * `@namespace`
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
     * `distance`
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/):
     * `<keyframe-selector>`
 
-=> 3 constructs without definition found in 3 specifications
+=> 2 constructs without definition found in 2 specifications
 
 
 ## No definition for IDL constructs

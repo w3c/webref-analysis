@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-24T12:37:35.429Z",
+  "date": "2023-09-24T18:33:20.144Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -13645,7 +13645,7 @@
     {
       "title": "CSS Namespaces Module Level 3",
       "shortname": "css-namespaces-3",
-      "date": "28 August 2023",
+      "date": "24 September 2023",
       "url": "https://www.w3.org/TR/css-namespaces-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-namespaces-3/",
@@ -13680,15 +13680,7 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [
-            {
-              "expected": {
-                "linkingText": [
-                  "@namespace"
-                ]
-              }
-            }
-          ],
+          "css": [],
           "idl": []
         },
         "missingLinkRef": [

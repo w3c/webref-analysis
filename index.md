@@ -6545,15 +6545,13 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-namespaces-3/](https://www.w3.org/TR/css-namespaces-3/)
 - Crawled URL: [https://drafts.csswg.org/css-namespaces-3/](https://drafts.csswg.org/css-namespaces-3/)
-- Crawled version: 28 August 2023
+- Crawled version: 24 September 2023
 - Editor's Draft: [https://drafts.csswg.org/css-namespaces-3/](https://drafts.csswg.org/css-namespaces-3/)
 - Latest published version: [https://www.w3.org/TR/css-namespaces-3/](https://www.w3.org/TR/css-namespaces-3/)
 - Shortname: css-namespaces-3
 
 #### Potential issue(s) {.anomalies}
 
-- No definition for CSS constructs: 
-     * `@namespace`
 - Missing references for links: 
      * [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/)
 
