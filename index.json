@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-25T06:33:41.520Z",
+  "date": "2023-09-25T12:42:01.476Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -24313,7 +24313,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "20 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24379,7 +24379,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "20 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -27297,7 +27297,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "02 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -27496,7 +27496,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 September 2023",
+      "date": "25 September 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -40932,7 +40932,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "24 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -40972,7 +40972,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "24 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41588,7 +41588,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "24 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -47168,7 +47168,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "19 September 2023",
+      "date": "25 September 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -48216,7 +48216,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "20 September 2023",
+      "date": "24 September 2023",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -52764,7 +52764,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "07 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
