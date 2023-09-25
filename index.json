@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-25T12:42:01.476Z",
+  "date": "2023-09-25T18:33:52.752Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -20046,7 +20046,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "28 August 2023",
+      "date": "25 September 2023",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -37373,7 +37373,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "22 September 2023",
+      "date": "25 September 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -39980,7 +39980,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "24 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40087,7 +40087,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "24 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41768,7 +41768,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "24 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41927,7 +41927,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "24 September 2023",
+      "date": "25 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -52899,7 +52899,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "21 September 2023",
+      "date": "25 September 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
