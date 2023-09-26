@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 25, 2023
+% September 26, 2023
 
 # Ecma International {#org-ecma_international}
 
@@ -462,7 +462,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
 - Crawled URL: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
-- Crawled version: 18 September 2023
+- Crawled version: 26 September 2023
 - Editor's Draft: [https://tc39.es/proposal-json-parse-with-source/](https://tc39.es/proposal-json-parse-with-source/)
 - Shortname: tc39-json-parse-with-source
 
@@ -10489,6 +10489,7 @@ Normative references to this spec from:
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
 
 Informative references to this spec from:
@@ -13086,6 +13087,7 @@ Informative references to this spec from:
 - [Beacon](https://w3c.github.io/beacon/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -13943,6 +13945,7 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
@@ -15012,6 +15015,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 
 Informative references to this spec from:
 
@@ -15545,7 +15549,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 22 September 2023
+- Crawled version: 25 September 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16022,6 +16026,7 @@ Normative references to this spec from:
 
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 
 No informative reference to this spec from other specs.
 
@@ -16863,15 +16868,14 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/shared-storage/](https://wicg.github.io/shared-storage/)
 - Crawled URL: [https://wicg.github.io/shared-storage/](https://wicg.github.io/shared-storage/)
-- Crawled version: 5 September 2023
+- Crawled version: 25 September 2023
 - Editor's Draft: [https://wicg.github.io/shared-storage/](https://wicg.github.io/shared-storage/)
 - Shortname: shared-storage
 
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/)
-     * [`https://w3c.github.io/beacon/`](https://w3c.github.io/beacon/)
+     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/), related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 
@@ -18372,6 +18376,7 @@ Normative references to this spec from:
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
@@ -18484,6 +18489,7 @@ Normative references to this spec from:
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
@@ -19346,6 +19352,7 @@ Normative references to this spec from:
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
 

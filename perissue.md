@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% September 25, 2023
+% September 26, 2023
 
 570 specifications were crawled in this report.
 
@@ -1164,9 +1164,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/payment-handler/`](https://w3c.github.io/payment-handler/) but does not list it in its references
     * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/) but does not list it in its references
-- [Shared Storage API](https://wicg.github.io/shared-storage/) links to:
-    * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/) but does not list it in its references
-    * [`https://w3c.github.io/beacon/`](https://w3c.github.io/beacon/) but does not list it in its references
+- [Shared Storage API](https://wicg.github.io/shared-storage/) links to [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/) links to [`http://www.w3.org/TR/owl2-test/`](http://www.w3.org/TR/owl2-test/) but does not list it in its references
 - [SPARQL 1.2 Federated Query](https://w3c.github.io/sparql-federated-query/spec/) links to:
     * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/) but does not list it in its references
@@ -1312,7 +1310,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 958 missing references for links found in 237 specifications
+=> 957 missing references for links found in 237 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
