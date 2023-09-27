@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-27T12:41:37.941Z",
+  "date": "2023-09-27T18:34:51.432Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -863,7 +863,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2178,7 +2178,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "19 June 2023",
+      "date": "27 September 2023",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -2568,7 +2568,7 @@
     {
       "title": "Console Standard",
       "shortname": "console",
-      "date": "9 August 2023",
+      "date": "27 September 2023",
       "url": "https://console.spec.whatwg.org/",
       "nightly": {
         "url": "https://console.spec.whatwg.org/",
@@ -5009,6 +5009,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://compat.spec.whatwg.org/",
+              "title": "Compatibility Standard",
+              "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
@@ -7440,7 +7445,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "20 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -9505,6 +9510,11 @@
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
+            },
+            {
+              "url": "https://quirks.spec.whatwg.org/",
+              "title": "Quirks Mode Standard",
+              "crawled": "https://quirks.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -24013,7 +24023,7 @@
     {
       "title": "Encoding Standard",
       "shortname": "encoding",
-      "date": "19 June 2023",
+      "date": "27 September 2023",
       "url": "https://encoding.spec.whatwg.org/",
       "nightly": {
         "url": "https://encoding.spec.whatwg.org/",
@@ -24323,7 +24333,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "25 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24389,7 +24399,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "25 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24831,7 +24841,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "6 September 2023",
+      "date": "27 September 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -25663,7 +25673,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "18 September 2023",
+      "date": "27 September 2023",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -26086,7 +26096,7 @@
     {
       "title": "Fullscreen API Standard",
       "shortname": "fullscreen",
-      "date": "18 July 2023",
+      "date": "27 September 2023",
       "url": "https://fullscreen.spec.whatwg.org/",
       "nightly": {
         "url": "https://fullscreen.spec.whatwg.org/",
@@ -29765,7 +29775,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "25 September 2023",
+      "date": "27 September 2023",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -34066,7 +34076,7 @@
     {
       "title": "MIME Sniffing Standard",
       "shortname": "mimesniff",
-      "date": "17 July 2023",
+      "date": "27 September 2023",
       "url": "https://mimesniff.spec.whatwg.org/",
       "nightly": {
         "url": "https://mimesniff.spec.whatwg.org/",
@@ -34926,7 +34936,7 @@
     {
       "title": "Network Error Logging",
       "shortname": "network-error-logging-1",
-      "date": "16 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.w3.org/TR/network-error-logging-1/",
       "release": {
         "url": "https://www.w3.org/TR/network-error-logging-1/",
@@ -35087,7 +35097,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "17 July 2023",
+      "date": "27 September 2023",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -37403,7 +37413,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "25 September 2023",
+      "date": "27 September 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -37688,7 +37698,7 @@
     {
       "title": "Quirks Mode Standard",
       "shortname": "quirks",
-      "date": "15 November 2022",
+      "date": "27 September 2023",
       "url": "https://quirks.spec.whatwg.org/",
       "nightly": {
         "url": "https://quirks.spec.whatwg.org/",
@@ -37718,7 +37728,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-multicol-1/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -37741,7 +37753,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -46481,7 +46493,7 @@
     {
       "title": "Storage Standard",
       "shortname": "storage",
-      "date": "23 March 2023",
+      "date": "27 September 2023",
       "url": "https://storage.spec.whatwg.org/",
       "nightly": {
         "url": "https://storage.spec.whatwg.org/",
@@ -46590,7 +46602,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "21 August 2023",
+      "date": "27 September 2023",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -47255,7 +47267,7 @@
     {
       "title": "Test Utils Standard",
       "shortname": "testutils",
-      "date": "17 October 2022",
+      "date": "27 September 2023",
       "url": "https://testutils.spec.whatwg.org/",
       "nightly": {
         "url": "https://testutils.spec.whatwg.org/",
@@ -50125,7 +50137,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "20 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -50436,7 +50448,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "18 September 2023",
+      "date": "27 September 2023",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -54884,7 +54896,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54959,7 +54971,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -55384,7 +55396,7 @@
     {
       "title": "WebSockets Standard",
       "shortname": "websockets",
-      "date": "18 September 2023",
+      "date": "27 September 2023",
       "url": "https://websockets.spec.whatwg.org/",
       "nightly": {
         "url": "https://websockets.spec.whatwg.org/",
@@ -56737,7 +56749,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "22 September 2023",
+      "date": "27 September 2023",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",

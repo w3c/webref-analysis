@@ -3814,6 +3814,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 
@@ -4530,7 +4531,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 20 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5175,6 +5176,7 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
@@ -9993,7 +9995,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 25 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -10021,7 +10023,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 25 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -10049,7 +10051,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 26 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10080,7 +10082,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 26 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14433,7 +14435,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 20 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
@@ -15248,7 +15250,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
 - Crawled URL: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
-- Crawled version: 16 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
 - Latest published version: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
 - Shortname: network-error-logging-1
@@ -15549,7 +15551,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 26 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16700,7 +16702,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 25 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18031,7 +18033,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 19 June 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 
@@ -18065,7 +18067,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Crawled URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
-- Crawled version: 9 August 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Shortname: console
 
@@ -18342,7 +18344,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
 - Crawled URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
-- Crawled version: 19 June 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
 - Shortname: encoding
 
@@ -18407,7 +18409,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 6 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -18530,7 +18532,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
 - Crawled URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
-- Crawled version: 18 July 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
 - Shortname: fullscreen
 
@@ -18923,7 +18925,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
 - Crawled URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
-- Crawled version: 18 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
 - Shortname: websockets
 
@@ -18955,7 +18957,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Crawled URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
-- Crawled version: 25 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Shortname: infra
 
@@ -19197,7 +19199,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
 - Crawled URL: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
-- Crawled version: 17 July 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
 - Shortname: mimesniff
 
@@ -19248,7 +19250,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
 - Crawled URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
-- Crawled version: 17 July 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
 - Shortname: notifications
 
@@ -19274,19 +19276,20 @@ Informative references to this spec from:
 
 ## Quirks Mode Workstream {#group-quirks_mode_workstream}
 
-### Quirks Mode Standard {data-spec=true data-missingDfns=true data-ok=true}
+### Quirks Mode Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
 - Crawled URL: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
-- Crawled version: 15 November 2022
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://quirks.spec.whatwg.org/](https://quirks.spec.whatwg.org/)
 - Shortname: quirks
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19308,7 +19311,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Crawled URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
-- Crawled version: 18 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Shortname: fs
 
@@ -19333,7 +19336,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
 - Crawled URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
-- Crawled version: 23 March 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
 - Shortname: storage
 
@@ -19371,7 +19374,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 21 August 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 
@@ -19414,7 +19417,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
 - Crawled URL: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
-- Crawled version: 17 October 2022
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
 - Shortname: testutils
 
@@ -19559,7 +19562,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 18 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
@@ -19834,7 +19837,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
-- Crawled version: 22 September 2023
+- Crawled version: 27 September 2023
 - Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Shortname: xhr
 

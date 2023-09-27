@@ -1045,6 +1045,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
     * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/) but does not list it in its references
 - [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
+- [Quirks Mode Standard](https://quirks.spec.whatwg.org/) links to [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/) but does not list it in its references
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/) links to [`https://w3c.github.io/rdf-dir-literal/`](https://w3c.github.io/rdf-dir-literal/) but does not list it in its references
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/) links to:
     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf) but does not list it in its references
@@ -1310,7 +1311,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 957 missing references for links found in 237 specifications
+=> 958 missing references for links found in 238 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
