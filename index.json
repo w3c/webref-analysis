@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-26T18:33:53.871Z",
+  "date": "2023-09-27T00:46:07.717Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -39747,7 +39747,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40117,7 +40117,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40197,7 +40197,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40962,7 +40962,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41002,7 +41002,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41957,7 +41957,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "26 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -46439,7 +46439,7 @@
     {
       "title": "Storage Buckets API",
       "shortname": "storage-buckets",
-      "date": "2 May 2023",
+      "date": "26 September 2023",
       "url": "https://wicg.github.io/storage-buckets/",
       "nightly": {
         "url": "https://wicg.github.io/storage-buckets/",
@@ -51788,7 +51788,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "18 September 2023",
+      "date": "27 September 2023",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
