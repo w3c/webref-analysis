@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-28T12:41:42.083Z",
+  "date": "2023-09-28T18:34:10.286Z",
   "stats": {
     "crawled": 570,
     "errors": 1,
@@ -112,7 +112,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -165,7 +165,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -1088,7 +1088,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1141,7 +1141,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -4118,7 +4118,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "25 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -24706,7 +24706,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "26 September 2023",
+      "date": "28 September 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -24744,6 +24744,11 @@
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced Frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -25959,7 +25964,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -26950,7 +26955,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -32018,7 +32023,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -34707,7 +34712,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -34879,7 +34884,7 @@
     {
       "title": "Navigational-Tracking Mitigations",
       "shortname": "nav-tracking-mitigations",
-      "date": "27 July 2023",
+      "date": "28 September 2023",
       "url": "https://privacycg.github.io/nav-tracking-mitigations/",
       "nightly": {
         "url": "https://privacycg.github.io/nav-tracking-mitigations/",
@@ -35231,7 +35236,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -37413,7 +37418,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "27 September 2023",
+      "date": "28 September 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -38121,7 +38126,7 @@
     {
       "title": "RDF 1.2 Schema",
       "shortname": "rdf12-schema",
-      "date": "20 July 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/rdf12-schema/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-schema/",
@@ -41014,7 +41019,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "27 September 2023",
+      "date": "28 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -45567,7 +45572,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "18 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
@@ -46262,7 +46267,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "22 September 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
@@ -47756,7 +47761,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -49203,7 +49208,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -49256,7 +49261,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -49309,7 +49314,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -52446,7 +52451,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -52600,7 +52605,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "26 August 2023",
+      "date": "28 September 2023",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
@@ -52910,6 +52915,11 @@
               "url": "https://w3c.github.io/mediacapture-automation/",
               "title": "Media Capture Automation",
               "crawled": "https://w3c.github.io/mediacapture-automation/"
+            },
+            {
+              "url": "https://privacycg.github.io/nav-tracking-mitigations/",
+              "title": "Navigational-Tracking Mitigations",
+              "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
             },
             {
               "url": "https://www.w3.org/TR/reporting-1/",
