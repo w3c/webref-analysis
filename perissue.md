@@ -2,21 +2,7 @@
 % Strudy
 % September 29, 2023
 
-570 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html): `Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 103)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-=> 1 specification found
+573 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -24,30 +10,24 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [A Method for Writing Testable Conformance Requirements](https://www.w3.org/TR/test-methodology/)
 - [Array Grouping](https://tc39.es/proposal-array-grouping/)
 - [ArrayBuffer transfer](https://tc39.es/proposal-arraybuffer-transfer/)
-- [Atomics.waitAsync](https://tc39.es/proposal-atomics-wait-async/)
-- [Change Array by copy](https://tc39.es/proposal-change-array-by-copy/)
 - [Decorators proposal](https://tc39.es/proposal-decorators/)
 - [ECMAScript Async Explicit Resource Management](https://tc39.es/proposal-async-explicit-resource-management/)
 - [ECMAScript Explicit Resource Management](https://tc39.es/proposal-explicit-resource-management/)
 - [ECMAScript® 2024 Internationalization API Specification](https://tc39.es/ecma402/)
 - [ECMAScript® 2024 Language Specification](https://tc39.es/ecma262/multipage/)
 - [ES Array.fromAsync (2022)](https://tc39.es/proposal-array-from-async/)
-- [Extend TimeZoneName Option Proposal](https://tc39.es/proposal-intl-extend-timezonename/)
+- [ES Promise.withResolvers (2023)](https://tc39.es/proposal-promise-with-resolvers/)
 - [Float16Array](https://tc39.es/proposal-float16array/)
+- [Import Attributes](https://tc39.es/proposal-import-attributes/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
-- [Intl Enumeration API Specification](https://tc39.es/proposal-intl-enumeration/)
 - [Intl Locale Info Proposal](https://tc39.es/proposal-intl-locale-info/)
 - [Intl.DurationFormat](https://tc39.es/proposal-intl-duration-format/)
 - [Iterator Helpers](https://tc39.es/proposal-iterator-helpers/)
 - [JSON modules](https://tc39.es/proposal-json-modules/)
 - [JSON.parse source text access](https://tc39.es/proposal-json-parse-with-source/)
-- [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
-- [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
-- [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
-- [Menu](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
 - [MiniApp Lifecycle](https://w3c.github.io/miniapp-lifecycle/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
-- [Proposal-array-find-from-last](https://tc39.es/proposal-array-find-from-last/)
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 - [RDF 1.2 Schema](https://w3c.github.io/rdf-schema/spec/)
 - [Regular Expression Pattern Modifiers for ECMAScript](https://tc39.es/proposal-regexp-modifiers/)
 - [RFC 2397: The "data" URL scheme](https://www.rfc-editor.org/rfc/rfc2397)
@@ -60,10 +40,12 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [RFC 7578: Returning Values from Forms: multipart/form-data](https://www.rfc-editor.org/rfc/rfc7578)
 - [Set methods](https://tc39.es/proposal-set-methods/)
 - [ShadowRealm API](https://tc39.es/proposal-shadowrealm/)
+- [Soft Navigations](https://wicg.github.io/soft-navigations/)
+- [Source Map](https://tc39.es/source-map-spec/)
+- [Source Phase Imports](https://tc39.es/proposal-source-phase-imports/)
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
-- [Symbol as WeakMap Keys Proposal](https://tc39.es/proposal-symbols-as-weakmap-keys/)
 - [Temporal proposal](https://tc39.es/proposal-temporal/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 - [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
@@ -109,9 +91,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
 - [WebGL WEBGL_multi_draw Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
-- [Well-Formed Unicode Strings](https://tc39.es/proposal-is-usv-string/)
 
-=> 89 specifications found
+=> 84 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -966,6 +947,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/) but does not list it in its references
     * [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/) but does not list it in its references
 - [Idle Detection API](https://wicg.github.io/idle-detection/) links to [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/) but does not list it in its references
+- [Import Attributes](https://tc39.es/proposal-import-attributes/) links to [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/) links to:
     * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/) but does not list it in its references
     * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/) but does not list it in its references
@@ -973,6 +955,9 @@ Basically all specifications have normative dependencies on some other specifica
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/) links to:
     * [`http://www.w3.org/TR/css-masking-1/`](http://www.w3.org/TR/css-masking-1/) but does not list it in its references
     * [`http://www.w3.org/TR/hr-time/`](http://www.w3.org/TR/hr-time/) but does not list it in its references
+- [ISO BMFF Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-isobmff/) links to:
+    * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html) but does not list it in its references
+    * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/) links to [`https://w3c.github.io/webappsec-permissions-policy/document-policy.html`](https://w3c.github.io/webappsec-permissions-policy/document-policy.html) but does not list it in its references
 - [Layout Instability API](https://wicg.github.io/layout-instability/) links to:
     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
@@ -1001,6 +986,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [Media Session](https://w3c.github.io/mediasession/) links to [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/) but does not list it in its references
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/) links to [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
 - [Media Source Extensions™](https://w3c.github.io/media-source/) links to:
     * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/) but does not list it in its references
     * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/) but does not list it in its references
@@ -1017,6 +1003,12 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [MPEG Audio Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/) links to:
+    * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html) but does not list it in its references
+    * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
+- [MPEG-2 TS Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-mp2t/) links to:
+    * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html) but does not list it in its references
+    * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
 - [Network Information API](https://wicg.github.io/netinfo/) links to:
     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/) but does not list it in its references
     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/) but does not list it in its references
@@ -1275,6 +1267,10 @@ Basically all specifications have normative dependencies on some other specifica
 - [Web Share API](https://w3c.github.io/web-share/) links to:
     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/web-intents`](https://www.w3.org/TR/web-intents) but does not list it in its references
+- [WebAssembly Core Specification](https://webassembly.github.io/gc/core/bikeshed/) links to:
+    * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
 - [WebAssembly Core Specification](https://webassembly.github.io/spec/core/bikeshed/) links to:
     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
@@ -1298,6 +1294,9 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/string-meta/`](https://w3c.github.io/string-meta/) but does not list it in its references
     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
     * [`https://www.w3.org/TR/resize-observer/`](https://www.w3.org/TR/resize-observer/) but does not list it in its references
+- [WebM Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-webm/) links to:
+    * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html) but does not list it in its references
+    * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/) links to [`https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html`](https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html) but does not list it in its references
 - [WebTransport](https://w3c.github.io/webtransport/) links to [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/) but does not list it in its references
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/) links to [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/) but does not list it in its references
@@ -1311,7 +1310,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 958 missing references for links found in 238 specifications
+=> 971 missing references for links found in 245 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

@@ -48,48 +48,6 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Atomics.waitAsync {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-atomics-wait-async/](https://tc39.es/proposal-atomics-wait-async/)
-- Crawled URL: [https://tc39.es/proposal-atomics-wait-async/](https://tc39.es/proposal-atomics-wait-async/)
-- Crawled version: 31 March 2021
-- Editor's Draft: [https://tc39.es/proposal-atomics-wait-async/](https://tc39.es/proposal-atomics-wait-async/)
-- Shortname: tc39-atomics-wait-async
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### Change Array by copy {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
-- Crawled URL: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
-- Crawled version: 1 August 2023
-- Editor's Draft: [https://tc39.es/proposal-change-array-by-copy/](https://tc39.es/proposal-change-array-by-copy/)
-- Shortname: tc39-change-array-by-copy
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
 ### Decorators proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -307,15 +265,15 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Extend TimeZoneName Option Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### ES Promise.withResolvers (2023) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://tc39.es/proposal-intl-extend-timezonename/](https://tc39.es/proposal-intl-extend-timezonename/)
-- Crawled URL: [https://tc39.es/proposal-intl-extend-timezonename/](https://tc39.es/proposal-intl-extend-timezonename/)
-- Crawled version: 2 December 2021
-- Editor's Draft: [https://tc39.es/proposal-intl-extend-timezonename/](https://tc39.es/proposal-intl-extend-timezonename/)
-- Shortname: tc39-intl-extend-timezonename
+- Initial URL: [https://tc39.es/proposal-promise-with-resolvers/](https://tc39.es/proposal-promise-with-resolvers/)
+- Crawled URL: [https://tc39.es/proposal-promise-with-resolvers/](https://tc39.es/proposal-promise-with-resolvers/)
+- Crawled version: 12 July 2023
+- Editor's Draft: [https://tc39.es/proposal-promise-with-resolvers/](https://tc39.es/proposal-promise-with-resolvers/)
+- Shortname: tc39-promise-with-resolvers
 
 #### Potential issue(s) {.anomalies}
 
@@ -349,23 +307,27 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Intl Enumeration API Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### Import Attributes {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
-- Crawled URL: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
-- Crawled version: 3 November 2022
-- Editor's Draft: [https://tc39.es/proposal-intl-enumeration/](https://tc39.es/proposal-intl-enumeration/)
-- Shortname: tc39-intl-enumeration
+- Initial URL: [https://tc39.es/proposal-import-attributes/](https://tc39.es/proposal-import-attributes/)
+- Crawled URL: [https://tc39.es/proposal-import-attributes/](https://tc39.es/proposal-import-attributes/)
+- Crawled version: 28 September 2023
+- Editor's Draft: [https://tc39.es/proposal-import-attributes/](https://tc39.es/proposal-import-attributes/)
+- Shortname: tc39-import-attributes
 
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 No informative reference to this spec from other specs.
 
@@ -477,111 +439,6 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Menu {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
-- Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
-- Crawled version: 9 July 2023
-- Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html)
-- Shortname: tc39-intl-annexes
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### Menu {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
-- Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
-- Crawled version: 9 July 2023
-- Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html)
-- Shortname: tc39-intl-negotiation
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### Menu {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
-- Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
-- Crawled version: 9 July 2023
-- Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html)
-- Shortname: tc39-intl-numberformat
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### Menu {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
-- Crawled URL: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
-- Crawled version: 9 July 2023
-- Editor's Draft: [https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html](https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html)
-- Shortname: tc39-intl-pluralrules
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
-### Proposal-array-find-from-last {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
-- Crawled URL: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
-- Crawled version: 6 June 2022
-- Editor's Draft: [https://tc39.es/proposal-array-find-from-last/](https://tc39.es/proposal-array-find-from-last/)
-- Shortname: tc39-array-find-from-last
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
 ### Regular Expression Pattern Modifiers for ECMAScript {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -645,15 +502,36 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Symbol as WeakMap Keys Proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### Source Map {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
-- Crawled URL: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
-- Crawled version: 7 June 2022
-- Editor's Draft: [https://tc39.es/proposal-symbols-as-weakmap-keys/](https://tc39.es/proposal-symbols-as-weakmap-keys/)
-- Shortname: tc39-symbols-as-weakmap-keys
+- Initial URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
+- Crawled URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
+- Crawled version: 14 September 2023
+- Editor's Draft: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
+- Shortname: sourcemap
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Source Phase Imports {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-source-phase-imports/](https://tc39.es/proposal-source-phase-imports/)
+- Crawled URL: [https://tc39.es/proposal-source-phase-imports/](https://tc39.es/proposal-source-phase-imports/)
+- Crawled version: 24 July 2023
+- Editor's Draft: [https://tc39.es/proposal-source-phase-imports/](https://tc39.es/proposal-source-phase-imports/)
+- Shortname: tc39-source-phase-imports
 
 #### Potential issue(s) {.anomalies}
 
@@ -685,27 +563,6 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [High Resolution Time](https://w3c.github.io/hr-time/)
-
-No informative reference to this spec from other specs.
-
-
-### Well-Formed Unicode Strings {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://tc39.es/proposal-is-usv-string/](https://tc39.es/proposal-is-usv-string/)
-- Crawled URL: [https://tc39.es/proposal-is-usv-string/](https://tc39.es/proposal-is-usv-string/)
-- Crawled version: 15 May 2023
-- Editor's Draft: [https://tc39.es/proposal-is-usv-string/](https://tc39.es/proposal-is-usv-string/)
-- Shortname: tc39-is-usv-string
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -1073,7 +930,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
-- Crawled version: 27 September 2023
+- Crawled version: 26 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Shortname: rfc9110
 
@@ -1112,7 +969,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled version: 29 September 2023
+- Crawled version: 28 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
@@ -1136,7 +993,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 29 September 2023
+- Crawled version: 26 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1163,7 +1020,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 28 September 2023
+- Crawled version: 29 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1611,7 +1468,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 29 September 2023
+- Crawled version: 28 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1646,7 +1503,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 29 September 2023
+- Crawled version: 26 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -1671,7 +1528,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 29 September 2023
+- Crawled version: 26 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1711,7 +1568,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 27 September 2023
+- Crawled version: 28 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1771,7 +1628,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 29 September 2023
+- Crawled version: 26 September 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2995,7 +2852,9 @@ Normative references to this spec from:
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
 - [W3C Process Document](https://www.w3.org/Consortium/Process/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
 ## Audio Working Group {#group-audio_working_group}
@@ -4345,6 +4204,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
@@ -4356,6 +4216,7 @@ Normative references to this spec from:
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
 Informative references to this spec from:
@@ -4445,6 +4306,7 @@ Normative references to this spec from:
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 
 Informative references to this spec from:
 
@@ -8141,10 +8003,11 @@ Informative references to this spec from:
 
 #### Spec info {.info}
 
-- Initial URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
+- Initial URL: [https://www.w3.org/TR/css-transitions-2/](https://www.w3.org/TR/css-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
 - Crawled version: 5 September 2023
 - Editor's Draft: [https://drafts.csswg.org/css-transitions-2/](https://drafts.csswg.org/css-transitions-2/)
+- Latest published version: [https://www.w3.org/TR/css-transitions-2/](https://www.w3.org/TR/css-transitions-2/)
 - Shortname: css-transitions-2
 
 #### Potential issue(s) {.anomalies}
@@ -8487,6 +8350,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -8572,6 +8436,29 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
+
+No informative reference to this spec from other specs.
+
+
+### CSS View Transitions Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
+- Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
+- Crawled version: 19 July 2023
+- Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
+- Shortname: css-view-transitions-2
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9146,6 +9033,7 @@ Normative references to this spec from:
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 
@@ -9563,7 +9451,9 @@ Normative references to this spec from:
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
 ### Ambient Light Sensor {data-spec=true data-missingDfns=true data-ok=true}
@@ -9788,6 +9678,7 @@ Informative references to this spec from:
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Permissions](https://w3c.github.io/permissions/)
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
 ### Geolocation Sensor {data-spec=true data-missingDfns=true data-ok=true}
@@ -10130,6 +10021,135 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+
+
+### ISO BMFF Byte Stream Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
+- Crawled version: 17 May 2021
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
+- Shortname: mse-byte-stream-format-isobmff
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html)
+     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### Media Source Extensions Byte Stream Format Registry {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
+- Crawled version: 18 May 2021
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
+- Shortname: mse-byte-stream-format-registry
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+
+No informative reference to this spec from other specs.
+
+
+### MPEG Audio Byte Stream Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
+- Crawled version: 17 May 2021
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
+- Shortname: mse-byte-stream-format-mpeg-audio
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html)
+     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### MPEG-2 TS Byte Stream Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
+- Crawled version: 17 May 2021
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
+- Shortname: mse-byte-stream-format-mp2t
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html)
+     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
+
+No informative reference to this spec from other specs.
+
+
+### WebM Byte Stream Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
+- Crawled version: 17 May 2021
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
+- Shortname: mse-byte-stream-format-webm
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html)
+     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
+
+No informative reference to this spec from other specs.
 
 
 ## Immersive Web Community Group {#group-immersive_web_community_group}
@@ -10665,6 +10685,27 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### Audio Session {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/audio-session/](https://w3c.github.io/audio-session/)
+- Crawled URL: [https://w3c.github.io/audio-session/](https://w3c.github.io/audio-session/)
+- Crawled version: 30 August 2023
+- Editor's Draft: [https://w3c.github.io/audio-session/](https://w3c.github.io/audio-session/)
+- Shortname: audio-session
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ### Autoplay Policy Detection {data-spec=true data-missingDfns=true data-ok=true}
@@ -13276,7 +13317,9 @@ Normative references to this spec from:
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
 - [W3C Process Document](https://www.w3.org/Consortium/Process/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
 ## Web Application Security Working Group {#group-web_application_security_working_group}
@@ -13576,6 +13619,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
 
 
@@ -13658,7 +13702,31 @@ Informative references to this spec from:
 - [Document Policy](https://wicg.github.io/document-policy/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 - [Responsive Image Client Hints](https://wicg.github.io/responsive-image-client-hints/)
+
+
+### Permissions Registry {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/permissions-registry/](https://w3c.github.io/permissions-registry/)
+- Crawled URL: [https://w3c.github.io/permissions-registry/](https://w3c.github.io/permissions-registry/)
+- Crawled version: 09 December 2022
+- Editor's Draft: [https://w3c.github.io/permissions-registry/](https://w3c.github.io/permissions-registry/)
+- Shortname: permissions-registry
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Permissions](https://w3c.github.io/permissions/)
+
+No informative reference to this spec from other specs.
 
 
 ### Referrer Policy {data-spec=true data-missingDfns=true data-ok=true}
@@ -14165,6 +14233,7 @@ Informative references to this spec from:
 
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Permissions](https://w3c.github.io/permissions/)
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
 ### Screen Orientation {data-spec=true data-missingDfns=true data-ok=true}
@@ -14426,7 +14495,9 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
 ## Web Authentication Working Group {#group-web_authentication_working_group}
@@ -16378,7 +16449,9 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
 ### Manifest Incubations {data-spec=true data-missingDfns=true data-ok=true}
@@ -16813,7 +16886,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 
 No informative reference to this spec from other specs.
 
@@ -16891,6 +16966,27 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
+
+
+### Soft Navigations {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
+- Crawled URL: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
+- Crawled version: 28 July 2023
+- Editor's Draft: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
+- Shortname: soft-navigations
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ### Speculation Rules {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -17021,7 +17117,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 
 No informative reference to this spec from other specs.
 
@@ -17126,13 +17224,34 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Web Preferences API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
+- Crawled URL: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
+- Crawled version: 18 September 2023
+- Editor's Draft: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
+- Shortname: web-preferences-api
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Web Serial API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
 - Crawled URL: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
-- Crawled version: 25 July 2023
+- Crawled version: 29 September 2023
 - Editor's Draft: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
 - Shortname: serial
 
@@ -17890,6 +18009,30 @@ Informative references to this spec from:
 
 ## WebAssembly Community Group {#group-webassembly_community_group}
 
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
+- Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
+- Crawled version: 25 September 2023
+- Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
+- Shortname: wasm-core-1-fork-gc
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### WebAssembly JavaScript Interface: Exception Handling {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
@@ -18115,6 +18258,7 @@ Normative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Audio Session](https://w3c.github.io/audio-session/)
 - [Audiobooks](https://w3c.github.io/audiobooks/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Battery Status API](https://w3c.github.io/battery/)
@@ -18169,6 +18313,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
@@ -18336,6 +18481,7 @@ Informative references to this spec from:
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
 - [Selectors Level 3](https://drafts.csswg.org/selectors-3/)
+- [Soft Navigations](https://wicg.github.io/soft-navigations/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 
 
@@ -18412,7 +18558,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 29 September 2023
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -18522,6 +18668,7 @@ Informative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
 - [RFC 9163: Expect-CT Extension for HTTP](https://www.rfc-editor.org/rfc/rfc9163)
+- [Soft Navigations](https://wicg.github.io/soft-navigations/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [The <model> element](https://immersive-web.github.io/model-element/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
@@ -18577,7 +18724,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 28 September 2023
+- Crawled version: 29 September 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -18600,6 +18747,7 @@ Normative references to this spec from:
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Audio Session](https://w3c.github.io/audio-session/)
 - [Audiobooks](https://w3c.github.io/audiobooks/)
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
@@ -18671,6 +18819,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
@@ -18852,6 +19001,7 @@ Normative references to this spec from:
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
@@ -18913,12 +19063,14 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)](https://httpwg.org/specs/rfc7538.html)
 - [RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
 - [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
 - [Selectors Level 3](https://drafts.csswg.org/selectors-3/)
+- [Soft Navigations](https://wicg.github.io/soft-navigations/)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
 
 
@@ -19192,6 +19344,7 @@ Informative references to this spec from:
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Soft Navigations](https://wicg.github.io/soft-navigations/)
 
 
 ## MIME Sniffing Workstream {#group-mime_sniffing_workstream}
@@ -19272,6 +19425,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 - [Requesting Permissions](https://wicg.github.io/permissions-request/)
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/)
 - [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
@@ -19554,6 +19708,7 @@ Informative references to this spec from:
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
+- [Source Map](https://tc39.es/source-map-spec/)
 - [WebOTP API](https://wicg.github.io/web-otp/)
 
 
@@ -19585,6 +19740,7 @@ Normative references to this spec from:
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Audio Output Devices API](https://w3c.github.io/mediacapture-output/)
+- [Audio Session](https://w3c.github.io/audio-session/)
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
 - [AV1 WebCodecs Registration](https://w3c.github.io/webcodecs/av1_codec_registration.html)
 - [AVC (H.264) WebCodecs Registration](https://w3c.github.io/webcodecs/avc_codec_registration.html)
@@ -19632,6 +19788,7 @@ Normative references to this spec from:
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Device Memory](https://www.w3.org/TR/device-memory/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
@@ -19788,6 +19945,7 @@ Normative references to this spec from:
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
@@ -19870,41 +20028,6 @@ Informative references to this spec from:
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/)
 - [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
-
-
-# sourcemaps.info {#org-sourcemaps_info}
-
-## sourcemaps.info {#group-sourcemaps_info}
-
-### Source Map Revision 3 Proposal {data-spec=true data-error=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://sourcemaps.info/spec.html](https://sourcemaps.info/spec.html)
-- Crawled URL: [https://sourcemaps.info/spec.html](https://sourcemaps.info/spec.html)
-- Crawled version: 5 April 2023
-- Editor's Draft: [https://sourcemaps.info/spec.html](https://sourcemaps.info/spec.html)
-- Shortname: sourcemap
-
-#### Potential issue(s) {.anomalies}
-
-The following network or parsing error occurred:
-`Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 103)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [WebGPU](https://gpuweb.github.io/gpuweb/)
 
 
 

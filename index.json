@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-29T06:32:44.638Z",
+  "date": "2023-09-29T07:35:00.403Z",
   "stats": {
-    "crawled": 570,
-    "errors": 1,
-    "studied": 570
+    "crawled": 573,
+    "errors": 0,
+    "studied": 573
   },
   "results": [
     {
@@ -390,7 +390,13 @@
               "crawled": "https://w3c.github.io/orientation-sensor/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
+            }
+          ]
         },
         "ok": false
       }
@@ -819,48 +825,6 @@
       }
     },
     {
-      "title": "Atomics.waitAsync",
-      "shortname": "tc39-atomics-wait-async",
-      "date": "31 March 2021",
-      "url": "https://tc39.es/proposal-atomics-wait-async/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-atomics-wait-async/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-atomics-wait-async",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-atomics-wait-async/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
       "date": "28 September 2023",
@@ -964,6 +928,48 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "Audio Session",
+      "shortname": "audio-session",
+      "date": "30 August 2023",
+      "url": "https://w3c.github.io/audio-session/",
+      "nightly": {
+        "url": "https://w3c.github.io/audio-session/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/audio-session",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/audio-session/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
           "informative": []
         },
         "ok": true
@@ -1797,48 +1803,6 @@
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             }
           ]
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Change Array by copy",
-      "shortname": "tc39-change-array-by-copy",
-      "date": "1 August 2023",
-      "url": "https://tc39.es/proposal-change-array-by-copy/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-change-array-by-copy/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-change-array-by-copy",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-change-array-by-copy/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
         },
         "ok": false
       }
@@ -6859,7 +6823,7 @@
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
@@ -6887,6 +6851,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -6942,6 +6911,11 @@
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -7222,6 +7196,11 @@
               "url": "https://www.w3.org/TR/mediaqueries-5/",
               "title": "Media Queries Level 5",
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
+            },
+            {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
             }
           ],
           "informative": [
@@ -9569,7 +9548,7 @@
               "crawled": "https://drafts.csswg.org/css-fonts-5/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             }
@@ -9719,7 +9698,7 @@
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
@@ -10721,7 +10700,7 @@
               "crawled": "https://drafts.csswg.org/css-scoping-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
@@ -18540,7 +18519,12 @@
       "title": "CSS Transitions Level 2",
       "shortname": "css-transitions-2",
       "date": "5 September 2023",
-      "url": "https://drafts.csswg.org/css-transitions-2/",
+      "url": "https://www.w3.org/TR/css-transitions-2/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-transitions-2/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://drafts.csswg.org/css-transitions-2/",
         "status": "Editor's Draft",
@@ -19872,7 +19856,7 @@
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
@@ -19895,6 +19879,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-will-change-1/",
@@ -20146,7 +20135,7 @@
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
-        "status": "Working Draft",
+        "status": "Candidate Recommendation Snapshot",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -20190,10 +20179,60 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            }
+          ],
           "informative": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "CSS View Transitions Module Level 2",
+      "shortname": "css-view-transitions-2",
+      "date": "19 July 2023",
+      "url": "https://drafts.csswg.org/css-view-transitions-2/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-view-transitions-2/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-view-transitions-2/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-view-transitions-2/Overview.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-view-transitions-2/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
       }
     },
     {
@@ -22060,6 +22099,11 @@
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
+              "url": "https://w3c.github.io/audio-session/",
+              "title": "Audio Session",
+              "crawled": "https://w3c.github.io/audio-session/"
+            },
+            {
               "url": "https://www.w3.org/TR/audiobooks/",
               "title": "Audiobooks",
               "crawled": "https://w3c.github.io/audiobooks/"
@@ -22305,7 +22349,7 @@
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
@@ -22328,6 +22372,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -23150,6 +23199,11 @@
               "url": "https://www.w3.org/TR/selectors-3/",
               "title": "Selectors Level 3",
               "crawled": "https://drafts.csswg.org/selectors-3/"
+            },
+            {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
@@ -24495,6 +24549,48 @@
       }
     },
     {
+      "title": "ES Promise.withResolvers (2023)",
+      "shortname": "tc39-promise-with-resolvers",
+      "date": "12 July 2023",
+      "url": "https://tc39.es/proposal-promise-with-resolvers/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-promise-with-resolvers/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-promise-with-resolvers",
+        "sourcePath": "spec.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-promise-with-resolvers/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Event Timing API",
       "shortname": "event-timing",
       "date": "8 December 2022",
@@ -24564,48 +24660,6 @@
               "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
             }
           ],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Extend TimeZoneName Option Proposal",
-      "shortname": "tc39-intl-extend-timezonename",
-      "date": "2 December 2021",
-      "url": "https://tc39.es/proposal-intl-extend-timezonename/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-intl-extend-timezonename/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-intl-extend-timezonename",
-        "sourcePath": "spec.emu",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-intl-extend-timezonename/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
           "informative": []
         },
         "ok": false
@@ -24846,7 +24900,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "27 September 2023",
+      "date": "29 September 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -25359,6 +25413,11 @@
               "url": "https://www.rfc-editor.org/rfc/rfc9163",
               "title": "RFC 9163: Expect-CT Extension for HTTP",
               "crawled": "https://www.rfc-editor.org/rfc/rfc9163"
+            },
+            {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://streams.spec.whatwg.org/",
@@ -26507,6 +26566,11 @@
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
             }
           ]
         },
@@ -27536,7 +27600,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "28 September 2023",
+      "date": "29 September 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -27676,6 +27740,11 @@
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
               "crawled": "https://w3c.github.io/mediacapture-output/"
+            },
+            {
+              "url": "https://w3c.github.io/audio-session/",
+              "title": "Audio Session",
+              "crawled": "https://w3c.github.io/audio-session/"
             },
             {
               "url": "https://www.w3.org/TR/audiobooks/",
@@ -28013,7 +28082,7 @@
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
@@ -28031,6 +28100,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -28938,6 +29012,11 @@
               "crawled": "https://wicg.github.io/periodic-background-sync/"
             },
             {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
+            },
+            {
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
@@ -29230,6 +29309,11 @@
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
+            },
+            {
               "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
@@ -29258,6 +29342,11 @@
               "url": "https://www.w3.org/TR/selectors-3/",
               "title": "Selectors Level 3",
               "crawled": "https://drafts.csswg.org/selectors-3/"
+            },
+            {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://www.w3.org/TR/graphics-aria-1.0/",
@@ -29641,6 +29730,56 @@
           ]
         },
         "ok": true
+      }
+    },
+    {
+      "title": "Import Attributes",
+      "shortname": "tc39-import-attributes",
+      "date": "28 September 2023",
+      "url": "https://tc39.es/proposal-import-attributes/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-import-attributes/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-import-attributes",
+        "sourcePath": "spec.emu",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-import-attributes/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://html.spec.whatwg.org/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
       }
     },
     {
@@ -30900,6 +31039,11 @@
               "url": "https://www.w3.org/TR/mediaqueries-5/",
               "title": "Media Queries Level 5",
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
+            },
+            {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
             }
           ]
         },
@@ -31282,48 +31426,6 @@
       }
     },
     {
-      "title": "Intl Enumeration API Specification",
-      "shortname": "tc39-intl-enumeration",
-      "date": "3 November 2022",
-      "url": "https://tc39.es/proposal-intl-enumeration/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-intl-enumeration/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-intl-enumeration",
-        "sourcePath": "spec.emu",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-intl-enumeration/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Intl Locale Info Proposal",
       "shortname": "tc39-intl-locale-info",
       "date": "26 September 2023",
@@ -31402,6 +31504,62 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "ISO BMFF Byte Stream Format",
+      "shortname": "mse-byte-stream-format-isobmff",
+      "date": "17 May 2021",
+      "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
+      "release": {
+        "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/mse-byte-stream-format-isobmff/",
+        "status": "Editor's Draft",
+        "repository": "https://github.com/w3c/mse-byte-stream-format-isobmff",
+        "alternateUrls": [],
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mse-byte-stream-format-isobmff/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "HTML Media Extensions Working Group",
+          "url": "https://www.w3.org/html/wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://html.spec.whatwg.org/multipage/media.html",
+          "https://w3c.github.io/media-source/index.html"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
+              "title": "Media Source Extensions Byte Stream Format Registry",
+              "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -31898,7 +32056,7 @@
       "url": "https://www.w3.org/TR/largest-contentful-paint/",
       "release": {
         "url": "https://www.w3.org/TR/largest-contentful-paint/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -32157,7 +32315,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
+            }
+          ]
         },
         "ok": true
       }
@@ -33487,6 +33651,11 @@
               "crawled": "https://w3c.github.io/manifest/"
             },
             {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
+            },
+            {
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
@@ -33574,6 +33743,61 @@
               "crawled": "https://w3c.github.io/picture-in-picture/"
             }
           ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Media Source Extensions Byte Stream Format Registry",
+      "shortname": "mse-byte-stream-format-registry",
+      "date": "18 May 2021",
+      "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
+      "release": {
+        "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/mse-byte-stream-format-registry/",
+        "status": "Editor's Draft",
+        "repository": "https://github.com/w3c/mse-byte-stream-format-registry",
+        "alternateUrls": [],
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "HTML Media Extensions Working Group",
+          "url": "https://www.w3.org/html/wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/media-source/index.html"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/media-source-2/",
+              "title": "Media Source Extensions™",
+              "crawled": "https://w3c.github.io/media-source/"
+            }
+          ],
+          "informative": []
         },
         "ok": false
       }
@@ -33908,174 +34132,6 @@
             }
           }
         ],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Menu",
-      "shortname": "tc39-intl-annexes",
-      "date": "9 July 2023",
-      "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
-      "nightly": {
-        "url": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
-        "status": "Editor's Draft",
-        "sourcePath": "out/annexes/proposed.html",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-intl-numberformat-v3",
-        "filename": "proposed.html"
-      },
-      "crawled": "https://tc39.es/proposal-intl-numberformat-v3/out/annexes/proposed.html",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Menu",
-      "shortname": "tc39-intl-negotiation",
-      "date": "9 July 2023",
-      "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
-      "nightly": {
-        "url": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
-        "status": "Editor's Draft",
-        "sourcePath": "out/negotiation/proposed.html",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-intl-numberformat-v3",
-        "filename": "proposed.html"
-      },
-      "crawled": "https://tc39.es/proposal-intl-numberformat-v3/out/negotiation/proposed.html",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Menu",
-      "shortname": "tc39-intl-numberformat",
-      "date": "9 July 2023",
-      "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
-      "nightly": {
-        "url": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
-        "status": "Editor's Draft",
-        "sourcePath": "out/numberformat/proposed.html",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-intl-numberformat-v3",
-        "filename": "proposed.html"
-      },
-      "crawled": "https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Menu",
-      "shortname": "tc39-intl-pluralrules",
-      "date": "9 July 2023",
-      "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
-      "nightly": {
-        "url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
-        "status": "Editor's Draft",
-        "sourcePath": "out/pluralrules/proposed.html",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-intl-numberformat-v3",
-        "filename": "proposed.html"
-      },
-      "crawled": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -34768,6 +34824,118 @@
       }
     },
     {
+      "title": "MPEG Audio Byte Stream Format",
+      "shortname": "mse-byte-stream-format-mpeg-audio",
+      "date": "17 May 2021",
+      "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
+      "release": {
+        "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/mse-byte-stream-format-mpeg-audio/",
+        "status": "Editor's Draft",
+        "repository": "https://github.com/w3c/mse-byte-stream-format-mpeg-audio",
+        "alternateUrls": [],
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mse-byte-stream-format-mpeg-audio/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "HTML Media Extensions Working Group",
+          "url": "https://www.w3.org/html/wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://html.spec.whatwg.org/multipage/media.html",
+          "https://w3c.github.io/media-source/index.html"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
+              "title": "Media Source Extensions Byte Stream Format Registry",
+              "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "MPEG-2 TS Byte Stream Format",
+      "shortname": "mse-byte-stream-format-mp2t",
+      "date": "17 May 2021",
+      "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
+      "release": {
+        "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/mse-byte-stream-format-mp2t/",
+        "status": "Editor's Draft",
+        "repository": "https://github.com/w3c/mse-byte-stream-format-mp2t",
+        "alternateUrls": [],
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mse-byte-stream-format-mp2t/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "HTML Media Extensions Working Group",
+          "url": "https://www.w3.org/html/wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://html.spec.whatwg.org/multipage/media.html",
+          "https://w3c.github.io/media-source/index.html"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
+              "title": "Media Source Extensions Byte Stream Format Registry",
+              "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
       "date": "07 June 2023",
@@ -35163,6 +35331,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
+            },
             {
               "url": "https://wicg.github.io/permissions-request/",
               "title": "Requesting Permissions",
@@ -36229,6 +36402,11 @@
           ],
           "informative": [
             {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
+            },
+            {
               "url": "https://immersive-web.github.io/raw-camera-access/",
               "title": "WebXR Raw Camera Access Module",
               "crawled": "https://immersive-web.github.io/raw-camera-access/"
@@ -36568,6 +36746,11 @@
               "crawled": "https://wicg.github.io/js-self-profiling/"
             },
             {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
+            },
+            {
               "url": "https://wicg.github.io/responsive-image-client-hints/",
               "title": "Responsive Image Client Hints",
               "crawled": "https://wicg.github.io/responsive-image-client-hints/"
@@ -36575,6 +36758,54 @@
           ]
         },
         "ok": true
+      }
+    },
+    {
+      "title": "Permissions Registry",
+      "shortname": "permissions-registry",
+      "date": "09 December 2022",
+      "url": "https://w3c.github.io/permissions-registry/",
+      "nightly": {
+        "url": "https://w3c.github.io/permissions-registry/",
+        "status": "Draft Registry",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/permissions-registry",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/permissions-registry/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Application Security Working Group",
+          "url": "https://www.w3.org/groups/wg/webappsec/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
       }
     },
     {
@@ -37335,48 +37566,6 @@
       }
     },
     {
-      "title": "Proposal-array-find-from-last",
-      "shortname": "tc39-array-find-from-last",
-      "date": "6 June 2022",
-      "url": "https://tc39.es/proposal-array-find-from-last/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-array-find-from-last/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-array-find-from-last",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-array-find-from-last/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Proposals for the future of CSS Paged Media",
       "shortname": "css-page-4",
       "date": "12 May 2023",
@@ -37699,6 +37888,11 @@
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
             }
           ]
         },
@@ -39677,7 +39871,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "29 September 2023",
+      "date": "28 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -40032,7 +40226,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "29 September 2023",
+      "date": "26 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40139,7 +40333,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "27 September 2023",
+      "date": "28 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41024,7 +41218,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "29 September 2023",
+      "date": "26 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41696,7 +41890,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "27 September 2023",
+      "date": "26 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -41820,7 +42014,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "29 September 2023",
+      "date": "28 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -41873,7 +42067,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "29 September 2023",
+      "date": "26 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -41937,7 +42131,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "28 September 2023",
+      "date": "29 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -41979,7 +42173,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "29 September 2023",
+      "date": "26 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -42110,7 +42304,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -44792,26 +44992,27 @@
       }
     },
     {
-      "title": "Source Map Revision 3 Proposal",
-      "shortname": "sourcemap",
-      "date": "5 April 2023",
-      "url": "https://sourcemaps.info/spec.html",
+      "title": "Soft Navigations",
+      "shortname": "soft-navigations",
+      "date": "28 July 2023",
+      "url": "https://wicg.github.io/soft-navigations/",
       "nightly": {
-        "url": "https://sourcemaps.info/spec.html",
-        "status": "Editor's Draft",
+        "url": "https://wicg.github.io/soft-navigations/",
+        "status": "Draft Community Group Report",
         "alternateUrls": [],
-        "filename": "spec.html"
+        "repository": "https://github.com/WICG/soft-navigations",
+        "sourcePath": "soft-navigations.bs",
+        "filename": "index.html"
       },
-      "crawled": "https://sourcemaps.info/spec.html",
-      "organization": "sourcemaps.info",
+      "crawled": "https://wicg.github.io/soft-navigations/",
+      "organization": "W3C",
       "groups": [
         {
-          "name": "sourcemaps.info",
-          "url": "https://sourcemaps.info/"
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
         }
       ],
       "report": {
-        "error": "Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503 Error: Loading https://sourcemaps.info/spec.html triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 103)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -44827,13 +45028,91 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/webgpu/",
-              "title": "WebGPU",
-              "crawled": "https://gpuweb.github.io/gpuweb/"
-            }
-          ]
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Source Map",
+      "shortname": "sourcemap",
+      "date": "14 September 2023",
+      "url": "https://tc39.es/source-map-spec/",
+      "nightly": {
+        "url": "https://tc39.es/source-map-spec/",
+        "status": "Editor's Draft",
+        "sourcePath": "source-map.bs",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/source-map-spec",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/source-map-spec/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Source Phase Imports",
+      "shortname": "tc39-source-phase-imports",
+      "date": "24 July 2023",
+      "url": "https://tc39.es/proposal-source-phase-imports/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-source-phase-imports/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-source-phase-imports",
+        "sourcePath": "spec.emu",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-source-phase-imports/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": false
       }
@@ -47185,48 +47464,6 @@
       }
     },
     {
-      "title": "Symbol as WeakMap Keys Proposal",
-      "shortname": "tc39-symbols-as-weakmap-keys",
-      "date": "7 June 2022",
-      "url": "https://tc39.es/proposal-symbols-as-weakmap-keys/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-symbols-as-weakmap-keys/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-symbols-as-weakmap-keys",
-        "sourcePath": "spec.emu",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-symbols-as-weakmap-keys/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
       "date": "26 September 2023",
@@ -48794,6 +49031,11 @@
               "crawled": "https://w3c.github.io/remote-playback/"
             },
             {
+              "url": "https://tc39.es/source-map-spec/",
+              "title": "Source Map",
+              "crawled": "https://tc39.es/source-map-spec/"
+            },
+            {
               "url": "https://wicg.github.io/web-otp/",
               "title": "WebOTP API",
               "crawled": "https://wicg.github.io/web-otp/"
@@ -48943,7 +49185,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -49474,7 +49722,13 @@
               "crawled": "https://www.w3.org/Consortium/Process/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
+            }
+          ]
         },
         "ok": true
       }
@@ -49666,7 +49920,7 @@
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
@@ -49806,7 +50060,7 @@
           ],
           "informative": [
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             }
@@ -50530,6 +50784,11 @@
               "crawled": "https://w3c.github.io/mediacapture-output/"
             },
             {
+              "url": "https://w3c.github.io/audio-session/",
+              "title": "Audio Session",
+              "crawled": "https://w3c.github.io/audio-session/"
+            },
+            {
               "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
@@ -50750,7 +51009,7 @@
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-transitions-2/",
+              "url": "https://www.w3.org/TR/css-transitions-2/",
               "title": "CSS Transitions Level 2",
               "crawled": "https://drafts.csswg.org/css-transitions-2/"
             },
@@ -50763,6 +51022,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -51545,6 +51809,11 @@
               "crawled": "https://w3c.github.io/web-nfc/"
             },
             {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
+            },
+            {
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
@@ -52022,9 +52291,51 @@
       }
     },
     {
+      "title": "Web Preferences API",
+      "shortname": "web-preferences-api",
+      "date": "18 September 2023",
+      "url": "https://wicg.github.io/web-preferences-api/",
+      "nightly": {
+        "url": "https://wicg.github.io/web-preferences-api/",
+        "status": "Unofficial Proposal Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/web-preferences-api",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/web-preferences-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "Web Serial API",
       "shortname": "serial",
-      "date": "25 July 2023",
+      "date": "29 September 2023",
       "url": "https://wicg.github.io/serial/",
       "nightly": {
         "url": "https://wicg.github.io/serial/",
@@ -52125,7 +52436,13 @@
               "crawled": "https://w3c.github.io/web-share-target/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://w3c.github.io/permissions-registry/",
+              "title": "Permissions Registry",
+              "crawled": "https://w3c.github.io/permissions-registry/"
+            }
+          ]
         },
         "ok": false
       }
@@ -52230,6 +52547,52 @@
           ]
         },
         "ok": true
+      }
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "shortname": "wasm-core-1-fork-gc",
+      "date": "25 September 2023",
+      "url": "https://webassembly.github.io/gc/core/bikeshed/",
+      "nightly": {
+        "url": "https://webassembly.github.io/gc/core/bikeshed/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/gc",
+        "sourcePath": "document/core/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/gc/core/bikeshed/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
       }
     },
     {
@@ -55090,6 +55453,62 @@
       }
     },
     {
+      "title": "WebM Byte Stream Format",
+      "shortname": "mse-byte-stream-format-webm",
+      "date": "17 May 2021",
+      "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
+      "release": {
+        "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/mse-byte-stream-format-webm/",
+        "status": "Editor's Draft",
+        "repository": "https://github.com/w3c/mse-byte-stream-format-webm",
+        "alternateUrls": [],
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/mse-byte-stream-format-webm/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "HTML Media Extensions Working Group",
+          "url": "https://www.w3.org/html/wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://html.spec.whatwg.org/multipage/media.html",
+          "https://w3c.github.io/media-source/index.html"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
+              "title": "Media Source Extensions Byte Stream Format Registry",
+              "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "WebOTP API",
       "shortname": "web-otp",
       "date": "13 April 2021",
@@ -56394,48 +56813,6 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/mediacapture-streams/"
         ],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "Well-Formed Unicode Strings",
-      "shortname": "tc39-is-usv-string",
-      "date": "15 May 2023",
-      "url": "https://tc39.es/proposal-is-usv-string/",
-      "nightly": {
-        "url": "https://tc39.es/proposal-is-usv-string/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/tc39/proposal-is-usv-string",
-        "sourcePath": "spec.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://tc39.es/proposal-is-usv-string/",
-      "organization": "Ecma International",
-      "groups": [
-        {
-          "name": "TC39",
-          "url": "https://tc39.es/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
