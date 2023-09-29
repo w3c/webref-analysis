@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-29T12:41:29.989Z",
+  "date": "2023-09-29T18:33:54.037Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -11200,7 +11200,7 @@
     {
       "title": "CSS Generated Content for Paged Media Module",
       "shortname": "css-gcpm-3",
-      "date": "7 September 2023",
+      "date": "29 September 2023",
       "url": "https://www.w3.org/TR/css-gcpm-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-gcpm-3/",
@@ -12927,6 +12927,11 @@
               "crawled": "https://drafts.csswg.org/css-exclusions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-gcpm-3/",
+              "title": "CSS Generated Content for Paged Media Module",
+              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-content-3/",
               "title": "CSS Generated Content Module Level 3",
               "crawled": "https://drafts.csswg.org/css-content-3/"
@@ -12992,11 +12997,6 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-gcpm-3/",
-              "title": "CSS Generated Content for Paged Media Module",
-              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-2023/",
@@ -20107,6 +20107,11 @@
               "crawled": "https://drafts.csswg.org/css-color-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-gcpm-3/",
+              "title": "CSS Generated Content for Paged Media Module",
+              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
@@ -24710,7 +24715,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "13 September 2023",
+      "date": "29 September 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -35114,7 +35119,7 @@
     {
       "title": "Network Error Logging",
       "shortname": "network-error-logging-1",
-      "date": "27 September 2023",
+      "date": "29 September 2023",
       "url": "https://www.w3.org/TR/network-error-logging-1/",
       "release": {
         "url": "https://www.w3.org/TR/network-error-logging-1/",
@@ -42014,7 +42019,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "28 September 2023",
+      "date": "29 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -52079,7 +52084,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "27 September 2023",
+      "date": "29 September 2023",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
