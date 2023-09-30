@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-09-30T06:32:01.872Z",
+  "date": "2023-09-30T12:37:50.105Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -36880,7 +36880,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "30 August 2023",
+      "date": "30 September 2023",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -40231,7 +40231,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "28 September 2023",
+      "date": "30 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40338,7 +40338,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "29 September 2023",
+      "date": "30 September 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
