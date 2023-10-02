@@ -1449,7 +1449,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
-- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/) links to [`https://www.w3.org/TR/html5/webappapis.html`](https://www.w3.org/TR/html5/webappapis.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/) links to:
+    * [`https://www.w3.org/TR/2014/WD-css-font-loading-3-20140522/`](https://www.w3.org/TR/2014/WD-css-font-loading-3-20140522/) but related reference "CSS-FONT-LOADING-3" uses URL [`https://www.w3.org/TR/css-font-loading-3/`](https://www.w3.org/TR/css-font-loading-3/)
+    * [`https://www.w3.org/TR/2023/WD-css-font-loading-3-20230406/`](https://www.w3.org/TR/2023/WD-css-font-loading-3-20230406/) but related reference "CSS-FONT-LOADING-3" uses URL [`https://www.w3.org/TR/css-font-loading-3/`](https://www.w3.org/TR/css-font-loading-3/)
+    * [`https://www.w3.org/TR/html5/webappapis.html`](https://www.w3.org/TR/html5/webappapis.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1919,7 +1922,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 496 inconsistent references for links found in 190 specifications
+=> 498 inconsistent references for links found in 190 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

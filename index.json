@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-02T12:41:20.737Z",
+  "date": "2023-10-02T18:34:07.067Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -827,7 +827,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "28 September 2023",
+      "date": "2 October 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -10232,7 +10232,7 @@
     {
       "title": "CSS Font Loading Module Level 3",
       "shortname": "css-font-loading-3",
-      "date": "7 August 2023",
+      "date": "2 October 2023",
       "url": "https://www.w3.org/TR/css-font-loading-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-font-loading-3/",
@@ -10273,6 +10273,20 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
+            "link": "https://www.w3.org/TR/2014/WD-css-font-loading-3-20140522/",
+            "ref": {
+              "name": "CSS-FONT-LOADING-3",
+              "url": "https://www.w3.org/TR/css-font-loading-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2023/WD-css-font-loading-3-20230406/",
+            "ref": {
+              "name": "CSS-FONT-LOADING-3",
+              "url": "https://www.w3.org/TR/css-font-loading-3/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/html5/webappapis.html",
             "ref": {
               "name": "HTML",
@@ -10281,7 +10295,13 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-font-loading-3/",
+              "title": "CSS Font Loading Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-font-loading-3/"
+            }
+          ],
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -10591,7 +10611,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "6 September 2023",
+      "date": "2 October 2023",
       "url": "https://www.w3.org/TR/css-fonts-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -36880,7 +36900,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "30 September 2023",
+      "date": "02 October 2023",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -37732,7 +37752,7 @@
     {
       "title": "Publication Manifest",
       "shortname": "pub-manifest",
-      "date": "09 August 2023",
+      "date": "02 October 2023",
       "url": "https://www.w3.org/TR/pub-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/pub-manifest/",

@@ -2956,7 +2956,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/pub-manifest/](https://www.w3.org/TR/pub-manifest/)
 - Crawled URL: [https://w3c.github.io/pub-manifest/](https://w3c.github.io/pub-manifest/)
-- Crawled version: 09 August 2023
+- Crawled version: 02 October 2023
 - Editor's Draft: [https://w3c.github.io/pub-manifest/](https://w3c.github.io/pub-manifest/)
 - Latest published version: [https://www.w3.org/TR/pub-manifest/](https://www.w3.org/TR/pub-manifest/)
 - Shortname: pub-manifest
@@ -5303,7 +5303,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-font-loading-3/](https://www.w3.org/TR/css-font-loading-3/)
 - Crawled URL: [https://drafts.csswg.org/css-font-loading-3/](https://drafts.csswg.org/css-font-loading-3/)
-- Crawled version: 7 August 2023
+- Crawled version: 2 October 2023
 - Editor's Draft: [https://drafts.csswg.org/css-font-loading-3/](https://drafts.csswg.org/css-font-loading-3/)
 - Latest published version: [https://www.w3.org/TR/css-font-loading-3/](https://www.w3.org/TR/css-font-loading-3/)
 - Shortname: css-font-loading-3
@@ -5311,11 +5311,15 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2014/WD-css-font-loading-3-20140522/`](https://www.w3.org/TR/2014/WD-css-font-loading-3-20140522/), related reference "CSS-FONT-LOADING-3" uses URL [`https://www.w3.org/TR/css-font-loading-3/`](https://www.w3.org/TR/css-font-loading-3/)
+     * [`https://www.w3.org/TR/2023/WD-css-font-loading-3-20230406/`](https://www.w3.org/TR/2023/WD-css-font-loading-3-20230406/), related reference "CSS-FONT-LOADING-3" uses URL [`https://www.w3.org/TR/css-font-loading-3/`](https://www.w3.org/TR/css-font-loading-3/)
      * [`https://www.w3.org/TR/html5/webappapis.html`](https://www.w3.org/TR/html5/webappapis.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 
 Informative references to this spec from:
 
@@ -5406,7 +5410,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
-- Crawled version: 6 September 2023
+- Crawled version: 2 October 2023
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Shortname: css-fonts-5
@@ -11369,7 +11373,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 30 September 2023
+- Crawled version: 02 October 2023
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -15625,7 +15629,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 28 September 2023
+- Crawled version: 2 October 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
