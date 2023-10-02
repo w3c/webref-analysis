@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-02T06:33:01.109Z",
+  "date": "2023-10-02T12:41:20.737Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -17869,7 +17869,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "3 September 2023",
+      "date": "2 October 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -40231,7 +40231,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "1 October 2023",
+      "date": "2 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -47471,7 +47471,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "26 September 2023",
+      "date": "2 October 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -55279,7 +55279,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "27 September 2023",
+      "date": "2 October 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55354,7 +55354,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "27 September 2023",
+      "date": "2 October 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
