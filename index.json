@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-03T12:40:08.078Z",
+  "date": "2023-10-03T18:32:58.884Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -679,7 +679,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "27 August 2023",
+      "date": "03 October 2023",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -827,7 +827,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "2 October 2023",
+      "date": "3 October 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -24412,7 +24412,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "27 September 2023",
+      "date": "03 October 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24478,7 +24478,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "27 September 2023",
+      "date": "03 October 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -27426,7 +27426,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "25 September 2023",
+      "date": "03 October 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -30919,6 +30919,11 @@
               "crawled": "https://wicg.github.io/periodic-background-sync/"
             },
             {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
+            },
+            {
               "url": "https://wicg.github.io/serial/",
               "title": "Web Serial API",
               "crawled": "https://wicg.github.io/serial/"
@@ -31332,7 +31337,7 @@
     {
       "title": "Intersection Observer",
       "shortname": "intersection-observer",
-      "date": "29 September 2023",
+      "date": "3 October 2023",
       "url": "https://www.w3.org/TR/intersection-observer/",
       "release": {
         "url": "https://www.w3.org/TR/intersection-observer/",
@@ -41415,7 +41420,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "2 October 2023",
+      "date": "3 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -41915,7 +41920,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "1 October 2023",
+      "date": "3 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -44961,7 +44966,7 @@
     {
       "title": "Shared Storage API",
       "shortname": "shared-storage",
-      "date": "25 September 2023",
+      "date": "3 October 2023",
       "url": "https://wicg.github.io/shared-storage/",
       "nightly": {
         "url": "https://wicg.github.io/shared-storage/",
@@ -52318,7 +52323,7 @@
     {
       "title": "Web Preferences API",
       "shortname": "web-preferences-api",
-      "date": "18 September 2023",
+      "date": "3 October 2023",
       "url": "https://wicg.github.io/web-preferences-api/",
       "nightly": {
         "url": "https://wicg.github.io/web-preferences-api/",
