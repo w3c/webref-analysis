@@ -1568,7 +1568,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 2 October 2023
+- Crawled version: 3 October 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -15328,7 +15328,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
 - Crawled URL: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
-- Crawled version: 29 September 2023
+- Crawled version: 03 October 2023
 - Editor's Draft: [https://w3c.github.io/network-error-logging/](https://w3c.github.io/network-error-logging/)
 - Latest published version: [https://www.w3.org/TR/network-error-logging-1/](https://www.w3.org/TR/network-error-logging-1/)
 - Shortname: network-error-logging-1
