@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-04T06:35:01.178Z",
+  "date": "2023-10-04T12:41:11.636Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -42203,7 +42203,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "3 October 2023",
+      "date": "4 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -55604,7 +55604,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "22 September 2023",
+      "date": "4 October 2023",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -55642,7 +55642,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
+              "title": "WebRTC Encoded Transform",
+              "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
+            }
+          ],
           "informative": []
         },
         "ok": true
