@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-06T12:42:04.159Z",
+  "date": "2023-10-06T18:34:52.199Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -1489,7 +1489,7 @@
     {
       "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
       "shortname": "capture-handle-identity",
-      "date": "06 July 2022",
+      "date": "06 October 2023",
       "url": "https://www.w3.org/TR/capture-handle-identity/",
       "release": {
         "url": "https://www.w3.org/TR/capture-handle-identity/",
@@ -7419,7 +7419,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "2 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -10316,7 +10316,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -16640,7 +16640,7 @@
     {
       "title": "CSS Snapshot 2023",
       "shortname": "css-2023",
-      "date": "28 August 2023",
+      "date": "6 October 2023",
       "url": "https://www.w3.org/TR/css-2023/",
       "release": {
         "url": "https://www.w3.org/TR/css-2023/",
@@ -31218,7 +31218,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "26 August 2023",
+      "date": "06 October 2023",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -42012,7 +42012,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "4 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -42065,7 +42065,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -42129,7 +42129,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -42219,7 +42219,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -47596,7 +47596,7 @@
     {
       "title": "The Capture-Handle Actions Mechanism",
       "shortname": "mediacapture-handle-actions",
-      "date": "06 July 2022",
+      "date": "06 October 2023",
       "url": "https://w3c.github.io/mediacapture-handle/actions/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/actions/",
@@ -50399,7 +50399,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "4 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -52064,7 +52064,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "05 October 2023",
+      "date": "06 October 2023",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
@@ -52537,7 +52537,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1-fork-gc",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://webassembly.github.io/gc/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/gc/core/bikeshed/",
