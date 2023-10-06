@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-06T06:33:06.973Z",
+  "date": "2023-10-06T12:42:04.159Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -370,11 +370,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            },
-            {
               "url": "https://www.w3.org/TR/gyroscope/",
               "title": "Gyroscope",
               "crawled": "https://w3c.github.io/gyroscope/"
@@ -660,11 +655,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            },
             {
               "url": "https://www.w3.org/TR/webxr-lighting-estimation-1/",
               "title": "WebXR Lighting Estimation API Level 1",
@@ -26428,7 +26418,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "10 August 2023",
+      "date": "6 October 2023",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -26649,13 +26639,7 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": true
@@ -27031,11 +27015,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            },
             {
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
@@ -27631,7 +27610,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -32463,11 +32442,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            },
-            {
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
@@ -35544,13 +35518,7 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -37742,13 +37710,7 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://www.w3.org/TR/fingerprinting-guidance/",
@@ -41214,7 +41176,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -42209,7 +42171,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -50209,7 +50171,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "02 May 2023",
+      "date": "06 October 2023",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
@@ -53351,7 +53313,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",

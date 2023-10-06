@@ -634,7 +634,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 5 October 2023
+- Crawled version: 6 October 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1503,7 +1503,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 5 October 2023
+- Crawled version: 6 October 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -3033,7 +3033,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 5 October 2023
+- Crawled version: 6 October 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -9452,7 +9452,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
@@ -9481,7 +9480,6 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [Generic Sensor API](https://w3c.github.io/sensors/)
 - [WebXR Lighting Estimation API Level 1](https://immersive-web.github.io/lighting-estimation/)
 
 No informative reference to this spec from other specs.
@@ -9628,7 +9626,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 10 August 2023
+- Crawled version: 6 October 2023
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -9704,9 +9702,7 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [Generic Sensor API](https://w3c.github.io/sensors/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -9731,7 +9727,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
 No informative reference to this spec from other specs.
@@ -9778,7 +9773,6 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
 No informative reference to this spec from other specs.
@@ -9803,9 +9797,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [Generic Sensor API](https://w3c.github.io/sensors/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -9827,9 +9819,7 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [Generic Sensor API](https://w3c.github.io/sensors/)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
@@ -14418,7 +14408,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Crawled URL: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
-- Crawled version: 02 May 2023
+- Crawled version: 06 October 2023
 - Editor's Draft: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
 - Latest published version: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Shortname: appmanifest
@@ -18730,7 +18720,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 5 October 2023
+- Crawled version: 6 October 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
