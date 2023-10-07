@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-06T18:34:52.199Z",
+  "date": "2023-10-07T00:47:31.344Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -7463,6 +7463,7 @@
           "https://www.w3.org/TR/css-color-3/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/png-3/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
@@ -39961,7 +39962,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "5 October 2023",
+      "date": "7 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40224,7 +40225,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "5 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40411,7 +40412,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "6 October 2023",
+      "date": "7 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42012,7 +42013,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "6 October 2023",
+      "date": "7 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -55259,7 +55260,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "4 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55334,7 +55335,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "4 October 2023",
+      "date": "6 October 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

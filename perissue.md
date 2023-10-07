@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% October 06, 2023
+% October 07, 2023
 
 573 specifications were crawled in this report.
 
@@ -400,6 +400,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/png-3/`](https://www.w3.org/TR/png-3/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/) links to:
     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
@@ -1312,7 +1313,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 972 missing references for links found in 245 specifications
+=> 973 missing references for links found in 245 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
