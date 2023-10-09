@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-09T12:43:02.415Z",
+  "date": "2023-10-09T18:34:34.445Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -817,7 +817,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "5 October 2023",
+      "date": "9 October 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -7387,11 +7387,6 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -13728,7 +13723,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "14 July 2023",
+      "date": "9 October 2023",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -27412,7 +27407,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "03 October 2023",
+      "date": "09 October 2023",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -37617,7 +37612,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "7 October 2023",
+      "date": "9 October 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -46739,7 +46734,7 @@
     {
       "title": "Storage Buckets API",
       "shortname": "storage-buckets",
-      "date": "3 October 2023",
+      "date": "9 October 2023",
       "url": "https://wicg.github.io/storage-buckets/",
       "nightly": {
         "url": "https://wicg.github.io/storage-buckets/",
