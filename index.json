@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-09T06:33:41.029Z",
+  "date": "2023-10-09T12:43:02.415Z",
   "stats": {
     "crawled": 573,
     "errors": 0,
@@ -2464,7 +2464,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "02 October 2023",
+      "date": "09 October 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -27611,7 +27611,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "8 October 2023",
+      "date": "9 October 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -47639,7 +47639,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "21 August 2023",
+      "date": "9 October 2023",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
@@ -53314,7 +53314,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "6 October 2023",
+      "date": "9 October 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -55260,7 +55260,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "6 October 2023",
+      "date": "9 October 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55335,7 +55335,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "6 October 2023",
+      "date": "9 October 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -55560,7 +55560,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "4 October 2023",
+      "date": "9 October 2023",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -55598,13 +55598,7 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
-              "title": "WebRTC Encoded Transform",
-              "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": true
