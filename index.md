@@ -1415,7 +1415,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 9 October 2023
+- Crawled version: 10 October 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -10934,7 +10934,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
 - Crawled URL: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
-- Crawled version: 21 September 2022
+- Crawled version: 10 October 2023
 - Editor's Draft: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
 - Latest published version: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
 - Shortname: media-source-2
@@ -12234,7 +12234,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-query/](https://www.w3.org/TR/sparql12-query/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 05 October 2023
+- Crawled version: 10 October 2023
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-query/](https://www.w3.org/TR/sparql12-query/)
 - Shortname: sparql12-query
@@ -17677,7 +17677,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/image-capture/](https://www.w3.org/TR/image-capture/)
 - Crawled URL: [https://w3c.github.io/mediacapture-image/](https://w3c.github.io/mediacapture-image/)
-- Crawled version: 16 March 2023
+- Crawled version: 10 October 2023
 - Editor's Draft: [https://w3c.github.io/mediacapture-image/](https://w3c.github.io/mediacapture-image/)
 - Latest published version: [https://www.w3.org/TR/image-capture/](https://www.w3.org/TR/image-capture/)
 - Shortname: image-capture
