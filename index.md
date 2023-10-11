@@ -2641,7 +2641,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 03 October 2023
+- Crawled version: 11 October 2023
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -8458,7 +8458,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 19 July 2023
+- Crawled version: 11 October 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -9236,6 +9236,7 @@ Normative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
@@ -9939,7 +9940,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 10 October 2023
+- Crawled version: 11 October 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -9970,7 +9971,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 10 October 2023
+- Crawled version: 11 October 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -15382,7 +15383,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/performance-timeline/](https://www.w3.org/TR/performance-timeline/)
 - Crawled URL: [https://w3c.github.io/performance-timeline/](https://w3c.github.io/performance-timeline/)
-- Crawled version: 15 November 2022
+- Crawled version: 11 October 2023
 - Editor's Draft: [https://w3c.github.io/performance-timeline/](https://w3c.github.io/performance-timeline/)
 - Latest published version: [https://www.w3.org/TR/performance-timeline/](https://www.w3.org/TR/performance-timeline/)
 - Shortname: performance-timeline
@@ -15626,7 +15627,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 10 October 2023
+- Crawled version: 11 October 2023
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16780,7 +16781,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 10 October 2023
+- Crawled version: 11 October 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18150,7 +18151,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 10 October 2023
+- Crawled version: 11 October 2023
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport
@@ -18379,6 +18380,7 @@ Normative references to this spec from:
 - [Paint Timing 1](https://w3c.github.io/paint-timing/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Performance Timeline](https://w3c.github.io/performance-timeline/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
@@ -19181,6 +19183,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
