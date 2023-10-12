@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-12T06:35:02.296Z",
+  "date": "2023-10-12T12:42:16.621Z",
   "stats": {
     "crawled": 573,
     "errors": 1,
@@ -23370,7 +23370,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "3 October 2023",
+      "date": "12 October 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -27616,7 +27616,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "11 October 2023",
+      "date": "12 October 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -41187,7 +41187,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "11 October 2023",
+      "date": "12 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -47480,7 +47480,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "4 October 2023",
+      "date": "12 October 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -50192,7 +50192,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "06 October 2023",
+      "date": "12 October 2023",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
@@ -53334,7 +53334,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "9 October 2023",
+      "date": "12 October 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
