@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-11T18:35:10.137Z",
+  "date": "2023-10-12T00:47:34.604Z",
   "stats": {
     "crawled": 573,
     "errors": 1,
@@ -3078,7 +3078,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "10 October 2023",
+      "date": "12 October 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -7414,7 +7414,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "6 October 2023",
+      "date": "11 October 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7556,7 +7556,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "4 October 2023",
+      "date": "11 October 2023",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -21555,7 +21555,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "10 October 2023",
+      "date": "12 October 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -33711,7 +33711,7 @@
     {
       "title": "Media Session",
       "shortname": "mediasession",
-      "date": "18 September 2023",
+      "date": "11 October 2023",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -48998,6 +48998,11 @@
               "crawled": "https://w3c.github.io/webtransport/"
             },
             {
+              "url": "https://wicg.github.io/webusb/",
+              "title": "WebUSB API",
+              "crawled": "https://wicg.github.io/webusb/"
+            },
+            {
               "url": "https://xhr.spec.whatwg.org/",
               "title": "XMLHttpRequest Standard",
               "crawled": "https://xhr.spec.whatwg.org/"
@@ -50410,7 +50415,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level",
       "shortname": "webauthn-3",
-      "date": "6 October 2023",
+      "date": "11 October 2023",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -55966,7 +55971,7 @@
     {
       "title": "WebUSB API",
       "shortname": "webusb",
-      "date": "21 July 2023",
+      "date": "12 October 2023",
       "url": "https://wicg.github.io/webusb/",
       "nightly": {
         "url": "https://wicg.github.io/webusb/",
