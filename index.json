@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-13T12:41:17.650Z",
+  "date": "2023-10-13T18:34:52.064Z",
   "stats": {
     "crawled": 573,
     "errors": 1,
@@ -1858,6 +1858,11 @@
               "url": "https://datatracker.ietf.org/doc/html/draft-cutler-httpbis-partitioned-cookies",
               "title": "Cookies Having Independent Partitioned State specification",
               "crawled": "https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html"
+            },
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
               "url": "https://wicg.github.io/storage-buckets/",
@@ -4573,6 +4578,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://www.w3.org/TR/css-backgrounds-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
@@ -7419,7 +7425,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "11 October 2023",
+      "date": "13 October 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -16420,6 +16426,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/",
           "https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/",
+          "https://www.w3.org/TR/css-backgrounds-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css3-background/",
           "https://www.w3.org/TR/cssom/",
@@ -23926,7 +23933,7 @@
     {
       "title": "EditContext API",
       "shortname": "edit-context",
-      "date": "22 September 2023",
+      "date": "13 October 2023",
       "url": "https://www.w3.org/TR/edit-context/",
       "release": {
         "url": "https://www.w3.org/TR/edit-context/",
@@ -24741,7 +24748,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "29 September 2023",
+      "date": "13 October 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -37627,7 +37634,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "11 October 2023",
+      "date": "13 October 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41389,7 +41396,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "12 October 2023",
+      "date": "13 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -45865,7 +45872,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "10 October 2023",
+      "date": "13 October 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
