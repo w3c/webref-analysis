@@ -1414,7 +1414,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 13 October 2023
+- Crawled version: 14 October 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -10491,7 +10491,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 06 October 2023
+- Crawled version: 14 October 2023
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -11611,7 +11611,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 05 October 2023
+- Crawled version: 14 October 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
