@@ -208,7 +208,6 @@ Normative references to this spec from:
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
-- [URLPattern API](https://wicg.github.io/urlpattern/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
@@ -9517,7 +9516,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
-### Compute Pressure Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Compute Pressure Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9530,11 +9529,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/)
-     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
-     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
-     * [`https://www.w3.org/TR/privacy-principles/`](https://www.w3.org/TR/privacy-principles/)
+The following network or parsing error occurred:
+`Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 277)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9717,7 +9720,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
 - Crawled URL: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
-- Crawled version: 30 January 2023
+- Crawled version: 18 October 2023
 - Editor's Draft: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
 - Latest published version: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
 - Shortname: gyroscope
@@ -15578,6 +15581,31 @@ No informative reference to this spec from other specs.
 
 ## Web Platform Incubator Community Group {#group-web_platform_incubator_community_group}
 
+### [No title found for https://urlpattern.spec.whatwg.org/] {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
+- Crawled URL: [https://urlpattern.spec.whatwg.org/](https://urlpattern.spec.whatwg.org/)
+- Crawled version: 13 October 2023
+- Editor's Draft: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
+- Shortname: urlpattern
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
+
+Informative references to this spec from:
+
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+
+
 ### Accelerated Shape Detection in Images {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -17060,39 +17088,6 @@ No informative reference to this spec from other specs.
 No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
-
-
-### URLPattern API {data-spec=true data-error=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
-- Crawled URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
-- Crawled version: 13 September 2023
-- Editor's Draft: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
-- Shortname: urlpattern
-
-#### Potential issue(s) {.anomalies}
-
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/urlpattern/ triggered HTTP status 404 Error: Loading https://wicg.github.io/urlpattern/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 215)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
-
-Informative references to this spec from:
-
-- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
 ### User Agent Interaction with Related Website Sets {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -19310,7 +19305,6 @@ Normative references to this spec from:
 - [UI Events KeyboardEvent code Values](https://w3c.github.io/uievents-code/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Standard](https://url.spec.whatwg.org/)
-- [URLPattern API](https://wicg.github.io/urlpattern/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
@@ -19703,7 +19697,6 @@ Normative references to this spec from:
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
-- [URLPattern API](https://wicg.github.io/urlpattern/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
@@ -19944,7 +19937,6 @@ Normative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Standard](https://url.spec.whatwg.org/)
-- [URLPattern API](https://wicg.github.io/urlpattern/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)

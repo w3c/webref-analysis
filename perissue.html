@@ -25,7 +25,7 @@
   <h2>Specifications that could not be rendered</h2>
   <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
   <ul>
-  <li><a href="https://wicg.github.io/urlpattern/">URLPattern API</a>: <code>Error: Loading https://wicg.github.io/urlpattern/ triggered HTTP status 404 Error: Loading https://wicg.github.io/urlpattern/ triggered HTTP status 404     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)     at async Promise.all (index 215)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)</code></li>
+  <li><a href="https://w3c.github.io/compute-pressure/">Compute Pressure Level 1</a>: <code>Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)     at async Promise.all (index 277)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)</code></li>
   <li><a href="https://www.w3.org/2001/tag/doc/promises-guide">Writing Promise-Using Specifications</a>: <code>Error: Loading https://www.w3.org/2001/tag/doc/promises-guide triggered HTTP status 524 Error: Loading https://www.w3.org/2001/tag/doc/promises-guide triggered HTTP status 524     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)     at async Promise.all (index 259)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)</code></li>
   </ul>
   <p>=&gt; 2 specifications found</p>
@@ -33,6 +33,7 @@
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
+  <li><a href="https://urlpattern.spec.whatwg.org/">[No title found for https://urlpattern.spec.whatwg.org/]</a></li>
   <li><a href="https://www.w3.org/TR/test-methodology/">A Method for Writing Testable Conformance Requirements</a></li>
   <li><a href="https://tc39.es/proposal-array-grouping/">Array Grouping</a></li>
   <li><a href="https://tc39.es/proposal-arraybuffer-transfer/">ArrayBuffer transfer</a></li>
@@ -118,7 +119,7 @@
   <li><a href="https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/">WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification</a></li>
   <li><a href="https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/">WebGL WEBGL_provoking_vertex Extension Specification</a></li>
   </ul>
-  <p>=&gt; 84 specifications found</p>
+  <p>=&gt; 85 specifications found</p>
   <p>Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.</p>
   </section>
   <section id="list-of-specifications-with-invalid-webidl-content" class="level2">
@@ -234,13 +235,6 @@
   <li><a href="https://www.w3.org/TR/css3-color/"><code>https://www.w3.org/TR/css3-color/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a> but does not list it in its references</li>
   <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a> but does not list it in its references</li>
-  </ul></li>
-  <li><a href="https://w3c.github.io/compute-pressure/">Compute Pressure Level 1</a> links to:
-  <ul>
-  <li><a href="https://w3c.github.io/picture-in-picture/"><code>https://w3c.github.io/picture-in-picture/</code></a> but does not list it in its references</li>
-  <li><a href="https://www.w3.org/TR/design-principles/"><code>https://www.w3.org/TR/design-principles/</code></a> but does not list it in its references</li>
-  <li><a href="https://www.w3.org/TR/permissions-policy/"><code>https://www.w3.org/TR/permissions-policy/</code></a> but does not list it in its references</li>
-  <li><a href="https://www.w3.org/TR/privacy-principles/"><code>https://www.w3.org/TR/privacy-principles/</code></a> but does not list it in its references</li>
   </ul></li>
   <li><a href="https://w3c.github.io/contact-picker/">Contact Picker API</a> links to:
   <ul>
@@ -1664,7 +1658,7 @@
   <li><a href="https://w3c.github.io/window-management/">Window Management</a> links to <a href="https://www.w3.org/TR/cssom-view-1/"><code>https://www.w3.org/TR/cssom-view-1/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 975 missing references for links found in 245 specifications</p>
+  <p>=&gt; 971 missing references for links found in 244 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>

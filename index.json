@@ -2,13 +2,67 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-18T06:35:57.765Z",
+  "date": "2023-10-18T12:41:43.468Z",
   "stats": {
     "crawled": 573,
     "errors": 2,
     "studied": 573
   },
   "results": [
+    {
+      "title": "[No title found for https://urlpattern.spec.whatwg.org/]",
+      "shortname": "urlpattern",
+      "date": "13 October 2023",
+      "url": "https://wicg.github.io/urlpattern/",
+      "nightly": {
+        "url": "https://wicg.github.io/urlpattern/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/urlpattern",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://urlpattern.spec.whatwg.org/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/webdriver-bidi/",
+              "title": "WebDriver BiDi",
+              "crawled": "https://w3c.github.io/webdriver-bidi/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
     {
       "title": "A Method for Writing Testable Conformance Requirements",
       "shortname": "test-methodology",
@@ -2498,6 +2552,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 277)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -23774,11 +23829,6 @@
               "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
             },
             {
-              "url": "https://wicg.github.io/urlpattern/",
-              "title": "URLPattern API",
-              "crawled": "https://wicg.github.io/urlpattern/"
-            },
-            {
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
@@ -26992,7 +27042,7 @@
     {
       "title": "Gyroscope",
       "shortname": "gyroscope",
-      "date": "30 January 2023",
+      "date": "18 October 2023",
       "url": "https://www.w3.org/TR/gyroscope/",
       "release": {
         "url": "https://www.w3.org/TR/gyroscope/",
@@ -30825,11 +30875,6 @@
               "url": "https://url.spec.whatwg.org/",
               "title": "URL Standard",
               "crawled": "https://url.spec.whatwg.org/"
-            },
-            {
-              "url": "https://wicg.github.io/urlpattern/",
-              "title": "URLPattern API",
-              "crawled": "https://wicg.github.io/urlpattern/"
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
@@ -48950,11 +48995,6 @@
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
             },
             {
-              "url": "https://wicg.github.io/urlpattern/",
-              "title": "URLPattern API",
-              "crawled": "https://wicg.github.io/urlpattern/"
-            },
-            {
               "url": "https://wicg.github.io/first-party-sets/",
               "title": "User Agent Interaction with Related Website Sets",
               "crawled": "https://wicg.github.io/first-party-sets/"
@@ -49074,61 +49114,6 @@
           ]
         },
         "ok": true
-      }
-    },
-    {
-      "title": "URLPattern API",
-      "shortname": "urlpattern",
-      "date": "13 September 2023",
-      "url": "https://wicg.github.io/urlpattern/",
-      "nightly": {
-        "url": "https://wicg.github.io/urlpattern/",
-        "status": "Draft Community Group Report",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/urlpattern",
-        "sourcePath": "spec.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://wicg.github.io/urlpattern/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "error": "Error: Loading https://wicg.github.io/urlpattern/ triggered HTTP status 404 Error: Loading https://wicg.github.io/urlpattern/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 215)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
-              "title": "Speculation Rules",
-              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://w3c.github.io/webdriver-bidi/",
-              "title": "WebDriver BiDi",
-              "crawled": "https://w3c.github.io/webdriver-bidi/"
-            }
-          ]
-        },
-        "ok": false
       }
     },
     {
@@ -51721,11 +51706,6 @@
               "url": "https://url.spec.whatwg.org/",
               "title": "URL Standard",
               "crawled": "https://url.spec.whatwg.org/"
-            },
-            {
-              "url": "https://wicg.github.io/urlpattern/",
-              "title": "URLPattern API",
-              "crawled": "https://wicg.github.io/urlpattern/"
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
