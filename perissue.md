@@ -9,12 +9,6 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
-- [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/): `Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 277)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 - [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide): `Error: Loading https://www.w3.org/2001/tag/doc/promises-guide triggered HTTP status 524 Error: Loading https://www.w3.org/2001/tag/doc/promises-guide triggered HTTP status 524
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
@@ -22,7 +16,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async Promise.all (index 259)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 
-=> 2 specifications found
+=> 1 specification found
 
 
 ## Specifications without normative dependencies
@@ -233,6 +227,13 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/) links to:
+    * [`https://html.spec.whatwg.org/multipage/interaction.html`](https://html.spec.whatwg.org/multipage/interaction.html) but does not list it in its references
+    * [`https://html.spec.whatwg.org/multipage/workers.html`](https://html.spec.whatwg.org/multipage/workers.html) but does not list it in its references
+    * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/) but does not list it in its references
+    * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/) but does not list it in its references
+    * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/) but does not list it in its references
+    * [`https://www.w3.org/TR/privacy-principles/`](https://www.w3.org/TR/privacy-principles/) but does not list it in its references
 - [Contact Picker API](https://w3c.github.io/contact-picker/) links to:
     * [`https://www.w3.org/TR/2010/WD-contacts-api-20100121/`](https://www.w3.org/TR/2010/WD-contacts-api-20100121/) but does not list it in its references
     * [`https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/`](https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/) but does not list it in its references
@@ -1331,7 +1332,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 971 missing references for links found in 244 specifications
+=> 977 missing references for links found in 245 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

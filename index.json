@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-18T12:41:43.468Z",
+  "date": "2023-10-18T18:34:53.742Z",
   "stats": {
     "crawled": 573,
-    "errors": 2,
+    "errors": 1,
     "studied": 573
   },
   "results": [
@@ -871,7 +871,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "17 October 2023",
+      "date": "18 October 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2528,7 +2528,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "09 October 2023",
+      "date": "18 October 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -2552,7 +2552,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 277)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -2565,6 +2564,8 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://html.spec.whatwg.org/multipage/interaction.html",
+          "https://html.spec.whatwg.org/multipage/workers.html",
           "https://w3c.github.io/picture-in-picture/",
           "https://www.w3.org/TR/design-principles/",
           "https://www.w3.org/TR/permissions-policy/",
@@ -21198,7 +21199,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "7 August 2023",
+      "date": "18 October 2023",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -22230,11 +22231,6 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -27205,11 +27201,6 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
-              "url": "https://www.w3.org/TR/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://w3c.github.io/compute-pressure/"
-            },
-            {
               "url": "https://wicg.github.io/cookie-store/",
               "title": "Cookie Store API",
               "crawled": "https://wicg.github.io/cookie-store/"
@@ -27898,11 +27889,6 @@
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://www.w3.org/TR/contact-picker/",
@@ -30107,11 +30093,6 @@
               "crawled": "https://compat.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://w3c.github.io/compute-pressure/"
-            },
-            {
               "url": "https://console.spec.whatwg.org/",
               "title": "Console Standard",
               "crawled": "https://console.spec.whatwg.org/"
@@ -31395,7 +31376,7 @@
     {
       "title": "Intersection Observer",
       "shortname": "intersection-observer",
-      "date": "3 October 2023",
+      "date": "18 October 2023",
       "url": "https://www.w3.org/TR/intersection-observer/",
       "release": {
         "url": "https://www.w3.org/TR/intersection-observer/",
@@ -32884,11 +32865,6 @@
               "url": "https://screen-share.github.io/captured-mouse-events/",
               "title": "Captured Mouse Events",
               "crawled": "https://screen-share.github.io/captured-mouse-events/"
-            },
-            {
-              "url": "https://www.w3.org/TR/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://screen-share.github.io/element-capture/",
@@ -36571,11 +36547,6 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
-              "url": "https://www.w3.org/TR/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://w3c.github.io/compute-pressure/"
-            },
-            {
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
@@ -36806,6 +36777,11 @@
               "url": "https://wicg.github.io/client-hints-infrastructure/",
               "title": "Client Hints Infrastructure",
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/document-policy/",
@@ -41451,7 +41427,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "17 October 2023",
+      "date": "18 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -42133,7 +42109,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "17 October 2023",
+      "date": "18 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -44226,7 +44202,7 @@
     {
       "title": "Secure Payment Confirmation",
       "shortname": "secure-payment-confirmation",
-      "date": "22 August 2023",
+      "date": "18 October 2023",
       "url": "https://www.w3.org/TR/secure-payment-confirmation/",
       "release": {
         "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -46962,7 +46938,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "29 September 2023",
+      "date": "18 October 2023",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",

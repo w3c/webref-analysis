@@ -2,26 +2,12 @@
 % Strudy
 % October 18, 2023
 
-## [No title found for https://urlpattern.spec.whatwg.org/]
-
-- Initial URL: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://wicg.github.io/urlpattern/](https://wicg.github.io/urlpattern/)
-- Spec title: *INS* [No title found for https://urlpattern.spec.whatwg.org/] / *DEL* URLPattern API
-- Spec could not be rendered: *DEL* Error: Loading https://wicg.github.io/urlpattern/ triggered HTTP status 404 Error: Loading https://wicg.github.io/urlpattern/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:490:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 215)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)
-
-
 ## Compute Pressure Level 1
 
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
-- Spec could not be rendered: *INS* Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+- Spec could not be rendered: *DEL* Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/compute-pressure/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
