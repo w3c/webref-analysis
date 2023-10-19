@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-19T12:40:20.150Z",
+  "date": "2023-10-19T18:34:24.644Z",
   "stats": {
     "crawled": 573,
     "errors": 2,
@@ -2528,7 +2528,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "18 October 2023",
+      "date": "19 October 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -2564,8 +2564,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://html.spec.whatwg.org/multipage/interaction.html",
-          "https://html.spec.whatwg.org/multipage/workers.html",
           "https://w3c.github.io/picture-in-picture/",
           "https://www.w3.org/TR/design-principles/",
           "https://www.w3.org/TR/permissions-policy/",
@@ -20225,7 +20223,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "18 October 2023",
+      "date": "19 October 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -20288,7 +20286,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "18 October 2023",
+      "date": "19 October 2023",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -22231,6 +22229,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/content-index/spec/",
@@ -27201,6 +27204,11 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
+            },
+            {
               "url": "https://wicg.github.io/cookie-store/",
               "title": "Cookie Store API",
               "crawled": "https://wicg.github.io/cookie-store/"
@@ -27889,6 +27897,11 @@
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://www.w3.org/TR/contact-picker/",
@@ -30091,6 +30104,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://console.spec.whatwg.org/",
@@ -32865,6 +32883,11 @@
               "url": "https://screen-share.github.io/captured-mouse-events/",
               "title": "Captured Mouse Events",
               "crawled": "https://screen-share.github.io/captured-mouse-events/"
+            },
+            {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://screen-share.github.io/element-capture/",
@@ -36547,6 +36570,11 @@
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
             },
             {
+              "url": "https://www.w3.org/TR/compute-pressure/",
+              "title": "Compute Pressure Level 1",
+              "crawled": "https://w3c.github.io/compute-pressure/"
+            },
+            {
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
@@ -36777,11 +36805,6 @@
               "url": "https://wicg.github.io/client-hints-infrastructure/",
               "title": "Client Hints Infrastructure",
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
-            },
-            {
-              "url": "https://www.w3.org/TR/compute-pressure/",
-              "title": "Compute Pressure Level 1",
-              "crawled": "https://w3c.github.io/compute-pressure/"
             },
             {
               "url": "https://wicg.github.io/document-policy/",
@@ -39918,7 +39941,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "18 October 2023",
+      "date": "19 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
