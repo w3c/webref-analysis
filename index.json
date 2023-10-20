@@ -2,67 +2,13 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-20T00:46:16.461Z",
+  "date": "2023-10-20T06:34:25.483Z",
   "stats": {
     "crawled": 573,
     "errors": 2,
     "studied": 573
   },
   "results": [
-    {
-      "title": "[No title found for https://urlpattern.spec.whatwg.org/]",
-      "shortname": "urlpattern",
-      "date": "13 October 2023",
-      "url": "https://wicg.github.io/urlpattern/",
-      "nightly": {
-        "url": "https://wicg.github.io/urlpattern/",
-        "status": "Draft Community Group Report",
-        "alternateUrls": [],
-        "repository": "https://github.com/WICG/urlpattern",
-        "sourcePath": "spec.bs",
-        "filename": "index.html"
-      },
-      "crawled": "https://urlpattern.spec.whatwg.org/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Web Platform Incubator Community Group",
-          "url": "https://www.w3.org/community/wicg/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": true,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
-              "title": "Speculation Rules",
-              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://w3c.github.io/webdriver-bidi/",
-              "title": "WebDriver BiDi",
-              "crawled": "https://w3c.github.io/webdriver-bidi/"
-            }
-          ]
-        },
-        "ok": false
-      }
-    },
     {
       "title": "A Method for Writing Testable Conformance Requirements",
       "shortname": "test-methodology",
@@ -12510,7 +12456,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "28 August 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -14569,7 +14515,7 @@
     {
       "title": "CSS Paged Media Module Level 3",
       "shortname": "css-page-3",
-      "date": "20 September 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/css-page-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-page-3/",
@@ -17449,7 +17395,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "28 August 2023",
+      "date": "20 October 2023",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -17675,7 +17621,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "13 October 2023",
+      "date": "18 September 2023",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -17956,7 +17902,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "13 October 2023",
+      "date": "20 October 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -23826,6 +23772,11 @@
               "url": "https://www.w3.org/TR/trusted-types/",
               "title": "Trusted Types",
               "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
+            },
+            {
+              "url": "https://wicg.github.io/urlpattern/",
+              "title": "URL Pattern Standard",
+              "crawled": "https://urlpattern.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
@@ -30869,6 +30820,11 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "URL Fragment Text Directives",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
+            },
+            {
+              "url": "https://wicg.github.io/urlpattern/",
+              "title": "URL Pattern Standard",
+              "crawled": "https://urlpattern.spec.whatwg.org/"
             },
             {
               "url": "https://url.spec.whatwg.org/",
@@ -40483,7 +40439,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "19 October 2023",
+      "date": "20 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -48583,6 +48539,60 @@
       }
     },
     {
+      "title": "URL Pattern Standard",
+      "shortname": "urlpattern",
+      "date": "19 October 2023",
+      "url": "https://wicg.github.io/urlpattern/",
+      "nightly": {
+        "url": "https://wicg.github.io/urlpattern/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/urlpattern",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://urlpattern.spec.whatwg.org/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://w3c.github.io/webdriver-bidi/",
+              "title": "WebDriver BiDi",
+              "crawled": "https://w3c.github.io/webdriver-bidi/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "URL Standard",
       "shortname": "url",
       "date": "27 September 2023",
@@ -48993,6 +49003,11 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "URL Fragment Text Directives",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
+            },
+            {
+              "url": "https://wicg.github.io/urlpattern/",
+              "title": "URL Pattern Standard",
+              "crawled": "https://urlpattern.spec.whatwg.org/"
             },
             {
               "url": "https://wicg.github.io/first-party-sets/",
@@ -51701,6 +51716,11 @@
               "url": "https://wicg.github.io/scroll-to-text-fragment/",
               "title": "URL Fragment Text Directives",
               "crawled": "https://wicg.github.io/scroll-to-text-fragment/"
+            },
+            {
+              "url": "https://wicg.github.io/urlpattern/",
+              "title": "URL Pattern Standard",
+              "crawled": "https://urlpattern.spec.whatwg.org/"
             },
             {
               "url": "https://url.spec.whatwg.org/",
