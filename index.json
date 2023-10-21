@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-20T18:32:23.824Z",
+  "date": "2023-10-21T00:48:23.012Z",
   "stats": {
     "crawled": 573,
     "errors": 3,
@@ -12221,7 +12221,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "28 August 2023",
+      "date": "20 October 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -13744,7 +13744,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "9 October 2023",
+      "date": "20 October 2023",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -23457,7 +23457,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "19 October 2023",
+      "date": "20 October 2023",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -42195,7 +42195,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "20 October 2023",
+      "date": "21 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -44964,7 +44964,7 @@
     {
       "title": "Shared Storage API",
       "shortname": "shared-storage",
-      "date": "3 October 2023",
+      "date": "20 October 2023",
       "url": "https://wicg.github.io/shared-storage/",
       "nightly": {
         "url": "https://wicg.github.io/shared-storage/",
@@ -45884,7 +45884,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "13 October 2023",
+      "date": "20 October 2023",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
