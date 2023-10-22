@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-22T00:47:34.157Z",
+  "date": "2023-10-22T06:33:41.084Z",
   "stats": {
     "crawled": 573,
     "errors": 3,
@@ -40253,7 +40253,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "20 October 2023",
+      "date": "22 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41235,7 +41235,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "21 October 2023",
+      "date": "22 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42036,7 +42036,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "20 October 2023",
+      "date": "21 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -42089,7 +42089,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "20 October 2023",
+      "date": "21 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -42195,7 +42195,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "21 October 2023",
+      "date": "22 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
