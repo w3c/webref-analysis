@@ -145,7 +145,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 20 October 2023
+- Crawled version: 23 October 2023
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -18744,7 +18744,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 18 October 2023
+- Crawled version: 23 October 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -19743,7 +19743,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 15 October 2023
+- Crawled version: 22 October 2023
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
