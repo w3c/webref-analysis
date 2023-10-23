@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-23T12:39:58.832Z",
+  "date": "2023-10-23T18:34:03.485Z",
   "stats": {
     "crawled": 573,
     "errors": 3,
@@ -13485,13 +13485,6 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-text-4/",
-            "ref": {
-              "name": "CSS-TEXT-4",
-              "url": "https://drafts.csswg.org/css-text-4/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
               "name": "CSS-VALUES-3",
@@ -24804,7 +24797,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "12 October 2023",
+      "date": "23 October 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -41907,7 +41900,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "22 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -45064,7 +45057,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "12 October 2023",
+      "date": "23 October 2023",
       "url": "https://tc39.es/source-map-spec/",
       "nightly": {
         "url": "https://tc39.es/source-map-spec/",
