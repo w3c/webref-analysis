@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-23T18:34:03.485Z",
+  "date": "2023-10-24T00:48:22.475Z",
   "stats": {
     "crawled": 573,
     "errors": 3,
@@ -3088,7 +3088,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4362,6 +4362,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
               "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -8595,6 +8600,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
@@ -9718,6 +9728,11 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
@@ -12172,6 +12187,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -12365,6 +12385,11 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -16697,7 +16722,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -19310,7 +19341,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "15 September 2023",
+      "date": "23 October 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -19361,6 +19392,48 @@
           "https://www.w3.org/TR/cssom-1/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2020/WD-css-values-4-20201111/",
+            "ref": {
+              "name": "CSS-VALUES-4",
+              "url": "https://drafts.csswg.org/css-values-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-values-4-20210715/",
+            "ref": {
+              "name": "CSS-VALUES-4",
+              "url": "https://drafts.csswg.org/css-values-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-values-4-20210930/",
+            "ref": {
+              "name": "CSS-VALUES-4",
+              "url": "https://drafts.csswg.org/css-values-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-values-4-20211016/",
+            "ref": {
+              "name": "CSS-VALUES-4",
+              "url": "https://drafts.csswg.org/css-values-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-values-4-20211216/",
+            "ref": {
+              "name": "CSS-VALUES-4",
+              "url": "https://drafts.csswg.org/css-values-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/WD-css-values-4-20221019/",
+            "ref": {
+              "name": "CSS-VALUES-4",
+              "url": "https://drafts.csswg.org/css-values-4/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css3-fonts/",
             "ref": {
@@ -19897,6 +19970,11 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-values-5/",
               "title": "CSS Values and Units Module Level 5",
               "crawled": "https://drafts.csswg.org/css-values-5/"
@@ -20076,7 +20154,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "25 September 2023",
+      "date": "19 October 2023",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -20105,7 +20183,36 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "progress-function()"
+                ]
+              }
+            },
+            {
+              "expected": {
+                "linkingText": [
+                  "mix-function()"
+                ]
+              }
+            },
+            {
+              "expected": {
+                "linkingText": [
+                  "<color-mix()>"
+                ]
+              }
+            },
+            {
+              "expected": {
+                "linkingText": [
+                  "<cross-fade()>"
+                ]
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [],
@@ -21571,7 +21678,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -33380,6 +33487,11 @@
               "crawled": "https://drafts.csswg.org/css-page-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
@@ -33628,6 +33740,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-viewport/",
               "title": "CSS Viewport Module Level 1",
               "crawled": "https://drafts.csswg.org/css-viewport/"
@@ -33837,7 +33954,7 @@
     {
       "title": "Media Source Extensions™",
       "shortname": "media-source-2",
-      "date": "10 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.w3.org/TR/media-source-2/",
       "release": {
         "url": "https://www.w3.org/TR/media-source-2/",
@@ -39983,7 +40100,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40023,7 +40140,7 @@
     {
       "title": "RFC 6265 - HTTP State Management Mechanism",
       "shortname": "rfc6265",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6265",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6265.html",
@@ -40192,7 +40309,7 @@
     {
       "title": "RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)",
       "shortname": "rfc6266",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6266",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6266.html",
@@ -40246,7 +40363,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40353,7 +40470,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -40433,7 +40550,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -40487,7 +40604,7 @@
     {
       "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
       "shortname": "rfc7230",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7230",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7230.html",
@@ -40641,7 +40758,7 @@
     {
       "title": "RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
       "shortname": "rfc7231",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7231",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7231.html",
@@ -40820,7 +40937,7 @@
     {
       "title": "RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
       "shortname": "rfc7232",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7232",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7232.html",
@@ -40903,7 +41020,7 @@
     {
       "title": "RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests",
       "shortname": "rfc7233",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7233",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7233.html",
@@ -40971,7 +41088,7 @@
     {
       "title": "RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching",
       "shortname": "rfc7234",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7234",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7234.html",
@@ -41110,7 +41227,7 @@
     {
       "title": "RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication",
       "shortname": "rfc7235",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7235",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7235.html",
@@ -41228,7 +41345,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -41286,7 +41403,7 @@
     {
       "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
       "shortname": "rfc7538",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7538",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7538.html",
@@ -41336,7 +41453,7 @@
     {
       "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
       "shortname": "rfc7540",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7540",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7540.html",
@@ -41453,7 +41570,7 @@
     {
       "title": "RFC 7616 - HTTP Digest Access Authentication",
       "shortname": "rfc7616",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7616",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7616.html",
@@ -41501,7 +41618,7 @@
     {
       "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
       "shortname": "rfc7617",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7617",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7617.html",
@@ -41549,7 +41666,7 @@
     {
       "title": "RFC 7725 - An HTTP Status Code to Report Legal Obstacles",
       "shortname": "rfc7725",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7725",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7725.html",
@@ -41591,7 +41708,7 @@
     {
       "title": "RFC 7838 - HTTP Alternative Services",
       "shortname": "rfc7838",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7838",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7838.html",
@@ -41633,7 +41750,7 @@
     {
       "title": "RFC 8246 - HTTP Immutable Responses",
       "shortname": "rfc8246",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8246",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8246.html",
@@ -41675,7 +41792,7 @@
     {
       "title": "RFC 8288 - Web Linking",
       "shortname": "rfc8288",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8288",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8288.html",
@@ -41748,7 +41865,7 @@
     {
       "title": "RFC 8297 - An HTTP Status Code for Indicating Hints",
       "shortname": "rfc8297",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8297",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8297.html",
@@ -41796,7 +41913,7 @@
     {
       "title": "RFC 8470 - Using Early Data in HTTP",
       "shortname": "rfc8470",
-      "date": "6 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8470",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8470.html",
@@ -41844,7 +41961,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -42082,7 +42199,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -42188,7 +42305,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -42236,7 +42353,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -49956,6 +50073,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -50072,6 +50194,11 @@
               "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
               "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -55287,7 +55414,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "20 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -55362,7 +55489,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "20 October 2023",
+      "date": "23 October 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

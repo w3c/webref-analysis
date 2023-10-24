@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% October 23, 2023
+% October 24, 2023
 
 573 specifications were crawled in this report.
 
@@ -169,10 +169,15 @@ Basically all specifications have normative dependencies on some other specifica
 
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
     * `distance`
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/):
+    * `progress-function()`
+    * `mix-function()`
+    * `<color-mix()>`
+    * `<cross-fade()>`
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/):
     * `<keyframe-selector>`
 
-=> 2 constructs without definition found in 2 specifications
+=> 6 constructs without definition found in 3 specifications
 
 
 ## No definition for IDL constructs
@@ -1671,7 +1676,14 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/) links to [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/) but related reference "WEB-ANIMATIONS" uses URL [`https://drafts.csswg.org/web-animations-1/`](https://drafts.csswg.org/web-animations-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/) links to [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/) but related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/) links to [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/) links to:
+    * [`https://www.w3.org/TR/2020/WD-css-values-4-20201111/`](https://www.w3.org/TR/2020/WD-css-values-4-20201111/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+    * [`https://www.w3.org/TR/2021/WD-css-values-4-20210715/`](https://www.w3.org/TR/2021/WD-css-values-4-20210715/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+    * [`https://www.w3.org/TR/2021/WD-css-values-4-20210930/`](https://www.w3.org/TR/2021/WD-css-values-4-20210930/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+    * [`https://www.w3.org/TR/2021/WD-css-values-4-20211016/`](https://www.w3.org/TR/2021/WD-css-values-4-20211016/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+    * [`https://www.w3.org/TR/2021/WD-css-values-4-20211216/`](https://www.w3.org/TR/2021/WD-css-values-4-20211216/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+    * [`https://www.w3.org/TR/2022/WD-css-values-4-20221019/`](https://www.w3.org/TR/2022/WD-css-values-4-20221019/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+    * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/) but related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/) links to:
     * [`http://www.w3.org/TR/css-values-4/`](http://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
@@ -1946,7 +1958,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 495 inconsistent references for links found in 188 specifications
+=> 501 inconsistent references for links found in 188 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

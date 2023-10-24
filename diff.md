@@ -1,13 +1,13 @@
-% Diff between report from "October 23, 2023" and reference report from "October 23, 2023"
+% Diff between report from "October 24, 2023" and reference report from "October 23, 2023"
 % Strudy
-% October 23, 2023
+% October 24, 2023
 
-## CSS Mobile Text Size Adjustment Module Level 1
+## CSS Values and Units Module Level 4
 
-- Initial URL: [https://drafts.csswg.org/css-size-adjust-1/](https://drafts.csswg.org/css-size-adjust-1/)
+- Initial URL: [https://www.w3.org/TR/css-values-4/](https://www.w3.org/TR/css-values-4/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-size-adjust-1/](https://drafts.csswg.org/css-size-adjust-1/)
-- Inconsistent references for links: *DEL* https://www.w3.org/TR/css-text-4/
+- Editor's Draft: [https://drafts.csswg.org/css-values-4/](https://drafts.csswg.org/css-values-4/)
+- Inconsistent references for links: *INS* https://www.w3.org/TR/2020/WD-css-values-4-20201111/, https://www.w3.org/TR/2021/WD-css-values-4-20210715/, https://www.w3.org/TR/2021/WD-css-values-4-20210930/, https://www.w3.org/TR/2021/WD-css-values-4-20211016/, https://www.w3.org/TR/2021/WD-css-values-4-20211216/, https://www.w3.org/TR/2022/WD-css-values-4-20221019/
 
 
 
