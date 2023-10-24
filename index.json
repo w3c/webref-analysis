@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-10-24T00:48:22.475Z",
+  "date": "2023-10-24T06:35:08.586Z",
   "stats": {
     "crawled": 573,
     "errors": 3,
@@ -27729,7 +27729,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -42146,7 +42146,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "23 October 2023",
+      "date": "24 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
