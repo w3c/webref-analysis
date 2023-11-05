@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 04, 2023
+% November 05, 2023
 
 581 specifications were crawled in this report.
 
@@ -3397,12 +3397,17 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
-- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/): `Error: Loading https://drafts.csswg.org/selectors-nonelement-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/selectors-nonelement-1/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+- [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/): `Error: Could not load script Error: Could not load script
+    at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
+    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ExecutionContext.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:178:16)
+    at async IsolatedWorld.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:124:16)
+    at async CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:58)
+    at async CdpPage.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:563:20)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 579)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
 - [Notifications API Standard](https://notifications.spec.whatwg.org/): `Error: Could not load script Error: Could not load script
     at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
     at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
@@ -4426,17 +4431,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
-- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/): `Error: Could not load script Error: Could not load script
-    at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
-    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async ExecutionContext.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:178:16)
-    at async IsolatedWorld.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:124:16)
-    at async CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:58)
-    at async CdpPage.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:563:20)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
+- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/): `Error: Loading https://w3c.github.io/webrtc-svc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/webrtc-svc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at process.processTimers (node:internal/timers:509:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 560)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 - [Screen Capture](https://w3c.github.io/mediacapture-screen-share/): `Error: Could not load script Error: Could not load script
     at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
     at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
@@ -6043,18 +6045,28 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
-- [WebGPU](https://gpuweb.github.io/gpuweb/): `Error: Loading https://gpuweb.github.io/gpuweb/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://gpuweb.github.io/gpuweb/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+- [WebGPU](https://gpuweb.github.io/gpuweb/): `Error: Could not load script Error: Could not load script
+    at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
+    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ExecutionContext.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:178:16)
+    at async IsolatedWorld.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:124:16)
+    at async CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:58)
+    at async CdpPage.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:563:20)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 553)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/): `Error: Loading https://gpuweb.github.io/gpuweb/wgsl/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://gpuweb.github.io/gpuweb/wgsl/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
+- [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/): `Error: Could not load script Error: Could not load script
+    at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
+    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ExecutionContext.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:178:16)
+    at async IsolatedWorld.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:124:16)
+    at async CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:58)
+    at async CdpPage.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:563:20)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 573)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
 - [WebHID API](https://wicg.github.io/webhid/): `Error: Could not load script Error: Could not load script
     at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
     at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
@@ -6110,15 +6122,17 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
-- [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/): `Error: Loading https://w3c.github.io/webrtc-pc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/webrtc-pc/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at runNextTicks (node:internal/process/task_queues:60:5)
-    at listOnTimeout (node:internal/timers:538:9)
-    at process.processTimers (node:internal/timers:512:7)
+- [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/): `Error: Could not load script Error: Could not load script
+    at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
+    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ExecutionContext.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:178:16)
+    at async IsolatedWorld.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:124:16)
+    at async CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:58)
+    at async CdpPage.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:563:20)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 561)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
 - [WebSockets Standard](https://websockets.spec.whatwg.org/): `Error: Could not load script Error: Could not load script
     at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
     at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
@@ -6130,15 +6144,17 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
-- [WebTransport](https://w3c.github.io/webtransport/): `Error: Loading https://w3c.github.io/webtransport/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://w3c.github.io/webtransport/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:542:21)
-    at runNextTicks (node:internal/process/task_queues:60:5)
-    at listOnTimeout (node:internal/timers:538:9)
-    at process.processTimers (node:internal/timers:512:7)
+- [WebTransport](https://w3c.github.io/webtransport/): `Error: Could not load script Error: Could not load script
+    at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
+    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ExecutionContext.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:178:16)
+    at async IsolatedWorld.evaluateHandle (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:124:16)
+    at async CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:58)
+    at async CdpPage.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:563:20)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:659:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 562)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
 - [WebUSB API](https://wicg.github.io/webusb/): `Error: Could not load script Error: Could not load script
     at script.addEventListener.once (evaluateHandle at CdpFrame.addScriptTag (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:629:85), <anonymous>:11:40)
     at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)
