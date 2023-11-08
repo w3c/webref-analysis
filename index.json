@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-08T07:07:17.261Z",
+  "date": "2023-11-08T12:47:26.275Z",
   "stats": {
     "crawled": 583,
     "errors": 0,
@@ -2526,7 +2526,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "03 November 2023",
+      "date": "08 November 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -25252,7 +25252,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "7 November 2023",
+      "date": "8 November 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -27927,7 +27927,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "18 July 2023",
+      "date": "8 November 2023",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -32982,7 +32982,7 @@
     {
       "title": "Mathematical Markup Language (MathML) Version 4.0",
       "shortname": "mathml4",
-      "date": "12 October 2023",
+      "date": "08 November 2023",
       "url": "https://www.w3.org/TR/mathml4/",
       "release": {
         "url": "https://www.w3.org/TR/mathml4/",
@@ -35825,7 +35825,7 @@
     {
       "title": "No-Vary-Search",
       "shortname": "no-vary-search",
-      "date": "2 November 2023",
+      "date": "8 November 2023",
       "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -37885,7 +37885,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "2 November 2023",
+      "date": "8 November 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -37927,7 +37927,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "2 November 2023",
+      "date": "8 November 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -40627,7 +40627,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "8 November 2023",
+      "date": "6 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40890,7 +40890,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "8 November 2023",
+      "date": "7 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -40997,7 +40997,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "8 November 2023",
+      "date": "4 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41077,7 +41077,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "8 November 2023",
+      "date": "6 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41832,7 +41832,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "8 November 2023",
+      "date": "7 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41872,7 +41872,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "8 November 2023",
+      "date": "7 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42488,7 +42488,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "8 November 2023",
+      "date": "7 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -42737,7 +42737,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "8 November 2023",
+      "date": "6 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -42801,7 +42801,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "8 November 2023",
+      "date": "7 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -42843,7 +42843,7 @@
     {
       "title": "RFC 9114: HTTP/3",
       "shortname": "rfc9114",
-      "date": "6 November 2023",
+      "date": "7 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9114",
@@ -42891,7 +42891,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "8 November 2023",
+      "date": "7 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -47385,7 +47385,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "2 November 2023",
+      "date": "8 November 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
