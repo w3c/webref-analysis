@@ -663,7 +663,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 7 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1026,7 +1026,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 6 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1446,7 +1446,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 6 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1599,7 +1599,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 4 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1632,7 +1632,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 6 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1659,7 +1659,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 7 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2733,6 +2733,7 @@ Normative references to this spec from:
 
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
 - [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/)
 
@@ -2745,7 +2746,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/dpub-aam-1.1/](https://www.w3.org/TR/dpub-aam-1.1/)
 - Crawled URL: [https://w3c.github.io/dpub-aam/](https://w3c.github.io/dpub-aam/)
-- Crawled version: 02 September 2023
+- Crawled version: 08 November 2023
 - Editor's Draft: [https://w3c.github.io/dpub-aam/](https://w3c.github.io/dpub-aam/)
 - Latest published version: [https://www.w3.org/TR/dpub-aam-1.1/](https://www.w3.org/TR/dpub-aam-1.1/)
 - Shortname: dpub-aam-1.1
@@ -3059,7 +3060,6 @@ Normative references to this spec from:
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [No-Vary-Search](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
-- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
@@ -10005,7 +10005,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 30 October 2023
+- Crawled version: 08 November 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -10033,7 +10033,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 30 October 2023
+- Crawled version: 08 November 2023
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -11571,7 +11571,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 25 October 2023
+- Crawled version: 08 November 2023
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -17048,20 +17048,19 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Protected Audience (formerly FLEDGE) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Protected Audience (formerly FLEDGE) {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 7 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/), related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18291,7 +18290,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 7 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-1-fork-gc
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-08T12:47:26.275Z",
+  "date": "2023-11-08T18:32:38.036Z",
   "stats": {
     "crawled": 583,
     "errors": 0,
@@ -3261,6 +3261,11 @@
               "url": "https://www.w3.org/TR/wai-aria-1.2/",
               "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
               "crawled": "https://w3c.github.io/aria/"
+            },
+            {
+              "url": "https://www.w3.org/TR/dpub-aam-1.1/",
+              "title": "Digital Publishing Accessibility API Mappings 1.1",
+              "crawled": "https://w3c.github.io/dpub-aam/"
             },
             {
               "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -21866,7 +21871,7 @@
     {
       "title": "Digital Publishing Accessibility API Mappings 1.1",
       "shortname": "dpub-aam-1.1",
-      "date": "02 September 2023",
+      "date": "08 November 2023",
       "url": "https://www.w3.org/TR/dpub-aam-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aam-1.1/",
@@ -24752,7 +24757,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "30 October 2023",
+      "date": "08 November 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24818,7 +24823,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "30 October 2023",
+      "date": "08 November 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -37540,7 +37545,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "25 October 2023",
+      "date": "08 November 2023",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -38277,7 +38282,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "7 November 2023",
+      "date": "8 November 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -38308,15 +38313,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/pub-manifest/",
-            "ref": {
-              "name": "PUB-MANIFEST",
-              "url": "https://w3c.github.io/pub-manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": [
@@ -38327,7 +38324,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -38462,11 +38459,6 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
-            },
-            {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "Protected Audience (formerly FLEDGE)",
-              "crawled": "https://wicg.github.io/turtledove/"
             },
             {
               "url": "https://www.w3.org/TR/service-workers/",
@@ -40627,7 +40619,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "6 November 2023",
+      "date": "8 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40997,7 +40989,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "4 November 2023",
+      "date": "8 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41077,7 +41069,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "6 November 2023",
+      "date": "8 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41832,7 +41824,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "7 November 2023",
+      "date": "8 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41872,7 +41864,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "7 November 2023",
+      "date": "8 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42737,7 +42729,7 @@
     {
       "title": "RFC 9112: HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "6 November 2023",
+      "date": "8 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9112",
@@ -53353,7 +53345,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1-fork-gc",
-      "date": "7 November 2023",
+      "date": "8 November 2023",
       "url": "https://webassembly.github.io/gc/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/gc/core/bikeshed/",
