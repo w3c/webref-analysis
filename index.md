@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 08, 2023
+% November 09, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -635,7 +635,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 7 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -663,7 +663,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 8 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -780,7 +780,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 7 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -804,7 +804,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 7 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -934,7 +934,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 7 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1000,7 +1000,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled version: 6 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
@@ -1026,7 +1026,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 8 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1053,7 +1053,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 7 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1074,7 +1074,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 7 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1446,7 +1446,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 8 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1499,7 +1499,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 7 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1534,7 +1534,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 7 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -1599,7 +1599,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 8 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1632,7 +1632,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 8 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1659,7 +1659,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 8 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2985,7 +2985,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Crawled URL: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
-- Crawled version: 15 October 2023
+- Crawled version: 08 November 2023
 - Editor's Draft: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
 - Latest published version: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Shortname: webmidi
@@ -3726,6 +3726,7 @@ Normative references to this spec from:
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
@@ -4395,6 +4396,7 @@ Normative references to this spec from:
 - [CSS Scrollbars Styling Module Level 1](https://drafts.csswg.org/css-scrollbars-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 - [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 
@@ -4780,7 +4782,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
-- Crawled version: 29 September 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-contain-2/](https://drafts.csswg.org/css-contain-2/)
 - Latest published version: [https://www.w3.org/TR/css-contain-2/](https://www.w3.org/TR/css-contain-2/)
 - Shortname: css-contain-2
@@ -5128,7 +5130,6 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
@@ -7506,7 +7507,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
 - Crawled URL: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
-- Crawled version: 6 October 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
 - Latest published version: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
 - Shortname: css-2023
@@ -8344,14 +8345,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
      * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2020/WD-css-values-4-20201111/`](https://www.w3.org/TR/2020/WD-css-values-4-20201111/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
-     * [`https://www.w3.org/TR/2021/WD-css-values-4-20210715/`](https://www.w3.org/TR/2021/WD-css-values-4-20210715/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
-     * [`https://www.w3.org/TR/2021/WD-css-values-4-20210930/`](https://www.w3.org/TR/2021/WD-css-values-4-20210930/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
-     * [`https://www.w3.org/TR/2021/WD-css-values-4-20211016/`](https://www.w3.org/TR/2021/WD-css-values-4-20211016/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
-     * [`https://www.w3.org/TR/2021/WD-css-values-4-20211216/`](https://www.w3.org/TR/2021/WD-css-values-4-20211216/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
-     * [`https://www.w3.org/TR/2022/WD-css-values-4-20221019/`](https://www.w3.org/TR/2022/WD-css-values-4-20221019/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
-     * [`https://www.w3.org/TR/2023/WD-css-values-4-20230406/`](https://www.w3.org/TR/2023/WD-css-values-4-20230406/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
-     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
      * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
 
 #### Known dependencies on this specification {.dependencies}
@@ -8463,7 +8456,6 @@ Normative references to this spec from:
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/)
-- [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
@@ -8544,7 +8536,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 19 October 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -10061,7 +10053,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 7 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10092,7 +10084,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 7 November 2023
+- Crawled version: 8 November 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14124,7 +14116,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
-- Crawled version: 03 November 2023
+- Crawled version: 08 November 2023
 - Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
 - Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Shortname: html-aria
