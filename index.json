@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-09T12:39:07.495Z",
+  "date": "2023-11-09T18:34:34.025Z",
   "stats": {
     "crawled": 583,
     "errors": 0,
@@ -822,7 +822,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "7 November 2023",
+      "date": "9 November 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -853,15 +853,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/pub-manifest/",
-            "ref": {
-              "name": "PUB-MANIFEST",
-              "url": "https://w3c.github.io/pub-manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -877,7 +869,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -4139,7 +4131,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "28 September 2023",
+      "date": "9 November 2023",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -4174,7 +4166,15 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "<anchor()>"
+                ]
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [
@@ -4186,6 +4186,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://drafts.csswg.org/css-backgrounds-4/",
               "title": "CSS Backgrounds Module Level 4",
@@ -20311,7 +20316,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "8 November 2023",
+      "date": "9 November 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -23156,6 +23161,11 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -23496,11 +23506,6 @@
               "url": "https://www.w3.org/TR/selectors-3/",
               "title": "Selectors Level 3",
               "crawled": "https://drafts.csswg.org/selectors-3/"
-            },
-            {
-              "url": "https://wicg.github.io/soft-navigations/",
-              "title": "Soft Navigations",
-              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
@@ -24026,6 +24031,11 @@
               "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
+            },
+            {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://storage.spec.whatwg.org/",
@@ -25599,6 +25609,11 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -25719,11 +25734,6 @@
               "url": "https://www.rfc-editor.org/rfc/rfc9163",
               "title": "RFC 9163: Expect-CT Extension for HTTP",
               "crawled": "https://www.rfc-editor.org/rfc/rfc9163"
-            },
-            {
-              "url": "https://wicg.github.io/soft-navigations/",
-              "title": "Soft Navigations",
-              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://streams.spec.whatwg.org/",
@@ -29158,6 +29168,11 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -29693,11 +29708,6 @@
               "url": "https://www.w3.org/TR/selectors-3/",
               "title": "Selectors Level 3",
               "crawled": "https://drafts.csswg.org/selectors-3/"
-            },
-            {
-              "url": "https://wicg.github.io/soft-navigations/",
-              "title": "Soft Navigations",
-              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://www.w3.org/TR/graphics-aria-1.0/",
@@ -31105,6 +31115,11 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -31435,11 +31450,6 @@
               "url": "https://www.w3.org/TR/mediaqueries-5/",
               "title": "Media Queries Level 5",
               "crawled": "https://drafts.csswg.org/mediaqueries-5/"
-            },
-            {
-              "url": "https://wicg.github.io/soft-navigations/",
-              "title": "Soft Navigations",
-              "crawled": "https://wicg.github.io/soft-navigations/"
             }
           ]
         },
@@ -38226,7 +38236,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "8 November 2023",
+      "date": "9 November 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -38374,11 +38384,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://wicg.github.io/attribution-reporting-api/",
-              "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/attribution-reporting-api/"
-            },
             {
               "url": "https://www.w3.org/TR/audiobooks/",
               "title": "Audiobooks",
@@ -40826,7 +40831,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "8 November 2023",
+      "date": "9 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42480,7 +42485,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "8 November 2023",
+      "date": "9 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -45625,7 +45630,7 @@
     {
       "title": "Soft Navigations",
       "shortname": "soft-navigations",
-      "date": "28 July 2023",
+      "date": "9 November 2023",
       "url": "https://wicg.github.io/soft-navigations/",
       "nightly": {
         "url": "https://wicg.github.io/soft-navigations/",
@@ -45644,7 +45649,7 @@
         }
       ],
       "report": {
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -45661,7 +45666,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
