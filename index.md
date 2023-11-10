@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 09, 2023
+% November 10, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -935,7 +935,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1027,7 +1027,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Shortname: rfc9112
 
@@ -1535,7 +1535,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -1660,7 +1660,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -9571,6 +9571,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
@@ -9715,7 +9716,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 7 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -9847,7 +9848,9 @@ Normative references to this spec from:
 
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 
 
 ### HTML Media Capture {data-spec=true data-missingDfns=true data-ok=true}
@@ -9914,7 +9917,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 
 No informative reference to this spec from other specs.
 
@@ -10056,7 +10061,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 8 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10087,7 +10092,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 8 November 2023
+- Crawled version: 9 November 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -19462,6 +19467,7 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
