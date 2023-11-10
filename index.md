@@ -781,7 +781,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -805,7 +805,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -960,7 +960,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Shortname: rfc9110
 
@@ -1054,7 +1054,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1600,7 +1600,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1633,7 +1633,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -2935,6 +2935,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
 
 Informative references to this spec from:
@@ -3118,7 +3119,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -9639,7 +9640,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
-- Crawled version: 08 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Latest published version: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Shortname: compute-pressure
@@ -9716,7 +9717,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -9801,6 +9802,7 @@ Informative references to this spec from:
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 
 
@@ -12485,7 +12487,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-results-csv-tsv/](https://www.w3.org/TR/sparql12-results-csv-tsv/)
 - Crawled URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Crawled version: 20 July 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-results-csv-tsv/](https://www.w3.org/TR/sparql12-results-csv-tsv/)
 - Shortname: sparql12-results-csv-tsv
@@ -13340,6 +13342,7 @@ Informative references to this spec from:
 - [Beacon](https://w3c.github.io/beacon/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
@@ -13522,6 +13525,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
 
 Informative references to this spec from:
@@ -13560,7 +13564,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/clear-site-data/](https://www.w3.org/TR/clear-site-data/)
 - Crawled URL: [https://w3c.github.io/webappsec-clear-site-data/](https://w3c.github.io/webappsec-clear-site-data/)
-- Crawled version: 14 July 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://w3c.github.io/webappsec-clear-site-data/](https://w3c.github.io/webappsec-clear-site-data/)
 - Latest published version: [https://www.w3.org/TR/clear-site-data/](https://www.w3.org/TR/clear-site-data/)
 - Shortname: clear-site-data
@@ -13973,21 +13977,20 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Secure Contexts {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Secure Contexts {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/secure-contexts/](https://www.w3.org/TR/secure-contexts/)
 - Crawled URL: [https://w3c.github.io/webappsec-secure-contexts/](https://w3c.github.io/webappsec-secure-contexts/)
-- Crawled version: 18 September 2021
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://w3c.github.io/webappsec-secure-contexts/](https://w3c.github.io/webappsec-secure-contexts/)
 - Latest published version: [https://www.w3.org/TR/secure-contexts/](https://www.w3.org/TR/secure-contexts/)
 - Shortname: secure-contexts
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/webappsec-mixed-content/`](https://w3c.github.io/webappsec-mixed-content/), related reference "MIX" uses URL [`https://www.w3.org/TR/mixed-content/`](https://www.w3.org/TR/mixed-content/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14353,6 +14356,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [DOM Standard](https://dom.spec.whatwg.org/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
 - [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
@@ -15652,7 +15656,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Crawled URL: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
-- Crawled version: 12 May 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
 - Latest published version: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Shortname: reporting-1
@@ -17011,7 +17015,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
 - Crawled URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
-- Crawled version: 9 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
 - Shortname: private-network-access
 
@@ -18289,7 +18293,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 8 November 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-1-fork-gc
 
@@ -18313,7 +18317,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 27 October 2023
+- Crawled version: 10 November 2023
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
@@ -20221,6 +20225,7 @@ Normative references to this spec from:
 - [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Selection API](https://w3c.github.io/selection-api/)
