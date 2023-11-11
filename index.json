@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-10T18:31:47.678Z",
+  "date": "2023-11-11T00:47:28.988Z",
   "stats": {
     "crawled": 583,
     "errors": 0,
@@ -827,7 +827,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "9 November 2023",
+      "date": "10 November 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -4188,7 +4188,15 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-anchor-position-1/",
+            "ref": {
+              "name": "CSS-ANCHOR-POSITION-1",
+              "url": "https://drafts.csswg.org/css-anchor-position-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -4617,7 +4625,7 @@
     {
       "title": "CSS Backgrounds Module Level 4",
       "shortname": "css-backgrounds-4",
-      "date": "28 August 2023",
+      "date": "10 November 2023",
       "url": "https://drafts.csswg.org/css-backgrounds-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-backgrounds-4/",
@@ -4650,7 +4658,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-backgrounds-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
@@ -5186,7 +5193,7 @@
     {
       "title": "CSS Box Model Module Level 3",
       "shortname": "css-box-3",
-      "date": "28 August 2023",
+      "date": "10 November 2023",
       "url": "https://www.w3.org/TR/css-box-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-3/",
@@ -5301,7 +5308,7 @@
     {
       "title": "CSS Box Model Module Level 4",
       "shortname": "css-box-4",
-      "date": "28 August 2023",
+      "date": "10 November 2023",
       "url": "https://www.w3.org/TR/css-box-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-4/",
@@ -5378,6 +5385,11 @@
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
               "title": "CSS Backgrounds and Borders Module Level 3",
               "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
@@ -16497,7 +16509,7 @@
     {
       "title": "CSS Shapes Module Level 1",
       "shortname": "css-shapes-1",
-      "date": "7 August 2023",
+      "date": "10 November 2023",
       "url": "https://www.w3.org/TR/css-shapes-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-shapes-1/",
@@ -16538,7 +16550,6 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/",
           "https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/",
-          "https://www.w3.org/TR/css-backgrounds-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css3-background/",
           "https://www.w3.org/TR/cssom/",
@@ -31569,7 +31580,7 @@
     {
       "title": "Input Events Level 2",
       "shortname": "input-events-2",
-      "date": "14 September 2023",
+      "date": "10 November 2023",
       "url": "https://www.w3.org/TR/input-events-2/",
       "release": {
         "url": "https://www.w3.org/TR/input-events-2/",
@@ -31604,7 +31615,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/edit-context/"
+        ],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/uievents/",
@@ -40600,7 +40613,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "10 November 2023",
+      "date": "11 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42461,7 +42474,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "10 November 2023",
+      "date": "11 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -42651,7 +42664,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "10 November 2023",
+      "date": "11 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -42864,7 +42877,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "10 November 2023",
+      "date": "11 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -56075,7 +56088,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "9 November 2023",
+      "date": "10 November 2023",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -56150,7 +56163,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "9 November 2023",
+      "date": "10 November 2023",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
