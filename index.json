@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-12T00:46:54.797Z",
+  "date": "2023-11-12T06:32:51.656Z",
   "stats": {
     "crawled": 583,
     "errors": 0,
@@ -5013,7 +5013,7 @@
     {
       "title": "CSS Borders and Box Decorations Module Level 4",
       "shortname": "css-borders-4",
-      "date": "31 August 2023",
+      "date": "12 November 2023",
       "url": "https://drafts.csswg.org/css-borders-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-borders-4/",
@@ -25105,7 +25105,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "7 November 2023",
+      "date": "12 November 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -40618,7 +40618,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "11 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41863,7 +41863,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "11 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",

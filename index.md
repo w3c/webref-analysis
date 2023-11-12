@@ -1447,7 +1447,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 11 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1660,7 +1660,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 11 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3750,7 +3750,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
 - Crawled URL: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
-- Crawled version: 31 August 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
 - Shortname: css-borders-4
 
@@ -16328,7 +16328,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 7 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
