@@ -1600,7 +1600,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 11 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -13286,7 +13286,9 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
 ## Service Workers Working Group {#group-service_workers_working_group}
@@ -13929,7 +13931,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/permissions-registry/](https://w3c.github.io/permissions-registry/)
 - Crawled URL: [https://w3c.github.io/permissions-registry/](https://w3c.github.io/permissions-registry/)
-- Crawled version: 09 December 2022
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://w3c.github.io/permissions-registry/](https://w3c.github.io/permissions-registry/)
 - Shortname: permissions-registry
 
