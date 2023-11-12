@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 11, 2023
+% November 12, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -636,7 +636,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 11 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -781,7 +781,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 10 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -805,7 +805,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 10 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -935,7 +935,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 11 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -3617,7 +3617,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
 - Crawled URL: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
-- Crawled version: 10 November 2023
+- Crawled version: 12 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-backgrounds-4/](https://drafts.csswg.org/css-backgrounds-4/)
 - Shortname: css-backgrounds-4
 
@@ -4233,6 +4233,7 @@ Normative references to this spec from:
 - [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Backgrounds Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
@@ -10323,7 +10324,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://immersive-web.github.io/real-world-geometry/webxrmeshing-1.html](https://immersive-web.github.io/real-world-geometry/webxrmeshing-1.html)
 - Crawled URL: [https://immersive-web.github.io/real-world-geometry/webxrmeshing-1.html](https://immersive-web.github.io/real-world-geometry/webxrmeshing-1.html)
-- Crawled version: 7 November 2023
+- Crawled version: 11 November 2023
 - Editor's Draft: [https://immersive-web.github.io/real-world-geometry/webxrmeshing-1.html](https://immersive-web.github.io/real-world-geometry/webxrmeshing-1.html)
 - Shortname: webxr-meshing
 
@@ -10344,7 +10345,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://immersive-web.github.io/real-world-geometry/plane-detection.html](https://immersive-web.github.io/real-world-geometry/plane-detection.html)
 - Crawled URL: [https://immersive-web.github.io/real-world-geometry/plane-detection.html](https://immersive-web.github.io/real-world-geometry/plane-detection.html)
-- Crawled version: 7 November 2023
+- Crawled version: 11 November 2023
 - Editor's Draft: [https://immersive-web.github.io/real-world-geometry/plane-detection.html](https://immersive-web.github.io/real-world-geometry/plane-detection.html)
 - Shortname: webxr-plane-detection
 

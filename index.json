@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-11T18:31:35.771Z",
+  "date": "2023-11-12T00:46:54.797Z",
   "stats": {
     "crawled": 583,
     "errors": 0,
@@ -3137,7 +3137,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "10 November 2023",
+      "date": "12 November 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4625,7 +4625,7 @@
     {
       "title": "CSS Backgrounds Module Level 4",
       "shortname": "css-backgrounds-4",
-      "date": "10 November 2023",
+      "date": "12 November 2023",
       "url": "https://drafts.csswg.org/css-backgrounds-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-backgrounds-4/",
@@ -6611,6 +6611,11 @@
               "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
@@ -21742,7 +21747,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "10 November 2023",
+      "date": "12 November 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -42030,7 +42035,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "11 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -42474,7 +42479,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "11 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -57609,7 +57614,7 @@
     {
       "title": "WebXR Meshing API Level 1",
       "shortname": "webxr-meshing",
-      "date": "7 November 2023",
+      "date": "11 November 2023",
       "url": "https://immersive-web.github.io/real-world-geometry/webxrmeshing-1.html",
       "nightly": {
         "url": "https://immersive-web.github.io/real-world-geometry/webxrmeshing-1.html",
@@ -57651,7 +57656,7 @@
     {
       "title": "WebXR Plane Detection Module",
       "shortname": "webxr-plane-detection",
-      "date": "7 November 2023",
+      "date": "11 November 2023",
       "url": "https://immersive-web.github.io/real-world-geometry/plane-detection.html",
       "nightly": {
         "url": "https://immersive-web.github.io/real-world-geometry/plane-detection.html",
