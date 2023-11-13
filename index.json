@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-12T18:31:52.081Z",
+  "date": "2023-11-13T00:47:14.028Z",
   "stats": {
     "crawled": 583,
     "errors": 0,
@@ -4205,11 +4205,6 @@
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-backgrounds-4/",
-              "title": "CSS Backgrounds Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom-1/"
@@ -5061,6 +5056,11 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-backgrounds-4/",
+              "title": "CSS Backgrounds Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-3/",
@@ -15048,11 +15048,6 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-borders-4/",
-              "title": "CSS Borders and Box Decorations Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-align-3/",
@@ -40526,7 +40521,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41068,7 +41063,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41863,7 +41858,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42035,7 +42030,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -42479,7 +42474,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -42882,7 +42877,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
