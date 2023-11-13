@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-13T15:28:16.510Z",
+  "date": "2023-11-13T18:33:30.301Z",
   "stats": {
     "crawled": 584,
     "errors": 0,
@@ -7539,7 +7539,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "2 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -10459,7 +10459,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "7 November 2023",
+      "date": "8 November 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -21678,7 +21678,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "10 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -41151,7 +41151,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41946,7 +41946,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42875,7 +42875,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
