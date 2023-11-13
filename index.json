@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-13T12:39:37.358Z",
+  "date": "2023-11-13T15:28:16.510Z",
   "stats": {
-    "crawled": 583,
+    "crawled": 584,
     "errors": 0,
-    "studied": 583
+    "studied": 584
   },
   "results": [
     {
@@ -2921,6 +2921,11 @@
               "url": "https://wicg.github.io/document-policy/",
               "title": "Document Policy",
               "crawled": "https://wicg.github.io/document-policy/"
+            },
+            {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
             },
             {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -22962,6 +22967,11 @@
               "crawled": "https://wicg.github.io/netinfo/"
             },
             {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
+            },
+            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -25508,6 +25518,11 @@
               "url": "https://www.w3.org/TR/network-error-logging/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
+            },
+            {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -28925,6 +28940,11 @@
               "crawled": "https://wicg.github.io/netinfo/"
             },
             {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
+            },
+            {
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
@@ -30950,6 +30970,11 @@
               "url": "https://privacycg.github.io/nav-tracking-mitigations/",
               "title": "Navigational-Tracking Mitigations",
               "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
+            },
+            {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -35760,6 +35785,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
+            },
+            {
               "url": "https://www.w3.org/TR/reporting-1/",
               "title": "Reporting API",
               "crawled": "https://w3c.github.io/reporting/"
@@ -35818,6 +35848,54 @@
           "informative": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "Network Reporting API",
+      "shortname": "network-reporting",
+      "date": "10 November 2023",
+      "url": "https://w3c.github.io/reporting/network-reporting.html",
+      "nightly": {
+        "url": "https://w3c.github.io/reporting/network-reporting.html",
+        "status": "Editor's Draft",
+        "sourcePath": "network-reporting.bs",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/reporting",
+        "filename": "network-reporting.html"
+      },
+      "crawled": "https://w3c.github.io/reporting/network-reporting.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Performance Working Group",
+          "url": "https://www.w3.org/groups/wg/webperf/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/network-error-logging/",
+              "title": "Network Error Logging",
+              "crawled": "https://w3c.github.io/network-error-logging/"
+            }
+          ],
+          "informative": []
+        },
+        "ok": true
       }
     },
     {
@@ -40115,6 +40193,11 @@
               "crawled": "https://w3c.github.io/network-error-logging/"
             },
             {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
+            },
+            {
               "url": "https://www.w3.org/TR/permissions-policy-1/",
               "title": "Permissions Policy",
               "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
@@ -40521,7 +40604,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "13 November 2023",
+      "date": "10 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -40613,7 +40696,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40876,7 +40959,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41029,6 +41112,11 @@
               "crawled": "https://w3c.github.io/network-error-logging/"
             },
             {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
+            },
+            {
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
@@ -41063,7 +41151,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41818,7 +41906,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41858,7 +41946,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42030,7 +42118,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -42474,7 +42562,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "13 November 2023",
+      "date": "10 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -42530,7 +42618,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "10 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -42664,7 +42752,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -42787,7 +42875,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -44675,6 +44763,11 @@
               "url": "https://www.w3.org/TR/network-error-logging/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
+            },
+            {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -49479,6 +49572,11 @@
               "url": "https://www.w3.org/TR/network-error-logging/",
               "title": "Network Error Logging",
               "crawled": "https://w3c.github.io/network-error-logging/"
+            },
+            {
+              "url": "https://w3c.github.io/reporting/network-reporting.html",
+              "title": "Network Reporting API",
+              "crawled": "https://w3c.github.io/reporting/network-reporting.html"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
