@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-13T06:32:55.747Z",
+  "date": "2023-11-13T12:39:37.358Z",
   "stats": {
     "crawled": 583,
     "errors": 0,
@@ -33317,7 +33317,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "06 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -40983,7 +40983,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42664,7 +42664,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -47571,7 +47571,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "18 October 2023",
+      "date": "13 November 2023",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -53346,7 +53346,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1-fork-gc",
-      "date": "11 November 2023",
+      "date": "13 November 2023",
       "url": "https://webassembly.github.io/gc/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/gc/core/bikeshed/",
@@ -56488,7 +56488,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "06 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
