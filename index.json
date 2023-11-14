@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-14T00:47:07.146Z",
+  "date": "2023-11-14T06:34:43.926Z",
   "stats": {
     "crawled": 584,
     "errors": 0,
@@ -27973,7 +27973,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "6 November 2023",
+      "date": "14 November 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34414,7 +34414,7 @@
     {
       "title": "Media Source Extensions™",
       "shortname": "media-source-2",
-      "date": "02 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.w3.org/TR/media-source-2/",
       "release": {
         "url": "https://www.w3.org/TR/media-source-2/",
@@ -35901,7 +35901,7 @@
     {
       "title": "No-Vary-Search",
       "shortname": "no-vary-search",
-      "date": "8 November 2023",
+      "date": "13 November 2023",
       "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -35932,20 +35932,12 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/pub-manifest/",
-            "ref": {
-              "name": "PUB-MANIFEST",
-              "url": "https://w3c.github.io/pub-manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -37967,7 +37959,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "8 November 2023",
+      "date": "13 November 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -38009,7 +38001,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "8 November 2023",
+      "date": "13 November 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -38040,15 +38032,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/pub-manifest/",
-            "ref": {
-              "name": "PUB-MANIFEST",
-              "url": "https://w3c.github.io/pub-manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -38065,7 +38049,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -38523,16 +38507,6 @@
               "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
             },
             {
-              "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
-              "title": "No-Vary-Search",
-              "crawled": "https://wicg.github.io/nav-speculation/no-vary-search.html"
-            },
-            {
-              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-              "title": "Prerendering Revamped",
-              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
-            },
-            {
               "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
@@ -38541,11 +38515,6 @@
               "url": "https://wicg.github.io/shared-storage/",
               "title": "Shared Storage API",
               "crawled": "https://wicg.github.io/shared-storage/"
-            },
-            {
-              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
-              "title": "Speculation Rules",
-              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             }
           ],
           "informative": []
@@ -40959,7 +40928,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "13 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42752,7 +42721,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -47461,7 +47430,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "8 November 2023",
+      "date": "13 November 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -47494,15 +47463,7 @@
         "missingLinkRef": [
           "https://urlpattern.spec.whatwg.org/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/pub-manifest/",
-            "ref": {
-              "name": "PUB-MANIFEST",
-              "url": "https://w3c.github.io/pub-manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -49883,7 +49844,7 @@
     {
       "title": "User Agent Interaction with Related Website Sets",
       "shortname": "first-party-sets",
-      "date": "14 September 2023",
+      "date": "14 November 2023",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
