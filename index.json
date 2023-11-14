@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-13T18:33:30.301Z",
+  "date": "2023-11-14T00:47:07.146Z",
   "stats": {
     "crawled": 584,
     "errors": 0,
@@ -8745,7 +8745,7 @@
     {
       "title": "CSS Counter Styles Level 3",
       "shortname": "css-counter-styles-3",
-      "date": "2 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.w3.org/TR/css-counter-styles-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -18031,7 +18031,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "30 October 2023",
+      "date": "13 November 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -20222,7 +20222,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "3 November 2023",
+      "date": "13 November 2023",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -40604,7 +40604,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "10 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -40696,7 +40696,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "12 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40959,7 +40959,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "12 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41906,7 +41906,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "12 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41946,7 +41946,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "13 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42118,7 +42118,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "12 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -42562,7 +42562,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "10 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -51076,6 +51076,11 @@
               "crawled": "https://w3c.github.io/manifest-app-info/"
             },
             {
+              "url": "https://wicg.github.io/webusb/",
+              "title": "WebUSB API",
+              "crawled": "https://wicg.github.io/webusb/"
+            },
+            {
               "url": "https://wicg.github.io/window-controls-overlay/",
               "title": "Window Controls Overlay",
               "crawled": "https://wicg.github.io/window-controls-overlay/"
@@ -56882,7 +56887,7 @@
     {
       "title": "WebUSB API",
       "shortname": "webusb",
-      "date": "12 October 2023",
+      "date": "13 November 2023",
       "url": "https://wicg.github.io/webusb/",
       "nightly": {
         "url": "https://wicg.github.io/webusb/",
