@@ -2,7 +2,7 @@
 % Strudy
 % November 15, 2023
 
-584 specifications were crawled in this report.
+586 specifications were crawled in this report.
 
 
 ## Specifications without normative dependencies
@@ -32,6 +32,7 @@
 - [Regular Expression Pattern Modifiers for ECMAScript](https://tc39.es/proposal-regexp-modifiers/)
 - [RFC 2397: The "data" URL scheme](https://www.rfc-editor.org/rfc/rfc2397)
 - [RFC 4120: The Kerberos Network Authentication Service (V5)](https://www.rfc-editor.org/rfc/rfc4120)
+- [RFC 6386: VP8 Data Format and Decoding Guide](https://www.rfc-editor.org/rfc/rfc6386)
 - [RFC 6454: The Web Origin Concept](https://www.rfc-editor.org/rfc/rfc6454)
 - [RFC 6797: HTTP Strict Transport Security (HSTS)](https://www.rfc-editor.org/rfc/rfc6797)
 - [RFC 7034: HTTP Header Field X-Frame-Options](https://www.rfc-editor.org/rfc/rfc7034)
@@ -91,7 +92,7 @@
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 
-=> 83 specifications found
+=> 84 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 

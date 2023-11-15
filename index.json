@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-15T06:33:30.677Z",
+  "date": "2023-11-15T12:47:17.410Z",
   "stats": {
-    "crawled": 584,
+    "crawled": 586,
     "errors": 0,
-    "studied": 584
+    "studied": 586
   },
   "results": [
     {
@@ -40574,7 +40574,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "15 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -40666,7 +40666,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "14 November 2023",
+      "date": "15 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40927,9 +40927,71 @@
       }
     },
     {
+      "title": "RFC 6386: VP8 Data Format and Decoding Guide",
+      "shortname": "rfc6386",
+      "date": "15 November 2023",
+      "url": "https://www.rfc-editor.org/rfc/rfc6386",
+      "nightly": {
+        "url": "https://www.rfc-editor.org/rfc/rfc6386",
+        "status": "Informational",
+        "alternateUrls": [],
+        "filename": "rfc6386.html"
+      },
+      "crawled": "https://www.rfc-editor.org/rfc/rfc6386",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "Independent Submission",
+          "url": "https://datatracker.ietf.org/stream/ise/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webrtc-stats/",
+              "title": "Identifiers for WebRTC's Statistics API",
+              "crawled": "https://w3c.github.io/webrtc-stats/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-svc/",
+              "title": "Scalable Video Coding (SVC) Extension for WebRTC",
+              "crawled": "https://w3c.github.io/webrtc-svc/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "14 November 2023",
+      "date": "13 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41036,7 +41098,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "13 November 2023",
+      "date": "9 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41876,7 +41938,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "15 November 2023",
+      "date": "14 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -42088,7 +42150,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "14 November 2023",
+      "date": "15 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -42588,7 +42650,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "13 November 2023",
+      "date": "12 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -44149,7 +44211,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "02 November 2023",
+      "date": "15 November 2023",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -56453,6 +56515,46 @@
           "informative": []
         },
         "ok": false
+      }
+    },
+    {
+      "title": "WebP Image Format",
+      "shortname": "webp",
+      "date": "26 October 2023",
+      "url": "https://datatracker.ietf.org/doc/html/draft-zern-webp/",
+      "nightly": {
+        "url": "https://www.ietf.org/archive/id/draft-zern-webp-13.html",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "filename": "draft-zern-webp-13.html"
+      },
+      "crawled": "https://www.ietf.org/archive/id/draft-zern-webp-13.html",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "Network Working Group",
+          "url": "https://datatracker.ietf.org/group/app/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
       }
     },
     {
