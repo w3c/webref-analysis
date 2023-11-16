@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-16T06:33:00.529Z",
+  "date": "2023-11-16T12:42:01.125Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -24059,11 +24059,6 @@
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
-              "url": "https://wicg.github.io/soft-navigations/",
-              "title": "Soft Navigations",
-              "crawled": "https://wicg.github.io/soft-navigations/"
-            },
-            {
               "url": "https://storage.spec.whatwg.org/",
               "title": "Storage Standard",
               "crawled": "https://storage.spec.whatwg.org/"
@@ -24575,6 +24570,11 @@
               "url": "https://wicg.github.io/shared-storage/",
               "title": "Shared Storage API",
               "crawled": "https://wicg.github.io/shared-storage/"
+            },
+            {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -27974,7 +27974,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 November 2023",
+      "date": "16 November 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -41183,7 +41183,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "15 November 2023",
+      "date": "16 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -45797,7 +45797,7 @@
     {
       "title": "Soft Navigations",
       "shortname": "soft-navigations",
-      "date": "9 November 2023",
+      "date": "16 November 2023",
       "url": "https://wicg.github.io/soft-navigations/",
       "nightly": {
         "url": "https://wicg.github.io/soft-navigations/",
@@ -45827,13 +45827,15 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-view-transitions-1/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -49345,7 +49347,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://w3c.github.io/webdriver-bidi/",
+              "title": "WebDriver BiDi",
+              "crawled": "https://w3c.github.io/webdriver-bidi/"
+            }
+          ]
         },
         "ok": true
       }
@@ -54274,7 +54282,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "10 November 2023",
+      "date": "16 November 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",

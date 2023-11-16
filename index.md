@@ -233,7 +233,6 @@ Normative references to this spec from:
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
-- [Soft Navigations](https://wicg.github.io/soft-navigations/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -1684,7 +1683,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 15 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -3167,7 +3166,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 10 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -17327,19 +17326,20 @@ Informative references to this spec from:
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
 
 
-### Soft Navigations {data-spec=true data-missingDfns=true data-ok=true}
+### Soft Navigations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
 - Crawled URL: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
-- Crawled version: 9 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
 - Shortname: soft-navigations
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18888,6 +18888,7 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
+- [Soft Navigations](https://wicg.github.io/soft-navigations/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
@@ -19086,7 +19087,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 15 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -19989,7 +19990,9 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
 ### URL Standard {data-spec=true data-missingDfns=true data-ok=true}
