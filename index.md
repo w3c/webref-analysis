@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 15, 2023
+% November 16, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -241,7 +241,7 @@ Normative references to this spec from:
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
@@ -475,7 +475,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-regexp-modifiers/](https://tc39.es/proposal-regexp-modifiers/)
 - Crawled URL: [https://tc39.es/proposal-regexp-modifiers/](https://tc39.es/proposal-regexp-modifiers/)
-- Crawled version: 18 October 2022
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://tc39.es/proposal-regexp-modifiers/](https://tc39.es/proposal-regexp-modifiers/)
 - Shortname: tc39-regexp-modifiers
 
@@ -725,7 +725,7 @@ Informative references to this spec from:
 - [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
 - [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
@@ -781,7 +781,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 12 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -805,7 +805,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 12 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -935,7 +935,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 15 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1476,7 +1476,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 15 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1585,7 +1585,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 15 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
@@ -1610,7 +1610,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 14 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1632,7 +1632,7 @@ Normative references to this spec from:
 - [RFC 7616 - HTTP Digest Access Authentication](https://httpwg.org/specs/rfc7616.html)
 - [RFC 7838 - HTTP Alternative Services](https://httpwg.org/specs/rfc7838.html)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 
 Informative references to this spec from:
 
@@ -1762,7 +1762,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - Shortname: ANGLE_instanced_arrays
 
@@ -1783,7 +1783,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - Shortname: EXT_blend_minmax
 
@@ -1804,7 +1804,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - Shortname: EXT_color_buffer_float
 
@@ -1825,7 +1825,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - Shortname: EXT_color_buffer_half_float
 
@@ -1846,7 +1846,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
 - Shortname: EXT_disjoint_timer_query
 
@@ -1867,7 +1867,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Shortname: EXT_disjoint_timer_query_webgl2
 
@@ -1888,7 +1888,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
 - Shortname: EXT_float_blend
 
@@ -1909,7 +1909,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
 - Shortname: EXT_frag_depth
 
@@ -1930,7 +1930,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
 - Shortname: EXT_shader_texture_lod
 
@@ -1951,7 +1951,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
 - Shortname: EXT_sRGB
 
@@ -1972,7 +1972,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
 - Shortname: EXT_texture_compression_bptc
 
@@ -1993,7 +1993,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
 - Shortname: EXT_texture_compression_rgtc
 
@@ -2014,7 +2014,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Shortname: EXT_texture_filter_anisotropic
 
@@ -2035,7 +2035,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
 - Shortname: EXT_texture_norm16
 
@@ -2056,7 +2056,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
 - Shortname: KHR_parallel_shader_compile
 
@@ -2077,7 +2077,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
 - Shortname: OES_draw_buffers_indexed
 
@@ -2098,7 +2098,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
 - Shortname: OES_element_index_uint
 
@@ -2119,7 +2119,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
 - Shortname: OES_fbo_render_mipmap
 
@@ -2140,7 +2140,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
 - Shortname: OES_standard_derivatives
 
@@ -2161,7 +2161,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
 - Shortname: OES_texture_float
 
@@ -2182,7 +2182,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
 - Shortname: OES_texture_float_linear
 
@@ -2203,7 +2203,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
 - Shortname: OES_texture_half_float
 
@@ -2224,7 +2224,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
 - Shortname: OES_texture_half_float_linear
 
@@ -2245,7 +2245,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - Shortname: OES_vertex_array_object
 
@@ -2266,7 +2266,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - Shortname: OVR_multiview2
 
@@ -2307,7 +2307,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Shortname: WEBGL_blend_equation_advanced_coherent
 
@@ -2328,7 +2328,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - Shortname: WEBGL_clip_cull_distance
 
@@ -2349,7 +2349,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - Shortname: WEBGL_color_buffer_float
 
@@ -2370,7 +2370,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Shortname: WEBGL_compressed_texture_astc
 
@@ -2391,7 +2391,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Shortname: WEBGL_compressed_texture_etc
 
@@ -2412,7 +2412,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Shortname: WEBGL_compressed_texture_etc1
 
@@ -2433,7 +2433,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Shortname: WEBGL_compressed_texture_pvrtc
 
@@ -2454,7 +2454,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Shortname: WEBGL_compressed_texture_s3tc
 
@@ -2475,7 +2475,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Shortname: WEBGL_compressed_texture_s3tc_srgb
 
@@ -2496,7 +2496,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
 - Shortname: WEBGL_debug_renderer_info
 
@@ -2517,7 +2517,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
 - Shortname: WEBGL_debug_shaders
 
@@ -2538,7 +2538,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
 - Shortname: WEBGL_depth_texture
 
@@ -2559,7 +2559,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
 - Shortname: WEBGL_draw_buffers
 
@@ -2580,7 +2580,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_draw_instanced_base_vertex_base_instance
 
@@ -2601,7 +2601,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - Shortname: WEBGL_lose_context
 
@@ -2622,7 +2622,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - Shortname: WEBGL_multi_draw
 
@@ -2643,7 +2643,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_multi_draw_instanced_base_vertex_base_instance
 
@@ -2664,7 +2664,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
-- Crawled version: 14 November 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - Shortname: WEBGL_provoking_vertex
 
@@ -3155,7 +3155,7 @@ Normative references to this spec from:
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Test Utils Standard](https://testutils.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 No informative reference to this spec from other specs.
@@ -6728,7 +6728,7 @@ Informative references to this spec from:
 - [CSS Positioned Layout Module Level 4](https://drafts.csswg.org/css-position-4/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 
 
 ### CSS Overflow Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -10730,7 +10730,7 @@ Normative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 
 Informative references to this spec from:
 
@@ -13679,7 +13679,7 @@ Normative references to this spec from:
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 - [WebTransport](https://w3c.github.io/webtransport/)
 - [WebXR DOM Overlays Module](https://immersive-web.github.io/dom-overlays/)
@@ -13745,7 +13745,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [WebOTP API](https://wicg.github.io/web-otp/)
 
 Informative references to this spec from:
@@ -13950,7 +13950,7 @@ Normative references to this spec from:
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
@@ -14287,7 +14287,7 @@ Normative references to this spec from:
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [URL Standard](https://url.spec.whatwg.org/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -14773,13 +14773,13 @@ Informative references to this spec from:
 
 ## Web Authentication Working Group {#group-web_authentication_working_group}
 
-### Web Authentication: An API for accessing Public Key Credentials - Level {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Web Authentication: An API for accessing Public Key Credentials - Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 11 October 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
@@ -14802,7 +14802,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 
 
 ## Web Bluetooth Community Group {#group-web_bluetooth_community_group}
@@ -16383,7 +16383,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 24 October 2023
+- Crawled version: 15 November 2023
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -18787,7 +18787,7 @@ Normative references to this spec from:
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
@@ -18891,7 +18891,7 @@ Normative references to this spec from:
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
@@ -19359,7 +19359,7 @@ Normative references to this spec from:
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
@@ -19680,7 +19680,7 @@ Normative references to this spec from:
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
@@ -20092,7 +20092,7 @@ Normative references to this spec from:
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
@@ -20342,7 +20342,7 @@ Normative references to this spec from:
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [Web Authentication: An API for accessing Public Key Credentials - Level](https://w3c.github.io/webauthn/)
+- [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [Web Background Synchronization](https://wicg.github.io/background-sync/spec/)
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
