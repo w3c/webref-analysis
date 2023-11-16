@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-16T12:42:01.125Z",
+  "date": "2023-11-16T18:34:55.107Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -7539,7 +7539,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "13 November 2023",
+      "date": "16 November 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -27671,6 +27671,11 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
+            },
+            {
               "url": "https://wicg.github.io/storage-buckets/",
               "title": "Storage Buckets API",
               "crawled": "https://wicg.github.io/storage-buckets/"
@@ -32573,6 +32578,11 @@
               "crawled": "https://wicg.github.io/element-timing/"
             },
             {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
+            },
+            {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
               "title": "Timing Entry Names Registry",
               "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
@@ -36824,6 +36834,11 @@
               "url": "https://www.w3.org/TR/resource-timing/",
               "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
@@ -41978,7 +41993,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "15 November 2023",
+      "date": "16 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42650,7 +42665,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "12 November 2023",
+      "date": "15 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -42907,7 +42922,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "15 November 2023",
+      "date": "16 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -45828,7 +45843,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/css-view-transitions-1/"
+          "https://www.w3.org/TR/css-view-transitions-1/",
+          "https://www.w3.org/TR/paint-timing/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -52501,6 +52517,11 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
+              "url": "https://wicg.github.io/soft-navigations/",
+              "title": "Soft Navigations",
+              "crawled": "https://wicg.github.io/soft-navigations/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -56668,7 +56689,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "13 November 2023",
+      "date": "16 November 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
