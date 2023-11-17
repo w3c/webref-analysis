@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 16, 2023
+% November 17, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -142,7 +142,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 14 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -474,7 +474,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-regexp-modifiers/](https://tc39.es/proposal-regexp-modifiers/)
 - Crawled URL: [https://tc39.es/proposal-regexp-modifiers/](https://tc39.es/proposal-regexp-modifiers/)
-- Crawled version: 15 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://tc39.es/proposal-regexp-modifiers/](https://tc39.es/proposal-regexp-modifiers/)
 - Shortname: tc39-regexp-modifiers
 
@@ -579,7 +579,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 14 November 2023
+- Crawled version: 16 November 2023
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -1584,7 +1584,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
-- Crawled version: 16 November 2023
+- Crawled version: 17 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Shortname: rfc9114
 
