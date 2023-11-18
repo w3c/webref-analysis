@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-17T18:34:04.009Z",
+  "date": "2023-11-18T00:47:28.985Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -22189,7 +22189,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "25 October 2023",
+      "date": "17 November 2023",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -23672,7 +23672,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "16 November 2023",
+      "date": "17 November 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -40939,7 +40939,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "17 November 2023",
+      "date": "18 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -41948,7 +41948,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "16 November 2023",
+      "date": "18 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -41988,7 +41988,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "17 November 2023",
+      "date": "18 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42660,7 +42660,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "16 November 2023",
+      "date": "17 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
