@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 19, 2023
+% November 20, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -1609,7 +1609,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 19 November 2023
+- Crawled version: 20 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1683,7 +1683,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 19 November 2023
+- Crawled version: 20 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1710,7 +1710,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 19 November 2023
+- Crawled version: 20 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2990,6 +2990,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
@@ -9627,6 +9628,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
@@ -13335,6 +13337,7 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
+- [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
@@ -13581,6 +13584,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
@@ -13822,7 +13826,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 13 June 2023
+- Crawled version: 19 November 2023
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
@@ -13884,6 +13888,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
 
@@ -14767,6 +14772,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 
@@ -16772,6 +16778,7 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
+- [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
 

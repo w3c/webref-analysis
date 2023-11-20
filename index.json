@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-19T18:32:00.932Z",
+  "date": "2023-11-20T00:45:57.941Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -391,6 +391,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
             {
               "url": "https://w3c.github.io/permissions-registry/",
               "title": "Permissions Registry",
@@ -32798,6 +32803,11 @@
           "normative": [],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
               "url": "https://w3c.github.io/permissions-registry/",
               "title": "Permissions Registry",
               "crawled": "https://w3c.github.io/permissions-registry/"
@@ -36870,7 +36880,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "13 June 2023",
+      "date": "19 November 2023",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -37141,6 +37151,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
             {
               "url": "https://w3c.github.io/permissions-registry/",
               "title": "Permissions Registry",
@@ -41001,7 +41016,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "19 November 2023",
+      "date": "20 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41193,7 +41208,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "19 November 2023",
+      "date": "20 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41988,7 +42003,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "19 November 2023",
+      "date": "20 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -50548,6 +50563,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
               "url": "https://w3c.github.io/permissions-registry/",
               "title": "Permissions Registry",
               "crawled": "https://w3c.github.io/permissions-registry/"
@@ -53345,6 +53365,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
             {
               "url": "https://w3c.github.io/permissions-registry/",
               "title": "Permissions Registry",
@@ -58031,6 +58056,11 @@
         "referencedBy": {
           "normative": [],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
             {
               "url": "https://w3c.github.io/permissions-registry/",
               "title": "Permissions Registry",
