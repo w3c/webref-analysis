@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-21T12:42:36.701Z",
+  "date": "2023-11-21T18:33:28.464Z",
   "stats": {
     "crawled": 586,
     "errors": 2,
@@ -42927,7 +42927,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "20 November 2023",
+      "date": "21 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -56939,7 +56939,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "24 October 2023",
+      "date": "21 November 2023",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
