@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-21T06:35:35.005Z",
+  "date": "2023-11-21T12:42:36.701Z",
   "stats": {
     "crawled": 586,
-    "errors": 0,
+    "errors": 2,
     "studied": 586
   },
   "results": [
@@ -18877,6 +18877,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 9)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18894,7 +18895,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -20320,7 +20321,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "17 November 2023",
+      "date": "21 November 2023",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -26468,6 +26469,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 10)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26485,7 +26487,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -42802,7 +42804,7 @@
     {
       "title": "RFC 9111: HTTP Caching",
       "shortname": "rfc9111",
-      "date": "20 November 2023",
+      "date": "21 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9111",
@@ -53566,7 +53568,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "7 November 2023",
+      "date": "21 November 2023",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -53617,7 +53619,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "7 November 2023",
+      "date": "21 November 2023",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -53736,7 +53738,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "7 November 2023",
+      "date": "21 November 2023",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",

@@ -1000,7 +1000,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
-- Crawled version: 20 November 2023
+- Crawled version: 21 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Shortname: rfc9111
 
@@ -8221,7 +8221,7 @@ Informative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 
 
-### CSS Typed OM Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Typed OM Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8233,7 +8233,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 9)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8583,7 +8591,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 17 November 2023
+- Crawled version: 21 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -8982,7 +8990,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Font Metrics API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Font Metrics API Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8994,7 +9002,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 10)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18428,7 +18444,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 7 November 2023
+- Crawled version: 21 November 2023
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -18453,7 +18469,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 7 November 2023
+- Crawled version: 21 November 2023
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -18484,7 +18500,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 7 November 2023
+- Crawled version: 21 November 2023
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
