@@ -3167,7 +3167,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 17 November 2023
+- Crawled version: 22 November 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -17653,7 +17653,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/web-smart-card/](https://wicg.github.io/web-smart-card/)
 - Crawled URL: [https://wicg.github.io/web-smart-card/](https://wicg.github.io/web-smart-card/)
-- Crawled version: 06 October 2023
+- Crawled version: 22 November 2023
 - Editor's Draft: [https://wicg.github.io/web-smart-card/](https://wicg.github.io/web-smart-card/)
 - Shortname: web-smart-card
 
