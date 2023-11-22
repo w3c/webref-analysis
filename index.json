@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-22T12:39:56.632Z",
+  "date": "2023-11-22T18:32:26.057Z",
   "stats": {
     "crawled": 586,
     "errors": 2,
@@ -832,7 +832,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "15 November 2023",
+      "date": "22 November 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -15626,6 +15626,11 @@
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
+              "url": "https://www.w3.org/TR/mathml-core/",
+              "title": "MathML Core",
+              "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
               "url": "https://www.w3.org/TR/selectors-4/",
               "title": "Selectors Level 4",
               "crawled": "https://drafts.csswg.org/selectors-4/"
@@ -26731,7 +26736,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "26 October 2023",
+      "date": "22 November 2023",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -33150,7 +33155,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "30 October 2023",
+      "date": "22 November 2023",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -36875,7 +36880,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "19 November 2023",
+      "date": "22 November 2023",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -37635,7 +37640,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "20 November 2023",
+      "date": "22 November 2023",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -42670,7 +42675,7 @@
     {
       "title": "RFC 9110: HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "21 November 2023",
+      "date": "22 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -45817,7 +45822,7 @@
     {
       "title": "Soft Navigations",
       "shortname": "soft-navigations",
-      "date": "17 November 2023",
+      "date": "22 November 2023",
       "url": "https://wicg.github.io/soft-navigations/",
       "nightly": {
         "url": "https://wicg.github.io/soft-navigations/",
@@ -49290,7 +49295,7 @@
     {
       "title": "URL Fragment Text Directives",
       "shortname": "scroll-to-text-fragment",
-      "date": "20 November 2023",
+      "date": "22 November 2023",
       "url": "https://wicg.github.io/scroll-to-text-fragment/",
       "nightly": {
         "url": "https://wicg.github.io/scroll-to-text-fragment/",
@@ -56704,7 +56709,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "20 November 2023",
+      "date": "22 November 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
