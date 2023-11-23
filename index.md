@@ -8224,7 +8224,7 @@ Informative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 
 
-### CSS Typed OM Level 2 {data-spec=true data-error=true}
+### CSS Typed OM Level 2 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -8236,15 +8236,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 9)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8595,7 +8587,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 21 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -8625,7 +8617,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 17 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -8995,7 +8987,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Font Metrics API Level 1 {data-spec=true data-error=true}
+### Font Metrics API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -9007,15 +8999,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 10)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9377,7 +9361,9 @@ Normative references to this spec from:
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
 ### Selectors Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -10129,7 +10115,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 20 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10160,7 +10146,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 20 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -11884,7 +11870,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 16 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
