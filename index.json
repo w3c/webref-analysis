@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-24T12:39:27.661Z",
+  "date": "2023-11-24T14:38:31.786Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -1957,8 +1957,8 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "HTTP Working Group",
-          "url": "https://datatracker.ietf.org/wg/httpbis/"
+          "name": "Individual Submissions",
+          "url": "https://datatracker.ietf.org/wg/none/"
         }
       ],
       "report": {
@@ -3119,8 +3119,8 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "HTTP Working Group",
-          "url": "https://datatracker.ietf.org/wg/httpbis/"
+          "name": "Individual Submissions",
+          "url": "https://datatracker.ietf.org/wg/none/"
         }
       ],
       "report": {
@@ -3152,9 +3152,9 @@
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
         "status": "Editor's Draft",
+        "alternateUrls": [],
         "repository": "https://github.com/httpwg/http-extensions",
         "sourcePath": "draft-ietf-httpbis-rfc6265bis.md",
-        "alternateUrls": [],
         "filename": "draft-ietf-httpbis-rfc6265bis.html"
       },
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21770,9 +21770,9 @@
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
         "status": "Editor's Draft",
+        "alternateUrls": [],
         "repository": "https://github.com/httpwg/http-extensions",
         "sourcePath": "draft-ietf-httpbis-digest-headers.md",
-        "alternateUrls": [],
         "filename": "draft-ietf-httpbis-digest-headers.html"
       },
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -34954,8 +34954,8 @@
             },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
-              "title": "RFC 9110: HTTP Semantics",
-              "crawled": "https://www.rfc-editor.org/rfc/rfc9110"
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -40622,7 +40622,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "22 November 2023",
+      "date": "20 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -40634,8 +40634,8 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Network Working Group",
-          "url": "https://datatracker.ietf.org/group/app/"
+          "name": "Individual Submissions",
+          "url": "https://datatracker.ietf.org/wg/none/"
         }
       ],
       "report": {
@@ -40726,8 +40726,8 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Kerberos WG Working Group",
-          "url": "https://datatracker.ietf.org/wg/krb/"
+          "name": "Kerberos Working Group",
+          "url": "https://datatracker.ietf.org/wg/krb-wg/"
         }
       ],
       "report": {
@@ -40834,6 +40834,16 @@
               "crawled": "https://httpwg.org/specs/rfc7540.html"
             },
             {
+              "url": "https://www.rfc-editor.org/rfc/rfc9113",
+              "title": "RFC 9113 - HTTP/2",
+              "crawled": "https://httpwg.org/specs/rfc9113.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9114",
+              "title": "RFC 9114 - HTTP/3",
+              "crawled": "https://httpwg.org/specs/rfc9114.html"
+            },
+            {
               "url": "https://privacycg.github.io/storage-access/",
               "title": "The Storage Access API",
               "crawled": "https://privacycg.github.io/storage-access/"
@@ -40901,6 +40911,16 @@
               "crawled": "https://httpwg.org/specs/rfc8288.html"
             },
             {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9111",
+              "title": "RFC 9111 - HTTP Caching",
+              "crawled": "https://httpwg.org/specs/rfc9111.html"
+            },
+            {
               "url": "https://www.w3.org/TR/secure-contexts/",
               "title": "Secure Contexts",
               "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
@@ -40937,7 +40957,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -40989,8 +41009,8 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Independent Submission",
-          "url": "https://datatracker.ietf.org/stream/ise/"
+          "name": "General Area",
+          "url": "https://datatracker.ietf.org/wg/gen/"
         }
       ],
       "report": {
@@ -41134,6 +41154,11 @@
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
               "url": "https://url.spec.whatwg.org/",
               "title": "URL Standard",
               "crawled": "https://url.spec.whatwg.org/"
@@ -41146,7 +41171,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "23 November 2023",
+      "date": "19 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41231,7 +41256,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "24 November 2023",
+      "date": "23 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41299,7 +41324,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -41435,6 +41460,16 @@
               "url": "https://wicg.github.io/compression/",
               "title": "Compression Streams",
               "crawled": "https://wicg.github.io/compression/"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9112",
+              "title": "RFC 9112 - HTTP/1.1",
+              "crawled": "https://httpwg.org/specs/rfc9112.html"
             }
           ]
         },
@@ -41458,7 +41493,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -41609,6 +41644,11 @@
               "url": "https://www.rfc-editor.org/rfc/rfc7617",
               "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
               "crawled": "https://httpwg.org/specs/rfc7617.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
             }
           ]
         },
@@ -41632,7 +41672,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -41693,7 +41733,13 @@
               "crawled": "https://w3c.github.io/webdriver/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -41715,7 +41761,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -41761,7 +41807,13 @@
               "crawled": "https://httpwg.org/specs/rfc7540.html"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -41783,7 +41835,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -41896,6 +41948,16 @@
           ],
           "informative": [
             {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9111",
+              "title": "RFC 9111 - HTTP Caching",
+              "crawled": "https://httpwg.org/specs/rfc9111.html"
+            },
+            {
               "url": "https://www.w3.org/TR/upgrade-insecure-requests/",
               "title": "Upgrade Insecure Requests",
               "crawled": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
@@ -41922,7 +41984,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -41978,7 +42040,13 @@
               "crawled": "https://w3c.github.io/webdriver/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -41998,7 +42066,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Applications Area Working Group APP Working Group",
+          "name": "ART Area General Applications Working Group Working Group",
           "url": "https://datatracker.ietf.org/wg/appsawg/"
         }
       ],
@@ -42098,7 +42166,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -42126,7 +42194,13 @@
         ],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            }
+          ]
         },
         "ok": false
       }
@@ -42148,7 +42222,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Hypertext Transfer Protocol Bis APP Working Group",
+          "name": "HTTP Working Group",
           "url": "https://datatracker.ietf.org/wg/httpbis/"
         }
       ],
@@ -42186,6 +42260,16 @@
               "crawled": "https://httpwg.org/specs/rfc8470.html"
             },
             {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9113",
+              "title": "RFC 9113 - HTTP/2",
+              "crawled": "https://httpwg.org/specs/rfc9113.html"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -42198,7 +42282,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "23 November 2023",
+      "date": "22 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -42210,7 +42294,7 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "ART Area General Application Working Group Working Group",
+          "name": "ART Area General Applications Working Group Working Group",
           "url": "https://datatracker.ietf.org/wg/appsawg/"
         }
       ],
@@ -42243,7 +42327,13 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            }
+          ]
         },
         "ok": false
       }
@@ -42290,6 +42380,11 @@
               "url": "https://www.rfc-editor.org/rfc/rfc7617",
               "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
               "crawled": "https://httpwg.org/specs/rfc7617.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
             }
           ]
         },
@@ -42338,6 +42433,11 @@
               "url": "https://www.rfc-editor.org/rfc/rfc7616",
               "title": "RFC 7616 - HTTP Digest Access Authentication",
               "crawled": "https://httpwg.org/specs/rfc7616.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
             }
           ]
         },
@@ -42422,8 +42522,25 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
-          "informative": []
+          "normative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9114",
+              "title": "RFC 9114 - HTTP/3",
+              "crawled": "https://httpwg.org/specs/rfc9114.html"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9113",
+              "title": "RFC 9113 - HTTP/2",
+              "crawled": "https://httpwg.org/specs/rfc9113.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -42465,7 +42582,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -42487,8 +42610,8 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Mark Nottingham (individual in art area)",
-          "url": "https://datatracker.ietf.org/person/mnot@mnot.net"
+          "name": "Applications and Real-Time Area",
+          "url": "https://datatracker.ietf.org/wg/art/"
         }
       ],
       "report": {
@@ -42538,7 +42661,13 @@
               "crawled": "https://w3c.github.io/pub-manifest/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -42627,7 +42756,18 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9113",
+              "title": "RFC 9113 - HTTP/2",
+              "crawled": "https://httpwg.org/specs/rfc9113.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9114",
+              "title": "RFC 9114 - HTTP/3",
+              "crawled": "https://httpwg.org/specs/rfc9114.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://fetch.spec.whatwg.org/",
@@ -42642,7 +42782,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "24 November 2023",
+      "date": "20 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -42696,19 +42836,19 @@
       }
     },
     {
-      "title": "RFC 9110: HTTP Semantics",
+      "title": "RFC 9110 - HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "22 November 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
-        "url": "https://www.rfc-editor.org/rfc/rfc9110",
+        "url": "https://httpwg.org/specs/rfc9110.html",
         "status": "Internet Standard",
-        "repository": "https://github.com/httpwg/httpwg.github.io",
         "alternateUrls": [],
+        "repository": "https://github.com/httpwg/httpwg.github.io",
         "sourcePath": "specs/rfc9110.xml",
         "filename": "rfc9110.html"
       },
-      "crawled": "https://www.rfc-editor.org/rfc/rfc9110",
+      "crawled": "https://httpwg.org/specs/rfc9110.html",
       "organization": "IETF",
       "groups": [
         {
@@ -42788,6 +42928,26 @@
               "crawled": "https://w3c.github.io/reporting/"
             },
             {
+              "url": "https://www.rfc-editor.org/rfc/rfc9111",
+              "title": "RFC 9111 - HTTP Caching",
+              "crawled": "https://httpwg.org/specs/rfc9111.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9112",
+              "title": "RFC 9112 - HTTP/1.1",
+              "crawled": "https://httpwg.org/specs/rfc9112.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9113",
+              "title": "RFC 9113 - HTTP/2",
+              "crawled": "https://httpwg.org/specs/rfc9113.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9114",
+              "title": "RFC 9114 - HTTP/3",
+              "crawled": "https://httpwg.org/specs/rfc9114.html"
+            },
+            {
               "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
@@ -42796,6 +42956,11 @@
               "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
+            },
+            {
+              "url": "https://w3c.github.io/webdriver-bidi/",
+              "title": "WebDriver BiDi",
+              "crawled": "https://w3c.github.io/webdriver-bidi/"
             }
           ],
           "informative": [
@@ -42825,19 +42990,19 @@
       }
     },
     {
-      "title": "RFC 9111: HTTP Caching",
+      "title": "RFC 9111 - HTTP Caching",
       "shortname": "rfc9111",
-      "date": "23 November 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
-        "url": "https://www.rfc-editor.org/rfc/rfc9111",
+        "url": "https://httpwg.org/specs/rfc9111.html",
         "status": "Internet Standard",
-        "repository": "https://github.com/httpwg/httpwg.github.io",
         "alternateUrls": [],
+        "repository": "https://github.com/httpwg/httpwg.github.io",
         "sourcePath": "specs/rfc9111.xml",
         "filename": "rfc9111.html"
       },
-      "crawled": "https://www.rfc-editor.org/rfc/rfc9111",
+      "crawled": "https://httpwg.org/specs/rfc9111.html",
       "organization": "IETF",
       "groups": [
         {
@@ -42870,6 +43035,26 @@
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9112",
+              "title": "RFC 9112 - HTTP/1.1",
+              "crawled": "https://httpwg.org/specs/rfc9112.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9113",
+              "title": "RFC 9113 - HTTP/2",
+              "crawled": "https://httpwg.org/specs/rfc9113.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9114",
+              "title": "RFC 9114 - HTTP/3",
+              "crawled": "https://httpwg.org/specs/rfc9114.html"
             }
           ],
           "informative": [
@@ -42884,19 +43069,19 @@
       }
     },
     {
-      "title": "RFC 9112: HTTP/1.1",
+      "title": "RFC 9112 - HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "23 November 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
-        "url": "https://www.rfc-editor.org/rfc/rfc9112",
+        "url": "https://httpwg.org/specs/rfc9112.html",
         "status": "Internet Standard",
-        "repository": "https://github.com/httpwg/httpwg.github.io",
         "alternateUrls": [],
+        "repository": "https://github.com/httpwg/httpwg.github.io",
         "sourcePath": "specs/rfc9112.xml",
         "filename": "rfc9112.html"
       },
-      "crawled": "https://www.rfc-editor.org/rfc/rfc9112",
+      "crawled": "https://httpwg.org/specs/rfc9112.html",
       "organization": "IETF",
       "groups": [
         {
@@ -42936,6 +43121,31 @@
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
               "title": "Digest Fields",
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9111",
+              "title": "RFC 9111 - HTTP Caching",
+              "crawled": "https://httpwg.org/specs/rfc9111.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9113",
+              "title": "RFC 9113 - HTTP/2",
+              "crawled": "https://httpwg.org/specs/rfc9113.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9114",
+              "title": "RFC 9114 - HTTP/3",
+              "crawled": "https://httpwg.org/specs/rfc9114.html"
+            },
+            {
+              "url": "https://w3c.github.io/webdriver-bidi/",
+              "title": "WebDriver BiDi",
+              "crawled": "https://w3c.github.io/webdriver-bidi/"
             }
           ]
         },
@@ -42943,19 +43153,19 @@
       }
     },
     {
-      "title": "RFC 9113: HTTP/2",
+      "title": "RFC 9113 - HTTP/2",
       "shortname": "rfc9113",
-      "date": "24 November 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
-        "url": "https://www.rfc-editor.org/rfc/rfc9113",
+        "url": "https://httpwg.org/specs/rfc9113.html",
         "status": "Proposed Standard",
-        "repository": "https://github.com/httpwg/httpwg.github.io",
         "alternateUrls": [],
+        "repository": "https://github.com/httpwg/httpwg.github.io",
         "sourcePath": "specs/rfc9113.xml",
         "filename": "rfc9113.html"
       },
-      "crawled": "https://www.rfc-editor.org/rfc/rfc9113",
+      "crawled": "https://httpwg.org/specs/rfc9113.html",
       "organization": "IETF",
       "groups": [
         {
@@ -42979,25 +43189,36 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9114",
+              "title": "RFC 9114 - HTTP/3",
+              "crawled": "https://httpwg.org/specs/rfc9114.html"
+            }
+          ]
         },
         "ok": true
       }
     },
     {
-      "title": "RFC 9114: HTTP/3",
+      "title": "RFC 9114 - HTTP/3",
       "shortname": "rfc9114",
-      "date": "24 November 2023",
+      "date": "23 October 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
-        "url": "https://www.rfc-editor.org/rfc/rfc9114",
+        "url": "https://httpwg.org/specs/rfc9114.html",
         "status": "Proposed Standard",
-        "repository": "https://github.com/httpwg/httpwg.github.io",
         "alternateUrls": [],
+        "repository": "https://github.com/httpwg/httpwg.github.io",
         "sourcePath": "specs/rfc9114.xml",
         "filename": "rfc9114.html"
       },
-      "crawled": "https://www.rfc-editor.org/rfc/rfc9114",
+      "crawled": "https://httpwg.org/specs/rfc9114.html",
       "organization": "IETF",
       "groups": [
         {
@@ -43027,7 +43248,13 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9110",
+              "title": "RFC 9110 - HTTP Semantics",
+              "crawled": "https://httpwg.org/specs/rfc9110.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -43035,7 +43262,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "24 November 2023",
+      "date": "23 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -56604,8 +56831,8 @@
       "organization": "IETF",
       "groups": [
         {
-          "name": "Network Working Group",
-          "url": "https://datatracker.ietf.org/group/app/"
+          "name": "Applications and Real-Time Area",
+          "url": "https://datatracker.ietf.org/wg/art/"
         }
       ],
       "report": {
