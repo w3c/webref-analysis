@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-23T18:34:09.490Z",
+  "date": "2023-11-24T00:45:53.383Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -8584,6 +8584,11 @@
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
             }
           ],
           "informative": [
@@ -35935,7 +35940,7 @@
     {
       "title": "No-Vary-Search",
       "shortname": "no-vary-search",
-      "date": "13 November 2023",
+      "date": "23 November 2023",
       "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -38003,7 +38008,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "13 November 2023",
+      "date": "23 November 2023",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -38045,7 +38050,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "13 November 2023",
+      "date": "23 November 2023",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -40709,7 +40714,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "23 November 2023",
+      "date": "24 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -40972,7 +40977,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "22 November 2023",
+      "date": "24 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -41981,7 +41986,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "23 November 2023",
+      "date": "24 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -42021,7 +42026,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "23 November 2023",
+      "date": "24 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42791,11 +42796,6 @@
               "url": "https://www.w3.org/TR/sparql12-service-description/",
               "title": "SPARQL 1.2 Service Description",
               "crawled": "https://w3c.github.io/sparql-service-description/spec/"
-            },
-            {
-              "url": "https://w3c.github.io/webdriver-bidi/",
-              "title": "WebDriver BiDi",
-              "crawled": "https://w3c.github.io/webdriver-bidi/"
             }
           ],
           "informative": [
@@ -42936,11 +42936,6 @@
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
               "title": "Digest Fields",
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html"
-            },
-            {
-              "url": "https://w3c.github.io/webdriver-bidi/",
-              "title": "WebDriver BiDi",
-              "crawled": "https://w3c.github.io/webdriver-bidi/"
             }
           ]
         },
@@ -42950,7 +42945,7 @@
     {
       "title": "RFC 9113: HTTP/2",
       "shortname": "rfc9113",
-      "date": "23 November 2023",
+      "date": "24 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9113",
@@ -43040,7 +43035,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "23 November 2023",
+      "date": "24 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -47545,7 +47540,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "13 November 2023",
+      "date": "23 November 2023",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -47575,15 +47570,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://urlpattern.spec.whatwg.org/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -49396,7 +49389,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+              "title": "Speculation Rules",
+              "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://w3c.github.io/webdriver-bidi/",
@@ -54347,7 +54346,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "22 November 2023",
+      "date": "23 November 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",

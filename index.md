@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 23, 2023
+% November 24, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -663,7 +663,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 23 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -984,7 +984,6 @@ Normative references to this spec from:
 - [Reporting API](https://w3c.github.io/reporting/)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
-- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 Informative references to this spec from:
 
@@ -1044,7 +1043,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Digest Fields](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
 ### RFC 9113: HTTP/2 {data-spec=true data-missingDfns=true data-ok=true}
@@ -1053,7 +1051,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
-- Crawled version: 23 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Shortname: rfc9113
 
@@ -1074,7 +1072,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 23 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1446,7 +1444,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
-- Crawled version: 22 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Shortname: rfc6386
 
@@ -1475,7 +1473,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 23 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1710,7 +1708,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 23 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3167,7 +3165,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 22 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -4869,6 +4867,7 @@ Normative references to this spec from:
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 
 Informative references to this spec from:
 
@@ -16901,7 +16900,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
-- Crawled version: 13 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Shortname: no-vary-search
 
@@ -17039,7 +17038,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
-- Crawled version: 13 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Shortname: prefetch
 
@@ -17060,7 +17059,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Crawled version: 13 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Shortname: prerendering-revamped
 
@@ -17361,20 +17360,19 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Speculation Rules {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Speculation Rules {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled version: 13 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://urlpattern.spec.whatwg.org/`](https://urlpattern.spec.whatwg.org/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20002,7 +20000,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 
 Informative references to this spec from:
 
