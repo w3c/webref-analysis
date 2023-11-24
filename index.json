@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-24T14:38:31.786Z",
+  "date": "2023-11-24T18:31:52.161Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -27947,7 +27947,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "8 November 2023",
+      "date": "24 November 2023",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -40622,7 +40622,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "20 November 2023",
+      "date": "21 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41171,7 +41171,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "19 November 2023",
+      "date": "23 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42782,7 +42782,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "20 November 2023",
+      "date": "24 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -46068,7 +46068,7 @@
     {
       "title": "Soft Navigations",
       "shortname": "soft-navigations",
-      "date": "22 November 2023",
+      "date": "24 November 2023",
       "url": "https://wicg.github.io/soft-navigations/",
       "nightly": {
         "url": "https://wicg.github.io/soft-navigations/",

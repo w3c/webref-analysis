@@ -1298,7 +1298,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 20 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1572,7 +1572,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 20 November 2023
+- Crawled version: 21 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1698,7 +1698,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 19 November 2023
+- Crawled version: 23 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -16561,7 +16561,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Crawled URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
-- Crawled version: 8 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Shortname: sanitizer-api
 
@@ -17394,7 +17394,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
 - Crawled URL: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
-- Crawled version: 22 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://wicg.github.io/soft-navigations/](https://wicg.github.io/soft-navigations/)
 - Shortname: soft-navigations
 
