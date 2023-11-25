@@ -495,7 +495,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
 - Crawled URL: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
-- Crawled version: 18 July 2023
+- Crawled version: 25 November 2023
 - Editor's Draft: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
 - Shortname: tc39-set-methods
 
