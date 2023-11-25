@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 24, 2023
+% November 25, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -121,7 +121,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Crawled URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
-- Crawled version: 7 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Shortname: tc39-explicit-resource-management
 
@@ -1338,7 +1338,6 @@ Normative references to this spec from:
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Digest Fields](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
@@ -1732,7 +1731,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 23 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1759,7 +1758,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 24 November 2023
+- Crawled version: 25 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -10165,7 +10164,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 23 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10196,7 +10195,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 23 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -16443,7 +16442,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 15 November 2023
+- Crawled version: 24 November 2023
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
