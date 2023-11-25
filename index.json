@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-25T06:32:09.974Z",
+  "date": "2023-11-25T12:37:54.842Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -41171,7 +41171,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "23 November 2023",
+      "date": "25 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
