@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-26T12:38:31.843Z",
+  "date": "2023-11-26T18:31:54.668Z",
   "stats": {
     "crawled": 586,
     "errors": 0,
@@ -30916,6 +30916,11 @@
               "crawled": "https://wicg.github.io/local-font-access/"
             },
             {
+              "url": "https://www.w3.org/TR/longtasks-1/",
+              "title": "Long Tasks API",
+              "crawled": "https://w3c.github.io/longtasks/"
+            },
+            {
               "url": "https://www.w3.org/TR/magnetometer/",
               "title": "Magnetometer",
               "crawled": "https://w3c.github.io/magnetometer/"
@@ -32843,7 +32848,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "24 October 2023",
+      "date": "26 November 2023",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",

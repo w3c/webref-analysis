@@ -15614,7 +15614,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Crawled URL: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
-- Crawled version: 24 October 2023
+- Crawled version: 26 November 2023
 - Editor's Draft: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 - Latest published version: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Shortname: longtasks-1
@@ -19660,6 +19660,7 @@ Normative references to this spec from:
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
