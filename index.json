@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-27T06:35:21.532Z",
+  "date": "2023-11-27T12:40:08.009Z",
   "stats": {
-    "crawled": 586,
+    "crawled": 584,
     "errors": 0,
-    "studied": 586
+    "studied": 584
   },
   "results": [
     {
@@ -29756,16 +29756,6 @@
               "crawled": "https://w3c.github.io/rdf-turtle/spec/"
             },
             {
-              "url": "https://www.rfc-editor.org/rfc/rfc7538",
-              "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
-              "crawled": "https://httpwg.org/specs/rfc7538.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc7540",
-              "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-              "crawled": "https://httpwg.org/specs/rfc7540.html"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc8288",
               "title": "RFC 8288 - Web Linking",
               "crawled": "https://httpwg.org/specs/rfc8288.html"
@@ -35033,7 +35023,7 @@
     {
       "title": "MiniApp Manifest",
       "shortname": "miniapp-manifest",
-      "date": "30 May 2023",
+      "date": "27 November 2023",
       "url": "https://www.w3.org/TR/miniapp-manifest/",
       "release": {
         "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -37036,6 +37026,11 @@
               "url": "https://www.w3.org/TR/image-capture/",
               "title": "MediaStream Image Capture",
               "crawled": "https://w3c.github.io/mediacapture-image/"
+            },
+            {
+              "url": "https://www.w3.org/TR/miniapp-manifest/",
+              "title": "MiniApp Manifest",
+              "crawled": "https://w3c.github.io/miniapp-manifest/"
             },
             {
               "url": "https://www.w3.org/TR/miniapp-packaging/",
@@ -40834,11 +40829,6 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
-              "url": "https://www.rfc-editor.org/rfc/rfc7540",
-              "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-              "crawled": "https://httpwg.org/specs/rfc7540.html"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc9113",
               "title": "RFC 9113 - HTTP/2",
               "crawled": "https://httpwg.org/specs/rfc9113.html"
@@ -41064,7 +41054,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "26 November 2023",
+      "date": "27 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41410,16 +41400,6 @@
               "crawled": "https://httpwg.org/specs/rfc7235.html"
             },
             {
-              "url": "https://www.rfc-editor.org/rfc/rfc7538",
-              "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
-              "crawled": "https://httpwg.org/specs/rfc7538.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc7540",
-              "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-              "crawled": "https://httpwg.org/specs/rfc7540.html"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc7616",
               "title": "RFC 7616 - HTTP Digest Access Authentication",
               "crawled": "https://httpwg.org/specs/rfc7616.html"
@@ -41584,16 +41564,6 @@
               "crawled": "https://httpwg.org/specs/rfc7235.html"
             },
             {
-              "url": "https://www.rfc-editor.org/rfc/rfc7538",
-              "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
-              "crawled": "https://httpwg.org/specs/rfc7538.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc7540",
-              "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-              "crawled": "https://httpwg.org/specs/rfc7540.html"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc7616",
               "title": "RFC 7616 - HTTP Digest Access Authentication",
               "crawled": "https://httpwg.org/specs/rfc7616.html"
@@ -41723,11 +41693,6 @@
               "crawled": "https://httpwg.org/specs/rfc7234.html"
             },
             {
-              "url": "https://www.rfc-editor.org/rfc/rfc7540",
-              "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-              "crawled": "https://httpwg.org/specs/rfc7540.html"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc8246",
               "title": "RFC 8246 - HTTP Immutable Responses",
               "crawled": "https://httpwg.org/specs/rfc8246.html"
@@ -41805,11 +41770,6 @@
               "url": "https://www.rfc-editor.org/rfc/rfc7234",
               "title": "RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching",
               "crawled": "https://httpwg.org/specs/rfc7234.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc7540",
-              "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-              "crawled": "https://httpwg.org/specs/rfc7540.html"
             }
           ],
           "informative": [
@@ -41904,16 +41864,6 @@
               "url": "https://www.rfc-editor.org/rfc/rfc7235",
               "title": "RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication",
               "crawled": "https://httpwg.org/specs/rfc7235.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc7538",
-              "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
-              "crawled": "https://httpwg.org/specs/rfc7538.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc7540",
-              "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-              "crawled": "https://httpwg.org/specs/rfc7540.html"
             },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc7616",
@@ -42025,11 +41975,6 @@
               "crawled": "https://httpwg.org/specs/rfc7234.html"
             },
             {
-              "url": "https://www.rfc-editor.org/rfc/rfc7540",
-              "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-              "crawled": "https://httpwg.org/specs/rfc7540.html"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc7616",
               "title": "RFC 7616 - HTTP Digest Access Authentication",
               "crawled": "https://httpwg.org/specs/rfc7616.html"
@@ -42059,7 +42004,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "26 November 2023",
+      "date": "27 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -42152,136 +42097,6 @@
           ]
         },
         "ok": false
-      }
-    },
-    {
-      "title": "RFC 7538 - The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)",
-      "shortname": "rfc7538",
-      "date": "23 October 2023",
-      "url": "https://www.rfc-editor.org/rfc/rfc7538",
-      "nightly": {
-        "url": "https://httpwg.org/specs/rfc7538.html",
-        "status": "Proposed Standard",
-        "alternateUrls": [],
-        "repository": "https://github.com/httpwg/httpwg.github.io",
-        "sourcePath": "specs/rfc7538.xml",
-        "filename": "rfc7538.html"
-      },
-      "crawled": "https://httpwg.org/specs/rfc7538.html",
-      "organization": "IETF",
-      "groups": [
-        {
-          "name": "HTTP Working Group",
-          "url": "https://datatracker.ietf.org/wg/httpbis/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "http://www.w3.org/TR/html5/",
-            "ref": {
-              "name": "HTML",
-              "url": "http://www.w3.org/TR/2014/REC-html5-20141028/"
-            }
-          }
-        ],
-        "referencedBy": {
-          "normative": [],
-          "informative": [
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc9110",
-              "title": "RFC 9110 - HTTP Semantics",
-              "crawled": "https://httpwg.org/specs/rfc9110.html"
-            }
-          ]
-        },
-        "ok": false
-      }
-    },
-    {
-      "title": "RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)",
-      "shortname": "rfc7540",
-      "date": "23 October 2023",
-      "url": "https://www.rfc-editor.org/rfc/rfc7540",
-      "nightly": {
-        "url": "https://httpwg.org/specs/rfc7540.html",
-        "status": "Proposed Standard",
-        "alternateUrls": [],
-        "repository": "https://github.com/httpwg/httpwg.github.io",
-        "sourcePath": "specs/rfc7540.xml",
-        "filename": "rfc7540.html"
-      },
-      "crawled": "https://httpwg.org/specs/rfc7540.html",
-      "organization": "IETF",
-      "groups": [
-        {
-          "name": "HTTP Working Group",
-          "url": "https://datatracker.ietf.org/wg/httpbis/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc7838",
-              "title": "RFC 7838 - HTTP Alternative Services",
-              "crawled": "https://httpwg.org/specs/rfc7838.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc8297",
-              "title": "RFC 8297 - An HTTP Status Code for Indicating Hints",
-              "crawled": "https://httpwg.org/specs/rfc8297.html"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc8470",
-              "title": "RFC 8470 - Using Early Data in HTTP",
-              "crawled": "https://httpwg.org/specs/rfc8470.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc9110",
-              "title": "RFC 9110 - HTTP Semantics",
-              "crawled": "https://httpwg.org/specs/rfc9110.html"
-            },
-            {
-              "url": "https://www.rfc-editor.org/rfc/rfc9113",
-              "title": "RFC 9113 - HTTP/2",
-              "crawled": "https://httpwg.org/specs/rfc9113.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/appmanifest/",
-              "title": "Web Application Manifest",
-              "crawled": "https://w3c.github.io/manifest/"
-            }
-          ]
-        },
-        "ok": true
       }
     },
     {
@@ -46068,7 +45883,7 @@
     {
       "title": "Soft Navigations",
       "shortname": "soft-navigations",
-      "date": "24 November 2023",
+      "date": "27 November 2023",
       "url": "https://wicg.github.io/soft-navigations/",
       "nightly": {
         "url": "https://wicg.github.io/soft-navigations/",
