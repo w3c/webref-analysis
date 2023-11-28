@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% November 27, 2023
+% November 28, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -635,7 +635,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -739,7 +739,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Shortname: rfc6386
 
@@ -821,7 +821,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -845,7 +845,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -1235,7 +1235,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1389,7 +1389,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1543,7 +1543,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1634,7 +1634,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1668,7 +1668,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 27 November 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -4522,7 +4522,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 22 November 2023
+- Crawled version: 27 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -7543,7 +7543,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
 - Crawled URL: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
-- Crawled version: 8 November 2023
+- Crawled version: 27 November 2023
 - Editor's Draft: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
 - Latest published version: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
 - Shortname: css-2023
@@ -8594,7 +8594,9 @@ Normative references to this spec from:
 
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
 ### CSS View Transitions Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
@@ -9626,7 +9628,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Crawled URL: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
-- Crawled version: 20 October 2023
+- Crawled version: 27 November 2023
 - Editor's Draft: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
 - Latest published version: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Shortname: ambient-light
@@ -9850,7 +9852,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/geolocation-sensor/](https://www.w3.org/TR/geolocation-sensor/)
 - Crawled URL: [https://w3c.github.io/geolocation-sensor/](https://w3c.github.io/geolocation-sensor/)
-- Crawled version: 26 October 2023
+- Crawled version: 27 November 2023
 - Editor's Draft: [https://w3c.github.io/geolocation-sensor/](https://w3c.github.io/geolocation-sensor/)
 - Latest published version: [https://www.w3.org/TR/geolocation-sensor/](https://www.w3.org/TR/geolocation-sensor/)
 - Shortname: geolocation-sensor
@@ -9921,7 +9923,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/magnetometer/](https://www.w3.org/TR/magnetometer/)
 - Crawled URL: [https://w3c.github.io/magnetometer/](https://w3c.github.io/magnetometer/)
-- Crawled version: 26 October 2023
+- Crawled version: 27 November 2023
 - Editor's Draft: [https://w3c.github.io/magnetometer/](https://w3c.github.io/magnetometer/)
 - Latest published version: [https://www.w3.org/TR/magnetometer/](https://www.w3.org/TR/magnetometer/)
 - Shortname: magnetometer
@@ -9970,7 +9972,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/proximity/](https://www.w3.org/TR/proximity/)
 - Crawled URL: [https://w3c.github.io/proximity/](https://w3c.github.io/proximity/)
-- Crawled version: 26 October 2023
+- Crawled version: 27 November 2023
 - Editor's Draft: [https://w3c.github.io/proximity/](https://w3c.github.io/proximity/)
 - Latest published version: [https://www.w3.org/TR/proximity/](https://www.w3.org/TR/proximity/)
 - Shortname: proximity
