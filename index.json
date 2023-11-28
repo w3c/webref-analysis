@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-28T00:47:44.397Z",
+  "date": "2023-11-28T06:35:17.084Z",
   "stats": {
     "crawled": 584,
     "errors": 0,
@@ -27998,7 +27998,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 November 2023",
+      "date": "28 November 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -38398,7 +38398,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "27 November 2023",
+      "date": "28 November 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
