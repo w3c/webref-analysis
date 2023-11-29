@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-29T00:47:38.619Z",
+  "date": "2023-11-29T06:34:50.710Z",
   "stats": {
     "crawled": 584,
     "errors": 0,
@@ -27998,7 +27998,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "28 November 2023",
+      "date": "29 November 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -40628,7 +40628,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "28 November 2023",
+      "date": "29 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -40720,7 +40720,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "28 November 2023",
+      "date": "29 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42799,6 +42799,11 @@
               "url": "https://wicg.github.io/ua-client-hints/",
               "title": "User-Agent Client Hints",
               "crawled": "https://wicg.github.io/ua-client-hints/"
+            },
+            {
+              "url": "https://www.w3.org/TR/appmanifest/",
+              "title": "Web Application Manifest",
+              "crawled": "https://w3c.github.io/manifest/"
             },
             {
               "url": "https://www.w3.org/TR/webcodecs/",
@@ -45889,7 +45894,7 @@
     {
       "title": "Soft Navigations",
       "shortname": "soft-navigations",
-      "date": "28 November 2023",
+      "date": "29 November 2023",
       "url": "https://wicg.github.io/soft-navigations/",
       "nightly": {
         "url": "https://wicg.github.io/soft-navigations/",
@@ -51098,7 +51103,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "15 November 2023",
+      "date": "29 November 2023",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
