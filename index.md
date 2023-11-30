@@ -635,7 +635,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 29 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1509,7 +1509,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 29 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1544,7 +1544,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 29 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1594,7 +1594,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 29 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1635,7 +1635,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 29 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -17370,7 +17370,9 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [URL Pattern Standard](https://urlpattern.spec.whatwg.org/)
 
 
 ### Storage Buckets API {data-spec=true data-missingDfns=true data-ok=true}
@@ -19350,6 +19352,7 @@ Normative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 - [Upgrade Insecure Requests](https://w3c.github.io/webappsec-upgrade-insecure-requests/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
+- [URL Pattern Standard](https://urlpattern.spec.whatwg.org/)
 - [URL Standard](https://url.spec.whatwg.org/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
@@ -19981,7 +19984,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://urlpattern.spec.whatwg.org/](https://urlpattern.spec.whatwg.org/)
 - Crawled URL: [https://urlpattern.spec.whatwg.org/](https://urlpattern.spec.whatwg.org/)
-- Crawled version: 7 November 2023
+- Crawled version: 29 November 2023
 - Editor's Draft: [https://urlpattern.spec.whatwg.org/](https://urlpattern.spec.whatwg.org/)
 - Shortname: urlpattern
 
