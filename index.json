@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-11-30T12:41:30.258Z",
+  "date": "2023-11-30T18:34:51.797Z",
   "stats": {
     "crawled": 584,
-    "errors": 0,
+    "errors": 1,
     "studied": 584
   },
   "results": [
@@ -3147,7 +3147,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "28 November 2023",
+      "date": "30 November 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21776,7 +21776,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "28 November 2023",
+      "date": "30 November 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -24341,7 +24341,7 @@
     {
       "title": "Element Capture",
       "shortname": "element-capture",
-      "date": "28 November 2023",
+      "date": "30 November 2023",
       "url": "https://screen-share.github.io/element-capture/",
       "nightly": {
         "url": "https://screen-share.github.io/element-capture/",
@@ -25085,7 +25085,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "29 November 2023",
+      "date": "30 November 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -47048,7 +47048,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "28 July 2023",
+      "date": "30 November 2023",
       "url": "https://www.w3.org/TR/sparql12-results-json/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-json/",
@@ -47187,7 +47187,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "28 July 2023",
+      "date": "30 November 2023",
       "url": "https://www.w3.org/TR/sparql12-results-xml/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-xml/",
@@ -50569,6 +50569,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 520 Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 520\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 262)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,

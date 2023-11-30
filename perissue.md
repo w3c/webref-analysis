@@ -5,6 +5,20 @@
 584 specifications were crawled in this report.
 
 
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/): `Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 520 Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 520
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 262)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+=> 1 specification found
+
+
 ## Specifications without normative dependencies
 
 - [A Method for Writing Testable Conformance Requirements](https://www.w3.org/TR/test-methodology/)
@@ -1271,7 +1285,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but does not list it in its references
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/) links to [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
-- [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/) links to [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/) but does not list it in its references
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
 - [Web Animations](https://drafts.csswg.org/web-animations-1/) links to [`https://www.w3.org/TR/css-easing/`](https://www.w3.org/TR/css-easing/) but does not list it in its references
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/) links to [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/) but does not list it in its references
@@ -1333,7 +1346,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 986 missing references for links found in 250 specifications
+=> 985 missing references for links found in 249 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

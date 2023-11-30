@@ -821,7 +821,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 28 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -845,7 +845,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 28 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -11583,7 +11583,7 @@ No informative reference to this spec from other specs.
 
 ## Patents and Standards Interest Group {#group-patents_and_standards_interest_group}
 
-### W3C Patent Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### W3C Patent Policy {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -11595,8 +11595,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/)
+The following network or parsing error occurred:
+`Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 520 Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 520
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 262)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12571,7 +12578,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-results-json/](https://www.w3.org/TR/sparql12-results-json/)
 - Crawled URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Crawled version: 28 July 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-results-json/](https://www.w3.org/TR/sparql12-results-json/)
 - Shortname: sparql12-results-json
@@ -12613,7 +12620,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-results-xml/](https://www.w3.org/TR/sparql12-results-xml/)
 - Crawled URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
-- Crawled version: 28 July 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-results-xml/](https://www.w3.org/TR/sparql12-results-xml/)
 - Shortname: sparql12-results-xml
@@ -13212,7 +13219,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
 - Crawled URL: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
-- Crawled version: 28 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
 - Shortname: element-capture
 
@@ -16383,7 +16390,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 29 November 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
