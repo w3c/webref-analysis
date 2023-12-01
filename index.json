@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-01T12:47:29.561Z",
+  "date": "2023-12-01T18:33:50.378Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -874,7 +874,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "30 November 2023",
+      "date": "1 December 2023",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1260,6 +1260,11 @@
               "url": "https://aomediacodec.github.io/av1-avif/",
               "title": "AV1 Image File Format (AVIF)",
               "crawled": "https://aomediacodec.github.io/av1-avif/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-pseudo-4/",
+              "title": "CSS Pseudo-Elements Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
             },
             {
               "url": "https://aomediacodec.github.io/av1-hdr10plus/",
@@ -8876,7 +8881,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "7 August 2023",
+      "date": "1 December 2023",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -24486,7 +24491,7 @@
     {
       "title": "Element Capture",
       "shortname": "element-capture",
-      "date": "30 November 2023",
+      "date": "01 December 2023",
       "url": "https://screen-share.github.io/element-capture/",
       "nightly": {
         "url": "https://screen-share.github.io/element-capture/",
@@ -27381,7 +27386,7 @@
     {
       "title": "Global Privacy Control (GPC)",
       "shortname": "gpc-spec",
-      "date": "16 August 2023",
+      "date": "01 December 2023",
       "url": "https://privacycg.github.io/gpc-spec/",
       "nightly": {
         "url": "https://privacycg.github.io/gpc-spec/",
@@ -40989,7 +40994,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "28 November 2023",
+      "date": "1 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41341,7 +41346,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "26 November 2023",
+      "date": "30 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41456,7 +41461,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "25 November 2023",
+      "date": "26 November 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -43447,7 +43452,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "30 November 2023",
+      "date": "1 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -57269,6 +57274,11 @@
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
+            },
+            {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
             },
             {
               "url": "https://w3c.github.io/webrtc-ice/",
