@@ -4,7 +4,108 @@
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
+## Codec Working Group {#group-codec_working_group}
+
+### AOMedia Film Grain Synthesis 1 (AFGS1) specification (Draft) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
+- Crawled URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
+- Crawled version: 30 November 2023
+- Editor's Draft: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
+- Shortname: afgs1-spec
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### AV1 Bitstream & Decoding Process Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://aomediacodec.github.io/av1-spec/av1-spec.pdf](https://aomediacodec.github.io/av1-spec/av1-spec.pdf)
+- Crawled URL: [https://aomediacodec.github.io/av1-spec/](https://aomediacodec.github.io/av1-spec/)
+- Crawled version: 14 July 2023
+- Editor's Draft: [https://aomediacodec.github.io/av1-spec/](https://aomediacodec.github.io/av1-spec/)
+- Latest published version: [https://aomediacodec.github.io/av1-spec/av1-spec.pdf](https://aomediacodec.github.io/av1-spec/av1-spec.pdf)
+- Shortname: av1-spec
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [AV1 Codec ISO Media File Format Binding](https://aomediacodec.github.io/av1-isobmff/)
+- [AV1 Image File Format (AVIF)](https://aomediacodec.github.io/av1-avif/)
+- [Carriage of AV1 in MPEG-2 TS](https://aomediacodec.github.io/av1-mpeg2-ts/)
+- [HDR10+ AV1 Metadata Handling Specification](https://aomediacodec.github.io/av1-hdr10plus/)
+- [RTP Payload Format For AV1](https://aomediacodec.github.io/av1-rtp-spec/)
+
+Informative references to this spec from:
+
+- [AV1 WebCodecs Registration](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
+
+
+### HDR10+ AV1 Metadata Handling Specification {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://aomediacodec.github.io/av1-hdr10plus/](https://aomediacodec.github.io/av1-hdr10plus/)
+- Crawled URL: [https://aomediacodec.github.io/av1-hdr10plus/](https://aomediacodec.github.io/av1-hdr10plus/)
+- Crawled version: 3 October 2023
+- Editor's Draft: [https://aomediacodec.github.io/av1-hdr10plus/](https://aomediacodec.github.io/av1-hdr10plus/)
+- Shortname: av1-hdr10plus
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ## Storage and Transport Formats Working Group {#group-storage_and_transport_formats_working_group}
+
+### AV1 Codec ISO Media File Format Binding {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://aomediacodec.github.io/av1-isobmff/](https://aomediacodec.github.io/av1-isobmff/)
+- Crawled URL: [https://aomediacodec.github.io/av1-isobmff/](https://aomediacodec.github.io/av1-isobmff/)
+- Crawled version: 15 November 2021
+- Editor's Draft: [https://aomediacodec.github.io/av1-isobmff/](https://aomediacodec.github.io/av1-isobmff/)
+- Shortname: av1-isobmff
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [AV1 Image File Format (AVIF)](https://aomediacodec.github.io/av1-avif/)
+- [HDR10+ AV1 Metadata Handling Specification](https://aomediacodec.github.io/av1-hdr10plus/)
+
+Informative references to this spec from:
+
+- [AV1 WebCodecs Registration](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+
 
 ### AV1 Image File Format (AVIF) {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -25,6 +126,50 @@ This specification looks good!
 No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
+
+
+### Carriage of AV1 in MPEG-2 TS {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://aomediacodec.github.io/av1-mpeg2-ts/](https://aomediacodec.github.io/av1-mpeg2-ts/)
+- Crawled URL: [https://aomediacodec.github.io/av1-mpeg2-ts/](https://aomediacodec.github.io/av1-mpeg2-ts/)
+- Crawled version: October 04, 2021
+- Editor's Draft: [https://aomediacodec.github.io/av1-mpeg2-ts/](https://aomediacodec.github.io/av1-mpeg2-ts/)
+- Shortname: av1-mpeg2-ts
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### RTP Payload Format For AV1 {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://aomediacodec.github.io/av1-rtp-spec/](https://aomediacodec.github.io/av1-rtp-spec/)
+- Crawled URL: [https://aomediacodec.github.io/av1-rtp-spec/](https://aomediacodec.github.io/av1-rtp-spec/)
+- Crawled version: 23 August 2023
+- Editor's Draft: [https://aomediacodec.github.io/av1-rtp-spec/](https://aomediacodec.github.io/av1-rtp-spec/)
+- Shortname: av1-rtp-spec
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 
 
 # Ecma International {#org-ecma_international}
@@ -136,7 +281,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### ECMAScript® 2024 Internationalization API Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### ECMAScript® 2024 Internationalization API Specification {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -148,7 +293,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -204,6 +349,7 @@ Normative references to this spec from:
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
@@ -834,6 +980,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Cookies Having Independent Partitioned State specification](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
 
 No informative reference to this spec from other specs.
@@ -1390,7 +1537,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 1 December 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1509,7 +1656,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 1 December 2023
+- Crawled version: 30 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1544,7 +1691,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 1 December 2023
+- Crawled version: 28 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1594,7 +1741,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 30 November 2023
+- Crawled version: 26 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1635,7 +1782,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 1 December 2023
+- Crawled version: 25 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1669,7 +1816,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 1 December 2023
+- Crawled version: 29 November 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -3541,6 +3688,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [SVG Animations](https://svgwg.org/specs/animations/)
 
 
 ### CSS Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -3708,6 +3856,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 
@@ -4478,14 +4627,8 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`http://www.w3.org/TR/1999/REC-html401-19991224`](http://www.w3.org/TR/1999/REC-html401-19991224)
-     * [`http://www.w3.org/TR/2001/REC-SVG-20010904`](http://www.w3.org/TR/2001/REC-SVG-20010904)
-     * [`http://www.w3.org/TR/2008/REC-WCAG20-20081211/`](http://www.w3.org/TR/2008/REC-WCAG20-20081211/)
-     * [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
      * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/2008/REC-WCAG20-20081211/`](https://www.w3.org/TR/2008/REC-WCAG20-20081211/)
      * [`https://www.w3.org/TR/2011/REC-css3-color-20110607/`](https://www.w3.org/TR/2011/REC-css3-color-20110607/)
-     * [`https://www.w3.org/TR/2018/REC-css-ui-3-20180621/`](https://www.w3.org/TR/2018/REC-css-ui-3-20180621/)
      * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
      * [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/)
 - Inconsistent references for links: 
@@ -4499,6 +4642,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Mathematical Markup Language (MathML) Version 4.0](https://w3c.github.io/mathml/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
@@ -8142,6 +8286,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [SVG Animations](https://svgwg.org/specs/animations/)
 
 
 ### CSS Transitions Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -9538,7 +9683,7 @@ Informative references to this spec from:
 
 ## DOM Working Group {#group-dom_working_group}
 
-### Document Object Model (DOM) Level 2 Style Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Document Object Model (DOM) Level 2 Style Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9552,31 +9697,34 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html)
      * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html)
+     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html)
+     * [`http://www.w3.org/TR/1998/REC-html40-19980424`](http://www.w3.org/TR/1998/REC-html40-19980424)
      * [`http://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html`](http://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html)
      * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html)
      * [`http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html`](http://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html)
+     * [`http://www.w3.org/TR/1998/REC-html40-19980424/types.html`](http://www.w3.org/TR/1998/REC-html40-19980424/types.html)
+     * [`http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113`](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113)
+     * [`http://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113`](http://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113)
      * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-- Inconsistent references for links: 
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/about.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/box.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/media.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/page.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/text.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html`](http://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html), related reference "CSS2" uses URL [`http://www.w3.org/TR/1998/REC-CSS2-19980512`](http://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`http://www.w3.org/TR/1998/REC-html40-19980424/types.html`](http://www.w3.org/TR/1998/REC-html40-19980424/types.html), related reference "HTML4.0" uses URL [`http://www.w3.org/TR/1998/REC-html40-19980424`](http://www.w3.org/TR/1998/REC-html40-19980424)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11583,7 +11731,7 @@ No informative reference to this spec from other specs.
 
 ## Patents and Standards Interest Group {#group-patents_and_standards_interest_group}
 
-### W3C Patent Policy {data-spec=true data-error=true}
+### W3C Patent Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11595,15 +11743,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 520 Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 520
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:483:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 262)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13037,6 +13178,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/)
@@ -13105,10 +13247,7 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`http://www.w3.org/TR/2012/WD-css-animations-1-20120403/`](http://www.w3.org/TR/2012/WD-css-animations-1-20120403/)
-     * [`http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/`](http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/)
      * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/)
-     * [`http://www.w3.org/TR/css-transitions-1/`](http://www.w3.org/TR/css-transitions-1/)
      * [`http://www.w3.org/TR/smil/`](http://www.w3.org/TR/smil/)
      * [`https://www.w3.org/TR/css-transforms-1/`](https://www.w3.org/TR/css-transforms-1/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
@@ -13118,6 +13257,7 @@ Informative references to this spec from:
      * [`http://www.w3.org/TR/2006/REC-xml-20060816/`](http://www.w3.org/TR/2006/REC-xml-20060816/), related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
      * [`http://www.w3.org/TR/2012/WD-dom-20120405/`](http://www.w3.org/TR/2012/WD-dom-20120405/), related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
      * [`http://www.w3.org/TR/2014/REC-html5-20141028/`](http://www.w3.org/TR/2014/REC-html5-20141028/), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+     * [`http://www.w3.org/TR/css-transitions-1/`](http://www.w3.org/TR/css-transitions-1/), related reference "CSS3TRANSITIONS" uses URL [`http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/`](http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/)
      * [`http://www.w3.org/TR/dom/`](http://www.w3.org/TR/dom/), related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
      * [`http://www.w3.org/TR/html/`](http://www.w3.org/TR/html/), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
      * [`http://www.w3.org/TR/smil-animation/`](http://www.w3.org/TR/smil-animation/), related reference "SMILANIM" uses URL [`http://www.w3.org/TR/2001/REC-smil-animation-20010904/`](http://www.w3.org/TR/2001/REC-smil-animation-20010904/)
@@ -13138,7 +13278,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### SVG Integration {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### SVG Integration {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -13152,11 +13292,10 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/2014/CR-html5-20140204/`](https://www.w3.org/TR/2014/CR-html5-20140204/)
-     * [`https://www.w3.org/TR/2014/CR-html5-20140204/browsers.html`](https://www.w3.org/TR/2014/CR-html5-20140204/browsers.html)
      * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/)
      * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
-     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML5" uses URL [`https://www.w3.org/TR/2014/CR-html5-20140204/`](https://www.w3.org/TR/2014/CR-html5-20140204/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14413,6 +14552,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [DOM Standard](https://dom.spec.whatwg.org/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Web Locks API](https://w3c.github.io/web-locks/)
@@ -16572,6 +16712,28 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+### Iframe credentialless {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/anonymous-iframe/](https://wicg.github.io/anonymous-iframe/)
+- Crawled URL: [https://wicg.github.io/anonymous-iframe/](https://wicg.github.io/anonymous-iframe/)
+- Crawled version: 30 November 2023
+- Editor's Draft: [https://wicg.github.io/anonymous-iframe/](https://wicg.github.io/anonymous-iframe/)
+- Shortname: anonymous-iframe
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/hr-time//issues/1`](https://www.w3.org/TR/hr-time//issues/1)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Ink API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -18434,7 +18596,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 21 November 2023
+- Crawled version: 1 December 2023
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
 - Shortname: wasm-core-1
@@ -18459,7 +18621,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 21 November 2023
+- Crawled version: 1 December 2023
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -18490,7 +18652,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 21 November 2023
+- Crawled version: 1 December 2023
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -18711,6 +18873,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Ink API](https://wicg.github.io/ink-enhancement/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
@@ -18978,6 +19141,7 @@ Normative references to this spec from:
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
@@ -19246,6 +19410,7 @@ Normative references to this spec from:
 - [IceTransport Extensions for WebRTC](https://w3c.github.io/webrtc-ice/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Ink API](https://wicg.github.io/ink-enhancement/)
@@ -19451,6 +19616,7 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
 - [Selectors Level 3](https://drafts.csswg.org/selectors-3/)
+- [SVG Integration](https://svgwg.org/specs/integration/)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
 
 
@@ -19598,6 +19764,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
@@ -19902,6 +20069,7 @@ Normative references to this spec from:
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
@@ -20057,6 +20225,7 @@ Normative references to this spec from:
 - [File API](https://w3c.github.io/FileAPI/)
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
@@ -20258,6 +20427,7 @@ Normative references to this spec from:
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
+- [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Indexed Database API 3.0](https://w3c.github.io/IndexedDB/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
