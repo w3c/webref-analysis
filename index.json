@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-03T12:38:35.458Z",
+  "date": "2023-12-03T18:31:47.278Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -42366,7 +42366,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "2 December 2023",
+      "date": "3 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
