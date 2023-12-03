@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% December 02, 2023
+% December 03, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -426,7 +426,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
 - Crawled URL: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
-- Crawled version: 1 November 2023
+- Crawled version: 2 December 2023
 - Editor's Draft: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
 - Shortname: tc39-array-from-async
 
@@ -782,7 +782,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 2 December 2023
+- Crawled version: 3 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1383,7 +1383,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 2 December 2023
+- Crawled version: 3 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
