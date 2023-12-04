@@ -803,7 +803,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 3 December 2023
+- Crawled version: 4 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -1693,7 +1693,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 3 December 2023
+- Crawled version: 4 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -11333,7 +11333,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
 - Crawled URL: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
-- Crawled version: 14 November 2023
+- Crawled version: 04 December 2023
 - Editor's Draft: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
 - Latest published version: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
 - Shortname: media-source-2
