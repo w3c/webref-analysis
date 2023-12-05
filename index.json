@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-05T06:33:17.318Z",
+  "date": "2023-12-05T12:39:56.878Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -3379,7 +3379,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "4 December 2023",
+      "date": "5 December 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -21958,7 +21958,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "4 December 2023",
+      "date": "5 December 2023",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -22027,7 +22027,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "4 December 2023",
+      "date": "5 December 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -29152,6 +29152,16 @@
               "crawled": "https://w3c.github.io/webappsec-mixed-content/"
             },
             {
+              "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
+              "title": "MPEG Audio Byte Stream Format",
+              "crawled": "https://w3c.github.io/mse-byte-stream-format-mpeg-audio/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
+              "title": "MPEG-2 TS Byte Stream Format",
+              "crawled": "https://w3c.github.io/mse-byte-stream-format-mp2t/"
+            },
+            {
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
@@ -29735,6 +29745,11 @@
               "url": "https://wicg.github.io/webhid/",
               "title": "WebHID API",
               "crawled": "https://wicg.github.io/webhid/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
+              "title": "WebM Byte Stream Format",
+              "crawled": "https://w3c.github.io/mse-byte-stream-format-webm/"
             },
             {
               "url": "https://wicg.github.io/web-otp/",
@@ -35767,7 +35782,7 @@
     {
       "title": "MPEG Audio Byte Stream Format",
       "shortname": "mse-byte-stream-format-mpeg-audio",
-      "date": "17 May 2021",
+      "date": "05 December 2023",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
@@ -35803,7 +35818,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://html.spec.whatwg.org/multipage/media.html",
           "https://w3c.github.io/media-source/index.html"
         ],
         "inconsistentRef": [],
@@ -35823,7 +35837,7 @@
     {
       "title": "MPEG-2 TS Byte Stream Format",
       "shortname": "mse-byte-stream-format-mp2t",
-      "date": "17 May 2021",
+      "date": "05 December 2023",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
@@ -35859,7 +35873,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://html.spec.whatwg.org/multipage/media.html",
           "https://w3c.github.io/media-source/index.html"
         ],
         "inconsistentRef": [],
@@ -37567,6 +37580,11 @@
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "DeviceOrientation Event Specification",
+              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://wicg.github.io/digital-goods/",
@@ -54853,7 +54871,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "24 November 2023",
+      "date": "5 December 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -56980,7 +56998,7 @@
     {
       "title": "WebM Byte Stream Format",
       "shortname": "mse-byte-stream-format-webm",
-      "date": "17 May 2021",
+      "date": "05 December 2023",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
@@ -57016,7 +57034,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://html.spec.whatwg.org/multipage/media.html",
           "https://w3c.github.io/media-source/index.html"
         ],
         "inconsistentRef": [],

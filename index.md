@@ -968,7 +968,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 4 December 2023
+- Crawled version: 5 December 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -993,7 +993,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 4 December 2023
+- Crawled version: 5 December 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -3302,7 +3302,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 24 November 2023
+- Crawled version: 5 December 2023
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -9908,7 +9908,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 4 December 2023
+- Crawled version: 5 December 2023
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -10392,7 +10392,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
-- Crawled version: 17 May 2021
+- Crawled version: 05 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
 - Shortname: mse-byte-stream-format-mpeg-audio
@@ -10400,7 +10400,6 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html)
      * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
 
 #### Known dependencies on this specification {.dependencies}
@@ -10418,7 +10417,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
-- Crawled version: 17 May 2021
+- Crawled version: 05 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
 - Shortname: mse-byte-stream-format-mp2t
@@ -10426,7 +10425,6 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html)
      * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
 
 #### Known dependencies on this specification {.dependencies}
@@ -10444,7 +10442,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
-- Crawled version: 17 May 2021
+- Crawled version: 05 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
 - Shortname: mse-byte-stream-format-webm
@@ -10452,7 +10450,6 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html)
      * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
 
 #### Known dependencies on this specification {.dependencies}
@@ -14062,6 +14059,7 @@ Normative references to this spec from:
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
+- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
@@ -19451,6 +19449,8 @@ Normative references to this spec from:
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
+- [MPEG Audio Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
+- [MPEG-2 TS Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-mp2t/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
@@ -19568,6 +19568,7 @@ Normative references to this spec from:
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
 - [WebGPU](https://gpuweb.github.io/gpuweb/)
 - [WebHID API](https://wicg.github.io/webhid/)
+- [WebM Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-webm/)
 - [WebOTP API](https://wicg.github.io/web-otp/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/)
