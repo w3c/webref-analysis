@@ -1098,7 +1098,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
-- [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
@@ -10337,22 +10336,20 @@ Informative references to this spec from:
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 
-### ISO BMFF Byte Stream Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### ISO BMFF Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
-- Crawled version: 17 May 2021
+- Crawled version: 06 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 - Shortname: mse-byte-stream-format-isobmff
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html)
-     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10363,21 +10360,20 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Media Source Extensions Byte Stream Format Registry {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Media Source Extensions Byte Stream Format Registry {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
-- Crawled version: 18 May 2021
+- Crawled version: 06 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
 - Shortname: mse-byte-stream-format-registry
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10388,21 +10384,20 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### MPEG Audio Byte Stream Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### MPEG Audio Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
-- Crawled version: 05 December 2023
+- Crawled version: 06 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
 - Shortname: mse-byte-stream-format-mpeg-audio
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10413,21 +10408,20 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### MPEG-2 TS Byte Stream Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### MPEG-2 TS Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
-- Crawled version: 05 December 2023
+- Crawled version: 06 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
 - Shortname: mse-byte-stream-format-mp2t
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10438,21 +10432,20 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebM Byte Stream Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### WebM Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
-- Crawled version: 05 December 2023
+- Crawled version: 06 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
 - Shortname: mse-byte-stream-format-webm
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10847,7 +10840,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 14 October 2023
+- Crawled version: 06 December 2023
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -11332,7 +11325,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
 - Crawled URL: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
-- Crawled version: 04 December 2023
+- Crawled version: 06 December 2023
 - Editor's Draft: [https://w3c.github.io/media-source/](https://w3c.github.io/media-source/)
 - Latest published version: [https://www.w3.org/TR/media-source-2/](https://www.w3.org/TR/media-source-2/)
 - Shortname: media-source-2
@@ -11349,7 +11342,12 @@ Normative references to this spec from:
 
 - [File API](https://w3c.github.io/FileAPI/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [ISO BMFF Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-isobmff/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
+- [MPEG Audio Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
+- [MPEG-2 TS Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-mp2t/)
+- [WebM Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-webm/)
 
 Informative references to this spec from:
 
@@ -13788,7 +13786,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/CSP3/](https://www.w3.org/TR/CSP3/)
 - Crawled URL: [https://w3c.github.io/webappsec-csp/](https://w3c.github.io/webappsec-csp/)
-- Crawled version: 30 October 2023
+- Crawled version: 6 December 2023
 - Editor's Draft: [https://w3c.github.io/webappsec-csp/](https://w3c.github.io/webappsec-csp/)
 - Latest published version: [https://www.w3.org/TR/CSP3/](https://www.w3.org/TR/CSP3/)
 - Shortname: CSP3
@@ -19420,6 +19418,7 @@ Normative references to this spec from:
 - [Ink API](https://wicg.github.io/ink-enhancement/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/)
+- [ISO BMFF Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-isobmff/)
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)

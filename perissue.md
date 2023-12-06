@@ -986,9 +986,6 @@ Basically all specifications have normative dependencies on some other specifica
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/) links to:
     * [`http://www.w3.org/TR/css-masking-1/`](http://www.w3.org/TR/css-masking-1/) but does not list it in its references
     * [`http://www.w3.org/TR/hr-time/`](http://www.w3.org/TR/hr-time/) but does not list it in its references
-- [ISO BMFF Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-isobmff/) links to:
-    * [`https://html.spec.whatwg.org/multipage/media.html`](https://html.spec.whatwg.org/multipage/media.html) but does not list it in its references
-    * [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/) links to [`https://w3c.github.io/webappsec-permissions-policy/document-policy.html`](https://w3c.github.io/webappsec-permissions-policy/document-policy.html) but does not list it in its references
 - [Layout Instability API](https://wicg.github.io/layout-instability/) links to:
     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
@@ -1026,7 +1023,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [Media Session](https://w3c.github.io/mediasession/) links to [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/) but does not list it in its references
-- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/) links to [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
 - [Media Source Extensions™](https://w3c.github.io/media-source/) links to:
     * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/) but does not list it in its references
     * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/) but does not list it in its references
@@ -1043,8 +1039,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [MPEG Audio Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/) links to [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
-- [MPEG-2 TS Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-mp2t/) links to [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
 - [Network Information API](https://wicg.github.io/netinfo/) links to:
     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/) but does not list it in its references
     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/) but does not list it in its references
@@ -1326,7 +1320,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/string-meta/`](https://w3c.github.io/string-meta/) but does not list it in its references
     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
     * [`https://www.w3.org/TR/resize-observer/`](https://www.w3.org/TR/resize-observer/) but does not list it in its references
-- [WebM Byte Stream Format](https://w3c.github.io/mse-byte-stream-format-webm/) links to [`https://w3c.github.io/media-source/index.html`](https://w3c.github.io/media-source/index.html) but does not list it in its references
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/) links to [`https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html`](https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html) but does not list it in its references
 - [WebTransport](https://w3c.github.io/webtransport/) links to [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/) but does not list it in its references
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/) links to [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/) but does not list it in its references
@@ -1340,7 +1333,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 995 missing references for links found in 251 specifications
+=> 989 missing references for links found in 246 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
