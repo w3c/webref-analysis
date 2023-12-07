@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-07T12:39:51.107Z",
+  "date": "2023-12-07T18:33:13.086Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -1213,6 +1213,11 @@
               "url": "https://www.w3.org/TR/webrtc-svc/",
               "title": "Scalable Video Coding (SVC) Extension for WebRTC",
               "crawled": "https://w3c.github.io/webrtc-svc/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
+              "title": "WebRTC Encoded Transform",
+              "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
             }
           ]
         },
@@ -2760,7 +2765,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "10 November 2023",
+      "date": "07 December 2023",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -41397,6 +41402,11 @@
               "url": "https://www.w3.org/TR/webrtc-svc/",
               "title": "Scalable Video Coding (SVC) Extension for WebRTC",
               "crawled": "https://w3c.github.io/webrtc-svc/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
+              "title": "WebRTC Encoded Transform",
+              "crawled": "https://w3c.github.io/webrtc-encoded-transform/"
             }
           ]
         },
@@ -42482,7 +42492,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "6 December 2023",
+      "date": "7 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -57191,7 +57201,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "12 October 2023",
+      "date": "7 December 2023",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
@@ -57226,13 +57236,15 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://w3c.github.io/webrtc-svc/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -57291,7 +57303,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "22 November 2023",
+      "date": "07 December 2023",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
