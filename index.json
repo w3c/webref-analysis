@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-07T06:35:33.697Z",
+  "date": "2023-12-07T12:39:51.107Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -27507,7 +27507,7 @@
     {
       "title": "Gyroscope",
       "shortname": "gyroscope",
-      "date": "25 October 2023",
+      "date": "7 December 2023",
       "url": "https://www.w3.org/TR/gyroscope/",
       "release": {
         "url": "https://www.w3.org/TR/gyroscope/",
@@ -46379,7 +46379,7 @@
     {
       "title": "Soft Navigations",
       "shortname": "soft-navigations",
-      "date": "29 November 2023",
+      "date": "7 December 2023",
       "url": "https://wicg.github.io/soft-navigations/",
       "nightly": {
         "url": "https://wicg.github.io/soft-navigations/",
