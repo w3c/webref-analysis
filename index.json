@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-08T06:33:05.079Z",
+  "date": "2023-12-08T12:42:19.365Z",
   "stats": {
     "crawled": 591,
-    "errors": 0,
+    "errors": 1,
     "studied": 591
   },
   "results": [
@@ -28216,7 +28216,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "7 December 2023",
+      "date": "8 December 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -42431,7 +42431,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "7 December 2023",
+      "date": "8 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43544,6 +43544,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 267)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -43567,7 +43568,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -49051,7 +49052,7 @@
     {
       "title": "The Storage Access API",
       "shortname": "storage-access",
-      "date": "9 October 2023",
+      "date": "8 December 2023",
       "url": "https://privacycg.github.io/storage-access/",
       "nightly": {
         "url": "https://privacycg.github.io/storage-access/",
@@ -49979,7 +49980,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "27 September 2023",
+      "date": "8 December 2023",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
