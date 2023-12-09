@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-08T18:35:41.566Z",
+  "date": "2023-12-09T00:46:12.653Z",
   "stats": {
     "crawled": 591,
-    "errors": 6,
+    "errors": 0,
     "studied": 591
   },
   "results": [
@@ -10348,7 +10348,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 402)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19063,7 +19062,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 375)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -24930,7 +24928,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "20 November 2023",
+      "date": "08 December 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -24996,7 +24994,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "20 November 2023",
+      "date": "08 December 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -26369,7 +26367,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 403)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27213,7 +27210,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 409)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27363,7 +27359,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -35720,7 +35716,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 449)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -41069,7 +41064,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "7 December 2023",
+      "date": "9 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41356,7 +41351,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "8 December 2023",
+      "date": "9 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -41629,7 +41624,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "7 December 2023",
+      "date": "9 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -41727,11 +41722,6 @@
               "url": "https://www.w3.org/TR/clear-site-data/",
               "title": "Clear Site Data",
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
-            },
-            {
-              "url": "https://www.w3.org/TR/epub-rs-33/",
-              "title": "EPUB Reading Systems 3.3",
-              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -42441,7 +42431,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "8 December 2023",
+      "date": "9 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42502,7 +42492,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "7 December 2023",
+      "date": "9 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43029,7 +43019,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "8 December 2023",
+      "date": "9 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -43139,6 +43129,16 @@
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
               "title": "Digest Fields",
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-rs-33/",
+              "title": "EPUB Reading Systems 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
             },
             {
               "url": "https://fedidcg.github.io/FedCM/",
@@ -43532,7 +43532,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "8 December 2023",
+      "date": "9 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -43554,7 +43554,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://www.rfc-editor.org/rfc/rfc9163 triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 267)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -43578,7 +43577,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
