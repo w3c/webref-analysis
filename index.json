@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-10T12:38:40.400Z",
+  "date": "2023-12-10T18:33:15.092Z",
   "stats": {
     "crawled": 591,
-    "errors": 0,
+    "errors": 10,
     "studied": 591
   },
   "results": [
@@ -2247,6 +2247,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://wicg.github.io/client-hints-infrastructure/ triggered HTTP status 503 Error: Loading https://wicg.github.io/client-hints-infrastructure/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 167)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3226,6 +3227,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/webappsec-cspee/ triggered HTTP status 503 Error: Loading https://w3c.github.io/webappsec-cspee/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 290)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4175,7 +4177,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -6509,7 +6511,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -7181,7 +7183,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -7429,7 +7431,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -10087,7 +10089,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -10746,6 +10748,7 @@
         }
       ],
       "report": {
+        "error": "TypeError: Cannot read properties of null (reading 'textContent')\nhttps://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:369:68\nArray.map (<anonymous>)\nextractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:363:6) TypeError: Cannot read properties of null (reading 'textContent')\nhttps://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:369:68\nArray.map (<anonymous>)\nextractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:363:6)\n    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:36), <anonymous>:6:28)\n    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:229:55)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:126:16)\n    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:128:16)\n    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:363:20)\n    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:744:20)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -18853,9 +18856,9 @@
       }
     },
     {
-      "title": "CSS Transitions",
+      "title": "CSS Transitions Level 1",
       "shortname": "css-transitions-1",
-      "date": "23 August 2023",
+      "date": "10 December 2023",
       "url": "https://www.w3.org/TR/css-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-transitions-1/",
@@ -19628,7 +19631,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -20299,7 +20302,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -22828,7 +22831,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -28699,7 +28702,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -32153,6 +32156,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/IntersectionObserver/ triggered HTTP status 503 Error: Loading https://w3c.github.io/IntersectionObserver/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 423)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -36248,6 +36252,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/reporting/network-reporting.html triggered HTTP status 503 Error: Loading https://w3c.github.io/reporting/network-reporting.html triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 150)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -36271,7 +36276,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -40502,6 +40507,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/reporting/ triggered HTTP status 503 Error: Loading https://w3c.github.io/reporting/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 488)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40581,7 +40587,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -41536,7 +41542,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "9 December 2023",
+      "date": "10 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -44055,7 +44061,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -44741,7 +44747,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -50617,6 +50623,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://wicg.github.io/user-preference-media-features-headers/ triggered HTTP status 503 Error: Loading https://wicg.github.io/user-preference-media-features-headers/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 230)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -50640,7 +50647,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -51367,7 +51374,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -52498,7 +52505,7 @@
             },
             {
               "url": "https://www.w3.org/TR/css-transitions-1/",
-              "title": "CSS Transitions",
+              "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
             },
             {
@@ -54202,6 +54209,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://webassembly.github.io/spec/core/bikeshed/ triggered HTTP status 503 Error: Loading https://webassembly.github.io/spec/core/bikeshed/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 531)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -54372,6 +54380,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://webassembly.github.io/spec/web-api/ triggered HTTP status 503 Error: Loading https://webassembly.github.io/spec/web-api/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 533)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58639,6 +58648,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/window-management/ triggered HTTP status 503 Error: Loading https://w3c.github.io/window-management/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 578)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
