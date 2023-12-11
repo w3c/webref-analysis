@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-11T12:40:42.958Z",
+  "date": "2023-12-11T18:34:49.529Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -3391,7 +3391,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "10 December 2023",
+      "date": "11 December 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -17054,7 +17054,7 @@
     {
       "title": "CSS Snapshot 2023",
       "shortname": "css-2023",
-      "date": "5 December 2023",
+      "date": "11 December 2023",
       "url": "https://www.w3.org/TR/css-2023/",
       "release": {
         "url": "https://www.w3.org/TR/css-2023/",
@@ -21977,7 +21977,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "5 December 2023",
+      "date": "11 December 2023",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -22046,7 +22046,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "10 December 2023",
+      "date": "11 December 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -32391,7 +32391,7 @@
     {
       "title": "Iterator Helpers",
       "shortname": "tc39-iterator-helpers",
-      "date": "4 December 2023",
+      "date": "11 December 2023",
       "url": "https://tc39.es/proposal-iterator-helpers/",
       "nightly": {
         "url": "https://tc39.es/proposal-iterator-helpers/",

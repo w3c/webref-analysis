@@ -557,7 +557,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-iterator-helpers/](https://tc39.es/proposal-iterator-helpers/)
 - Crawled URL: [https://tc39.es/proposal-iterator-helpers/](https://tc39.es/proposal-iterator-helpers/)
-- Crawled version: 4 December 2023
+- Crawled version: 11 December 2023
 - Editor's Draft: [https://tc39.es/proposal-iterator-helpers/](https://tc39.es/proposal-iterator-helpers/)
 - Shortname: tc39-iterator-helpers
 
@@ -970,7 +970,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 10 December 2023
+- Crawled version: 11 December 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -995,7 +995,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 10 December 2023
+- Crawled version: 11 December 2023
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -7704,7 +7704,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
 - Crawled URL: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
-- Crawled version: 5 December 2023
+- Crawled version: 11 December 2023
 - Editor's Draft: [https://drafts.csswg.org/css-2023/](https://drafts.csswg.org/css-2023/)
 - Latest published version: [https://www.w3.org/TR/css-2023/](https://www.w3.org/TR/css-2023/)
 - Shortname: css-2023
@@ -9921,7 +9921,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 5 December 2023
+- Crawled version: 11 December 2023
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
