@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% December 11, 2023
+% December 12, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -12,7 +12,7 @@
 
 - Initial URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Crawled URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
-- Crawled version: 30 November 2023
+- Crawled version: 11 December 2023
 - Editor's Draft: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Shortname: afgs1-spec
 
@@ -88,7 +88,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://aomediacodec.github.io/av1-isobmff/](https://aomediacodec.github.io/av1-isobmff/)
 - Crawled URL: [https://aomediacodec.github.io/av1-isobmff/](https://aomediacodec.github.io/av1-isobmff/)
-- Crawled version: 15 November 2021
+- Crawled version: 11 December 2023
 - Editor's Draft: [https://aomediacodec.github.io/av1-isobmff/](https://aomediacodec.github.io/av1-isobmff/)
 - Shortname: av1-isobmff
 
@@ -1541,7 +1541,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 11 December 2023
+- Crawled version: 12 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1695,7 +1695,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 11 December 2023
+- Crawled version: 12 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1847,7 +1847,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 11 December 2023
+- Crawled version: 12 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -4515,7 +4515,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
 - Crawled URL: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
-- Crawled version: 28 August 2023
+- Crawled version: 11 December 2023
 - Editor's Draft: [https://drafts.csswg.org/css-cascade-6/](https://drafts.csswg.org/css-cascade-6/)
 - Latest published version: [https://www.w3.org/TR/css-cascade-6/](https://www.w3.org/TR/css-cascade-6/)
 - Shortname: css-cascade-6

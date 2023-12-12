@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-11T18:34:49.529Z",
+  "date": "2023-12-12T00:47:42.018Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -684,7 +684,7 @@
     {
       "title": "AOMedia Film Grain Synthesis 1 (AFGS1) specification (Draft)",
       "shortname": "afgs1-spec",
-      "date": "30 November 2023",
+      "date": "11 December 2023",
       "url": "https://aomediacodec.github.io/afgs1-spec/",
       "nightly": {
         "url": "https://aomediacodec.github.io/afgs1-spec/",
@@ -1227,7 +1227,7 @@
     {
       "title": "AV1 Codec ISO Media File Format Binding",
       "shortname": "av1-isobmff",
-      "date": "15 November 2021",
+      "date": "11 December 2023",
       "url": "https://aomediacodec.github.io/av1-isobmff/",
       "nightly": {
         "url": "https://aomediacodec.github.io/av1-isobmff/",
@@ -7311,7 +7311,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 6",
       "shortname": "css-cascade-6",
-      "date": "28 August 2023",
+      "date": "11 December 2023",
       "url": "https://www.w3.org/TR/css-cascade-6/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -41070,7 +41070,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "11 December 2023",
+      "date": "12 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42437,7 +42437,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "11 December 2023",
+      "date": "12 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43538,7 +43538,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "11 December 2023",
+      "date": "12 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
