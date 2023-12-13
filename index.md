@@ -2825,7 +2825,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 04 November 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -2861,7 +2861,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 14 November 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -2934,7 +2934,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/dpub-aam-1.1/](https://www.w3.org/TR/dpub-aam-1.1/)
 - Crawled URL: [https://w3c.github.io/dpub-aam/](https://w3c.github.io/dpub-aam/)
-- Crawled version: 08 November 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://w3c.github.io/dpub-aam/](https://w3c.github.io/dpub-aam/)
 - Latest published version: [https://www.w3.org/TR/dpub-aam-1.1/](https://www.w3.org/TR/dpub-aam-1.1/)
 - Shortname: dpub-aam-1.1
@@ -2957,7 +2957,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/dpub-aria-1.1/](https://www.w3.org/TR/dpub-aria-1.1/)
 - Crawled URL: [https://w3c.github.io/dpub-aria/](https://w3c.github.io/dpub-aria/)
-- Crawled version: 30 October 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://w3c.github.io/dpub-aria/](https://w3c.github.io/dpub-aria/)
 - Latest published version: [https://www.w3.org/TR/dpub-aria-1.1/](https://www.w3.org/TR/dpub-aria-1.1/)
 - Shortname: dpub-aria-1.1
@@ -2984,7 +2984,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/graphics-aam-1.0/](https://www.w3.org/TR/graphics-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/graphics-aam/](https://w3c.github.io/graphics-aam/)
-- Crawled version: 12 December 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://w3c.github.io/graphics-aam/](https://w3c.github.io/graphics-aam/)
 - Latest published version: [https://www.w3.org/TR/graphics-aam-1.0/](https://www.w3.org/TR/graphics-aam-1.0/)
 - Shortname: graphics-aam-1.0
@@ -5706,7 +5706,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
-- Crawled version: 7 December 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Shortname: css-fonts-5
@@ -9844,7 +9844,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
-- Crawled version: 07 December 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Latest published version: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Shortname: compute-pressure
@@ -14351,7 +14351,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
-- Crawled version: 08 November 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
 - Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Shortname: html-aria
@@ -18614,7 +18614,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 14 November 2023
+- Crawled version: 13 December 2023
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-1-fork-gc
 
