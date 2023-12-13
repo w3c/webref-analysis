@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-13T06:34:54.281Z",
+  "date": "2023-12-13T12:39:59.999Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -22553,7 +22553,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "29 October 2023",
+      "date": "13 December 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -41075,7 +41075,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "12 December 2023",
+      "date": "13 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41362,7 +41362,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "12 December 2023",
+      "date": "13 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -41432,7 +41432,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "12 December 2023",
+      "date": "13 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41635,7 +41635,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "12 December 2023",
+      "date": "13 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42503,7 +42503,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "12 December 2023",
+      "date": "13 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -54797,7 +54797,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "14 November 2023",
+      "date": "13 December 2023",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
