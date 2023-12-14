@@ -685,7 +685,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Crawled URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
-- Crawled version: 23 October 2023
+- Crawled version: 14 December 2023
 - Editor's Draft: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Shortname: sourcemap
 
