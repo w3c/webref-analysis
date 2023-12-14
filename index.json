@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-14T12:39:31.892Z",
+  "date": "2023-12-14T18:34:33.040Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -11017,7 +11017,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "13 December 2023",
+      "date": "14 December 2023",
       "url": "https://www.w3.org/TR/css-fonts-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -22553,7 +22553,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "13 December 2023",
+      "date": "14 December 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -24869,7 +24869,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "12 December 2023",
+      "date": "14 December 2023",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -30149,7 +30149,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "12 December 2023",
+      "date": "14 December 2023",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -31955,7 +31955,7 @@
     {
       "title": "Input Events Level 2",
       "shortname": "input-events-2",
-      "date": "10 November 2023",
+      "date": "14 December 2023",
       "url": "https://www.w3.org/TR/input-events-2/",
       "release": {
         "url": "https://www.w3.org/TR/input-events-2/",
@@ -44882,7 +44882,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "12 December 2023",
+      "date": "14 December 2023",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -47145,7 +47145,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "02 November 2023",
+      "date": "14 December 2023",
       "url": "https://www.w3.org/TR/sparql12-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-protocol/",
@@ -47842,7 +47842,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "20 July 2023",
+      "date": "14 December 2023",
       "url": "https://www.w3.org/TR/sparql12-service-description/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-service-description/",
@@ -48908,7 +48908,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "4 December 2023",
+      "date": "14 December 2023",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -54952,7 +54952,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "12 December 2023",
+      "date": "14 December 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
