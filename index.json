@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-15T12:39:51.802Z",
+  "date": "2023-12-15T18:32:34.521Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -684,7 +684,7 @@
     {
       "title": "AOMedia Film Grain Synthesis 1 (AFGS1) specification (Draft)",
       "shortname": "afgs1-spec",
-      "date": "11 December 2023",
+      "date": "15 December 2023",
       "url": "https://aomediacodec.github.io/afgs1-spec/",
       "nightly": {
         "url": "https://aomediacodec.github.io/afgs1-spec/",
@@ -23865,7 +23865,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "14 December 2023",
+      "date": "15 December 2023",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -24936,7 +24936,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "08 December 2023",
+      "date": "15 December 2023",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25002,7 +25002,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "08 December 2023",
+      "date": "15 December 2023",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -31955,7 +31955,7 @@
     {
       "title": "Input Events Level 2",
       "shortname": "input-events-2",
-      "date": "14 December 2023",
+      "date": "15 December 2023",
       "url": "https://www.w3.org/TR/input-events-2/",
       "release": {
         "url": "https://www.w3.org/TR/input-events-2/",
