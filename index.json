@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-16T12:38:35.645Z",
+  "date": "2023-12-16T18:33:30.628Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -7797,7 +7797,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "15 December 2023",
+      "date": "16 December 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
