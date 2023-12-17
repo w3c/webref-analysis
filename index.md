@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% December 16, 2023
+% December 17, 2023
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -804,7 +804,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 16 December 2023
+- Crawled version: 17 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -887,7 +887,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
-- Crawled version: 16 December 2023
+- Crawled version: 17 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Shortname: rfc6386
 
@@ -1383,7 +1383,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 16 December 2023
+- Crawled version: 17 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1541,7 +1541,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 16 December 2023
+- Crawled version: 17 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1660,7 +1660,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 16 December 2023
+- Crawled version: 17 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1745,7 +1745,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 16 December 2023
+- Crawled version: 17 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1820,7 +1820,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 16 December 2023
+- Crawled version: 17 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1847,7 +1847,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 16 December 2023
+- Crawled version: 17 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3934,7 +3934,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
 - Crawled URL: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
-- Crawled version: 29 November 2023
+- Crawled version: 16 December 2023
 - Editor's Draft: [https://drafts.csswg.org/css-borders-4/](https://drafts.csswg.org/css-borders-4/)
 - Shortname: css-borders-4
 
@@ -3942,7 +3942,6 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-logical-1/`](https://www.w3.org/TR/css-logical-1/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
@@ -4421,6 +4420,7 @@ Normative references to this spec from:
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Backgrounds Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Borders and Box Decorations Module Level 4](https://drafts.csswg.org/css-borders-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
@@ -6543,6 +6543,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
+- [CSS Borders and Box Decorations Module Level 4](https://drafts.csswg.org/css-borders-4/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
@@ -7401,6 +7402,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
+- [CSS Borders and Box Decorations Module Level 4](https://drafts.csswg.org/css-borders-4/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
@@ -8874,6 +8876,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Borders and Box Decorations Module Level 4](https://drafts.csswg.org/css-borders-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
@@ -8958,6 +8961,7 @@ Normative references to this spec from:
 - [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Borders and Box Decorations Module Level 4](https://drafts.csswg.org/css-borders-4/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/)

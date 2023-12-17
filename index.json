@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-16T18:33:30.628Z",
+  "date": "2023-12-17T00:47:37.705Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -5267,7 +5267,7 @@
     {
       "title": "CSS Borders and Box Decorations Module Level 4",
       "shortname": "css-borders-4",
-      "date": "29 November 2023",
+      "date": "16 December 2023",
       "url": "https://drafts.csswg.org/css-borders-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-borders-4/",
@@ -5302,7 +5302,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-logical-1/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/cssom/",
@@ -6885,6 +6884,11 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-align-3/",
@@ -13599,6 +13603,11 @@
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
             {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
               "crawled": "https://drafts.csswg.org/css-box-3/"
@@ -16291,6 +16300,11 @@
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
               "title": "CSS Backgrounds and Borders Module Level 3",
               "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-box-4/",
@@ -20972,6 +20986,11 @@
               "crawled": "https://drafts.csswg.org/css-ui-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align-3/"
@@ -21289,6 +21308,11 @@
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-align-3/",
@@ -40990,7 +41014,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41372,7 +41396,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -41442,7 +41466,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41645,7 +41669,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42452,7 +42476,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42513,7 +42537,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43040,7 +43064,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -43553,7 +43577,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
