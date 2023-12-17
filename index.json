@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-17T00:47:37.705Z",
+  "date": "2023-12-17T06:32:28.279Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -5329,6 +5329,11 @@
               "url": "https://www.w3.org/TR/css-color-4/",
               "title": "CSS Color Module Level 4",
               "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-typed-om-1/",
+              "title": "CSS Typed OM Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             }
           ],
           "informative": []
@@ -41109,7 +41114,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "16 December 2023",
+      "date": "17 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
