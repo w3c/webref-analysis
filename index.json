@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-18T12:40:17.215Z",
+  "date": "2023-12-18T18:34:40.012Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -5326,9 +5326,19 @@
               "crawled": "https://drafts.csswg.org/css-ui-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-ui-4/",
+              "title": "CSS Basic User Interface Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-color-4/",
               "title": "CSS Color Module Level 4",
               "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -7806,7 +7816,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "16 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -13534,11 +13544,6 @@
               "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-ui-4/",
-              "title": "CSS Basic User Interface Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-ui-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-align-3/",
@@ -37580,7 +37585,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "17 October 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -54968,7 +54973,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "14 December 2023",
+      "date": "18 December 2023",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
