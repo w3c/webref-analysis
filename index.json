@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-18T06:33:43.239Z",
+  "date": "2023-12-18T12:40:17.215Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -515,7 +515,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "13 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -22582,7 +22582,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "14 December 2023",
+      "date": "18 December 2023",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -25470,7 +25470,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "8 November 2023",
+      "date": "18 December 2023",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -25501,15 +25501,7 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/pub-manifest/",
-            "ref": {
-              "name": "PUB-MANIFEST",
-              "url": "https://w3c.github.io/pub-manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -26021,7 +26013,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -38942,11 +38934,6 @@
               "crawled": "https://w3c.github.io/audiobooks/"
             },
             {
-              "url": "https://fetch.spec.whatwg.org/",
-              "title": "Fetch Standard",
-              "crawled": "https://fetch.spec.whatwg.org/"
-            },
-            {
               "url": "https://privacycg.github.io/nav-tracking-mitigations/",
               "title": "Navigational-Tracking Mitigations",
               "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
@@ -41019,7 +41006,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "17 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41114,7 +41101,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "17 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41471,7 +41458,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "17 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41586,7 +41573,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "17 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42481,7 +42468,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "17 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42542,7 +42529,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "17 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -54087,7 +54074,7 @@
     {
       "title": "Web Smart Card API",
       "shortname": "web-smart-card",
-      "date": "23 November 2023",
+      "date": "18 December 2023",
       "url": "https://wicg.github.io/web-smart-card/",
       "nightly": {
         "url": "https://wicg.github.io/web-smart-card/",
