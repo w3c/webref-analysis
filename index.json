@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-18T18:34:40.012Z",
+  "date": "2023-12-19T00:48:10.731Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -2434,7 +2434,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "12 December 2023",
+      "date": "18 December 2023",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -3688,7 +3688,7 @@
     {
       "title": "CSS 2",
       "shortname": "CSS22",
-      "date": "28 August 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/CSS22/",
       "release": {
         "url": "https://www.w3.org/TR/CSS22/",
@@ -4711,7 +4711,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "1 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -9026,7 +9026,7 @@
     {
       "title": "CSS Counter Styles Level 3",
       "shortname": "css-counter-styles-3",
-      "date": "13 November 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/css-counter-styles-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -9139,7 +9139,7 @@
     {
       "title": "CSS Custom Properties for Cascading Variables Module Level 1",
       "shortname": "css-variables-1",
-      "date": "7 August 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/css-variables-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-variables-1/",
@@ -9219,7 +9219,7 @@
     {
       "title": "CSS Custom Properties for Cascading Variables Module Level 2",
       "shortname": "css-variables-2",
-      "date": "7 August 2023",
+      "date": "18 December 2023",
       "url": "https://drafts.csswg.org/css-variables-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-variables-2/",
@@ -12003,13 +12003,6 @@
             }
           },
           {
-            "link": "https://www.w3.org/TR/css-grid-2/",
-            "ref": {
-              "name": "CSS-GRID-2",
-              "url": "https://drafts.csswg.org/css-grid-2/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-sizing-3/",
             "ref": {
               "name": "CSS-SIZING-3",
@@ -12373,7 +12366,7 @@
     {
       "title": "CSS Images Module Level 3",
       "shortname": "css-images-3",
-      "date": "28 August 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/css-images-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-3/",
@@ -12639,7 +12632,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "12 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -12673,7 +12666,15 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [],
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "<radial-size>"
+                ]
+              }
+            }
+          ],
           "idl": []
         },
         "missingLinkRef": [
@@ -12689,6 +12690,13 @@
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/2017/WD-css-images-4-20170413/",
+            "ref": {
+              "name": "CSS-IMAGES-4",
+              "url": "https://www.w3.org/TR/css-images-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2023/WD-css-images-4-20230217/",
             "ref": {
               "name": "CSS-IMAGES-4",
               "url": "https://www.w3.org/TR/css-images-4/"
@@ -16891,6 +16899,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -19219,7 +19232,7 @@
     {
       "title": "CSS Values and Units Module Level 3",
       "shortname": "css-values-3",
-      "date": "28 August 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/css-values-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-3/",
@@ -19758,7 +19771,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "30 November 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -20713,7 +20726,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "1 December 2023",
+      "date": "18 December 2023",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -20748,7 +20761,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -24475,7 +24494,7 @@
     {
       "title": "EditContext API",
       "shortname": "edit-context",
-      "date": "07 November 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/edit-context/",
       "release": {
         "url": "https://www.w3.org/TR/edit-context/",
@@ -24511,8 +24530,7 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/editing/docs/execCommand/",
-          "https://w3c.github.io/webappsec-secure-contexts/"
+          "https://w3c.github.io/editing/docs/execCommand/"
         ],
         "inconsistentRef": [
           {
@@ -25293,7 +25311,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "1 December 2023",
+      "date": "18 December 2023",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -28255,7 +28273,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 December 2023",
+      "date": "18 December 2023",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -31311,6 +31329,11 @@
               "url": "https://www.w3.org/TR/mediasession/",
               "title": "Media Session",
               "crawled": "https://w3c.github.io/mediasession/"
+            },
+            {
+              "url": "https://www.w3.org/TR/media-source-2/",
+              "title": "Media Source Extensions™",
+              "crawled": "https://w3c.github.io/media-source/"
             },
             {
               "url": "https://www.w3.org/TR/mediacapture-transform/",
@@ -34801,7 +34824,7 @@
     {
       "title": "Media Source Extensions™",
       "shortname": "media-source-2",
-      "date": "06 December 2023",
+      "date": "18 December 2023",
       "url": "https://www.w3.org/TR/media-source-2/",
       "release": {
         "url": "https://www.w3.org/TR/media-source-2/",
@@ -41011,7 +41034,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41106,7 +41129,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41393,7 +41416,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -41463,7 +41486,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41666,7 +41689,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42430,7 +42453,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -42473,7 +42496,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43061,7 +43084,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -43574,7 +43597,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -48189,7 +48212,7 @@
     {
       "title": "Storage Buckets API",
       "shortname": "storage-buckets",
-      "date": "28 November 2023",
+      "date": "19 December 2023",
       "url": "https://wicg.github.io/storage-buckets/",
       "nightly": {
         "url": "https://wicg.github.io/storage-buckets/",
@@ -53703,7 +53726,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "16 December 2023",
+      "date": "19 December 2023",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
