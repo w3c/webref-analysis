@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-19T00:48:10.731Z",
+  "date": "2023-12-19T06:34:24.994Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -3391,7 +3391,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "11 December 2023",
+      "date": "19 December 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -12606,11 +12606,6 @@
               "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
-            },
-            {
-              "url": "https://www.w3.org/TR/motion-1/",
-              "title": "Motion Path Module Level 1",
-              "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
               "url": "https://www.w3.org/TR/webcodecs/",
@@ -22099,7 +22094,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "11 December 2023",
+      "date": "19 December 2023",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -35802,13 +35797,6 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/css-images-3/",
-            "ref": {
-              "name": "CSS-IMAGES-3",
-              "url": "https://drafts.csswg.org/css-images-3/"
-            }
-          },
           {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {

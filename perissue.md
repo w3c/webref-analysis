@@ -1787,9 +1787,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but related reference "GETUSERMEDIA" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 - [Mixed Content](https://w3c.github.io/webappsec-mixed-content/) links to [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/) but related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to:
-    * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/) but related reference "CSS-IMAGES-3" uses URL [`https://drafts.csswg.org/css-images-3/`](https://drafts.csswg.org/css-images-3/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/) links to:
     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/) but related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
     * [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/) but related reference "TRACKING-DNT" uses URL [`https://w3c.github.io/dnt/drafts/tracking-dnt.html`](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
@@ -1971,7 +1969,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 468 inconsistent references for links found in 179 specifications
+=> 467 inconsistent references for links found in 179 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
