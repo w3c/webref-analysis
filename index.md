@@ -12,7 +12,7 @@
 
 - Initial URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Crawled URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
-- Crawled version: 15 December 2023
+- Crawled version: 19 December 2023
 - Editor's Draft: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Shortname: afgs1-spec
 
@@ -8772,7 +8772,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 18 December 2023
+- Crawled version: 19 December 2023
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -8782,9 +8782,7 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -17373,7 +17371,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 14 December 2023
+- Crawled version: 19 December 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 

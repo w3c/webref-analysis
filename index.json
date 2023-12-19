@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-19T12:39:34.113Z",
+  "date": "2023-12-19T18:33:10.697Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -684,7 +684,7 @@
     {
       "title": "AOMedia Film Grain Synthesis 1 (AFGS1) specification (Draft)",
       "shortname": "afgs1-spec",
-      "date": "15 December 2023",
+      "date": "19 December 2023",
       "url": "https://aomediacodec.github.io/afgs1-spec/",
       "nightly": {
         "url": "https://aomediacodec.github.io/afgs1-spec/",
@@ -20721,7 +20721,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "18 December 2023",
+      "date": "19 December 2023",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -20756,13 +20756,7 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://drafts.csswg.org/css-view-transitions-2/",
-              "title": "CSS View Transitions Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": true
@@ -38796,7 +38790,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "14 December 2023",
+      "date": "19 December 2023",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
