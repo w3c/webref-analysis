@@ -10361,7 +10361,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
-- Crawled version: 06 December 2023
+- Crawled version: 20 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 - Shortname: mse-byte-stream-format-isobmff
@@ -10385,7 +10385,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
-- Crawled version: 06 December 2023
+- Crawled version: 20 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
 - Shortname: mse-byte-stream-format-registry
@@ -10409,7 +10409,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
-- Crawled version: 06 December 2023
+- Crawled version: 20 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
 - Shortname: mse-byte-stream-format-mpeg-audio
@@ -10433,7 +10433,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
-- Crawled version: 06 December 2023
+- Crawled version: 20 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
 - Shortname: mse-byte-stream-format-mp2t
@@ -10457,7 +10457,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
-- Crawled version: 06 December 2023
+- Crawled version: 20 December 2023
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
 - Shortname: mse-byte-stream-format-webm

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-20T12:36:14.371Z",
+  "date": "2023-12-20T14:57:35.778Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -32384,7 +32384,7 @@
     {
       "title": "ISO BMFF Byte Stream Format",
       "shortname": "mse-byte-stream-format-isobmff",
-      "date": "06 December 2023",
+      "date": "20 December 2023",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
@@ -34763,7 +34763,7 @@
     {
       "title": "Media Source Extensions Byte Stream Format Registry",
       "shortname": "mse-byte-stream-format-registry",
-      "date": "06 December 2023",
+      "date": "20 December 2023",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
@@ -35886,7 +35886,7 @@
     {
       "title": "MPEG Audio Byte Stream Format",
       "shortname": "mse-byte-stream-format-mpeg-audio",
-      "date": "06 December 2023",
+      "date": "20 December 2023",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
@@ -35939,7 +35939,7 @@
     {
       "title": "MPEG-2 TS Byte Stream Format",
       "shortname": "mse-byte-stream-format-mp2t",
-      "date": "06 December 2023",
+      "date": "20 December 2023",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
@@ -57108,7 +57108,7 @@
     {
       "title": "WebM Byte Stream Format",
       "shortname": "mse-byte-stream-format-webm",
-      "date": "06 December 2023",
+      "date": "20 December 2023",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
