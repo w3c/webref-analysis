@@ -4607,7 +4607,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-color-hdr/](https://drafts.csswg.org/css-color-hdr/)
 - Crawled URL: [https://drafts.csswg.org/css-color-hdr/](https://drafts.csswg.org/css-color-hdr/)
-- Crawled version: 12 December 2023
+- Crawled version: 20 December 2023
 - Editor's Draft: [https://drafts.csswg.org/css-color-hdr/](https://drafts.csswg.org/css-color-hdr/)
 - Shortname: css-color-hdr
 

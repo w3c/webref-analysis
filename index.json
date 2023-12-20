@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-20T14:57:35.778Z",
+  "date": "2023-12-20T18:33:36.760Z",
   "stats": {
     "crawled": 591,
     "errors": 10,
@@ -7615,7 +7615,7 @@
     {
       "title": "CSS Color HDR Module Level 1",
       "shortname": "css-color-hdr",
-      "date": "12 December 2023",
+      "date": "20 December 2023",
       "url": "https://drafts.csswg.org/css-color-hdr/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-hdr/",
