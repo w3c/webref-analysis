@@ -38,6 +38,13 @@ extractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/
     at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:25)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)`
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/): `Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 403)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 - [Intersection Observer](https://w3c.github.io/IntersectionObserver/): `Error: Loading https://w3c.github.io/IntersectionObserver/ triggered HTTP status 503 Error: Loading https://w3c.github.io/IntersectionObserver/ triggered HTTP status 503
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
@@ -81,7 +88,7 @@ extractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/
     at async Promise.all (index 578)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 
-=> 10 specifications found
+=> 11 specifications found
 
 
 ## Specifications without normative dependencies
@@ -1007,12 +1014,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but does not list it in its references
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
-    * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html) but does not list it in its references
-    * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/) links to:
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1391,7 +1392,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/) links to [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 971 missing references for links found in 241 specifications
+=> 966 missing references for links found in 240 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1701,6 +1702,12 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/) but related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/) links to:
+    * [`https://www.w3.org/TR/2019/WD-css-text-4-20191113/`](https://www.w3.org/TR/2019/WD-css-text-4-20191113/) but related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+    * [`https://www.w3.org/TR/2022/WD-css-text-4-20220505/`](https://www.w3.org/TR/2022/WD-css-text-4-20220505/) but related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+    * [`https://www.w3.org/TR/2022/WD-css-text-4-20221231/`](https://www.w3.org/TR/2022/WD-css-text-4-20221231/) but related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+    * [`https://www.w3.org/TR/2023/WD-css-text-4-20230301/`](https://www.w3.org/TR/2023/WD-css-text-4-20230301/) but related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+    * [`https://www.w3.org/TR/2023/WD-css-text-4-20230329/`](https://www.w3.org/TR/2023/WD-css-text-4-20230329/) but related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+    * [`https://www.w3.org/TR/2023/WD-css-text-4-20231020/`](https://www.w3.org/TR/2023/WD-css-text-4-20231020/) but related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
     * [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/) but related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/) but related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1744,11 +1751,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Event Timing API](https://w3c.github.io/event-timing/) links to:
     * [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/) but related reference "POINTEREVENTS3" uses URL [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/) but related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/) links to:
-    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/) links to [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/) but related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/) links to:
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
@@ -1968,7 +1970,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 466 inconsistent references for links found in 179 specifications
+=> 468 inconsistent references for links found in 178 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

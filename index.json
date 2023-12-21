@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-21T00:46:21.245Z",
+  "date": "2023-12-21T06:34:25.397Z",
   "stats": {
     "crawled": 591,
-    "errors": 10,
+    "errors": 11,
     "studied": 591
   },
   "results": [
@@ -18345,7 +18345,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "13 November 2023",
+      "date": "21 December 2023",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -18392,6 +18392,48 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2019/WD-css-text-4-20191113/",
+            "ref": {
+              "name": "CSS-TEXT-4",
+              "url": "https://drafts.csswg.org/css-text-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/WD-css-text-4-20220505/",
+            "ref": {
+              "name": "CSS-TEXT-4",
+              "url": "https://drafts.csswg.org/css-text-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/WD-css-text-4-20221231/",
+            "ref": {
+              "name": "CSS-TEXT-4",
+              "url": "https://drafts.csswg.org/css-text-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2023/WD-css-text-4-20230301/",
+            "ref": {
+              "name": "CSS-TEXT-4",
+              "url": "https://drafts.csswg.org/css-text-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2023/WD-css-text-4-20230329/",
+            "ref": {
+              "name": "CSS-TEXT-4",
+              "url": "https://drafts.csswg.org/css-text-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/",
+            "ref": {
+              "name": "CSS-TEXT-4",
+              "url": "https://drafts.csswg.org/css-text-4/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-fonts-3/",
             "ref": {
@@ -18626,6 +18668,11 @@
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-4/",
+              "title": "CSS Text Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-3/",
@@ -26417,6 +26464,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 403)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,

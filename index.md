@@ -8113,7 +8113,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Crawled URL: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
-- Crawled version: 13 November 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://drafts.csswg.org/css-text-4/](https://drafts.csswg.org/css-text-4/)
 - Latest published version: [https://www.w3.org/TR/css-text-4/](https://www.w3.org/TR/css-text-4/)
 - Shortname: css-text-4
@@ -8129,6 +8129,12 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2019/WD-css-text-4-20191113/`](https://www.w3.org/TR/2019/WD-css-text-4-20191113/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+     * [`https://www.w3.org/TR/2022/WD-css-text-4-20220505/`](https://www.w3.org/TR/2022/WD-css-text-4-20220505/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+     * [`https://www.w3.org/TR/2022/WD-css-text-4-20221231/`](https://www.w3.org/TR/2022/WD-css-text-4-20221231/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+     * [`https://www.w3.org/TR/2023/WD-css-text-4-20230301/`](https://www.w3.org/TR/2023/WD-css-text-4-20230301/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+     * [`https://www.w3.org/TR/2023/WD-css-text-4-20230329/`](https://www.w3.org/TR/2023/WD-css-text-4-20230329/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
+     * [`https://www.w3.org/TR/2023/WD-css-text-4-20231020/`](https://www.w3.org/TR/2023/WD-css-text-4-20231020/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
      * [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
      * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -8181,6 +8187,7 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
@@ -9067,7 +9074,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### Filter Effects Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Filter Effects Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9080,17 +9087,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html)
-     * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 403)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
