@@ -427,7 +427,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
 - Crawled URL: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
-- Crawled version: 2 December 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://tc39.es/proposal-array-from-async/](https://tc39.es/proposal-array-from-async/)
 - Shortname: tc39-array-from-async
 
@@ -785,7 +785,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 17 December 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -806,7 +806,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 17 December 2023
+- Crawled version: 20 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -1385,7 +1385,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 20 December 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1543,7 +1543,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 20 December 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1662,7 +1662,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 16 December 2023
+- Crawled version: 19 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1697,7 +1697,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 15 December 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1822,7 +1822,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 15 December 2023
+- Crawled version: 20 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -1849,7 +1849,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 18 December 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -8136,6 +8136,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2023/WD-css-text-4-20230329/`](https://www.w3.org/TR/2023/WD-css-text-4-20230329/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
      * [`https://www.w3.org/TR/2023/WD-css-text-4-20231020/`](https://www.w3.org/TR/2023/WD-css-text-4-20231020/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
      * [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+     * [`https://www.w3.org/TR/css-text-4/`](https://www.w3.org/TR/css-text-4/), related reference "CSS-TEXT-4" uses URL [`https://drafts.csswg.org/css-text-4/`](https://drafts.csswg.org/css-text-4/)
      * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
@@ -17341,7 +17342,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 20 December 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -17792,7 +17793,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
 - Crawled URL: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
-- Crawled version: 29 September 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://wicg.github.io/serial/](https://wicg.github.io/serial/)
 - Shortname: serial
 
@@ -18532,7 +18533,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 12 December 2023
+- Crawled version: 21 December 2023
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
