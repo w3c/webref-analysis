@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-23T12:38:11.615Z",
+  "date": "2023-12-23T18:32:02.277Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -41471,7 +41471,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "22 December 2023",
+      "date": "23 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
