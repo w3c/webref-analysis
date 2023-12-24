@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-24T12:40:35.573Z",
+  "date": "2023-12-24T18:31:47.422Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -25411,7 +25411,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "20 December 2023",
+      "date": "24 December 2023",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
