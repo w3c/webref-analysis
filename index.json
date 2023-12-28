@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-27T18:31:52.676Z",
+  "date": "2023-12-28T00:47:05.378Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -12641,7 +12641,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "18 December 2023",
+      "date": "27 December 2023",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -25165,7 +25165,7 @@
     {
       "title": "ES Array.fromAsync (2022)",
       "shortname": "tc39-array-from-async",
-      "date": "21 December 2023",
+      "date": "27 December 2023",
       "url": "https://tc39.es/proposal-array-from-async/",
       "nightly": {
         "url": "https://tc39.es/proposal-array-from-async/",
@@ -43657,7 +43657,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "27 December 2023",
+      "date": "28 December 2023",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
