@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2023-12-28T12:38:50.971Z",
+  "date": "2023-12-28T18:31:58.497Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -38783,7 +38783,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "13 October 2023",
+      "date": "28 December 2023",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
