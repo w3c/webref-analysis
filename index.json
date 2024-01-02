@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-02T00:45:45.921Z",
+  "date": "2024-01-02T06:32:37.726Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -684,7 +684,7 @@
     {
       "title": "AOMedia Film Grain Synthesis 1 (AFGS1) specification (Draft)",
       "shortname": "afgs1-spec",
-      "date": "19 December 2023",
+      "date": "2 January 2024",
       "url": "https://aomediacodec.github.io/afgs1-spec/",
       "nightly": {
         "url": "https://aomediacodec.github.io/afgs1-spec/",
@@ -41661,7 +41661,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "1 January 2024",
+      "date": "2 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41749,7 +41749,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "1 January 2024",
+      "date": "2 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42617,7 +42617,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "1 January 2024",
+      "date": "2 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43144,7 +43144,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "1 January 2024",
+      "date": "2 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -43657,7 +43657,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "1 January 2024",
+      "date": "2 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
