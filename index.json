@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-02T12:39:08.619Z",
+  "date": "2024-01-02T18:32:23.573Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -25366,7 +25366,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "18 December 2023",
+      "date": "2 January 2024",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
