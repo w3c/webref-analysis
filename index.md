@@ -12,7 +12,7 @@
 
 - Initial URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Crawled URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
-- Crawled version: 2 January 2024
+- Crawled version: 3 January 2024
 - Editor's Draft: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Shortname: afgs1-spec
 
@@ -1385,7 +1385,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 2 January 2024
+- Crawled version: 3 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
