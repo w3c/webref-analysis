@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-03T12:39:32.761Z",
+  "date": "2024-01-03T18:32:15.331Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -874,7 +874,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "12 December 2023",
+      "date": "3 January 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -41661,7 +41661,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "2 January 2024",
+      "date": "3 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -49288,7 +49288,7 @@
     {
       "title": "Topics API",
       "shortname": "topics",
-      "date": "27 September 2023",
+      "date": "3 January 2024",
       "url": "https://patcg-individual-drafts.github.io/topics/",
       "nightly": {
         "url": "https://patcg-individual-drafts.github.io/topics/",
@@ -54303,7 +54303,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "1 December 2023",
+      "date": "3 January 2024",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -54354,7 +54354,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "1 December 2023",
+      "date": "3 January 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -54473,7 +54473,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "1 December 2023",
+      "date": "3 January 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
