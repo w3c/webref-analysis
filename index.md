@@ -1788,7 +1788,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 3 January 2024
+- Crawled version: 4 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -3262,7 +3262,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Crawled URL: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
-- Crawled version: 15 December 2023
+- Crawled version: 04 January 2024
 - Editor's Draft: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
 - Latest published version: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Shortname: webdriver2
@@ -9862,7 +9862,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
-- Crawled version: 13 December 2023
+- Crawled version: 04 January 2024
 - Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Latest published version: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Shortname: compute-pressure
