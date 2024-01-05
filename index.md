@@ -9779,7 +9779,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
 - Crawled URL: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
-- Crawled version: 4 January 2024
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
 - Latest published version: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
 - Shortname: accelerometer
@@ -9812,7 +9812,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Crawled URL: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
-- Crawled version: 27 November 2023
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
 - Latest published version: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Shortname: ambient-light
@@ -9836,7 +9836,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/battery-status/](https://www.w3.org/TR/battery-status/)
 - Crawled URL: [https://w3c.github.io/battery/](https://w3c.github.io/battery/)
-- Crawled version: 03 February 2023
+- Crawled version: 05 January 2024
 - Editor's Draft: [https://w3c.github.io/battery/](https://w3c.github.io/battery/)
 - Latest published version: [https://www.w3.org/TR/battery-status/](https://www.w3.org/TR/battery-status/)
 - Shortname: battery-status
@@ -9941,7 +9941,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 4 January 2024
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -9971,7 +9971,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 22 November 2023
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -10039,7 +10039,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/geolocation-sensor/](https://www.w3.org/TR/geolocation-sensor/)
 - Crawled URL: [https://w3c.github.io/geolocation-sensor/](https://w3c.github.io/geolocation-sensor/)
-- Crawled version: 27 November 2023
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/geolocation-sensor/](https://w3c.github.io/geolocation-sensor/)
 - Latest published version: [https://www.w3.org/TR/geolocation-sensor/](https://www.w3.org/TR/geolocation-sensor/)
 - Shortname: geolocation-sensor
@@ -10061,7 +10061,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
 - Crawled URL: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
-- Crawled version: 4 January 2024
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
 - Latest published version: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
 - Shortname: gyroscope
@@ -10110,7 +10110,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/magnetometer/](https://www.w3.org/TR/magnetometer/)
 - Crawled URL: [https://w3c.github.io/magnetometer/](https://w3c.github.io/magnetometer/)
-- Crawled version: 27 November 2023
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/magnetometer/](https://w3c.github.io/magnetometer/)
 - Latest published version: [https://www.w3.org/TR/magnetometer/](https://www.w3.org/TR/magnetometer/)
 - Shortname: magnetometer
@@ -10134,7 +10134,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/orientation-sensor/](https://www.w3.org/TR/orientation-sensor/)
 - Crawled URL: [https://w3c.github.io/orientation-sensor/](https://w3c.github.io/orientation-sensor/)
-- Crawled version: 28 November 2023
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/orientation-sensor/](https://w3c.github.io/orientation-sensor/)
 - Latest published version: [https://www.w3.org/TR/orientation-sensor/](https://www.w3.org/TR/orientation-sensor/)
 - Shortname: orientation-sensor
@@ -10159,7 +10159,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/proximity/](https://www.w3.org/TR/proximity/)
 - Crawled URL: [https://w3c.github.io/proximity/](https://w3c.github.io/proximity/)
-- Crawled version: 27 November 2023
+- Crawled version: 5 January 2024
 - Editor's Draft: [https://w3c.github.io/proximity/](https://w3c.github.io/proximity/)
 - Latest published version: [https://www.w3.org/TR/proximity/](https://www.w3.org/TR/proximity/)
 - Shortname: proximity
@@ -10183,7 +10183,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Crawled URL: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
-- Crawled version: 07 November 2023
+- Crawled version: 05 January 2024
 - Editor's Draft: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
 - Latest published version: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Shortname: screen-wake-lock
@@ -10207,7 +10207,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/vibration/](https://www.w3.org/TR/vibration/)
 - Crawled URL: [https://w3c.github.io/vibration/](https://w3c.github.io/vibration/)
-- Crawled version: 01 June 2022
+- Crawled version: 05 January 2024
 - Editor's Draft: [https://w3c.github.io/vibration/](https://w3c.github.io/vibration/)
 - Latest published version: [https://www.w3.org/TR/vibration/](https://www.w3.org/TR/vibration/)
 - Shortname: vibration
