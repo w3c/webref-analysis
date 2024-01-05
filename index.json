@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-05T12:39:39.809Z",
+  "date": "2024-01-05T18:33:35.180Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -684,7 +684,7 @@
     {
       "title": "AOMedia Film Grain Synthesis 1 (AFGS1) specification (Draft)",
       "shortname": "afgs1-spec",
-      "date": "3 January 2024",
+      "date": "5 January 2024",
       "url": "https://aomediacodec.github.io/afgs1-spec/",
       "nightly": {
         "url": "https://aomediacodec.github.io/afgs1-spec/",
@@ -7825,7 +7825,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "22 December 2023",
+      "date": "5 January 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -7966,7 +7966,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "19 December 2023",
+      "date": "5 January 2024",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -20718,7 +20718,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "23 November 2023",
+      "date": "5 January 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -38889,7 +38889,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "4 January 2024",
+      "date": "5 January 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -55078,7 +55078,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "20 December 2023",
+      "date": "5 January 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
