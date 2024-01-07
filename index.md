@@ -12,7 +12,7 @@
 
 - Initial URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Crawled URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
-- Crawled version: 5 January 2024
+- Crawled version: 7 January 2024
 - Editor's Draft: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Shortname: afgs1-spec
 

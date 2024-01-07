@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-07T00:46:14.037Z",
+  "date": "2024-01-07T06:32:19.917Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -684,7 +684,7 @@
     {
       "title": "AOMedia Film Grain Synthesis 1 (AFGS1) specification (Draft)",
       "shortname": "afgs1-spec",
-      "date": "5 January 2024",
+      "date": "7 January 2024",
       "url": "https://aomediacodec.github.io/afgs1-spec/",
       "nightly": {
         "url": "https://aomediacodec.github.io/afgs1-spec/",
