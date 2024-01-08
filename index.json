@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-07T18:32:09.207Z",
+  "date": "2024-01-08T00:45:41.737Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -41209,7 +41209,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "7 January 2024",
+      "date": "8 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41496,7 +41496,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "7 January 2024",
+      "date": "8 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
