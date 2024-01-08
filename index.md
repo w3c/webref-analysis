@@ -728,7 +728,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 14 December 2023
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -807,7 +807,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 7 January 2024
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -973,7 +973,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 7 January 2024
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -998,7 +998,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 7 January 2024
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -1748,7 +1748,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 7 January 2024
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1789,7 +1789,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 7 January 2024
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -2864,7 +2864,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 05 January 2024
+- Crawled version: 08 January 2024
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -9779,7 +9779,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
 - Crawled URL: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
-- Crawled version: 5 January 2024
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://w3c.github.io/accelerometer/](https://w3c.github.io/accelerometer/)
 - Latest published version: [https://www.w3.org/TR/accelerometer/](https://www.w3.org/TR/accelerometer/)
 - Shortname: accelerometer
@@ -10061,7 +10061,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
 - Crawled URL: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
-- Crawled version: 5 January 2024
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://w3c.github.io/gyroscope/](https://w3c.github.io/gyroscope/)
 - Latest published version: [https://www.w3.org/TR/gyroscope/](https://www.w3.org/TR/gyroscope/)
 - Shortname: gyroscope
@@ -11093,7 +11093,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-aac-codec-registration/](https://www.w3.org/TR/webcodecs-aac-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/aac_codec_registration.html](https://w3c.github.io/webcodecs/aac_codec_registration.html)
-- Crawled version: 23 November 2023
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://w3c.github.io/webcodecs/aac_codec_registration.html](https://w3c.github.io/webcodecs/aac_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-aac-codec-registration/](https://www.w3.org/TR/webcodecs-aac-codec-registration/)
 - Shortname: webcodecs-aac-codec-registration
@@ -11184,7 +11184,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-avc-codec-registration/](https://www.w3.org/TR/webcodecs-avc-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/avc_codec_registration.html](https://w3c.github.io/webcodecs/avc_codec_registration.html)
-- Crawled version: 23 November 2023
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://w3c.github.io/webcodecs/avc_codec_registration.html](https://w3c.github.io/webcodecs/avc_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-avc-codec-registration/](https://www.w3.org/TR/webcodecs-avc-codec-registration/)
 - Shortname: webcodecs-avc-codec-registration
@@ -11399,7 +11399,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-mp3-codec-registration/](https://www.w3.org/TR/webcodecs-mp3-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/mp3_codec_registration.html](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
-- Crawled version: 23 November 2023
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://w3c.github.io/webcodecs/mp3_codec_registration.html](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-mp3-codec-registration/](https://www.w3.org/TR/webcodecs-mp3-codec-registration/)
 - Shortname: webcodecs-mp3-codec-registration
@@ -11498,7 +11498,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-vorbis-codec-registration/](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/)
 - Crawled URL: [https://w3c.github.io/webcodecs/vorbis_codec_registration.html](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
-- Crawled version: 23 November 2023
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://w3c.github.io/webcodecs/vorbis_codec_registration.html](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-vorbis-codec-registration/](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/)
 - Shortname: webcodecs-vorbis-codec-registration
@@ -11570,7 +11570,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Crawled URL: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
-- Crawled version: 23 November 2023
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://w3c.github.io/webcodecs/](https://w3c.github.io/webcodecs/)
 - Latest published version: [https://www.w3.org/TR/webcodecs/](https://www.w3.org/TR/webcodecs/)
 - Shortname: webcodecs
@@ -11617,7 +11617,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webcodecs-codec-registry/](https://www.w3.org/TR/webcodecs-codec-registry/)
 - Crawled URL: [https://w3c.github.io/webcodecs/codec_registry.html](https://w3c.github.io/webcodecs/codec_registry.html)
-- Crawled version: 23 November 2023
+- Crawled version: 8 January 2024
 - Editor's Draft: [https://w3c.github.io/webcodecs/codec_registry.html](https://w3c.github.io/webcodecs/codec_registry.html)
 - Latest published version: [https://www.w3.org/TR/webcodecs-codec-registry/](https://www.w3.org/TR/webcodecs-codec-registry/)
 - Shortname: webcodecs-codec-registry
