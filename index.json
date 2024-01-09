@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-09T12:43:56.277Z",
+  "date": "2024-01-09T18:36:12.149Z",
   "stats": {
     "crawled": 591,
-    "errors": 16,
+    "errors": 17,
     "studied": 591
   },
   "results": [
@@ -8935,7 +8935,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "1 December 2023",
+      "date": "9 January 2024",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -17385,6 +17385,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 364)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17449,7 +17450,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -22268,7 +22269,7 @@
     {
       "title": "Digital Publishing Accessibility API Mappings 1.1",
       "shortname": "dpub-aam-1.1",
-      "date": "22 December 2023",
+      "date": "09 January 2024",
       "url": "https://www.w3.org/TR/dpub-aam-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aam-1.1/",
@@ -22317,7 +22318,7 @@
     {
       "title": "Digital Publishing WAI-ARIA Module 1.1",
       "shortname": "dpub-aria-1.1",
-      "date": "08 January 2024",
+      "date": "09 January 2024",
       "url": "https://www.w3.org/TR/dpub-aria-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aria-1.1/",
@@ -25063,7 +25064,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "08 January 2024",
+      "date": "09 January 2024",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25129,7 +25130,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "08 January 2024",
+      "date": "09 January 2024",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -38897,7 +38898,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "8 January 2024",
+      "date": "9 January 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -57037,7 +57038,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "8 January 2024",
+      "date": "9 January 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -57112,7 +57113,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "8 January 2024",
+      "date": "9 January 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
