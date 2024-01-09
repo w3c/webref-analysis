@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-08T18:33:23.753Z",
+  "date": "2024-01-09T00:48:30.537Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -684,7 +684,7 @@
     {
       "title": "AOMedia Film Grain Synthesis 1 (AFGS1) specification (Draft)",
       "shortname": "afgs1-spec",
-      "date": "7 January 2024",
+      "date": "8 January 2024",
       "url": "https://aomediacodec.github.io/afgs1-spec/",
       "nightly": {
         "url": "https://aomediacodec.github.io/afgs1-spec/",
@@ -20787,7 +20787,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "19 December 2023",
+      "date": "8 January 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -22032,7 +22032,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "04 April 2023",
+      "date": "08 January 2024",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -25058,7 +25058,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "27 December 2023",
+      "date": "08 January 2024",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25124,7 +25124,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "27 December 2023",
+      "date": "08 January 2024",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -27172,7 +27172,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "02 March 2023",
+      "date": "08 January 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -41214,7 +41214,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "8 January 2024",
+      "date": "9 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -57039,7 +57039,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "4 January 2024",
+      "date": "8 January 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -57114,7 +57114,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "4 January 2024",
+      "date": "8 January 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
