@@ -3568,6 +3568,7 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Element Capture](https://screen-share.github.io/element-capture/)
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
@@ -9951,6 +9952,7 @@ Normative references to this spec from:
 - [Accelerometer](https://w3c.github.io/accelerometer/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
+- [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
 Informative references to this spec from:
 
@@ -10122,21 +10124,21 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Orientation Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Orientation Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/orientation-sensor/](https://www.w3.org/TR/orientation-sensor/)
 - Crawled URL: [https://w3c.github.io/orientation-sensor/](https://w3c.github.io/orientation-sensor/)
-- Crawled version: 5 January 2024
+- Crawled version: 10 January 2024
 - Editor's Draft: [https://w3c.github.io/orientation-sensor/](https://w3c.github.io/orientation-sensor/)
 - Latest published version: [https://www.w3.org/TR/orientation-sensor/](https://www.w3.org/TR/orientation-sensor/)
 - Shortname: orientation-sensor
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/), related reference "ORIENTATION-EVENT" uses URL [`https://w3c.github.io/deviceorientation/`](https://w3c.github.io/deviceorientation/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11031,7 +11033,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 27 November 2023
+- Crawled version: 10 January 2024
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -13388,7 +13390,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
 - Crawled URL: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
-- Crawled version: 01 December 2023
+- Crawled version: 10 January 2024
 - Editor's Draft: [https://screen-share.github.io/element-capture/](https://screen-share.github.io/element-capture/)
 - Shortname: element-capture
 
@@ -20137,7 +20139,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 9 January 2024
+- Crawled version: 10 January 2024
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 

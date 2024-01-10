@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-10T06:36:05.371Z",
+  "date": "2024-01-10T12:39:51.336Z",
   "stats": {
     "crawled": 591,
     "errors": 3,
@@ -4240,6 +4240,11 @@
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
+            },
+            {
+              "url": "https://screen-share.github.io/element-capture/",
+              "title": "Element Capture",
+              "crawled": "https://screen-share.github.io/element-capture/"
             },
             {
               "url": "https://wicg.github.io/fenced-frame/",
@@ -22140,6 +22145,11 @@
               "url": "https://www.w3.org/TR/gyroscope/",
               "title": "Gyroscope",
               "crawled": "https://w3c.github.io/gyroscope/"
+            },
+            {
+              "url": "https://www.w3.org/TR/orientation-sensor/",
+              "title": "Orientation Sensor",
+              "crawled": "https://w3c.github.io/orientation-sensor/"
             }
           ],
           "informative": [
@@ -24629,7 +24639,7 @@
     {
       "title": "Element Capture",
       "shortname": "element-capture",
-      "date": "01 December 2023",
+      "date": "10 January 2024",
       "url": "https://screen-share.github.io/element-capture/",
       "nightly": {
         "url": "https://screen-share.github.io/element-capture/",
@@ -33632,7 +33642,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "27 November 2023",
+      "date": "10 January 2024",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -36703,7 +36713,7 @@
     {
       "title": "Orientation Sensor",
       "shortname": "orientation-sensor",
-      "date": "5 January 2024",
+      "date": "10 January 2024",
       "url": "https://www.w3.org/TR/orientation-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-sensor/",
@@ -36738,10 +36748,16 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/2016/CR-orientation-event-20160818/"
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2016/CR-orientation-event-20160818/",
+            "ref": {
+              "name": "ORIENTATION-EVENT",
+              "url": "https://w3c.github.io/deviceorientation/"
+            }
+          }
         ],
-        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -48438,7 +48454,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "9 January 2024",
+      "date": "10 January 2024",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
