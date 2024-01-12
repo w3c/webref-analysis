@@ -1686,6 +1686,7 @@ Informative references to this spec from:
 
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 
 
@@ -3306,7 +3307,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 10 January 2024
+- Crawled version: 12 January 2024
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -3579,6 +3580,7 @@ Normative references to this spec from:
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Proposals for the future of CSS Paged Media](https://drafts.csswg.org/css-page-4/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
@@ -3785,7 +3787,7 @@ Normative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 
 Informative references to this spec from:
 
@@ -4497,6 +4499,7 @@ Normative references to this spec from:
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
@@ -4655,7 +4658,7 @@ Normative references to this spec from:
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Mathematical Markup Language (MathML) Version 4.0](https://w3c.github.io/mathml/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
@@ -5227,7 +5230,7 @@ Normative references to this spec from:
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 No informative reference to this spec from other specs.
@@ -5684,6 +5687,7 @@ Normative references to this spec from:
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [MathML Core](https://w3c.github.io/mathml-core/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
@@ -8083,7 +8087,6 @@ Normative references to this spec from:
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
@@ -8174,6 +8177,7 @@ Normative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Quirks Mode Standard](https://quirks.spec.whatwg.org/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
@@ -9063,6 +9067,7 @@ Normative references to this spec from:
 
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Screen Orientation](https://w3c.github.io/screen-orientation/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -9622,7 +9627,7 @@ Normative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 
 No informative reference to this spec from other specs.
 
@@ -13191,6 +13196,7 @@ Normative references to this spec from:
 - [Mathematical Markup Language (MathML) Version 4.0](https://w3c.github.io/mathml/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Resize Observer](https://drafts.csswg.org/resize-observer-1/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
@@ -15670,7 +15676,7 @@ Normative references to this spec from:
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
@@ -15739,7 +15745,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Crawled URL: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
-- Crawled version: 8 January 2024
+- Crawled version: 12 January 2024
 - Editor's Draft: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 - Latest published version: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Shortname: longtasks-1
@@ -15845,13 +15851,13 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Paint Timing 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Paint Timing {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/paint-timing/](https://www.w3.org/TR/paint-timing/)
 - Crawled URL: [https://w3c.github.io/paint-timing/](https://w3c.github.io/paint-timing/)
-- Crawled version: 16 February 2021
+- Crawled version: 12 January 2024
 - Editor's Draft: [https://w3c.github.io/paint-timing/](https://w3c.github.io/paint-timing/)
 - Latest published version: [https://www.w3.org/TR/paint-timing/](https://www.w3.org/TR/paint-timing/)
 - Shortname: paint-timing
@@ -15859,11 +15865,11 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
-     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/)
      * [`https://www.w3.org/TR/css-images-3/`](https://www.w3.org/TR/css-images-3/)
      * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
-     * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
+     * [`https://www.w3.org/TR/cssom-view`](https://www.w3.org/TR/cssom-view), related reference "CSSOM-VIEW-1" uses URL [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15905,6 +15911,7 @@ Normative references to this spec from:
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Soft Navigations](https://wicg.github.io/soft-navigations/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
@@ -16536,6 +16543,7 @@ Normative references to this spec from:
 - [Event Timing API](https://w3c.github.io/event-timing/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
@@ -18944,7 +18952,7 @@ Normative references to this spec from:
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
@@ -19198,6 +19206,7 @@ Normative references to this spec from:
 - [Network Reporting API](https://w3c.github.io/reporting/network-reporting.html)
 - [No-Vary-Search](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
@@ -19500,7 +19509,7 @@ Normative references to this spec from:
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
 - [overscroll and scrollend events](https://wicg.github.io/overscroll-scrollend-events/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
-- [Paint Timing 1](https://w3c.github.io/paint-timing/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
@@ -19846,6 +19855,7 @@ Normative references to this spec from:
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
@@ -20346,6 +20356,7 @@ Informative references to this spec from:
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [Media Source Extensions™](https://w3c.github.io/media-source/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
 - [Source Map](https://tc39.es/source-map-spec/)
@@ -20513,6 +20524,7 @@ Normative references to this spec from:
 - [Opus WebCodecs Registration](https://w3c.github.io/webcodecs/opus_codec_registration.html)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
+- [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Request API 1.1](https://w3c.github.io/payment-request/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)

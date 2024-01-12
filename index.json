@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-12T06:36:09.506Z",
+  "date": "2024-01-12T12:42:07.272Z",
   "stats": {
     "crawled": 591,
     "errors": 3,
@@ -4297,6 +4297,11 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-page-4/",
               "title": "Proposals for the future of CSS Paged Media",
               "crawled": "https://drafts.csswg.org/css-page-4/"
@@ -4867,7 +4872,7 @@
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing 1",
+              "title": "Paint Timing",
               "crawled": "https://w3c.github.io/paint-timing/"
             }
           ],
@@ -7292,6 +7297,11 @@
               "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
@@ -7774,7 +7784,7 @@
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing 1",
+              "title": "Paint Timing",
               "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
@@ -9521,7 +9531,7 @@
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing 1",
+              "title": "Paint Timing",
               "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
@@ -10976,6 +10986,11 @@
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -18261,11 +18276,6 @@
               "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
-              "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing 1",
-              "crawled": "https://w3c.github.io/paint-timing/"
-            },
-            {
               "url": "https://quirks.spec.whatwg.org/",
               "title": "Quirks Mode Standard",
               "crawled": "https://quirks.spec.whatwg.org/"
@@ -18638,6 +18648,11 @@
               "url": "https://www.w3.org/TR/mediacapture-transform/",
               "title": "MediaStreamTrack Insertable Media Processing using Streams",
               "crawled": "https://w3c.github.io/mediacapture-transform/"
+            },
+            {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
               "url": "https://quirks.spec.whatwg.org/",
@@ -21783,6 +21798,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -23311,7 +23331,7 @@
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing 1",
+              "title": "Paint Timing",
               "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
@@ -24731,6 +24751,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
               "title": "Timing Entry Names Registry",
               "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
@@ -25863,6 +25888,11 @@
               "url": "https://notifications.spec.whatwg.org/",
               "title": "Notifications API Standard",
               "crawled": "https://notifications.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
               "url": "https://www.w3.org/TR/payment-method-id/",
@@ -27993,7 +28023,7 @@
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing 1",
+              "title": "Paint Timing",
               "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
@@ -29378,7 +29408,7 @@
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing 1",
+              "title": "Paint Timing",
               "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
@@ -31483,6 +31513,11 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-method-id/",
               "title": "Payment Method Identifiers",
               "crawled": "https://w3c.github.io/payment-method-id/"
@@ -33312,7 +33347,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "8 January 2024",
+      "date": "12 January 2024",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -36921,9 +36956,9 @@
       }
     },
     {
-      "title": "Paint Timing 1",
+      "title": "Paint Timing",
       "shortname": "paint-timing",
-      "date": "16 February 2021",
+      "date": "12 January 2024",
       "url": "https://www.w3.org/TR/paint-timing/",
       "release": {
         "url": "https://www.w3.org/TR/paint-timing/",
@@ -36959,13 +36994,25 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://infra.spec.whatwg.org/",
-          "https://w3c.github.io/performance-timeline/",
           "https://www.w3.org/TR/css-images-3/",
-          "https://www.w3.org/TR/css3-values/",
-          "https://www.w3.org/TR/cssom-view"
+          "https://www.w3.org/TR/css3-values/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/performance-timeline/",
+            "ref": {
+              "name": "PERFORMANCE-TIMELINE",
+              "url": "https://www.w3.org/TR/performance-timeline/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/cssom-view",
+            "ref": {
+              "name": "CSSOM-VIEW-1",
+              "url": "https://www.w3.org/TR/cssom-view-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -37360,6 +37407,11 @@
               "url": "https://www.w3.org/TR/navigation-timing-2/",
               "title": "Navigation Timing Level 2",
               "crawled": "https://w3c.github.io/navigation-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
               "url": "https://www.w3.org/TR/resource-timing/",
@@ -41213,6 +41265,11 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/secure-payment-confirmation/",
               "title": "Secure Payment Confirmation",
               "crawled": "https://w3c.github.io/secure-payment-confirmation/"
@@ -44799,6 +44856,11 @@
               "crawled": "https://drafts.fxtf.org/motion-1/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/resize-observer-1/",
               "title": "Resize Observer",
               "crawled": "https://drafts.csswg.org/resize-observer-1/"
@@ -46133,7 +46195,7 @@
             },
             {
               "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing 1",
+              "title": "Paint Timing",
               "crawled": "https://w3c.github.io/paint-timing/"
             }
           ],
@@ -50687,6 +50749,11 @@
               "crawled": "https://wicg.github.io/sms-one-time-codes/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
@@ -53108,6 +53175,11 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-handler/",
               "title": "Payment Handler API",
               "crawled": "https://w3c.github.io/payment-handler/"
@@ -55099,7 +55171,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "10 January 2024",
+      "date": "12 January 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
