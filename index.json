@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-12T12:42:07.272Z",
+  "date": "2024-01-12T18:35:34.239Z",
   "stats": {
     "crawled": 591,
     "errors": 3,
@@ -391,11 +391,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/permissions/",
-              "title": "Permissions",
-              "crawled": "https://w3c.github.io/permissions/"
-            },
             {
               "url": "https://w3c.github.io/permissions-registry/",
               "title": "Permissions Registry",
@@ -4869,11 +4864,6 @@
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
-            },
-            {
-              "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing",
-              "crawled": "https://w3c.github.io/paint-timing/"
             }
           ],
           "informative": [
@@ -7842,7 +7832,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "5 January 2024",
+      "date": "12 January 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -9530,11 +9520,6 @@
               "crawled": "https://w3c.github.io/mathml-core/"
             },
             {
-              "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing",
-              "crawled": "https://w3c.github.io/paint-timing/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -9934,6 +9919,11 @@
               "url": "https://www.w3.org/TR/motion-1/",
               "title": "Motion Path Module Level 1",
               "crawled": "https://drafts.fxtf.org/motion-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/paint-timing/",
+              "title": "Paint Timing",
+              "crawled": "https://w3c.github.io/paint-timing/"
             },
             {
               "url": "https://quirks.spec.whatwg.org/",
@@ -21798,11 +21788,6 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
-              "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing",
-              "crawled": "https://w3c.github.io/paint-timing/"
-            },
-            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -22182,6 +22167,11 @@
               "url": "https://wicg.github.io/idle-detection/",
               "title": "Idle Detection API",
               "crawled": "https://wicg.github.io/idle-detection/"
+            },
+            {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
             },
             {
               "url": "https://www.w3.org/TR/webxr/",
@@ -36994,25 +36984,12 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://www.w3.org/TR/css-backgrounds-3/",
           "https://www.w3.org/TR/css-images-3/",
-          "https://www.w3.org/TR/css3-values/"
+          "https://www.w3.org/TR/css3-values/",
+          "https://www.w3.org/TR/cssom-view"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/performance-timeline/",
-            "ref": {
-              "name": "PERFORMANCE-TIMELINE",
-              "url": "https://www.w3.org/TR/performance-timeline/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/cssom-view",
-            "ref": {
-              "name": "CSSOM-VIEW-1",
-              "url": "https://www.w3.org/TR/cssom-view-1/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -37458,7 +37435,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "01 December 2023",
+      "date": "12 January 2024",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -39342,7 +39319,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "11 January 2024",
+      "date": "12 January 2024",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -41639,7 +41616,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "11 January 2024",
+      "date": "12 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46192,11 +46169,6 @@
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
               "title": "Non-element Selectors Module Level 1",
               "crawled": "https://drafts.csswg.org/selectors-nonelement-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/paint-timing/",
-              "title": "Paint Timing",
-              "crawled": "https://w3c.github.io/paint-timing/"
             }
           ],
           "informative": []
@@ -49584,7 +49556,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "3 October 2022",
+      "date": "12 January 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -49623,15 +49595,7 @@
           "https://w3c.github.io/editing/docs/execCommand/",
           "https://w3c.github.io/webcomponents/spec/imports/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/webappsec-csp/",
-            "ref": {
-              "name": "CSP3",
-              "url": "https://www.w3.org/TR/CSP3/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
@@ -55128,6 +55092,11 @@
               "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
             },
             {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
               "url": "https://www.w3.org/TR/proximity/",
               "title": "Proximity Sensor",
               "crawled": "https://w3c.github.io/proximity/"
@@ -55211,6 +55180,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/permissions/",
+              "title": "Permissions",
+              "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
@@ -55270,7 +55244,7 @@
     {
       "title": "WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification",
       "shortname": "ANGLE_instanced_arrays",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
@@ -55312,7 +55286,7 @@
     {
       "title": "WebGL EXT_blend_minmax Khronos Ratified Extension Specification",
       "shortname": "EXT_blend_minmax",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
@@ -55354,7 +55328,7 @@
     {
       "title": "WebGL EXT_color_buffer_float Extension Specification",
       "shortname": "EXT_color_buffer_float",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
@@ -55396,7 +55370,7 @@
     {
       "title": "WebGL EXT_color_buffer_half_float Extension Specification",
       "shortname": "EXT_color_buffer_half_float",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
@@ -55438,7 +55412,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query Extension Specification",
       "shortname": "EXT_disjoint_timer_query",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
@@ -55480,7 +55454,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query_webgl2 Extension Specification",
       "shortname": "EXT_disjoint_timer_query_webgl2",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -55522,7 +55496,7 @@
     {
       "title": "WebGL EXT_float_blend Extension Specification",
       "shortname": "EXT_float_blend",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
@@ -55564,7 +55538,7 @@
     {
       "title": "WebGL EXT_frag_depth Khronos Ratified Extension Specification",
       "shortname": "EXT_frag_depth",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
@@ -55606,7 +55580,7 @@
     {
       "title": "WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification",
       "shortname": "EXT_shader_texture_lod",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
@@ -55648,7 +55622,7 @@
     {
       "title": "WebGL EXT_sRGB Extension Specification",
       "shortname": "EXT_sRGB",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
@@ -55690,7 +55664,7 @@
     {
       "title": "WebGL EXT_texture_compression_bptc Extension Specification",
       "shortname": "EXT_texture_compression_bptc",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
@@ -55732,7 +55706,7 @@
     {
       "title": "WebGL EXT_texture_compression_rgtc Extension Specification",
       "shortname": "EXT_texture_compression_rgtc",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
@@ -55774,7 +55748,7 @@
     {
       "title": "WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification",
       "shortname": "EXT_texture_filter_anisotropic",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -55816,7 +55790,7 @@
     {
       "title": "WebGL EXT_texture_norm16 Extension Specification",
       "shortname": "EXT_texture_norm16",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
@@ -55858,7 +55832,7 @@
     {
       "title": "WebGL KHR_parallel_shader_compile Extension Specification",
       "shortname": "KHR_parallel_shader_compile",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
@@ -55900,7 +55874,7 @@
     {
       "title": "WebGL OES_draw_buffers_indexed Extension Specification",
       "shortname": "OES_draw_buffers_indexed",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
@@ -55942,7 +55916,7 @@
     {
       "title": "WebGL OES_element_index_uint Khronos Ratified Extension Specification",
       "shortname": "OES_element_index_uint",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
@@ -55984,7 +55958,7 @@
     {
       "title": "WebGL OES_fbo_render_mipmap Extension Specification",
       "shortname": "OES_fbo_render_mipmap",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
@@ -56026,7 +56000,7 @@
     {
       "title": "WebGL OES_standard_derivatives Khronos Ratified Extension Specification",
       "shortname": "OES_standard_derivatives",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
@@ -56068,7 +56042,7 @@
     {
       "title": "WebGL OES_texture_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
@@ -56110,7 +56084,7 @@
     {
       "title": "WebGL OES_texture_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float_linear",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
@@ -56152,7 +56126,7 @@
     {
       "title": "WebGL OES_texture_half_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
@@ -56194,7 +56168,7 @@
     {
       "title": "WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float_linear",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
@@ -56236,7 +56210,7 @@
     {
       "title": "WebGL OES_vertex_array_object Khronos Ratified Extension Specification",
       "shortname": "OES_vertex_array_object",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
@@ -56278,7 +56252,7 @@
     {
       "title": "WebGL OVR_multiview2 Extension Specification",
       "shortname": "OVR_multiview2",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
@@ -56361,7 +56335,7 @@
     {
       "title": "WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification",
       "shortname": "WEBGL_blend_equation_advanced_coherent",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -56403,7 +56377,7 @@
     {
       "title": "WebGL WEBGL_clip_cull_distance Extension Specification",
       "shortname": "WEBGL_clip_cull_distance",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
@@ -56445,7 +56419,7 @@
     {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
@@ -56487,7 +56461,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_astc Extension Specification",
       "shortname": "WEBGL_compressed_texture_astc",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
@@ -56529,7 +56503,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
@@ -56571,7 +56545,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc1 Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc1",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
@@ -56613,7 +56587,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_pvrtc Extension Specification",
       "shortname": "WEBGL_compressed_texture_pvrtc",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
@@ -56655,7 +56629,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
@@ -56697,7 +56671,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc_srgb",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
@@ -56739,7 +56713,7 @@
     {
       "title": "WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_renderer_info",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
@@ -56781,7 +56755,7 @@
     {
       "title": "WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_shaders",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
@@ -56823,7 +56797,7 @@
     {
       "title": "WebGL WEBGL_depth_texture Khronos Ratified Extension Specification",
       "shortname": "WEBGL_depth_texture",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
@@ -56865,7 +56839,7 @@
     {
       "title": "WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification",
       "shortname": "WEBGL_draw_buffers",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
@@ -56907,7 +56881,7 @@
     {
       "title": "WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_draw_instanced_base_vertex_base_instance",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -56949,7 +56923,7 @@
     {
       "title": "WebGL WEBGL_lose_context Khronos Ratified Extension Specification",
       "shortname": "WEBGL_lose_context",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
@@ -56991,7 +56965,7 @@
     {
       "title": "WebGL WEBGL_multi_draw Extension Specification",
       "shortname": "WEBGL_multi_draw",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
@@ -57033,7 +57007,7 @@
     {
       "title": "WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_multi_draw_instanced_base_vertex_base_instance",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -57075,7 +57049,7 @@
     {
       "title": "WebGL WEBGL_provoking_vertex Extension Specification",
       "shortname": "WEBGL_provoking_vertex",
-      "date": "20 December 2023",
+      "date": "12 January 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
