@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-11T18:32:46.998Z",
+  "date": "2024-01-12T00:47:40.902Z",
   "stats": {
     "crawled": 591,
     "errors": 3,
@@ -20725,7 +20725,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "5 January 2024",
+      "date": "11 January 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -24064,7 +24064,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "10 January 2024",
+      "date": "11 January 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -27870,6 +27870,11 @@
               "url": "https://wicg.github.io/cookie-store/",
               "title": "Cookie Store API",
               "crawled": "https://wicg.github.io/cookie-store/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://dom.spec.whatwg.org/",
@@ -36427,7 +36432,7 @@
     {
       "title": "No-Vary-Search",
       "shortname": "no-vary-search",
-      "date": "6 December 2023",
+      "date": "11 January 2024",
       "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -38516,7 +38521,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "6 December 2023",
+      "date": "11 January 2024",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -38558,7 +38563,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "6 December 2023",
+      "date": "11 January 2024",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -48250,7 +48255,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "6 December 2023",
+      "date": "11 January 2024",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",

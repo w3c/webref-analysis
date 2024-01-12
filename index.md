@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 11, 2024
+% January 12, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -317,7 +317,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 10 January 2024
+- Crawled version: 11 January 2024
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -8749,7 +8749,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 5 January 2024
+- Crawled version: 11 January 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -15646,6 +15646,7 @@ Normative references to this spec from:
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
@@ -17097,7 +17098,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
-- Crawled version: 6 December 2023
+- Crawled version: 11 January 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Shortname: no-vary-search
 
@@ -17235,7 +17236,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
-- Crawled version: 6 December 2023
+- Crawled version: 11 January 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Shortname: prefetch
 
@@ -17256,7 +17257,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Crawled version: 6 December 2023
+- Crawled version: 11 January 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Shortname: prerendering-revamped
 
@@ -17564,7 +17565,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled version: 6 December 2023
+- Crawled version: 11 January 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
 
