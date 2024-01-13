@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-13T12:38:56.373Z",
+  "date": "2024-01-13T18:31:54.011Z",
   "stats": {
     "crawled": 591,
     "errors": 3,
@@ -13689,7 +13689,7 @@
     {
       "title": "CSS Masking Module Level 1",
       "shortname": "css-masking-1",
-      "date": "13 October 2023",
+      "date": "13 January 2024",
       "url": "https://www.w3.org/TR/css-masking-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-masking-1/",
