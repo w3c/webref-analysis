@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-15T12:42:25.242Z",
+  "date": "2024-01-15T14:35:31.406Z",
   "stats": {
     "crawled": 591,
-    "errors": 3,
+    "errors": 1,
     "studied": 591
   },
   "results": [
@@ -2532,7 +2532,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 285)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -2649,7 +2648,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error TypeError: fetch failed\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 41)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7630,7 +7628,7 @@
       "url": "https://drafts.csswg.org/css-color-hdr/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-hdr/",
-        "status": "Unofficial Proposal Draft",
+        "status": "Editor's Draft",
         "alternateUrls": [
           "https://w3c.github.io/csswg-drafts/css-color-hdr/"
         ],
@@ -10788,7 +10786,7 @@
         }
       ],
       "report": {
-        "error": "TypeError: Cannot read properties of null (reading 'textContent')\nhttps://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:369:68\nArray.map (<anonymous>)\nextractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:363:6) TypeError: Cannot read properties of null (reading 'textContent')\nhttps://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:369:68\nArray.map (<anonymous>)\nextractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:363:6)\n    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:36), <anonymous>:6:28)\n    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:231:55)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:126:16)\n    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:131:16)\n    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:363:20)\n    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:751:20)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)",
+        "error": "TypeError: Cannot read properties of null (reading 'textContent')\nhttps://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:369:68\nArray.map (<anonymous>)\nextractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:363:6) TypeError: Cannot read properties of null (reading 'textContent')\nhttps://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:369:68\nArray.map (<anonymous>)\nextractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:363:6)\n    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:36), <anonymous>:6:28)\n    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:221:55)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:116:16)\n    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:123:16)\n    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:353:20)\n    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:741:20)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17114,7 +17112,7 @@
       "url": "https://www.w3.org/TR/css-2023/",
       "release": {
         "url": "https://www.w3.org/TR/css-2023/",
-        "status": "Draft Note",
+        "status": "Note",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -33337,7 +33335,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "12 January 2024",
+      "date": "15 January 2024",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -41546,7 +41544,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "15 January 2024",
+      "date": "13 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -42687,7 +42685,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "15 January 2024",
+      "date": "14 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
