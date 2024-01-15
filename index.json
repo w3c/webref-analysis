@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-15T06:34:07.179Z",
+  "date": "2024-01-15T12:42:25.242Z",
   "stats": {
     "crawled": 591,
     "errors": 3,
@@ -3003,7 +3003,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "6 December 2023",
+      "date": "15 January 2024",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -28380,7 +28380,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "12 January 2024",
+      "date": "15 January 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -30813,7 +30813,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "10 November 2023",
+      "date": "15 January 2024",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -34885,7 +34885,7 @@
     {
       "title": "Media Source Extensions Byte Stream Format Registry",
       "shortname": "mse-byte-stream-format-registry",
-      "date": "20 December 2023",
+      "date": "15 January 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
@@ -42687,7 +42687,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "14 January 2024",
+      "date": "15 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -49556,7 +49556,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "12 January 2024",
+      "date": "15 January 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -52402,7 +52402,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "10 January 2024",
+      "date": "15 January 2024",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -55140,7 +55140,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "12 January 2024",
+      "date": "15 January 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
