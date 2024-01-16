@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 15, 2024
+% January 16, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -972,7 +972,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 14 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -997,7 +997,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 14 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -1385,7 +1385,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1698,7 +1698,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1850,7 +1850,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -6235,7 +6235,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Crawled URL: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
-- Crawled version: 27 December 2023
+- Crawled version: 15 January 2024
 - Editor's Draft: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
 - Latest published version: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Shortname: css-images-4
@@ -14008,7 +14008,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Crawled URL: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
-- Crawled version: 12 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://w3c.github.io/permissions/](https://w3c.github.io/permissions/)
 - Latest published version: [https://www.w3.org/TR/permissions/](https://www.w3.org/TR/permissions/)
 - Shortname: permissions
@@ -17788,7 +17788,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
 - Crawled URL: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
-- Crawled version: 3 October 2023
+- Crawled version: 15 January 2024
 - Editor's Draft: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
 - Shortname: web-preferences-api
 
@@ -17798,7 +17798,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 
 No informative reference to this spec from other specs.
 
@@ -19023,6 +19025,7 @@ Normative references to this spec from:
 - [Web MIDI API](https://webaudio.github.io/web-midi-api/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/)
+- [Web Preferences API](https://wicg.github.io/web-preferences-api/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Smart Card API](https://wicg.github.io/web-smart-card/)
 - [Web Speech API](https://wicg.github.io/speech-api/)

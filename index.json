@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-15T18:33:55.691Z",
+  "date": "2024-01-16T00:47:19.840Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -3390,7 +3390,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "14 January 2024",
+      "date": "16 January 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -12651,7 +12651,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "27 December 2023",
+      "date": "15 January 2024",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -22184,7 +22184,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "14 January 2024",
+      "date": "16 January 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -23651,6 +23651,11 @@
               "url": "https://wicg.github.io/periodic-background-sync/",
               "title": "Web Periodic Background Synchronization",
               "crawled": "https://wicg.github.io/periodic-background-sync/"
+            },
+            {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
             },
             {
               "url": "https://wicg.github.io/serial/",
@@ -37439,7 +37444,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "12 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -41263,7 +41268,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42630,7 +42635,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43218,7 +43223,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -54032,7 +54037,7 @@
     {
       "title": "Web Preferences API",
       "shortname": "web-preferences-api",
-      "date": "3 October 2023",
+      "date": "15 January 2024",
       "url": "https://wicg.github.io/web-preferences-api/",
       "nightly": {
         "url": "https://wicg.github.io/web-preferences-api/",
@@ -54065,7 +54070,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/web-preferences-api/",
+              "title": "Web Preferences API",
+              "crawled": "https://wicg.github.io/web-preferences-api/"
+            }
+          ],
           "informative": []
         },
         "ok": true
