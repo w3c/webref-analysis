@@ -727,7 +727,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -785,7 +785,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -1543,7 +1543,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1662,7 +1662,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1684,7 +1684,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
@@ -1748,7 +1747,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -4685,7 +4684,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 10 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5332,7 +5331,6 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 - [Paint Timing](https://w3c.github.io/paint-timing/)
@@ -5688,7 +5686,6 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
-- [Element Timing API](https://wicg.github.io/element-timing/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
@@ -13190,7 +13187,6 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Element Timing API](https://wicg.github.io/element-timing/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
@@ -15735,7 +15731,6 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Soft Navigations](https://wicg.github.io/soft-navigations/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
@@ -15877,6 +15872,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Element Timing API](https://wicg.github.io/element-timing/)
 - [Event Timing API](https://w3c.github.io/event-timing/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
@@ -16531,7 +16527,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
 - Crawled URL: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
-- Crawled version: 30 October 2023
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://wicg.github.io/element-timing/](https://wicg.github.io/element-timing/)
 - Shortname: element-timing
 
@@ -17337,7 +17333,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Crawled URL: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
-- Crawled version: 11 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://wicg.github.io/trust-token-api/](https://wicg.github.io/trust-token-api/)
 - Shortname: trust-token-api
 
@@ -17358,7 +17354,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 12 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -19318,7 +19314,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 15 January 2024
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

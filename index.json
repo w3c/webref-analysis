@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-16T12:40:05.519Z",
+  "date": "2024-01-16T18:35:29.982Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -7830,7 +7830,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "10 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -9904,11 +9904,6 @@
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
-              "url": "https://wicg.github.io/element-timing/",
-              "title": "Element Timing API",
-              "crawled": "https://wicg.github.io/element-timing/"
-            },
-            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -10949,11 +10944,6 @@
               "url": "https://drafts.csswg.org/css-values-5/",
               "title": "CSS Values and Units Module Level 5",
               "crawled": "https://drafts.csswg.org/css-values-5/"
-            },
-            {
-              "url": "https://wicg.github.io/element-timing/",
-              "title": "Element Timing API",
-              "crawled": "https://wicg.github.io/element-timing/"
             },
             {
               "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -24694,7 +24684,7 @@
     {
       "title": "Element Timing API",
       "shortname": "element-timing",
-      "date": "30 October 2023",
+      "date": "16 January 2024",
       "url": "https://wicg.github.io/element-timing/",
       "nightly": {
         "url": "https://wicg.github.io/element-timing/",
@@ -28384,7 +28374,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -33094,11 +33084,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://wicg.github.io/element-timing/",
-              "title": "Element Timing API",
-              "crawled": "https://wicg.github.io/element-timing/"
-            },
-            {
               "url": "https://wicg.github.io/soft-navigations/",
               "title": "Soft Navigations",
               "crawled": "https://wicg.github.io/soft-navigations/"
@@ -36997,6 +36982,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/element-timing/",
+              "title": "Element Timing API",
+              "crawled": "https://wicg.github.io/element-timing/"
+            },
+            {
               "url": "https://www.w3.org/TR/event-timing/",
               "title": "Event Timing API",
               "crawled": "https://w3c.github.io/event-timing/"
@@ -38857,7 +38847,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "11 January 2024",
+      "date": "16 January 2024",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -38943,7 +38933,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "12 January 2024",
+      "date": "16 January 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41168,7 +41158,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41240,11 +41230,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://wicg.github.io/element-timing/",
-              "title": "Element Timing API",
-              "crawled": "https://wicg.github.io/element-timing/"
-            },
             {
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
@@ -41625,7 +41610,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42592,7 +42577,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43736,7 +43721,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -44785,11 +44770,6 @@
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
-            },
-            {
-              "url": "https://wicg.github.io/element-timing/",
-              "title": "Element Timing API",
-              "crawled": "https://wicg.github.io/element-timing/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -49086,7 +49066,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "15 January 2024",
+      "date": "16 January 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
