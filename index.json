@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-16T18:35:29.982Z",
+  "date": "2024-01-17T00:46:17.156Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -25397,7 +25397,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "2 January 2024",
+      "date": "16 January 2024",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -25447,7 +25447,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "24 December 2023",
+      "date": "16 January 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -25485,6 +25485,11 @@
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced Frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -41158,7 +41163,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41540,7 +41545,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -41813,7 +41818,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42577,7 +42582,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -42620,7 +42625,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42681,7 +42686,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43208,7 +43213,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -43721,7 +43726,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -50111,7 +50116,7 @@
     {
       "title": "URL Pattern Standard",
       "shortname": "urlpattern",
-      "date": "5 December 2023",
+      "date": "16 January 2024",
       "url": "https://urlpattern.spec.whatwg.org/",
       "nightly": {
         "url": "https://urlpattern.spec.whatwg.org/",
