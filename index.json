@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-17T06:33:08.831Z",
+  "date": "2024-01-17T12:42:39.056Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -28379,7 +28379,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -53856,7 +53856,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "19 December 2023",
+      "date": "17 January 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -54380,7 +54380,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1",
-      "date": "3 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.w3.org/TR/wasm-core-1/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-1/",
@@ -54431,7 +54431,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "3 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -54550,7 +54550,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "3 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
