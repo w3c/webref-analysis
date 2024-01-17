@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-17T12:42:39.056Z",
+  "date": "2024-01-17T18:33:25.611Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -3390,7 +3390,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -22174,7 +22174,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -24642,7 +24642,7 @@
     {
       "title": "Element Capture",
       "shortname": "element-capture",
-      "date": "10 January 2024",
+      "date": "17 January 2024",
       "url": "https://screen-share.github.io/element-capture/",
       "nightly": {
         "url": "https://screen-share.github.io/element-capture/",
@@ -32188,7 +32188,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "06 December 2023",
+      "date": "17 January 2024",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -41615,7 +41615,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41730,7 +41730,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -49550,7 +49550,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -54334,7 +54334,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-1-fork-gc",
-      "date": "16 January 2024",
+      "date": "17 January 2024",
       "url": "https://webassembly.github.io/gc/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/gc/core/bikeshed/",
