@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-18T00:48:02.222Z",
+  "date": "2024-01-18T06:36:30.659Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -28379,7 +28379,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 January 2024",
+      "date": "18 January 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -37217,7 +37217,7 @@
     {
       "title": "Payment Request API 1.1",
       "shortname": "payment-request-1.1",
-      "date": "16 January 2024",
+      "date": "18 January 2024",
       "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request-1.1/",
@@ -43721,7 +43721,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "17 January 2024",
+      "date": "18 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -53851,7 +53851,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "17 January 2024",
+      "date": "18 January 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
