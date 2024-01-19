@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-19T12:39:21.842Z",
+  "date": "2024-01-19T18:34:27.000Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -2040,6 +2040,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-viewport/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -4208,11 +4213,6 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-viewport/",
-              "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-will-change-1/",
@@ -20831,7 +20831,7 @@
     {
       "title": "CSS Viewport Module Level 1",
       "shortname": "css-viewport",
-      "date": "7 August 2023",
+      "date": "19 January 2024",
       "url": "https://drafts.csswg.org/css-viewport/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-viewport/",
@@ -20864,9 +20864,18 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/"
+          "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/",
+          "https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/virtual-keyboard",
+            "ref": {
+              "name": "VIRTUAL-KEYBOARD",
+              "url": "https://www.w3.org/TR/virtual-keyboard/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -21769,6 +21778,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-viewport/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -25397,7 +25411,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "16 January 2024",
+      "date": "19 January 2024",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -25447,7 +25461,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "16 January 2024",
+      "date": "19 January 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -25485,11 +25499,6 @@
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
-            },
-            {
-              "url": "https://wicg.github.io/fenced-frame/",
-              "title": "Fenced Frame",
-              "crawled": "https://wicg.github.io/fenced-frame/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -38933,7 +38942,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "17 January 2024",
+      "date": "19 January 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41158,7 +41167,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "18 January 2024",
+      "date": "19 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41610,7 +41619,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "18 January 2024",
+      "date": "19 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41725,7 +41734,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "18 January 2024",
+      "date": "19 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41813,7 +41822,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "18 January 2024",
+      "date": "19 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42681,7 +42690,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "18 January 2024",
+      "date": "19 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
