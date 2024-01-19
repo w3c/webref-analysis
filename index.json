@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-18T18:33:15.362Z",
+  "date": "2024-01-19T00:45:58.737Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -34819,7 +34819,7 @@
     {
       "title": "Media Session",
       "shortname": "mediasession",
-      "date": "11 October 2023",
+      "date": "19 January 2024",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -41253,7 +41253,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "18 January 2024",
+      "date": "19 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41610,7 +41610,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "17 January 2024",
+      "date": "18 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -46478,7 +46478,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "2 November 2023",
+      "date": "18 January 2024",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
