@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-20T00:46:58.422Z",
+  "date": "2024-01-20T06:32:31.980Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -13106,11 +13106,6 @@
               "url": "https://www.w3.org/TR/css-writing-modes-4/",
               "title": "CSS Writing Modes Level 4",
               "crawled": "https://drafts.csswg.org/css-writing-modes-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/filter-effects-1/",
-              "title": "Filter Effects Module Level 1",
-              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -26500,7 +26495,7 @@
     {
       "title": "Filter Effects Module Level 1",
       "shortname": "filter-effects-1",
-      "date": "12 September 2022",
+      "date": "17 January 2024",
       "url": "https://www.w3.org/TR/filter-effects-1/",
       "release": {
         "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -41167,7 +41162,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41262,7 +41257,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41734,7 +41729,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42629,7 +42624,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42690,7 +42685,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43730,7 +43725,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -51586,6 +51581,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/filter-effects-1/",
+              "title": "Filter Effects Module Level 1",
+              "crawled": "https://drafts.fxtf.org/filter-effects-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -57095,7 +57095,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "15 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -57132,8 +57132,7 @@
         },
         "missingLinkRef": [
           "https://w3c.github.io/string-meta/",
-          "https://www.w3.org/TR/i18n-glossary/",
-          "https://www.w3.org/TR/resize-observer/"
+          "https://www.w3.org/TR/i18n-glossary/"
         ],
         "inconsistentRef": [
           {
@@ -57170,7 +57169,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "15 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
