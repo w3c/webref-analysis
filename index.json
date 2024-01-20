@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-19T18:34:27.000Z",
+  "date": "2024-01-20T00:46:58.422Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -34545,7 +34545,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "17 January 2024",
+      "date": "19 January 2024",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -41549,7 +41549,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -41822,7 +41822,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -42586,7 +42586,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43217,7 +43217,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "19 January 2024",
+      "date": "20 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",

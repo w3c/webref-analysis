@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 19, 2024
+% January 20, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -785,7 +785,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 19 January 2024
+- Crawled version: 20 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -889,7 +889,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
-- Crawled version: 19 January 2024
+- Crawled version: 20 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Shortname: rfc6386
 
@@ -1385,7 +1385,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 19 January 2024
+- Crawled version: 20 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1822,7 +1822,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 19 January 2024
+- Crawled version: 20 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -9328,7 +9328,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
 - Crawled URL: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
-- Crawled version: 17 January 2024
+- Crawled version: 19 January 2024
 - Editor's Draft: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
 - Latest published version: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
 - Shortname: mediaqueries-5
