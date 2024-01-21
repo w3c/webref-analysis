@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-21T12:38:53.142Z",
+  "date": "2024-01-21T18:33:40.406Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -11659,7 +11659,7 @@
     {
       "title": "CSS Generated Content for Paged Media Module",
       "shortname": "css-gcpm-3",
-      "date": "29 September 2023",
+      "date": "21 January 2024",
       "url": "https://www.w3.org/TR/css-gcpm-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-gcpm-3/",
@@ -39322,7 +39322,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "12 January 2024",
+      "date": "21 January 2024",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -41257,7 +41257,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "20 January 2024",
+      "date": "21 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
