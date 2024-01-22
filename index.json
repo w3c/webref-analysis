@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-22T12:42:04.666Z",
+  "date": "2024-01-22T18:34:33.307Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -404,7 +404,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "13 December 2023",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -2020,6 +2020,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-gcpm-3/",
+              "title": "CSS Generated Content for Paged Media Module",
+              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -5066,7 +5071,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "22 November 2023",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -11659,7 +11664,7 @@
     {
       "title": "CSS Generated Content for Paged Media Module",
       "shortname": "css-gcpm-3",
-      "date": "21 January 2024",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/css-gcpm-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-gcpm-3/",
@@ -11699,8 +11704,8 @@
         },
         "missingLinkRef": [
           "http://books.spec.whatwg.org/",
+          "http://w3c.github.io/dpub-pagination/index.html",
           "https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/",
-          "https://www.w3.org/TR/2014/WD-dpub-latinreq-20140313/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css3-selectors/",
           "https://www.w3.org/TR/cssom/",
@@ -11708,24 +11713,10 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-content-3/",
-            "ref": {
-              "name": "CSS3-CONTENT",
-              "url": "https://drafts.csswg.org/css-content-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -17509,6 +17500,11 @@
               "crawled": "https://drafts.csswg.org/css-font-loading-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-gcpm-3/",
+              "title": "CSS Generated Content for Paged Media Module",
+              "crawled": "https://drafts.csswg.org/css-gcpm-3/"
+            },
+            {
               "url": "https://wicg.github.io/css-parser-api/",
               "title": "CSS Parser API",
               "crawled": "https://wicg.github.io/css-parser-api/"
@@ -22094,7 +22090,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "5 January 2024",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -34823,7 +34819,7 @@
     {
       "title": "Media Session",
       "shortname": "mediasession",
-      "date": "19 January 2024",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -34859,6 +34855,7 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://www.w3.org/TR/mediacapture-streams/",
           "https://www.w3.org/TR/permissions-policy-1/"
         ],
         "inconsistentRef": [],
@@ -36628,7 +36625,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "16 October 2023",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -46628,7 +46625,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "18 January 2024",
+      "date": "22 January 2024",
       "url": "https://tc39.es/source-map-spec/",
       "nightly": {
         "url": "https://tc39.es/source-map-spec/",
@@ -49070,7 +49067,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "16 January 2024",
+      "date": "22 January 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53860,7 +53857,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "20 January 2024",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -55144,7 +55141,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "15 January 2024",
+      "date": "22 January 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
