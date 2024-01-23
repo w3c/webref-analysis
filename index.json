@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-22T18:34:33.307Z",
+  "date": "2024-01-23T00:47:21.144Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -869,7 +869,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "17 January 2024",
+      "date": "22 January 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -24003,7 +24003,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "15 December 2023",
+      "date": "22 January 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -41611,7 +41611,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "21 January 2024",
+      "date": "22 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -43209,7 +43209,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "22 January 2024",
+      "date": "23 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -43722,7 +43722,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "22 January 2024",
+      "date": "23 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -46059,7 +46059,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "18 January 2024",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -46667,7 +46667,7 @@
     {
       "title": "Source Phase Imports",
       "shortname": "tc39-source-phase-imports",
-      "date": "24 July 2023",
+      "date": "22 January 2024",
       "url": "https://tc39.es/proposal-source-phase-imports/",
       "nightly": {
         "url": "https://tc39.es/proposal-source-phase-imports/",

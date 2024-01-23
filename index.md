@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 22, 2024
+% January 23, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -289,7 +289,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 15 December 2023
+- Crawled version: 22 January 2024
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -706,7 +706,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-source-phase-imports/](https://tc39.es/proposal-source-phase-imports/)
 - Crawled URL: [https://tc39.es/proposal-source-phase-imports/](https://tc39.es/proposal-source-phase-imports/)
-- Crawled version: 24 July 2023
+- Crawled version: 22 January 2024
 - Editor's Draft: [https://tc39.es/proposal-source-phase-imports/](https://tc39.es/proposal-source-phase-imports/)
 - Shortname: tc39-source-phase-imports
 
@@ -1385,7 +1385,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 22 January 2024
+- Crawled version: 23 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1543,7 +1543,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 22 January 2024
+- Crawled version: 23 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1747,7 +1747,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 21 January 2024
+- Crawled version: 22 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -9603,7 +9603,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/selectors-4/](https://www.w3.org/TR/selectors-4/)
 - Crawled URL: [https://drafts.csswg.org/selectors-4/](https://drafts.csswg.org/selectors-4/)
-- Crawled version: 18 January 2024
+- Crawled version: 22 January 2024
 - Editor's Draft: [https://drafts.csswg.org/selectors-4/](https://drafts.csswg.org/selectors-4/)
 - Latest published version: [https://www.w3.org/TR/selectors-4/](https://www.w3.org/TR/selectors-4/)
 - Shortname: selectors-4
@@ -16140,7 +16140,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 17 January 2024
+- Crawled version: 22 January 2024
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
