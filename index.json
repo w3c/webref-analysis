@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-24T12:41:43.657Z",
+  "date": "2024-01-24T18:35:28.511Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -4725,7 +4725,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "25 December 2023",
+      "date": "22 January 2024",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -4883,7 +4883,7 @@
     {
       "title": "CSS Backgrounds Module Level 4",
       "shortname": "css-backgrounds-4",
-      "date": "31 December 2023",
+      "date": "24 January 2024",
       "url": "https://drafts.csswg.org/css-backgrounds-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-backgrounds-4/",
@@ -7976,7 +7976,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8881,6 +8881,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
               "url": "https://www.w3.org/TR/intersection-observer/",
@@ -10309,7 +10314,7 @@
     {
       "title": "CSS Extensions",
       "shortname": "css-extensions-1",
-      "date": "26 August 2020",
+      "date": "24 January 2024",
       "url": "https://drafts.csswg.org/css-extensions-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-extensions-1/",
@@ -11730,7 +11735,7 @@
     {
       "title": "CSS Generated Content for Paged Media Module Level 4",
       "shortname": "css-gcpm-4",
-      "date": "22 November 2023",
+      "date": "24 January 2024",
       "url": "https://drafts.csswg.org/css-gcpm-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-gcpm-4/",
@@ -11799,7 +11804,7 @@
     {
       "title": "CSS Generated Content Module Level 3",
       "shortname": "css-content-3",
-      "date": "7 September 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-content-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-content-3/",
@@ -12892,7 +12897,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "18 September 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -13188,7 +13193,7 @@
     {
       "title": "CSS Line Grid Module Level 1",
       "shortname": "css-line-grid-1",
-      "date": "15 July 2022",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-line-grid-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-line-grid-1/",
@@ -13307,7 +13312,7 @@
     {
       "title": "CSS Lists and Counters Module Level 3",
       "shortname": "css-lists-3",
-      "date": "22 November 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-lists-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-lists-3/",
@@ -13479,7 +13484,7 @@
     {
       "title": "CSS Logical Properties and Values Level 1",
       "shortname": "css-logical-1",
-      "date": "28 August 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-logical-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-logical-1/",
@@ -13875,7 +13880,7 @@
     {
       "title": "CSS Mobile Text Size Adjustment Module Level 1",
       "shortname": "css-size-adjust-1",
-      "date": "23 June 2022",
+      "date": "24 January 2024",
       "url": "https://drafts.csswg.org/css-size-adjust-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-size-adjust-1/",
@@ -14095,7 +14100,7 @@
     {
       "title": "CSS Namespaces Module Level 3",
       "shortname": "css-namespaces-3",
-      "date": "24 September 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-namespaces-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-namespaces-3/",
@@ -14218,7 +14223,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "15 August 2023",
+      "date": "26 July 2023",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -14395,6 +14400,11 @@
               "url": "https://www.w3.org/TR/css-anchor-position-1/",
               "title": "CSS Anchor Positioning",
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-ui-3/",
@@ -14623,11 +14633,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
@@ -14870,7 +14875,7 @@
     {
       "title": "CSS Page Floats",
       "shortname": "css-page-floats-3",
-      "date": "22 July 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-page-floats-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-page-floats-3/",
@@ -15982,7 +15987,7 @@
     {
       "title": "CSS Regions Module Level 1",
       "shortname": "css-regions-1",
-      "date": "1 August 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-regions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-regions-1/",
@@ -16227,7 +16232,7 @@
     {
       "title": "CSS Ruby Annotation Layout Module Level 1",
       "shortname": "css-ruby-1",
-      "date": "28 August 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-ruby-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-ruby-1/",
@@ -16638,7 +16643,7 @@
     {
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
-      "date": "28 August 2023",
+      "date": "6 June 2023",
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
@@ -16921,7 +16926,7 @@
     {
       "title": "CSS Shapes Module Level 2",
       "shortname": "css-shapes-2",
-      "date": "8 November 2023",
+      "date": "24 January 2024",
       "url": "https://drafts.csswg.org/css-shapes-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-shapes-2/",
@@ -17224,7 +17229,7 @@
     {
       "title": "CSS Speech Module Level 1",
       "shortname": "css-speech-1",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-speech-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-speech-1/",
@@ -17673,7 +17678,7 @@
     {
       "title": "CSS Text Decoration Module Level 3",
       "shortname": "css-text-decor-3",
-      "date": "28 August 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-text-decor-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-3/",
@@ -17832,7 +17837,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "20 October 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -20709,7 +20714,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "11 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -20778,7 +20783,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "12 January 2024",
+      "date": "18 January 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -21723,7 +21728,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "18 October 2023",
+      "date": "6 November 2023",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -22951,6 +22956,11 @@
               "url": "https://www.w3.org/TR/css-scroll-anchoring-1/",
               "title": "CSS Scroll Anchoring Module Level 1",
               "crawled": "https://drafts.csswg.org/css-scroll-anchoring-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-shadow-parts-1/",
@@ -28374,7 +28384,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34361,7 +34371,7 @@
     {
       "title": "Media Queries Level 4",
       "shortname": "mediaqueries-4",
-      "date": "7 August 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/mediaqueries-4/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -34530,7 +34540,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "19 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -36483,7 +36493,7 @@
     {
       "title": "Non-element Selectors Module Level 1",
       "shortname": "selectors-nonelement-1",
-      "date": "7 February 2021",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/selectors-nonelement-1/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-nonelement-1/",
@@ -44986,7 +44996,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "16 December 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -46053,7 +46063,7 @@
     {
       "title": "Selectors Level 4",
       "shortname": "selectors-4",
-      "date": "22 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/selectors-4/",
       "release": {
         "url": "https://www.w3.org/TR/selectors-4/",
@@ -49540,7 +49550,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -49720,6 +49730,11 @@
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-nav-1/",
@@ -52671,6 +52686,11 @@
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-shadow-parts-1/",
