@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-23T18:36:16.625Z",
+  "date": "2024-01-24T00:47:57.527Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -404,7 +404,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "22 January 2024",
+      "date": "23 January 2024",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -3400,7 +3400,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -8060,11 +8060,6 @@
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color-4/"
-            },
-            {
               "url": "https://drafts.csswg.org/css-color-6/",
               "title": "CSS Color Module Level 6",
               "crawled": "https://drafts.csswg.org/css-color-6/"
@@ -8170,6 +8165,11 @@
               "url": "https://www.w3.org/TR/CSS22/",
               "title": "CSS 2",
               "crawled": "https://drafts.csswg.org/css2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -22179,7 +22179,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -22273,7 +22273,7 @@
     {
       "title": "Digital Publishing Accessibility API Mappings 1.1",
       "shortname": "dpub-aam-1.1",
-      "date": "09 January 2024",
+      "date": "23 January 2024",
       "url": "https://www.w3.org/TR/dpub-aam-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aam-1.1/",
@@ -22322,7 +22322,7 @@
     {
       "title": "Digital Publishing WAI-ARIA Module 1.1",
       "shortname": "dpub-aria-1.1",
-      "date": "09 January 2024",
+      "date": "23 January 2024",
       "url": "https://www.w3.org/TR/dpub-aria-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aria-1.1/",
@@ -23111,11 +23111,6 @@
               "url": "https://www.w3.org/TR/gamepad/",
               "title": "Gamepad",
               "crawled": "https://w3c.github.io/gamepad/"
-            },
-            {
-              "url": "https://w3c.github.io/gamepad/extensions.html",
-              "title": "Gamepad Extensions",
-              "crawled": "https://w3c.github.io/gamepad/extensions.html"
             },
             {
               "url": "https://www.w3.org/TR/generic-sensor/",
@@ -26985,7 +26980,7 @@
     {
       "title": "Gamepad",
       "shortname": "gamepad",
-      "date": "15 December 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/gamepad/",
       "release": {
         "url": "https://www.w3.org/TR/gamepad/",
@@ -27049,7 +27044,7 @@
     {
       "title": "Gamepad Extensions",
       "shortname": "gamepad-extensions",
-      "date": "15 December 2023",
+      "date": "24 January 2024",
       "url": "https://w3c.github.io/gamepad/extensions.html",
       "nightly": {
         "url": "https://w3c.github.io/gamepad/extensions.html",
@@ -27604,7 +27599,7 @@
     {
       "title": "Graphics Accessibility API Mappings",
       "shortname": "graphics-aam-1.0",
-      "date": "13 December 2023",
+      "date": "23 January 2024",
       "url": "https://www.w3.org/TR/graphics-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/graphics-aam-1.0/",
@@ -38933,7 +38928,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "19 January 2024",
+      "date": "23 January 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41253,7 +41248,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41540,7 +41535,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -42620,7 +42615,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43208,7 +43203,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -45377,7 +45372,7 @@
     {
       "title": "Scroll-driven Animations",
       "shortname": "scroll-animations-1",
-      "date": "13 September 2023",
+      "date": "23 January 2024",
       "url": "https://www.w3.org/TR/scroll-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/scroll-animations-1/",
