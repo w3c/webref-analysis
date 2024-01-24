@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-24T06:34:02.698Z",
+  "date": "2024-01-24T12:41:43.657Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -626,7 +626,7 @@
     {
       "title": "Ambient Light Sensor",
       "shortname": "ambient-light",
-      "date": "5 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/ambient-light/",
       "release": {
         "url": "https://www.w3.org/TR/ambient-light/",
@@ -2444,7 +2444,7 @@
     {
       "title": "Compatibility Standard",
       "shortname": "compat",
-      "date": "10 January 2024",
+      "date": "24 January 2024",
       "url": "https://compat.spec.whatwg.org/",
       "nightly": {
         "url": "https://compat.spec.whatwg.org/",
@@ -2834,7 +2834,7 @@
     {
       "title": "Console Standard",
       "shortname": "console",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://console.spec.whatwg.org/",
       "nightly": {
         "url": "https://console.spec.whatwg.org/",
@@ -7835,7 +7835,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -16688,7 +16688,7 @@
     {
       "title": "CSS Scrollbars Styling Module Level 1",
       "shortname": "css-scrollbars-1",
-      "date": "6 August 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-scrollbars-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scrollbars-1/",
@@ -22686,7 +22686,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "16 January 2024",
+      "date": "24 January 2024",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -24753,7 +24753,7 @@
     {
       "title": "Encoding Standard",
       "shortname": "encoding",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://encoding.spec.whatwg.org/",
       "nightly": {
         "url": "https://encoding.spec.whatwg.org/",
@@ -25579,7 +25579,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "10 January 2024",
+      "date": "24 January 2024",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -26428,7 +26428,7 @@
     {
       "title": "File System Standard",
       "shortname": "fs",
-      "date": "12 December 2023",
+      "date": "24 January 2024",
       "url": "https://fs.spec.whatwg.org/",
       "nightly": {
         "url": "https://fs.spec.whatwg.org/",
@@ -26851,7 +26851,7 @@
     {
       "title": "Fullscreen API Standard",
       "shortname": "fullscreen",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://fullscreen.spec.whatwg.org/",
       "nightly": {
         "url": "https://fullscreen.spec.whatwg.org/",
@@ -30807,7 +30807,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "15 January 2024",
+      "date": "24 January 2024",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -35300,7 +35300,7 @@
     {
       "title": "MIME Sniffing Standard",
       "shortname": "mimesniff",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://mimesniff.spec.whatwg.org/",
       "nightly": {
         "url": "https://mimesniff.spec.whatwg.org/",
@@ -36535,7 +36535,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -41153,7 +41153,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41720,7 +41720,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -41808,7 +41808,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "23 January 2024",
+      "date": "24 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -48363,7 +48363,7 @@
     {
       "title": "Storage Standard",
       "shortname": "storage",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://storage.spec.whatwg.org/",
       "nightly": {
         "url": "https://storage.spec.whatwg.org/",
@@ -48477,7 +48477,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "10 January 2024",
+      "date": "24 January 2024",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -49109,7 +49109,7 @@
     {
       "title": "Test Utils Standard",
       "shortname": "testutils",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://testutils.spec.whatwg.org/",
       "nightly": {
         "url": "https://testutils.spec.whatwg.org/",
@@ -50106,7 +50106,7 @@
     {
       "title": "URL Pattern Standard",
       "shortname": "urlpattern",
-      "date": "16 January 2024",
+      "date": "24 January 2024",
       "url": "https://urlpattern.spec.whatwg.org/",
       "nightly": {
         "url": "https://urlpattern.spec.whatwg.org/",
@@ -50160,7 +50160,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "8 December 2023",
+      "date": "24 January 2024",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
@@ -52391,7 +52391,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "15 January 2024",
+      "date": "24 January 2024",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -57680,7 +57680,7 @@
     {
       "title": "WebSockets Standard",
       "shortname": "websockets",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://websockets.spec.whatwg.org/",
       "nightly": {
         "url": "https://websockets.spec.whatwg.org/",
@@ -59106,7 +59106,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "27 September 2023",
+      "date": "24 January 2024",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",

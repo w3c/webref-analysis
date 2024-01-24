@@ -1662,7 +1662,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 23 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1788,7 +1788,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 23 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -1822,7 +1822,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 23 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -4685,7 +4685,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 23 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -7555,7 +7555,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
 - Crawled URL: [https://drafts.csswg.org/css-scrollbars-1/](https://drafts.csswg.org/css-scrollbars-1/)
-- Crawled version: 6 August 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://drafts.csswg.org/css-scrollbars-1/](https://drafts.csswg.org/css-scrollbars-1/)
 - Latest published version: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
 - Shortname: css-scrollbars-1
@@ -9816,7 +9816,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Crawled URL: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
-- Crawled version: 5 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://w3c.github.io/ambient-light/](https://w3c.github.io/ambient-light/)
 - Latest published version: [https://www.w3.org/TR/ambient-light/](https://www.w3.org/TR/ambient-light/)
 - Shortname: ambient-light
@@ -18761,7 +18761,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Crawled URL: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
-- Crawled version: 10 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://compat.spec.whatwg.org/](https://compat.spec.whatwg.org/)
 - Shortname: compat
 
@@ -18795,7 +18795,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Crawled URL: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://console.spec.whatwg.org/](https://console.spec.whatwg.org/)
 - Shortname: console
 
@@ -18825,7 +18825,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 16 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 
@@ -19079,7 +19079,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
 - Crawled URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
 - Shortname: encoding
 
@@ -19146,7 +19146,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 10 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -19273,7 +19273,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
 - Crawled URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
 - Shortname: fullscreen
 
@@ -19683,7 +19683,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
 - Crawled URL: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://websockets.spec.whatwg.org/](https://websockets.spec.whatwg.org/)
 - Shortname: websockets
 
@@ -19716,7 +19716,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Crawled URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
-- Crawled version: 15 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Shortname: infra
 
@@ -19976,7 +19976,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
 - Crawled URL: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://mimesniff.spec.whatwg.org/](https://mimesniff.spec.whatwg.org/)
 - Shortname: mimesniff
 
@@ -20028,7 +20028,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
 - Crawled URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
 - Shortname: notifications
 
@@ -20090,7 +20090,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Crawled URL: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
-- Crawled version: 12 December 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://fs.spec.whatwg.org/](https://fs.spec.whatwg.org/)
 - Shortname: fs
 
@@ -20115,7 +20115,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
 - Crawled URL: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://storage.spec.whatwg.org/](https://storage.spec.whatwg.org/)
 - Shortname: storage
 
@@ -20154,7 +20154,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 10 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 
@@ -20197,7 +20197,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
 - Crawled URL: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://testutils.spec.whatwg.org/](https://testutils.spec.whatwg.org/)
 - Shortname: testutils
 
@@ -20220,7 +20220,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://urlpattern.spec.whatwg.org/](https://urlpattern.spec.whatwg.org/)
 - Crawled URL: [https://urlpattern.spec.whatwg.org/](https://urlpattern.spec.whatwg.org/)
-- Crawled version: 16 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://urlpattern.spec.whatwg.org/](https://urlpattern.spec.whatwg.org/)
 - Shortname: urlpattern
 
@@ -20245,7 +20245,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 8 December 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
@@ -20375,7 +20375,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 15 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
@@ -20661,7 +20661,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
-- Crawled version: 27 September 2023
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Shortname: xhr
 
