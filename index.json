@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-25T12:40:12.330Z",
+  "date": "2024-01-25T18:33:32.397Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -30304,7 +30304,7 @@
     {
       "title": "Identifiers for WebRTC's Statistics API",
       "shortname": "webrtc-stats",
-      "date": "11 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.w3.org/TR/webrtc-stats/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-stats/",
@@ -39701,7 +39701,7 @@
     {
       "title": "RDF 1.2 Semantics",
       "shortname": "rdf12-semantics",
-      "date": "22 September 2023",
+      "date": "25 January 2024",
       "url": "https://www.w3.org/TR/rdf12-semantics/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-semantics/",
@@ -41163,7 +41163,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "24 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -53871,7 +53871,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "23 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
