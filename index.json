@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-25T00:46:01.078Z",
+  "date": "2024-01-25T06:36:24.442Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -24077,7 +24077,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "17 January 2024",
+      "date": "25 January 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -28384,7 +28384,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "24 January 2024",
+      "date": "25 January 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -41258,7 +41258,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "24 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -41615,7 +41615,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "24 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -41730,7 +41730,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "24 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -46483,7 +46483,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "18 January 2024",
+      "date": "25 January 2024",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
