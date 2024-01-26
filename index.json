@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-26T14:08:58.950Z",
+  "date": "2024-01-26T18:32:59.408Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -10862,6 +10862,13 @@
             }
           },
           {
+            "link": "https://www.w3.org/TR/css-fonts-4/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
               "name": "CSS-VALUES-3",
@@ -14317,7 +14324,15 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/css-nesting-1/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-fonts-4/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -20932,7 +20947,18 @@
           }
         ],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -41667,7 +41693,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "25 January 2024",
+      "date": "26 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -57168,7 +57194,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "25 January 2024",
+      "date": "26 January 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -57242,7 +57268,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "25 January 2024",
+      "date": "26 January 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

@@ -1747,7 +1747,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 25 January 2024
+- Crawled version: 26 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -5654,6 +5654,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/`](https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
      * [`https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/`](https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
      * [`https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/`](https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+     * [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
@@ -6765,7 +6766,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Object Model (CSSOM) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS Object Model (CSSOM) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6780,6 +6781,8 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/css-nesting-1/`](https://www.w3.org/TR/css-nesting-1/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8823,7 +8826,10 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/)
 
 No informative reference to this spec from other specs.
 
@@ -10292,7 +10298,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 25 January 2024
+- Crawled version: 26 January 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10322,7 +10328,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 25 January 2024
+- Crawled version: 26 January 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
