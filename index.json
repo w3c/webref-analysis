@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-26T12:39:32.604Z",
+  "date": "2024-01-26T14:08:58.950Z",
   "stats": {
     "crawled": 591,
-    "errors": 1,
+    "errors": 0,
     "studied": 591
   },
   "results": [
@@ -2047,9 +2047,9 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-viewport/",
+              "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -8374,9 +8374,9 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://drafts.csswg.org/css-viewport/",
+              "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -10764,7 +10764,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "7 December 2023",
+      "date": "24 January 2024",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10791,7 +10791,6 @@
         }
       ],
       "report": {
-        "error": "TypeError: Cannot read properties of null (reading 'textContent')\nhttps://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:369:68\nArray.map (<anonymous>)\nextractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:363:6) TypeError: Cannot read properties of null (reading 'textContent')\nhttps://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:369:68\nArray.map (<anonymous>)\nextractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-cssdfn.mjs:363:6)\n    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:36), <anonymous>:6:28)\n    at #evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:221:55)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:116:16)\n    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:123:16)\n    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:353:20)\n    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:741:20)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:671:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10813,6 +10812,55 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
@@ -10854,6 +10902,11 @@
               "url": "https://www.w3.org/TR/css-font-loading-3/",
               "title": "CSS Font Loading Module Level 3",
               "crawled": "https://drafts.csswg.org/css-font-loading-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -15088,9 +15141,9 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
-              "url": "https://drafts.csswg.org/css-viewport/",
+              "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -20826,20 +20879,26 @@
     },
     {
       "title": "CSS Viewport Module Level 1",
-      "shortname": "css-viewport",
-      "date": "19 January 2024",
-      "url": "https://drafts.csswg.org/css-viewport/",
+      "shortname": "css-viewport-1",
+      "date": "25 January 2024",
+      "url": "https://www.w3.org/TR/css-viewport-1/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-viewport-1/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
-        "url": "https://drafts.csswg.org/css-viewport/",
+        "url": "https://drafts.csswg.org/css-viewport-1/",
         "status": "Editor's Draft",
         "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-viewport-1/",
           "https://w3c.github.io/csswg-drafts/css-viewport/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-viewport/Overview.bs",
-        "filename": "index.html"
+        "filename": "Overview.html"
       },
-      "crawled": "https://drafts.csswg.org/css-viewport/",
+      "crawled": "https://drafts.csswg.org/css-viewport-1/",
       "organization": "W3C",
       "groups": [
         {
@@ -20873,25 +20932,8 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-viewport/",
-              "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
-            }
-          ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/epub-33/",
-              "title": "EPUB 3.3",
-              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
-            }
-          ]
+          "normative": [],
+          "informative": []
         },
         "ok": false
       }
@@ -21235,9 +21277,9 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-viewport/",
+              "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -21776,9 +21818,9 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-viewport/",
+              "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -34734,9 +34776,9 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
-              "url": "https://drafts.csswg.org/css-viewport/",
+              "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -43223,7 +43265,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "26 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -51105,9 +51147,9 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://drafts.csswg.org/css-viewport/",
+              "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             }
           ],
           "informative": []
