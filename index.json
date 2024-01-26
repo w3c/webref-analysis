@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-25T18:33:32.397Z",
+  "date": "2024-01-26T00:47:13.010Z",
   "stats": {
     "crawled": 591,
     "errors": 1,
@@ -404,7 +404,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "23 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -3400,7 +3400,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "25 January 2024",
+      "date": "26 January 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -16643,7 +16643,7 @@
     {
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
-      "date": "6 June 2023",
+      "date": "25 January 2024",
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
@@ -20783,7 +20783,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "18 January 2024",
+      "date": "24 January 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -22184,7 +22184,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "25 January 2024",
+      "date": "26 January 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -25999,6 +25999,11 @@
               "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
+              "url": "https://tc39.es/source-map-spec/",
+              "title": "Source Map",
+              "crawled": "https://tc39.es/source-map-spec/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -27099,7 +27104,7 @@
     {
       "title": "Generic Sensor API",
       "shortname": "generic-sensor",
-      "date": "5 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.w3.org/TR/generic-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/generic-sensor/",
@@ -27565,7 +27570,7 @@
     {
       "title": "Global Privacy Control (GPC)",
       "shortname": "gpc-spec",
-      "date": "04 December 2023",
+      "date": "25 January 2024",
       "url": "https://privacycg.github.io/gpc-spec/",
       "nightly": {
         "url": "https://privacycg.github.io/gpc-spec/",
@@ -31690,6 +31695,11 @@
               "url": "https://wicg.github.io/soft-navigations/",
               "title": "Soft Navigations",
               "crawled": "https://wicg.github.io/soft-navigations/"
+            },
+            {
+              "url": "https://tc39.es/source-map-spec/",
+              "title": "Source Map",
+              "crawled": "https://tc39.es/source-map-spec/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -41258,7 +41268,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "25 January 2024",
+      "date": "26 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42582,7 +42592,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "25 January 2024",
+      "date": "26 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -46377,6 +46387,11 @@
               "crawled": "https://w3c.github.io/webdriver-bidi/"
             },
             {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
+            },
+            {
               "url": "https://wicg.github.io/webhid/",
               "title": "WebHID API",
               "crawled": "https://wicg.github.io/webhid/"
@@ -46629,7 +46644,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "22 January 2024",
+      "date": "25 January 2024",
       "url": "https://tc39.es/source-map-spec/",
       "nightly": {
         "url": "https://tc39.es/source-map-spec/",
@@ -46648,7 +46663,7 @@
         }
       ],
       "report": {
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -46665,7 +46680,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -50575,6 +50590,11 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
+              "url": "https://tc39.es/source-map-spec/",
+              "title": "Source Map",
+              "crawled": "https://tc39.es/source-map-spec/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -50725,11 +50745,6 @@
               "url": "https://www.w3.org/TR/remote-playback/",
               "title": "Remote Playback API",
               "crawled": "https://w3c.github.io/remote-playback/"
-            },
-            {
-              "url": "https://tc39.es/source-map-spec/",
-              "title": "Source Map",
-              "crawled": "https://tc39.es/source-map-spec/"
             },
             {
               "url": "https://wicg.github.io/web-otp/",
@@ -53353,6 +53368,11 @@
               "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
+              "url": "https://tc39.es/source-map-spec/",
+              "title": "Source Map",
+              "crawled": "https://tc39.es/source-map-spec/"
+            },
+            {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
               "title": "Speculation Rules",
               "crawled": "https://wicg.github.io/nav-speculation/speculation-rules.html"
@@ -54519,7 +54539,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "10 November 2023",
+      "date": "25 January 2024",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -57106,7 +57126,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "24 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -57180,7 +57200,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "24 January 2024",
+      "date": "25 January 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

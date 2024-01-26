@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 25, 2024
+% January 26, 2024
 
 591 specifications were crawled in this report.
 
@@ -67,7 +67,6 @@ extractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/
 - [RFC 7578: Returning Values from Forms: multipart/form-data](https://www.rfc-editor.org/rfc/rfc7578)
 - [Set methods](https://tc39.es/proposal-set-methods/)
 - [ShadowRealm API](https://tc39.es/proposal-shadowrealm/)
-- [Source Map](https://tc39.es/source-map-spec/)
 - [Source Phase Imports](https://tc39.es/proposal-source-phase-imports/)
 - [SPARQL 1.2 Overview](https://w3c.github.io/sparql-concepts/spec/)
 - [SPARQL 1.2 Query Results JSON Format](https://w3c.github.io/sparql-results-json/spec/)
@@ -118,7 +117,7 @@ extractTableDfn (https://drafts.csswg.org/css-fonts-4/reffy/scripts/__/__/__/__/
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 
-=> 85 specifications found
+=> 84 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 

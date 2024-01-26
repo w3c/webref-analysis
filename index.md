@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% January 25, 2024
+% January 26, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -679,19 +679,19 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Source Map {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### Source Map {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Crawled URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
-- Crawled version: 22 January 2024
+- Crawled version: 25 January 2024
 - Editor's Draft: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Shortname: sourcemap
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -785,7 +785,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 25 January 2024
+- Crawled version: 26 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -972,7 +972,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 25 January 2024
+- Crawled version: 26 January 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -997,7 +997,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
-- Crawled version: 25 January 2024
+- Crawled version: 26 January 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html)
 - Shortname: digest-headers
 
@@ -1697,7 +1697,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 25 January 2024
+- Crawled version: 26 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -2827,7 +2827,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 23 January 2024
+- Crawled version: 25 January 2024
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -7530,7 +7530,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Crawled URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
-- Crawled version: 6 June 2023
+- Crawled version: 25 January 2024
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Shortname: css-scroll-snap-2
 
@@ -8788,7 +8788,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 18 January 2024
+- Crawled version: 24 January 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -9978,7 +9978,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 5 January 2024
+- Crawled version: 25 January 2024
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -10297,7 +10297,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 24 January 2024
+- Crawled version: 25 January 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10327,7 +10327,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 24 January 2024
+- Crawled version: 25 January 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -11873,7 +11873,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
 - Crawled URL: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
-- Crawled version: 04 December 2023
+- Crawled version: 25 January 2024
 - Editor's Draft: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
 - Shortname: gpc-spec
 
@@ -13568,6 +13568,7 @@ Normative references to this spec from:
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
 - [WebHID API](https://wicg.github.io/webhid/)
 - [WebUSB API](https://wicg.github.io/webusb/)
 
@@ -18623,7 +18624,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 10 November 2023
+- Crawled version: 25 January 2024
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
@@ -19236,6 +19237,7 @@ Normative references to this spec from:
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Soft Navigations](https://wicg.github.io/soft-navigations/)
+- [Source Map](https://tc39.es/source-map-spec/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
@@ -19899,6 +19901,7 @@ Normative references to this spec from:
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Soft Navigations](https://wicg.github.io/soft-navigations/)
+- [Source Map](https://tc39.es/source-map-spec/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
@@ -20333,6 +20336,7 @@ Normative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
+- [Source Map](https://tc39.es/source-map-spec/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
@@ -20366,7 +20370,6 @@ Informative references to this spec from:
 - [Paint Timing](https://w3c.github.io/paint-timing/)
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
-- [Source Map](https://tc39.es/source-map-spec/)
 - [WebOTP API](https://wicg.github.io/web-otp/)
 
 
@@ -20573,6 +20576,7 @@ Normative references to this spec from:
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Soft Navigations](https://wicg.github.io/soft-navigations/)
+- [Source Map](https://tc39.es/source-map-spec/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
