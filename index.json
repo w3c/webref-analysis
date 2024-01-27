@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-26T18:32:59.408Z",
+  "date": "2024-01-27T00:47:36.409Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -4409,7 +4409,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "2 January 2024",
+      "date": "27 January 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -4456,6 +4456,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css3-exclusions/",
               "title": "CSS Exclusions Module Level 1",
@@ -13816,6 +13821,13 @@
             }
           },
           {
+            "link": "https://www.w3.org/TR/css-fonts-4/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
+          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS3VAL",
@@ -19240,6 +19252,13 @@
         },
         "missingLinkRef": [],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-fonts-4/",
+            "ref": {
+              "name": "CSS-FONTS-4",
+              "url": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/geometry-1/",
             "ref": {
@@ -41623,7 +41642,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "26 January 2024",
+      "date": "27 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -43291,7 +43310,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "25 January 2024",
+      "date": "27 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
