@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-27T00:47:36.409Z",
+  "date": "2024-01-27T06:31:55.336Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -41915,7 +41915,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "26 January 2024",
+      "date": "27 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -53978,7 +53978,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "26 January 2024",
+      "date": "27 January 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
