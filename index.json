@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-30T12:37:38.430Z",
+  "date": "2024-01-30T18:32:55.820Z",
   "stats": {
     "crawled": 591,
-    "errors": 15,
+    "errors": 14,
     "studied": 591
   },
   "results": [
@@ -4392,6 +4392,11 @@
               "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/uievents/",
               "title": "UI Events",
               "crawled": "https://w3c.github.io/uievents/"
@@ -6442,7 +6447,7 @@
     {
       "title": "CSS Cascading and Inheritance Level 3",
       "shortname": "css-cascade-3",
-      "date": "28 August 2023",
+      "date": "30 January 2024",
       "url": "https://www.w3.org/TR/css-cascade-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-cascade-3/",
@@ -7269,6 +7274,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
               "title": "CSS Writing Modes Level 3",
               "crawled": "https://drafts.csswg.org/css-writing-modes-3/"
@@ -7849,7 +7859,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "29 January 2024",
+      "date": "30 January 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -10784,7 +10794,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "26 January 2024",
+      "date": "30 January 2024",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -11101,6 +11111,11 @@
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -12676,6 +12691,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -14312,7 +14332,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "26 July 2023",
+      "date": "30 January 2024",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -14390,6 +14410,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://www.w3.org/TR/input-events-2/",
@@ -18894,7 +18919,13 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+            }
+          ]
         },
         "ok": false
       }
@@ -20530,6 +20561,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-will-change-1/",
               "title": "CSS Will Change Module Level 1",
               "crawled": "https://drafts.csswg.org/css-will-change-1/"
@@ -20954,7 +20990,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 381)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -20968,7 +21003,11 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/",
-          "https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/"
+          "https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/",
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
@@ -21829,7 +21868,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "6 November 2023",
+      "date": "30 January 2024",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -25596,6 +25635,11 @@
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -32478,6 +32522,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport-1/"
             },
             {
               "url": "https://wicg.github.io/element-timing/",
@@ -50243,7 +50292,7 @@
     {
       "title": "URL Pattern Standard",
       "shortname": "urlpattern",
-      "date": "29 January 2024",
+      "date": "30 January 2024",
       "url": "https://urlpattern.spec.whatwg.org/",
       "nightly": {
         "url": "https://urlpattern.spec.whatwg.org/",
