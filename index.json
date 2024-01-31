@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-01-31T12:38:02.881Z",
+  "date": "2024-01-31T18:34:40.828Z",
   "stats": {
     "crawled": 591,
     "errors": 0,
@@ -869,7 +869,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "22 January 2024",
+      "date": "31 January 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2020,6 +2020,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-gcpm-3/",
@@ -7940,6 +7945,11 @@
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -9253,6 +9263,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -9360,11 +9375,6 @@
               "url": "https://drafts.csswg.org/css-extensions-1/",
               "title": "CSS Extensions",
               "crawled": "https://drafts.csswg.org/css-extensions-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-fonts-4/",
-              "title": "CSS Fonts Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
@@ -9561,7 +9571,13 @@
               "crawled": "https://w3c.github.io/webdriver/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          ]
         },
         "ok": false
       }
@@ -10002,11 +10018,6 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-fonts-4/",
-              "title": "CSS Fonts Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -10775,6 +10786,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -10792,7 +10808,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "30 January 2024",
+      "date": "31 January 2024",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10831,9 +10847,9 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://w3c.github.io/IFT/Overview.html",
           "https://w3c.github.io/mathml-core/",
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-syntax-3/",
           "https://www.w3.org/TR/css3-syntax/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/security-privacy-questionnaire/",
@@ -10844,70 +10860,56 @@
             "link": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
+              "url": "https://www.w3.org/TR/css-fonts-4/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
+              "url": "https://www.w3.org/TR/css-fonts-4/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
+              "url": "https://www.w3.org/TR/css-fonts-4/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
+              "url": "https://www.w3.org/TR/css-fonts-4/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
+              "url": "https://www.w3.org/TR/css-fonts-4/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
+              "url": "https://www.w3.org/TR/css-fonts-4/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/",
             "ref": {
               "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-fonts-4/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-fonts-4/"
             }
           },
           {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -11104,6 +11106,11 @@
               "url": "https://drafts.csswg.org/css-variables-2/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 2",
               "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -14393,6 +14400,11 @@
               "crawled": "https://drafts.csswg.org/css-font-loading-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -17615,6 +17627,11 @@
               "crawled": "https://drafts.csswg.org/css-font-loading-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-gcpm-3/",
               "title": "CSS Generated Content for Paged Media Module",
               "crawled": "https://drafts.csswg.org/css-gcpm-3/"
@@ -18914,6 +18931,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
@@ -24140,7 +24162,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "22 January 2024",
+      "date": "31 January 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -30854,7 +30876,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-fonts-4/",
+              "title": "CSS Fonts Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            }
+          ]
         },
         "ok": true
       }
@@ -34057,11 +34085,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://wicg.github.io/attribution-reporting-api/",
-              "title": "Attribution Reporting",
-              "crawled": "https://wicg.github.io/attribution-reporting-api/"
-            },
             {
               "url": "https://www.w3.org/TR/audio-output/",
               "title": "Audio Output Devices API",
@@ -38361,7 +38384,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "21 January 2024",
+      "date": "31 January 2024",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -41970,7 +41993,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "28 January 2024",
+      "date": "29 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -49228,7 +49251,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "30 January 2024",
+      "date": "31 January 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -49707,7 +49730,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "24 January 2024",
+      "date": "31 January 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
