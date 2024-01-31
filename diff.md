@@ -1,18 +1,5 @@
-% Diff between report from "January 30, 2024" and reference report from "January 30, 2024"
+% Diff between report from "January 31, 2024" and reference report from "January 30, 2024"
 % Strudy
-% January 30, 2024
-
-## CSS Viewport Module Level 1
-
-- Initial URL: [https://www.w3.org/TR/css-viewport-1/](https://www.w3.org/TR/css-viewport-1/)
-- Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-viewport-1/](https://drafts.csswg.org/css-viewport-1/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 500 Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 381)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)
-
+% January 31, 2024
 
 
