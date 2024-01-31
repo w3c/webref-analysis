@@ -17442,7 +17442,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 28 January 2024
+- Crawled version: 31 January 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18824,6 +18824,7 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/string-meta/`](https://www.w3.org/TR/string-meta/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19402,7 +19403,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 25 January 2024
+- Crawled version: 31 January 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
