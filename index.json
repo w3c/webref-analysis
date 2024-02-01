@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-01T12:39:11.551Z",
+  "date": "2024-02-01T18:31:51.682Z",
   "stats": {
     "crawled": 591,
     "errors": 13,
@@ -3405,7 +3405,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "30 January 2024",
+      "date": "1 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -22357,7 +22357,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "30 January 2024",
+      "date": "1 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -32678,7 +32678,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "11 January 2024",
+      "date": "1 February 2024",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -36312,7 +36312,7 @@
     {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
-      "date": "24 October 2023",
+      "date": "01 February 2024",
       "url": "https://www.w3.org/TR/navigation-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/navigation-timing-2/",
@@ -46828,7 +46828,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "25 January 2024",
+      "date": "1 February 2024",
       "url": "https://tc39.es/source-map-spec/",
       "nightly": {
         "url": "https://tc39.es/source-map-spec/",
@@ -49749,7 +49749,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "31 January 2024",
+      "date": "1 February 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
