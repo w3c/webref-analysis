@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-02T06:31:40.015Z",
+  "date": "2024-02-02T12:40:14.637Z",
   "stats": {
     "crawled": 591,
     "errors": 13,
@@ -10866,50 +10866,50 @@
           {
             "link": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/",
             "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "name": "CSS-FONTS-3",
+              "url": "https://www.w3.org/TR/css-fonts-3/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180410/",
             "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "name": "CSS-FONTS-3",
+              "url": "https://www.w3.org/TR/css-fonts-3/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/",
             "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "name": "CSS-FONTS-3",
+              "url": "https://www.w3.org/TR/css-fonts-3/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2019/WD-css-fonts-4-20191113/",
             "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "name": "CSS-FONTS-3",
+              "url": "https://www.w3.org/TR/css-fonts-3/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2020/WD-css-fonts-4-20201117/",
             "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "name": "CSS-FONTS-3",
+              "url": "https://www.w3.org/TR/css-fonts-3/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20210729/",
             "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "name": "CSS-FONTS-3",
+              "url": "https://www.w3.org/TR/css-fonts-3/"
             }
           },
           {
             "link": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/",
             "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://www.w3.org/TR/css-fonts-4/"
+              "name": "CSS-FONTS-3",
+              "url": "https://www.w3.org/TR/css-fonts-3/"
             }
           },
           {
@@ -10946,11 +10946,6 @@
               "url": "https://www.w3.org/TR/css-font-loading-3/",
               "title": "CSS Font Loading Module Level 3",
               "crawled": "https://drafts.csswg.org/css-font-loading-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-fonts-4/",
-              "title": "CSS Fonts Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -20946,7 +20941,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "1 February 2024",
+      "date": "2 February 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -22268,7 +22263,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "31 January 2024",
+      "date": "2 February 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -28571,7 +28566,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "31 January 2024",
+      "date": "2 February 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -49270,7 +49265,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "31 January 2024",
+      "date": "2 February 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
