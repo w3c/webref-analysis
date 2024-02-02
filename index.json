@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-02T12:40:14.637Z",
+  "date": "2024-02-02T18:35:12.904Z",
   "stats": {
     "crawled": 591,
     "errors": 13,
@@ -869,7 +869,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "1 February 2024",
+      "date": "2 February 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -37507,7 +37507,7 @@
     {
       "title": "Performance Timeline",
       "shortname": "performance-timeline",
-      "date": "11 October 2023",
+      "date": "02 February 2024",
       "url": "https://www.w3.org/TR/performance-timeline/",
       "release": {
         "url": "https://www.w3.org/TR/performance-timeline/",

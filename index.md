@@ -15998,7 +15998,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/performance-timeline/](https://www.w3.org/TR/performance-timeline/)
 - Crawled URL: [https://w3c.github.io/performance-timeline/](https://w3c.github.io/performance-timeline/)
-- Crawled version: 11 October 2023
+- Crawled version: 02 February 2024
 - Editor's Draft: [https://w3c.github.io/performance-timeline/](https://w3c.github.io/performance-timeline/)
 - Latest published version: [https://www.w3.org/TR/performance-timeline/](https://www.w3.org/TR/performance-timeline/)
 - Shortname: performance-timeline
@@ -16245,7 +16245,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 1 February 2024
+- Crawled version: 2 February 2024
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
