@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-02T18:35:12.904Z",
+  "date": "2024-02-03T00:46:36.162Z",
   "stats": {
     "crawled": 591,
     "errors": 13,
@@ -5392,7 +5392,7 @@
     {
       "title": "CSS Box Alignment Module Level 3",
       "shortname": "css-align-3",
-      "date": "28 August 2023",
+      "date": "2 February 2024",
       "url": "https://www.w3.org/TR/css-align-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-align-3/",
@@ -6318,7 +6318,7 @@
     {
       "title": "CSS Box Sizing Module Level 4",
       "shortname": "css-sizing-4",
-      "date": "28 August 2023",
+      "date": "2 February 2024",
       "url": "https://www.w3.org/TR/css-sizing-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-sizing-4/",
@@ -15395,7 +15395,7 @@
     {
       "title": "CSS Positioned Layout Module Level 3",
       "shortname": "css-position-3",
-      "date": "22 November 2023",
+      "date": "2 February 2024",
       "url": "https://www.w3.org/TR/css-position-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-position-3/",
