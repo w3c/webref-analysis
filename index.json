@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-03T12:36:38.825Z",
+  "date": "2024-02-03T18:31:49.112Z",
   "stats": {
     "crawled": 591,
     "errors": 13,
@@ -42771,7 +42771,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "29 January 2024",
+      "date": "3 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
