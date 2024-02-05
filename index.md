@@ -289,7 +289,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 31 January 2024
+- Crawled version: 5 February 2024
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -396,6 +396,9 @@ Normative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
@@ -785,7 +788,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 3 February 2024
+- Crawled version: 29 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -806,7 +809,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 4 February 2024
+- Crawled version: 28 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -1127,6 +1130,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 
 ### RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests {data-spec=true data-missingDfns=true data-ok=true}
@@ -1385,7 +1389,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 5 February 2024
+- Crawled version: 28 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1662,7 +1666,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 4 February 2024
+- Crawled version: 28 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1680,6 +1684,7 @@ Normative references to this spec from:
 - [File API](https://w3c.github.io/FileAPI/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 Informative references to this spec from:
@@ -1849,7 +1854,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 5 February 2024
+- Crawled version: 28 January 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2845,6 +2850,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
@@ -2895,6 +2901,36 @@ Informative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 
 
+### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/wai-aria-1.3/](https://www.w3.org/TR/wai-aria-1.3/)
+- Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
+- Crawled version: 01 February 2024
+- Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
+- Latest published version: [https://www.w3.org/TR/wai-aria-1.3/](https://www.w3.org/TR/wai-aria-1.3/)
+- Shortname: wai-aria-1.3
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://w3c.github.io/aria/`](http://w3c.github.io/aria/)
+     * [`https://w3c.github.io/aria-practices/`](https://w3c.github.io/aria-practices/)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Core Accessibility API Mappings 1.2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
@@ -2922,6 +2958,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
@@ -3652,7 +3689,7 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 
 
-### CSS Animation Worklet API {data-spec=true data-error=true}
+### CSS Animation Worklet API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -3665,15 +3702,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 295)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://w3c.github.io/html/infrastructure.html`](http://w3c.github.io/html/infrastructure.html)
+     * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5512,7 +5543,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Fill and Stroke Module Level 3 {data-spec=true data-error=true}
+### CSS Fill and Stroke Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -5525,15 +5556,12 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 402)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6399,7 +6427,7 @@ Informative references to this spec from:
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
 
 
-### CSS Layout API Level 1 {data-spec=true data-error=true}
+### CSS Layout API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6412,15 +6440,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 332)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6589,7 +6610,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Masking Module Level 1 {data-spec=true data-error=true}
+### CSS Masking Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6602,15 +6623,23 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 336)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/)
+     * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7069,7 +7098,7 @@ Informative references to this spec from:
 - [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
 
 
-### CSS Painting API Level 1 {data-spec=true data-error=true}
+### CSS Painting API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -7082,15 +7111,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 346)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7213,7 +7234,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 
 
-### CSS Properties and Values API Level 1 {data-spec=true data-error=true}
+### CSS Properties and Values API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -7226,15 +7247,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 348)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8398,7 +8412,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-error=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8411,15 +8425,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 374)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8441,7 +8449,7 @@ Informative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 
 
-### CSS Typed OM Level 2 {data-spec=true data-error=true}
+### CSS Typed OM Level 2 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -8453,15 +8461,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 15)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9149,7 +9149,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### Filter Effects Module Level 1 {data-spec=true data-error=true}
+### Filter Effects Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9162,15 +9162,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 403)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html)
+     * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9196,7 +9198,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### Filter Effects Module Level 2 {data-spec=true data-error=true}
+### Filter Effects Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9208,15 +9210,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 41)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9230,7 +9229,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Font Metrics API Level 1 {data-spec=true data-error=true}
+### Font Metrics API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -9242,15 +9241,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 16)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9259,7 +9250,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Geometry Interfaces Module Level 1 {data-spec=true data-error=true}
+### Geometry Interfaces Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -9272,15 +9263,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 409)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9475,7 +9458,7 @@ Informative references to this spec from:
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 
 
-### Motion Path Module Level 1 {data-spec=true data-error=true}
+### Motion Path Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9488,15 +9471,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 449)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9647,6 +9628,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Box Alignment Module Level 3](https://drafts.csswg.org/css-align-3/)
@@ -10991,6 +10973,7 @@ Normative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 
 Informative references to this spec from:
@@ -11024,6 +11007,7 @@ Normative references to this spec from:
 - [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 Informative references to this spec from:
 
@@ -11079,6 +11063,7 @@ Normative references to this spec from:
 
 - [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 No informative reference to this spec from other specs.
 
@@ -12096,6 +12081,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
 - [Digital Publishing WAI-ARIA Module 1.1](https://w3c.github.io/dpub-aria/)
 - [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
@@ -13053,7 +13039,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Fill and Stroke Module Level 3 {data-spec=true data-error=true}
+### CSS Fill and Stroke Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13066,15 +13052,12 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 402)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13247,6 +13230,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Autoplay Policy Detection](https://w3c.github.io/autoplay/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
@@ -13673,7 +13657,7 @@ Informative references to this spec from:
 
 ## Technical Architecture Group {#group-technical_architecture_group}
 
-### CSS Properties and Values API Level 1 {data-spec=true data-error=true}
+### CSS Properties and Values API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13686,15 +13670,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 348)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13710,7 +13687,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-error=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -13723,15 +13700,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 374)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13837,6 +13808,37 @@ Informative references to this spec from:
 
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
+
+
+## Verifiable Credentials Working Group {#group-verifiable_credentials_working_group}
+
+### Verifiable Credentials Data Model v2.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
+- Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
+- Crawled version: 05 February 2024
+- Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
+- Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
+- Shortname: vc-data-model-2.0
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/vc-data-model-2.0-test-suite/`](https://w3c.github.io/vc-data-model-2.0-test-suite/)
+     * [`https://w3c.github.io/vc-di-bbs/`](https://w3c.github.io/vc-di-bbs/)
+     * [`https://www.w3.org/TR/2019/REC-vc-data-model-20191119/`](https://www.w3.org/TR/2019/REC-vc-data-model-20191119/)
+     * [`https://www.w3.org/TR/2022/REC-vc-data-model-20220303/`](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/)
+     * [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/)
+     * [`https://www.w3.org/TR/ld-glossary/`](https://www.w3.org/TR/ld-glossary/)
+     * [`https://www.w3.org/TR/vc-imp-guide/`](https://www.w3.org/TR/vc-imp-guide/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ## W3C Process Community Group  {#group-w3c_process_community_group_}
@@ -14398,6 +14400,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 Informative references to this spec from:
 
@@ -14486,6 +14489,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 
 
@@ -14930,6 +14934,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
 - [UI Events](https://w3c.github.io/uievents/)
@@ -15468,7 +15473,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 3 February 2024
+- Crawled version: 5 February 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -17463,7 +17468,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 31 January 2024
+- Crawled version: 5 February 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18700,11 +18705,252 @@ Informative references to this spec from:
 
 #### Spec info {.info}
 
+- Initial URL: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
+- Crawled URL: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
+- Crawled version: 30 June 2023
+- Editor's Draft: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
+- Shortname: wasm-core-2-fork-branch-hinting
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/extended-const/core/bikeshed/](https://webassembly.github.io/extended-const/core/bikeshed/)
+- Crawled URL: [https://webassembly.github.io/extended-const/core/bikeshed/](https://webassembly.github.io/extended-const/core/bikeshed/)
+- Crawled version: 13 December 2023
+- Editor's Draft: [https://webassembly.github.io/extended-const/core/bikeshed/](https://webassembly.github.io/extended-const/core/bikeshed/)
+- Shortname: wasm-core-2-fork-extended-const
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
+- Crawled URL: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
+- Crawled version: 17 January 2024
+- Editor's Draft: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
+- Shortname: wasm-core-2-fork-function-references
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled version: 4 February 2024
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Shortname: wasm-core-1-fork-gc
+- Shortname: wasm-core-2-fork-gc
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
+- Crawled URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
+- Crawled version: 9 December 2023
+- Editor's Draft: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
+- Shortname: wasm-core-2-fork-memory64
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/multi-memory/core/bikeshed/](https://webassembly.github.io/multi-memory/core/bikeshed/)
+- Crawled URL: [https://webassembly.github.io/multi-memory/core/bikeshed/](https://webassembly.github.io/multi-memory/core/bikeshed/)
+- Crawled version: 13 July 2023
+- Editor's Draft: [https://webassembly.github.io/multi-memory/core/bikeshed/](https://webassembly.github.io/multi-memory/core/bikeshed/)
+- Shortname: wasm-core-2-fork-multi-memory
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/tail-call/core/bikeshed/](https://webassembly.github.io/tail-call/core/bikeshed/)
+- Crawled URL: [https://webassembly.github.io/tail-call/core/bikeshed/](https://webassembly.github.io/tail-call/core/bikeshed/)
+- Crawled version: 1 March 2023
+- Editor's Draft: [https://webassembly.github.io/tail-call/core/bikeshed/](https://webassembly.github.io/tail-call/core/bikeshed/)
+- Shortname: wasm-core-2-fork-tail-call
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/threads/core/bikeshed/](https://webassembly.github.io/threads/core/bikeshed/)
+- Crawled URL: [https://webassembly.github.io/threads/core/bikeshed/](https://webassembly.github.io/threads/core/bikeshed/)
+- Crawled version: 30 September 2023
+- Editor's Draft: [https://webassembly.github.io/threads/core/bikeshed/](https://webassembly.github.io/threads/core/bikeshed/)
+- Shortname: wasm-core-2-fork-threads
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/content-security-policy/js-api/](https://webassembly.github.io/content-security-policy/js-api/)
+- Crawled URL: [https://webassembly.github.io/content-security-policy/js-api/](https://webassembly.github.io/content-security-policy/js-api/)
+- Crawled version: 18 April 2022
+- Editor's Draft: [https://webassembly.github.io/content-security-policy/js-api/](https://webassembly.github.io/content-security-policy/js-api/)
+- Shortname: wasm-js-api-2-fork-content-security-policy
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/)
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/js-promise-integration/js-api/](https://webassembly.github.io/js-promise-integration/js-api/)
+- Crawled URL: [https://webassembly.github.io/js-promise-integration/js-api/](https://webassembly.github.io/js-promise-integration/js-api/)
+- Crawled version: 19 October 2022
+- Editor's Draft: [https://webassembly.github.io/js-promise-integration/js-api/](https://webassembly.github.io/js-promise-integration/js-api/)
+- Shortname: wasm-js-api-2-fork-js-promise-integration
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://webassembly.github.io/js-types/js-api/](https://webassembly.github.io/js-types/js-api/)
+- Crawled URL: [https://webassembly.github.io/js-types/js-api/](https://webassembly.github.io/js-types/js-api/)
+- Crawled version: 12 October 2023
+- Editor's Draft: [https://webassembly.github.io/js-types/js-api/](https://webassembly.github.io/js-types/js-api/)
+- Shortname: wasm-js-api-2-fork-js-types
 
 #### Potential issue(s) {.anomalies}
 
@@ -18750,12 +18996,12 @@ No informative reference to this spec from other specs.
 
 #### Spec info {.info}
 
-- Initial URL: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
+- Initial URL: [https://www.w3.org/TR/wasm-core-2/](https://www.w3.org/TR/wasm-core-2/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 17 January 2024
+- Crawled version: 5 February 2024
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Latest published version: [https://www.w3.org/TR/wasm-core-1/](https://www.w3.org/TR/wasm-core-1/)
-- Shortname: wasm-core-1
+- Latest published version: [https://www.w3.org/TR/wasm-core-2/](https://www.w3.org/TR/wasm-core-2/)
+- Shortname: wasm-core-2
 
 #### Potential issue(s) {.anomalies}
 
@@ -18768,7 +19014,9 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Source Map](https://tc39.es/source-map-spec/)
 
 
 ### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -18777,7 +19025,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 17 January 2024
+- Crawled version: 5 February 2024
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -18808,7 +19056,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 17 January 2024
+- Crawled version: 5 February 2024
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
@@ -18945,6 +19193,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Audio Session](https://w3c.github.io/audio-session/)
@@ -19231,6 +19480,9 @@ Normative references to this spec from:
 - [Web Cryptography API](https://w3c.github.io/webcrypto/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -19442,6 +19694,7 @@ Normative references to this spec from:
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
 - [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/)
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
@@ -19718,6 +19971,9 @@ Normative references to this spec from:
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [Web Smart Card API](https://wicg.github.io/web-smart-card/)
 - [Web Speech API](https://wicg.github.io/speech-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
 - [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
@@ -19839,6 +20095,7 @@ Normative references to this spec from:
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
 - [Accelerometer](https://w3c.github.io/accelerometer/)
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
 - [ARIA in HTML](https://w3c.github.io/html-aria/)
@@ -20023,6 +20280,7 @@ Normative references to this spec from:
 - [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/)
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
@@ -20043,6 +20301,9 @@ Normative references to this spec from:
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [Web Smart Card API](https://wicg.github.io/web-smart-card/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
 - [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)
@@ -20449,6 +20710,7 @@ Normative references to this spec from:
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Pattern Standard](https://urlpattern.spec.whatwg.org/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
@@ -20500,6 +20762,7 @@ Normative references to this spec from:
 - [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/)
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html)
 - [Accelerometer](https://w3c.github.io/accelerometer/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
@@ -20720,6 +20983,9 @@ Normative references to this spec from:
 - [Web Serial API](https://wicg.github.io/serial/)
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Smart Card API](https://wicg.github.io/web-smart-card/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
 - [WebAssembly Web API](https://webassembly.github.io/spec/web-api/)

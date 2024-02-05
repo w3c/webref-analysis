@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-05T15:20:10.077Z",
+  "date": "2024-02-05T18:40:02.002Z",
   "stats": {
-    "crawled": 591,
-    "errors": 13,
-    "studied": 591
+    "crawled": 603,
+    "errors": 0,
+    "studied": 603
   },
   "results": [
     {
@@ -466,6 +466,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
               "url": "https://www.w3.org/TR/html-aria/",
               "title": "ARIA in HTML",
               "crawled": "https://w3c.github.io/html-aria/"
@@ -624,6 +629,86 @@
       }
     },
     {
+      "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+      "shortname": "wai-aria-1.3",
+      "date": "01 February 2024",
+      "url": "https://www.w3.org/TR/wai-aria-1.3/",
+      "release": {
+        "url": "https://www.w3.org/TR/wai-aria-1.3/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/aria/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/aria/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Accessible Rich Internet Applications Working Group",
+          "url": "https://www.w3.org/WAI/ARIA/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://w3c.github.io/aria/",
+          "https://w3c.github.io/aria-practices/",
+          "https://www.w3.org/TR/css3-selectors/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/accname/",
+            "ref": {
+              "name": "ACCNAME-1.2",
+              "url": "https://www.w3.org/TR/accname-1.2/"
+            }
+          },
+          {
+            "link": "https://w3c.github.io/core-aam/",
+            "ref": {
+              "name": "CORE-AAM-1.2",
+              "url": "https://www.w3.org/TR/core-aam-1.2/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2006/REC-xml-names-20060816/",
+            "ref": {
+              "name": "XML-NAMES",
+              "url": "https://www.w3.org/TR/xml-names/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/dom/",
+            "ref": {
+              "name": "DOM",
+              "url": "https://dom.spec.whatwg.org/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Ambient Light Sensor",
       "shortname": "ambient-light",
       "date": "24 January 2024",
@@ -774,6 +859,11 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/wai-aria-1.2/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
               "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
               "crawled": "https://w3c.github.io/aria/"
             }
@@ -3533,6 +3623,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
               "url": "https://www.w3.org/TR/dpub-aam-1.1/",
               "title": "Digital Publishing Accessibility API Mappings 1.1",
               "crawled": "https://w3c.github.io/dpub-aam/"
@@ -4543,7 +4638,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 295)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10438,7 +10532,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 402)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13264,7 +13357,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 332)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13800,7 +13892,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 336)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -15317,7 +15408,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 346)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -15347,7 +15437,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -15806,7 +15896,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 348)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19303,7 +19392,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 374)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19418,7 +19506,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 15)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -19436,7 +19523,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -22906,6 +22993,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
@@ -24176,7 +24268,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "31 January 2024",
+      "date": "5 February 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -24641,6 +24733,21 @@
               "url": "https://w3c.github.io/web-nfc/",
               "title": "Web NFC",
               "crawled": "https://w3c.github.io/web-nfc/"
+            },
+            {
+              "url": "https://webassembly.github.io/content-security-policy/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-promise-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-types/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-types/js-api/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -25129,6 +25236,21 @@
               "url": "https://w3c.github.io/web-share-target/",
               "title": "Web Share Target API",
               "crawled": "https://w3c.github.io/web-share-target/"
+            },
+            {
+              "url": "https://webassembly.github.io/content-security-policy/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-promise-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-types/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-types/js-api/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -26693,7 +26815,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 403)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26848,7 +26969,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 41)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27013,7 +27133,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 16)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27031,7 +27150,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -27544,7 +27663,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 409)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27694,7 +27812,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -28684,6 +28802,11 @@
             },
             {
               "url": "https://www.w3.org/TR/wai-aria-1.2/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
               "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
               "crawled": "https://w3c.github.io/aria/"
             },
@@ -30063,6 +30186,21 @@
               "crawled": "https://wicg.github.io/speech-api/"
             },
             {
+              "url": "https://webassembly.github.io/content-security-policy/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-promise-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-types/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-types/js-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/wasm-js-api-2/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/spec/js-api/"
@@ -31055,6 +31193,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
               "url": "https://www.w3.org/TR/ambient-light/",
               "title": "Ambient Light Sensor",
               "crawled": "https://w3c.github.io/ambient-light/"
@@ -31970,6 +32113,11 @@
               "crawled": "https://wicg.github.io/ua-client-hints/"
             },
             {
+              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+              "title": "Verifiable Credentials Data Model v2.0",
+              "crawled": "https://w3c.github.io/vc-data-model/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
@@ -32068,6 +32216,21 @@
               "url": "https://wicg.github.io/web-smart-card/",
               "title": "Web Smart Card API",
               "crawled": "https://wicg.github.io/web-smart-card/"
+            },
+            {
+              "url": "https://webassembly.github.io/content-security-policy/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-promise-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-types/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-types/js-api/"
             },
             {
               "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -32474,6 +32637,11 @@
               "url": "https://wicg.github.io/shared-storage/",
               "title": "Shared Storage API",
               "crawled": "https://wicg.github.io/shared-storage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+              "title": "Verifiable Credentials Data Model v2.0",
+              "crawled": "https://w3c.github.io/vc-data-model/"
             },
             {
               "url": "https://www.w3.org/TR/webauthn-3/",
@@ -32955,6 +33123,11 @@
               "url": "https://www.w3.org/TR/rdf12-xml/",
               "title": "RDF 1.2 XML Syntax",
               "crawled": "https://w3c.github.io/rdf-xml/spec/"
+            },
+            {
+              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+              "title": "Verifiable Credentials Data Model v2.0",
+              "crawled": "https://w3c.github.io/vc-data-model/"
             }
           ],
           "informative": [
@@ -33092,6 +33265,11 @@
               "url": "https://www.w3.org/TR/json-ld11-framing/",
               "title": "JSON-LD 1.1 Framing",
               "crawled": "https://w3c.github.io/json-ld-framing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+              "title": "Verifiable Credentials Data Model v2.0",
+              "crawled": "https://w3c.github.io/vc-data-model/"
             }
           ],
           "informative": []
@@ -35922,6 +36100,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
               "url": "https://www.w3.org/TR/dpub-aam-1.1/",
               "title": "Digital Publishing Accessibility API Mappings 1.1",
               "crawled": "https://w3c.github.io/dpub-aam/"
@@ -36085,7 +36268,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 449)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -39127,7 +39309,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "31 January 2024",
+      "date": "5 February 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41352,7 +41534,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "4 February 2024",
+      "date": "28 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -41416,6 +41598,11 @@
               "url": "https://www.w3.org/TR/resource-timing/",
               "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
+            },
+            {
+              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+              "title": "Verifiable Credentials Data Model v2.0",
+              "crawled": "https://w3c.github.io/vc-data-model/"
             },
             {
               "url": "https://www.w3.org/TR/webdriver2/",
@@ -42379,6 +42566,11 @@
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
               "title": "RFC 9110 - HTTP Semantics",
               "crawled": "https://httpwg.org/specs/rfc9110.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+              "title": "Verifiable Credentials Data Model v2.0",
+              "crawled": "https://w3c.github.io/vc-data-model/"
             }
           ]
         },
@@ -42771,7 +42963,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "3 February 2024",
+      "date": "29 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -42814,7 +43006,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "5 February 2024",
+      "date": "28 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -42875,7 +43067,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "4 February 2024",
+      "date": "28 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43402,7 +43594,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "5 February 2024",
+      "date": "28 January 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -44816,6 +45008,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
               "url": "https://www.w3.org/TR/autoplay-detection/",
               "title": "Autoplay Policy Detection",
               "crawled": "https://w3c.github.io/autoplay/"
@@ -46094,6 +46291,11 @@
           "normative": [
             {
               "url": "https://www.w3.org/TR/wai-aria-1.2/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
               "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
               "crawled": "https://w3c.github.io/aria/"
             },
@@ -48878,6 +49080,11 @@
               "url": "https://www.w3.org/TR/pub-manifest/",
               "title": "Publication Manifest",
               "crawled": "https://w3c.github.io/pub-manifest/"
+            },
+            {
+              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+              "title": "Verifiable Credentials Data Model v2.0",
+              "crawled": "https://w3c.github.io/vc-data-model/"
             }
           ],
           "informative": [
@@ -50164,6 +50371,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
               "url": "https://wicg.github.io/keyboard-map/",
               "title": "Keyboard Map",
               "crawled": "https://wicg.github.io/keyboard-map/"
@@ -50814,6 +51026,11 @@
               "crawled": "https://wicg.github.io/first-party-sets/"
             },
             {
+              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+              "title": "Verifiable Credentials Data Model v2.0",
+              "crawled": "https://w3c.github.io/vc-data-model/"
+            },
+            {
               "url": "https://wicg.github.io/web-app-launch/",
               "title": "Web App Launch Handler API",
               "crawled": "https://wicg.github.io/web-app-launch/"
@@ -51122,6 +51339,61 @@
               "crawled": "https://www.rfc-editor.org/rfc/rfc8942"
             }
           ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Verifiable Credentials Data Model v2.0",
+      "shortname": "vc-data-model-2.0",
+      "date": "05 February 2024",
+      "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+      "release": {
+        "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+        "status": "Candidate Recommendation Draft",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/vc-data-model/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/vc-data-model",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/vc-data-model/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Verifiable Credentials Working Group",
+          "url": "https://www.w3.org/2017/vc/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/vc-data-model-2.0-test-suite/",
+          "https://w3c.github.io/vc-di-bbs/",
+          "https://www.w3.org/TR/2019/REC-vc-data-model-20191119/",
+          "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
+          "https://www.w3.org/TR/json-ld/",
+          "https://www.w3.org/TR/ld-glossary/",
+          "https://www.w3.org/TR/vc-imp-guide/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": false
       }
@@ -52652,6 +52924,11 @@
               "crawled": "https://w3c.github.io/aria/"
             },
             {
+              "url": "https://www.w3.org/TR/wai-aria-1.3/",
+              "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
+              "crawled": "https://w3c.github.io/aria/"
+            },
+            {
               "url": "https://www.w3.org/TR/ambient-light/",
               "title": "Ambient Light Sensor",
               "crawled": "https://w3c.github.io/ambient-light/"
@@ -53747,6 +54024,21 @@
               "crawled": "https://wicg.github.io/web-smart-card/"
             },
             {
+              "url": "https://webassembly.github.io/content-security-policy/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-promise-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-types/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-types/js-api/"
+            },
+            {
               "url": "https://www.w3.org/TR/wasm-js-api-2/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/spec/js-api/"
@@ -54065,7 +54357,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "3 February 2024",
+      "date": "5 February 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -54542,7 +54834,145 @@
     },
     {
       "title": "WebAssembly Core Specification",
-      "shortname": "wasm-core-1-fork-gc",
+      "shortname": "wasm-core-2-fork-branch-hinting",
+      "date": "30 June 2023",
+      "url": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
+      "nightly": {
+        "url": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/branch-hinting",
+        "sourcePath": "document/core/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "shortname": "wasm-core-2-fork-extended-const",
+      "date": "13 December 2023",
+      "url": "https://webassembly.github.io/extended-const/core/bikeshed/",
+      "nightly": {
+        "url": "https://webassembly.github.io/extended-const/core/bikeshed/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/extended-const",
+        "sourcePath": "document/core/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/extended-const/core/bikeshed/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "shortname": "wasm-core-2-fork-function-references",
+      "date": "17 January 2024",
+      "url": "https://webassembly.github.io/function-references/core/bikeshed/",
+      "nightly": {
+        "url": "https://webassembly.github.io/function-references/core/bikeshed/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/function-references",
+        "sourcePath": "document/core/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/function-references/core/bikeshed/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "shortname": "wasm-core-2-fork-gc",
       "date": "4 February 2024",
       "url": "https://webassembly.github.io/gc/core/bikeshed/",
       "nightly": {
@@ -54588,12 +55018,196 @@
     },
     {
       "title": "WebAssembly Core Specification",
-      "shortname": "wasm-core-1",
-      "date": "17 January 2024",
-      "url": "https://www.w3.org/TR/wasm-core-1/",
+      "shortname": "wasm-core-2-fork-memory64",
+      "date": "9 December 2023",
+      "url": "https://webassembly.github.io/memory64/core/bikeshed/",
+      "nightly": {
+        "url": "https://webassembly.github.io/memory64/core/bikeshed/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/memory64",
+        "sourcePath": "document/core/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/memory64/core/bikeshed/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "shortname": "wasm-core-2-fork-multi-memory",
+      "date": "13 July 2023",
+      "url": "https://webassembly.github.io/multi-memory/core/bikeshed/",
+      "nightly": {
+        "url": "https://webassembly.github.io/multi-memory/core/bikeshed/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/multi-memory",
+        "sourcePath": "document/core/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/multi-memory/core/bikeshed/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "shortname": "wasm-core-2-fork-tail-call",
+      "date": "1 March 2023",
+      "url": "https://webassembly.github.io/tail-call/core/bikeshed/",
+      "nightly": {
+        "url": "https://webassembly.github.io/tail-call/core/bikeshed/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/tail-call",
+        "sourcePath": "document/core/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/tail-call/core/bikeshed/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "shortname": "wasm-core-2-fork-threads",
+      "date": "30 September 2023",
+      "url": "https://webassembly.github.io/threads/core/bikeshed/",
+      "nightly": {
+        "url": "https://webassembly.github.io/threads/core/bikeshed/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/threads",
+        "sourcePath": "document/core/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/threads/core/bikeshed/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly Core Specification",
+      "shortname": "wasm-core-2",
+      "date": "5 February 2024",
+      "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
-        "url": "https://www.w3.org/TR/wasm-core-1/",
-        "status": "Recommendation",
+        "url": "https://www.w3.org/TR/wasm-core-2/",
+        "status": "First Public Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -54632,6 +55246,151 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
+          "informative": [
+            {
+              "url": "https://tc39.es/source-map-spec/",
+              "title": "Source Map",
+              "crawled": "https://tc39.es/source-map-spec/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly JavaScript Interface",
+      "shortname": "wasm-js-api-2-fork-content-security-policy",
+      "date": "18 April 2022",
+      "url": "https://webassembly.github.io/content-security-policy/js-api/",
+      "nightly": {
+        "url": "https://webassembly.github.io/content-security-policy/js-api/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/content-security-policy",
+        "sourcePath": "document/js-api/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/content-security-policy/js-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/webappsec-csp/",
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly JavaScript Interface",
+      "shortname": "wasm-js-api-2-fork-js-promise-integration",
+      "date": "19 October 2022",
+      "url": "https://webassembly.github.io/js-promise-integration/js-api/",
+      "nightly": {
+        "url": "https://webassembly.github.io/js-promise-integration/js-api/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/js-promise-integration",
+        "sourcePath": "document/js-api/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/js-promise-integration/js-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly JavaScript Interface",
+      "shortname": "wasm-js-api-2-fork-js-types",
+      "date": "12 October 2023",
+      "url": "https://webassembly.github.io/js-types/js-api/",
+      "nightly": {
+        "url": "https://webassembly.github.io/js-types/js-api/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/js-types",
+        "sourcePath": "document/js-api/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/js-types/js-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
           "informative": []
         },
         "ok": false
@@ -54640,7 +55399,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "17 January 2024",
+      "date": "5 February 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -54759,7 +55518,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "17 January 2024",
+      "date": "5 February 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
