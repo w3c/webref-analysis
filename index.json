@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-05T18:40:02.002Z",
+  "date": "2024-02-06T00:47:05.122Z",
   "stats": {
     "crawled": 603,
     "errors": 0,
@@ -515,7 +515,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "01 February 2024",
+      "date": "05 February 2024",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -631,7 +631,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.3",
-      "date": "01 February 2024",
+      "date": "05 February 2024",
       "url": "https://www.w3.org/TR/wai-aria-1.3/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.3/",
@@ -3495,7 +3495,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "4 February 2024",
+      "date": "6 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4519,7 +4519,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "2 February 2024",
+      "date": "6 February 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -11999,7 +11999,7 @@
     {
       "title": "CSS Generated Content Module Level 3",
       "shortname": "css-content-3",
-      "date": "24 January 2024",
+      "date": "5 February 2024",
       "url": "https://www.w3.org/TR/css-content-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-content-3/",
@@ -18561,7 +18561,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "21 December 2023",
+      "date": "5 February 2024",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -20935,6 +20935,11 @@
               "crawled": "https://drafts.csswg.org/css-gcpm-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-content-3/",
+              "title": "CSS Generated Content Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-content-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
@@ -22439,7 +22444,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "4 February 2024",
+      "date": "6 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -29066,6 +29071,11 @@
               "crawled": "https://drafts.csswg.org/css-forms-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-content-3/",
+              "title": "CSS Generated Content Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-content-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-3/",
               "title": "CSS Images Module Level 3",
               "crawled": "https://drafts.csswg.org/css-images-3/"
@@ -30366,11 +30376,6 @@
               "url": "https://www.w3.org/TR/css-flexbox-1/",
               "title": "CSS Flexible Box Layout Module Level 1",
               "crawled": "https://drafts.csswg.org/css-flexbox-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-content-3/",
-              "title": "CSS Generated Content Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-content-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-grid-1/",
@@ -37593,7 +37598,7 @@
     {
       "title": "Payment Request API 1.1",
       "shortname": "payment-request-1.1",
-      "date": "18 January 2024",
+      "date": "05 February 2024",
       "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request-1.1/",
@@ -41534,7 +41539,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "28 January 2024",
+      "date": "4 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -42106,7 +42111,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "29 January 2024",
+      "date": "5 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42963,7 +42968,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "29 January 2024",
+      "date": "3 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43006,7 +43011,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "28 January 2024",
+      "date": "5 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43067,7 +43072,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "28 January 2024",
+      "date": "4 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43594,7 +43599,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "28 January 2024",
+      "date": "5 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -45382,7 +45387,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "24 January 2024",
+      "date": "05 February 2024",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -46823,6 +46828,11 @@
               "url": "https://www.w3.org/TR/web-locks/",
               "title": "Web Locks API",
               "crawled": "https://w3c.github.io/web-locks/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
             }
           ]
         },
@@ -58059,7 +58069,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "2 February 2024",
+      "date": "5 February 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -58133,7 +58143,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "2 February 2024",
+      "date": "5 February 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
