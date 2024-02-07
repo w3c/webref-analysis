@@ -12,7 +12,7 @@
 
 - Initial URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Crawled URL: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
-- Crawled version: 17 January 2024
+- Crawled version: 7 February 2024
 - Editor's Draft: [https://aomediacodec.github.io/afgs1-spec/](https://aomediacodec.github.io/afgs1-spec/)
 - Shortname: afgs1-spec
 
@@ -17478,7 +17478,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 5 February 2024
+- Crawled version: 7 February 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -19685,7 +19685,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 6 February 2024
+- Crawled version: 7 February 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
