@@ -3060,7 +3060,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 06 February 2024
+- Crawled version: 08 February 2024
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -9401,7 +9401,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
 - Crawled URL: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
-- Crawled version: 24 January 2024
+- Crawled version: 8 February 2024
 - Editor's Draft: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
 - Latest published version: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
 - Shortname: mediaqueries-5
@@ -12380,7 +12380,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-turtle/](https://www.w3.org/TR/rdf12-turtle/)
 - Crawled URL: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
-- Crawled version: 04 November 2023
+- Crawled version: 08 February 2024
 - Editor's Draft: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-turtle/](https://www.w3.org/TR/rdf12-turtle/)
 - Shortname: rdf12-turtle
@@ -12840,7 +12840,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-results-json/](https://www.w3.org/TR/sparql12-results-json/)
 - Crawled URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Crawled version: 30 November 2023
+- Crawled version: 08 February 2024
 - Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-results-json/](https://www.w3.org/TR/sparql12-results-json/)
 - Shortname: sparql12-results-json
@@ -14425,7 +14425,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Crawled URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
-- Crawled version: 6 February 2024
+- Crawled version: 8 February 2024
 - Editor's Draft: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
 - Latest published version: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Shortname: trusted-types
@@ -15483,7 +15483,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 7 February 2024
+- Crawled version: 8 February 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -16042,7 +16042,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
-- [Resource Timing](https://w3c.github.io/resource-timing/)
 - [Server Timing](https://w3c.github.io/server-timing/)
 
 
@@ -16115,7 +16114,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/resource-timing/](https://www.w3.org/TR/resource-timing/)
 - Crawled URL: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
-- Crawled version: 11 May 2023
+- Crawled version: 08 February 2024
 - Editor's Draft: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
 - Latest published version: [https://www.w3.org/TR/resource-timing/](https://www.w3.org/TR/resource-timing/)
 - Shortname: resource-timing
@@ -18541,7 +18540,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-capture/](https://www.w3.org/TR/screen-capture/)
 - Crawled URL: [https://w3c.github.io/mediacapture-screen-share/](https://w3c.github.io/mediacapture-screen-share/)
-- Crawled version: 14 December 2023
+- Crawled version: 08 February 2024
 - Editor's Draft: [https://w3c.github.io/mediacapture-screen-share/](https://w3c.github.io/mediacapture-screen-share/)
 - Latest published version: [https://www.w3.org/TR/screen-capture/](https://www.w3.org/TR/screen-capture/)
 - Shortname: screen-capture
@@ -18669,7 +18668,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 05 February 2024
+- Crawled version: 08 February 2024
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc

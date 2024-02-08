@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-08T12:40:13.491Z",
+  "date": "2024-02-08T18:33:05.206Z",
   "stats": {
     "crawled": 603,
     "errors": 2,
@@ -28485,7 +28485,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "06 February 2024",
+      "date": "08 February 2024",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -34911,7 +34911,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "24 January 2024",
+      "date": "8 February 2024",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -37798,11 +37798,6 @@
               "crawled": "https://w3c.github.io/performance-timeline/"
             },
             {
-              "url": "https://www.w3.org/TR/resource-timing/",
-              "title": "Resource Timing",
-              "crawled": "https://w3c.github.io/resource-timing/"
-            },
-            {
               "url": "https://www.w3.org/TR/server-timing/",
               "title": "Server Timing",
               "crawled": "https://w3c.github.io/server-timing/"
@@ -40260,7 +40255,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "04 November 2023",
+      "date": "08 February 2024",
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
@@ -41413,7 +41408,7 @@
     {
       "title": "Resource Timing",
       "shortname": "resource-timing",
-      "date": "11 May 2023",
+      "date": "08 February 2024",
       "url": "https://www.w3.org/TR/resource-timing/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing/",
@@ -45446,7 +45441,7 @@
     {
       "title": "Screen Capture",
       "shortname": "screen-capture",
-      "date": "14 December 2023",
+      "date": "08 February 2024",
       "url": "https://www.w3.org/TR/screen-capture/",
       "release": {
         "url": "https://www.w3.org/TR/screen-capture/",
@@ -48133,7 +48128,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "30 November 2023",
+      "date": "08 February 2024",
       "url": "https://www.w3.org/TR/sparql12-results-json/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-json/",
@@ -49961,7 +49956,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "6 February 2024",
+      "date": "8 February 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -54372,7 +54367,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "7 February 2024",
+      "date": "8 February 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -58512,7 +58507,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "05 February 2024",
+      "date": "08 February 2024",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
