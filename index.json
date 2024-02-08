@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-07T18:32:47.746Z",
+  "date": "2024-02-08T00:46:38.213Z",
   "stats": {
     "crawled": 603,
-    "errors": 1,
+    "errors": 2,
     "studied": 603
   },
   "results": [
@@ -654,6 +654,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers' Error: Loading https://w3c.github.io/aria/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 542)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -957,7 +958,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "2 February 2024",
+      "date": "7 February 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3494,7 +3495,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "6 February 2024",
+      "date": "8 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -7962,7 +7963,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "30 January 2024",
+      "date": "7 February 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -22443,7 +22444,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "6 February 2024",
+      "date": "8 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -46780,6 +46781,11 @@
               "url": "https://wicg.github.io/webusb/",
               "title": "WebUSB API",
               "crawled": "https://wicg.github.io/webusb/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webxr-hand-input-1/",
+              "title": "WebXR Hand Input Module - Level 1",
+              "crawled": "https://immersive-web.github.io/webxr-hand-input/"
             }
           ],
           "informative": [
@@ -46883,7 +46889,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "29 January 2024",
+      "date": "7 February 2024",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
@@ -54580,7 +54586,7 @@
     {
       "title": "Web Serial API",
       "shortname": "serial",
-      "date": "21 December 2023",
+      "date": "08 February 2024",
       "url": "https://wicg.github.io/serial/",
       "nightly": {
         "url": "https://wicg.github.io/serial/",
@@ -59367,7 +59373,7 @@
     {
       "title": "WebXR Hand Input Module - Level 1",
       "shortname": "webxr-hand-input-1",
-      "date": "19 April 2022",
+      "date": "7 February 2024",
       "url": "https://www.w3.org/TR/webxr-hand-input-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-hand-input-1/",
@@ -59402,10 +59408,16 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/ServiceWorker/"
+        "missingLinkRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/webxr/",
+            "ref": {
+              "name": "WEBXR",
+              "url": "https://immersive-web.github.io/webxr/"
+            }
+          }
         ],
-        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": [
