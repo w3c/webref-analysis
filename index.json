@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-09T00:47:06.631Z",
+  "date": "2024-02-09T06:32:40.576Z",
   "stats": {
     "crawled": 603,
     "errors": 2,
@@ -21051,7 +21051,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "2 February 2024",
+      "date": "9 February 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
