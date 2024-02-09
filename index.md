@@ -3423,7 +3423,7 @@ Informative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 
 
-### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Compositing and Blending Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -3436,17 +3436,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 294)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3466,7 +3465,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Compositing and Blending Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Compositing and Blending Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -3478,20 +3477,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
-     * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
-     * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 40)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3713,8 +3708,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 305)
@@ -4746,7 +4742,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 7 February 2024
+- Crawled version: 9 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5576,8 +5572,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 412)
@@ -6463,8 +6460,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 342)
@@ -6653,8 +6651,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 346)
@@ -7133,8 +7132,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 356)
@@ -7277,8 +7277,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 358)
@@ -7898,7 +7899,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Style Attributes {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7911,7 +7912,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 373)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8462,8 +8471,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 384)
@@ -8504,8 +8514,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 15)
@@ -9214,8 +9225,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 413)
@@ -9260,8 +9272,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 41)
@@ -9294,8 +9307,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 16)
@@ -9324,8 +9338,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 419)
@@ -9540,8 +9555,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 459)
@@ -10377,7 +10393,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 06 February 2024
+- Crawled version: 09 February 2024
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -10405,7 +10421,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 06 February 2024
+- Crawled version: 09 February 2024
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -13066,7 +13082,7 @@ Informative references to this spec from:
 
 ## SVG Working Group {#group-svg_working_group}
 
-### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Compositing and Blending Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -13079,17 +13095,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 294)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13123,8 +13138,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 412)
@@ -13746,8 +13762,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 358)
@@ -13783,8 +13800,9 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 384)
@@ -17556,7 +17574,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 7 February 2024
+- Crawled version: 9 February 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 

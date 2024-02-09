@@ -15,56 +15,84 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 542)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/): `Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 294)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/): `Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/compositing-2/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 40)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 - [Cookies Having Independent Partitioned State specification](https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html): `Error: Loading https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html triggered HTTP status 404 Error: Loading https://dcthetall.github.io/CHIPS-spec/draft-cutler-httpbis-partitioned-cookies.html triggered HTTP status 404
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 9)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/): `Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/): `Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 305)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/): `Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/): `Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 412)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/): `Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/): `Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 342)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/): `Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/): `Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 346)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/): `Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/): `Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 356)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/): `Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/): `Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 358)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/): `Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
+    at async Promise.all (index 373)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
+- [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 384)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [CSS Typed OM Level 2](https://drafts.css-houdini.org/css-typed-om-2/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 15)
@@ -75,38 +103,43 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 391)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/): `Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/): `Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 413)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/): `Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/): `Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 41)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/): `Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500 Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/): `Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 16)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/): `Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/): `Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 419)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/): `Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500 Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+- [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/): `Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error TypeError: fetch failed
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
     at async Promise.all (index 459)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
 
-=> 16 specifications found
+=> 19 specifications found
 
 
 ## Specifications without normative dependencies
@@ -300,25 +333,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/) links to:
-    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/) links to:
-    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
-    * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/) but does not list it in its references
-    * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/) but does not list it in its references
-    * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/) but does not list it in its references
-    * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/) links to:
@@ -1455,7 +1469,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1000 missing references for links found in 248 specifications
+=> 983 missing references for links found in 246 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1484,12 +1498,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`http://www.w3.org/TR/css3-color/`](http://www.w3.org/TR/css3-color/) but related reference "CSS3COLOR" uses URL [`http://www.w3.org/TR/2010/PR-css3-color-20101028/`](http://www.w3.org/TR/2010/PR-css3-color-20101028/)
 - [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html) links to [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/) but related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/) links to [`http://www.w3.org/TR/html5/browsers.html`](http://www.w3.org/TR/html5/browsers.html) but related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
-- [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/) links to:
-    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-- [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/) links to:
-    * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-    * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 - [Content Index](https://wicg.github.io/content-index/spec/) links to [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/) but related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/) links to [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/) but related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/) links to [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
@@ -2032,7 +2040,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 468 inconsistent references for links found in 179 specifications
+=> 464 inconsistent references for links found in 177 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
