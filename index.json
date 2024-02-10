@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-09T18:35:46.883Z",
+  "date": "2024-02-10T00:46:31.932Z",
   "stats": {
     "crawled": 603,
-    "errors": 19,
+    "errors": 17,
     "studied": 603
   },
   "results": [
@@ -2099,6 +2099,11 @@
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
               "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-1/",
@@ -4733,6 +4738,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -4956,6 +4966,11 @@
               "url": "https://www.w3.org/TR/css-box-3/",
               "title": "CSS Box Model Module Level 3",
               "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-1/",
@@ -6344,6 +6359,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
               "title": "CSS Writing Modes Level 3",
               "crawled": "https://drafts.csswg.org/css-writing-modes-3/"
@@ -6399,11 +6419,6 @@
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-values-5/",
-              "title": "CSS Values and Units Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-values-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -6536,6 +6551,11 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
             }
           ],
           "informative": [
@@ -8017,29 +8037,77 @@
           "https://www.w3.org/TR/css-color-3/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/png-3/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/compositing-1/",
+            "link": "https://www.w3.org/TR/2016/WD-css-color-4-20160705/",
             "ref": {
-              "name": "Compositing",
-              "url": "https://drafts.fxtf.org/compositing-1/"
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
             }
           },
           {
-            "link": "https://www.w3.org/TR/css-values-3/",
+            "link": "https://www.w3.org/TR/2019/WD-css-color-4-20191105/",
             "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2020/WD-css-color-4-20201112/",
+            "ref": {
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-color-4-20210601/",
+            "ref": {
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-color-4-20211215/",
+            "ref": {
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/CR-css-color-4-20220705/",
+            "ref": {
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/CRD-css-color-4-20221101/",
+            "ref": {
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/WD-css-color-4-20220428/",
+            "ref": {
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/WD-css-color-4-20220628/",
+            "ref": {
+              "name": "CSS-COLOR-4",
+              "url": "https://www.w3.org/TR/css-color-4/"
             }
           },
           {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -8049,6 +8117,11 @@
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -10930,7 +11003,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "31 January 2024",
+      "date": "8 February 2024",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -14509,6 +14582,11 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
@@ -17611,7 +17689,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 373)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17676,7 +17753,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -17732,6 +17809,11 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-conditional-5/",
@@ -19288,6 +19370,11 @@
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -20868,7 +20955,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "12 December 2023",
+      "date": "9 February 2024",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -21139,7 +21226,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)\n    at async Promise.all (index 391)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26139,11 +26225,6 @@
               "crawled": "https://w3c.github.io/image-resource/"
             },
             {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
               "url": "https://www.w3.org/TR/largest-contentful-paint/",
               "title": "Largest Contentful Paint",
               "crawled": "https://w3c.github.io/largest-contentful-paint/"
@@ -30462,6 +30543,11 @@
               "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://encoding.spec.whatwg.org/",
               "title": "Encoding Standard",
               "crawled": "https://encoding.spec.whatwg.org/"
@@ -31027,7 +31113,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "30 May 2023",
+      "date": "16 January 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -38845,13 +38931,7 @@
               "crawled": "https://w3c.github.io/PNG-spec/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-color-4/",
-              "title": "CSS Color Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-color-4/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -43761,11 +43841,6 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
-            },
-            {
               "url": "https://mimesniff.spec.whatwg.org/",
               "title": "MIME Sniffing Standard",
               "crawled": "https://mimesniff.spec.whatwg.org/"
@@ -43901,11 +43976,6 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -49512,7 +49582,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "2 February 2024",
+      "date": "10 February 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -50809,11 +50879,6 @@
               "url": "https://www.w3.org/TR/image-resource/",
               "title": "Image Resource",
               "crawled": "https://w3c.github.io/image-resource/"
-            },
-            {
-              "url": "https://www.w3.org/TR/IFT/",
-              "title": "Incremental Font Transfer",
-              "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",

@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 09, 2024
+% February 10, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -730,7 +730,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 2 February 2024
+- Crawled version: 10 February 2024
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -1433,7 +1433,6 @@ Normative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
@@ -1475,7 +1474,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
-- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
 - [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
@@ -3401,6 +3399,7 @@ Normative references to this spec from:
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -3754,6 +3753,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -3841,6 +3841,7 @@ Normative references to this spec from:
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
@@ -4272,6 +4273,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -4286,7 +4288,6 @@ Informative references to this spec from:
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
-- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
@@ -4328,6 +4329,7 @@ Normative references to this spec from:
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
 Informative references to this spec from:
 
@@ -4754,18 +4756,25 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/png-3/`](https://www.w3.org/TR/png-3/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/2016/WD-css-color-4-20160705/`](https://www.w3.org/TR/2016/WD-css-color-4-20160705/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/2019/WD-css-color-4-20191105/`](https://www.w3.org/TR/2019/WD-css-color-4-20191105/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/2020/WD-css-color-4-20201112/`](https://www.w3.org/TR/2020/WD-css-color-4-20201112/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/2021/WD-css-color-4-20210601/`](https://www.w3.org/TR/2021/WD-css-color-4-20210601/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/2021/WD-css-color-4-20211215/`](https://www.w3.org/TR/2021/WD-css-color-4-20211215/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/2022/CR-css-color-4-20220705/`](https://www.w3.org/TR/2022/CR-css-color-4-20220705/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/2022/CRD-css-color-4-20221101/`](https://www.w3.org/TR/2022/CRD-css-color-4-20221101/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/2022/WD-css-color-4-20220428/`](https://www.w3.org/TR/2022/WD-css-color-4-20220428/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/2022/WD-css-color-4-20220628/`](https://www.w3.org/TR/2022/WD-css-color-4-20220628/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -5698,7 +5707,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
-- Crawled version: 31 January 2024
+- Crawled version: 8 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Shortname: css-fonts-4
@@ -6857,6 +6866,7 @@ Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -7899,7 +7909,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Style Attributes {data-spec=true data-error=true}
+### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -7912,15 +7922,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 373)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7963,6 +7965,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
@@ -8419,6 +8422,7 @@ Informative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -8838,7 +8842,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Crawled URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
-- Crawled version: 12 December 2023
+- Crawled version: 9 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Shortname: css-values-5
 
@@ -8927,7 +8931,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Viewport Module Level 1 {data-spec=true data-error=true}
+### CSS Viewport Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8940,15 +8944,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:92:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:359:22)
-    at async Promise.all (index 391)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/`](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/)
+     * [`https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/`](https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/virtual-keyboard`](https://w3c.github.io/virtual-keyboard), related reference "VIRTUAL-KEYBOARD" uses URL [`https://www.w3.org/TR/virtual-keyboard/`](https://www.w3.org/TR/virtual-keyboard/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12015,9 +12019,7 @@ Normative references to this spec from:
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
 
-Informative references to this spec from:
-
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+No informative reference to this spec from other specs.
 
 
 ## Privacy Community Group {#group-privacy_community_group}
@@ -15497,7 +15499,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 30 May 2023
+- Crawled version: 16 January 2024
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Shortname: IFT
@@ -19658,7 +19660,6 @@ Normative references to this spec from:
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
-- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
@@ -20125,6 +20126,7 @@ Informative references to this spec from:
 - [CSS Text Decoration Module Level 3](https://drafts.csswg.org/css-text-decor-3/)
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
@@ -20762,7 +20764,6 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
-- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
