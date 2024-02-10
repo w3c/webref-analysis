@@ -9171,6 +9171,7 @@ Normative references to this spec from:
 - [Selection API](https://w3c.github.io/selection-api/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
+- [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 
 Informative references to this spec from:
 
@@ -10985,7 +10986,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
 - Crawled URL: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
-- Crawled version: 2 May 2023
+- Crawled version: 10 February 2024
 - Editor's Draft: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
 - Latest published version: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
 - Shortname: webxrlayers-1
