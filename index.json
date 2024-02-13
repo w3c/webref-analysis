@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-13T00:46:49.099Z",
+  "date": "2024-02-13T06:32:23.894Z",
   "stats": {
     "crawled": 603,
     "errors": 17,
@@ -20904,11 +20904,6 @@
               "url": "https://www.w3.org/TR/web-animations-2/",
               "title": "Web Animations Level 2",
               "crawled": "https://drafts.csswg.org/web-animations-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webnn/",
-              "title": "Web Neural Network API",
-              "crawled": "https://webmachinelearning.github.io/webnn/"
             },
             {
               "url": "https://wicg.github.io/webusb/",
@@ -42041,7 +42036,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "6 February 2024",
+      "date": "13 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -54472,7 +54467,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "12 February 2024",
+      "date": "13 February 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
