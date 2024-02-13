@@ -1758,7 +1758,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 6 February 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -3001,7 +3001,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/dpub-aria-1.1/](https://www.w3.org/TR/dpub-aria-1.1/)
 - Crawled URL: [https://w3c.github.io/dpub-aria/](https://w3c.github.io/dpub-aria/)
-- Crawled version: 23 January 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://w3c.github.io/dpub-aria/](https://w3c.github.io/dpub-aria/)
 - Latest published version: [https://www.w3.org/TR/dpub-aria-1.1/](https://www.w3.org/TR/dpub-aria-1.1/)
 - Shortname: dpub-aria-1.1
@@ -17170,7 +17170,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Crawled URL: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
-- Crawled version: 12 May 2023
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://wicg.github.io/webpackage/loading.html](https://wicg.github.io/webpackage/loading.html)
 - Shortname: webpackage
 
@@ -18883,7 +18883,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 7 February 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-2-fork-gc
 
@@ -19778,7 +19778,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 9 February 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -20849,7 +20849,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 24 January 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
