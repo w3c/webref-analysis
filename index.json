@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-12T18:32:49.761Z",
+  "date": "2024-02-13T00:46:49.099Z",
   "stats": {
     "crawled": 603,
     "errors": 17,
@@ -3502,7 +3502,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "12 February 2024",
+      "date": "13 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3560,7 +3560,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "02 November 2023",
+      "date": "12 February 2024",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -9922,11 +9922,6 @@
               "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
-              "url": "https://drafts.csswg.org/css-display-4/",
-              "title": "CSS Display Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-display-4/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
               "title": "CSS Flexible Box Layout Module Level 1",
               "crawled": "https://drafts.csswg.org/css-flexbox-1/"
@@ -14265,7 +14260,7 @@
     {
       "title": "CSS Multi-column Layout Module Level 1",
       "shortname": "css-multicol-1",
-      "date": "27 February 2023",
+      "date": "12 February 2024",
       "url": "https://www.w3.org/TR/css-multicol-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-multicol-1/",
@@ -22570,7 +22565,7 @@
     {
       "title": "Digest Fields",
       "shortname": "digest-headers",
-      "date": "12 February 2024",
+      "date": "13 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
@@ -42231,7 +42226,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "5 February 2024",
+      "date": "12 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -54477,7 +54472,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "8 February 2024",
+      "date": "12 February 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -54515,13 +54510,7 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/webnn/",
-              "title": "Web Neural Network API",
-              "crawled": "https://webmachinelearning.github.io/webnn/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": true
@@ -54641,7 +54630,7 @@
     {
       "title": "Web Preferences API",
       "shortname": "web-preferences-api",
-      "date": "8 February 2024",
+      "date": "13 February 2024",
       "url": "https://wicg.github.io/web-preferences-api/",
       "nightly": {
         "url": "https://wicg.github.io/web-preferences-api/",
