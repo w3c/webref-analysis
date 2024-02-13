@@ -667,7 +667,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
 - Crawled URL: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
-- Crawled version: 7 February 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://tc39.es/proposal-shadowrealm/](https://tc39.es/proposal-shadowrealm/)
 - Shortname: tc39-shadowrealm
 
@@ -2978,7 +2978,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/dpub-aam-1.1/](https://www.w3.org/TR/dpub-aam-1.1/)
 - Crawled URL: [https://w3c.github.io/dpub-aam/](https://w3c.github.io/dpub-aam/)
-- Crawled version: 23 January 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://w3c.github.io/dpub-aam/](https://w3c.github.io/dpub-aam/)
 - Latest published version: [https://www.w3.org/TR/dpub-aam-1.1/](https://www.w3.org/TR/dpub-aam-1.1/)
 - Shortname: dpub-aam-1.1
@@ -8878,7 +8878,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 8 February 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -17574,7 +17574,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 9 February 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 

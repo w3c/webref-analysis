@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-13T12:40:43.637Z",
+  "date": "2024-02-13T18:34:07.572Z",
   "stats": {
     "crawled": 603,
     "errors": 17,
@@ -21075,7 +21075,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "8 February 2024",
+      "date": "13 February 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -22654,7 +22654,7 @@
     {
       "title": "Digital Publishing Accessibility API Mappings 1.1",
       "shortname": "dpub-aam-1.1",
-      "date": "23 January 2024",
+      "date": "13 February 2024",
       "url": "https://www.w3.org/TR/dpub-aam-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aam-1.1/",
@@ -39424,7 +39424,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "9 February 2024",
+      "date": "13 February 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -46989,7 +46989,7 @@
     {
       "title": "ShadowRealm API",
       "shortname": "tc39-shadowrealm",
-      "date": "7 February 2024",
+      "date": "13 February 2024",
       "url": "https://tc39.es/proposal-shadowrealm/",
       "nightly": {
         "url": "https://tc39.es/proposal-shadowrealm/",
