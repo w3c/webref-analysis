@@ -317,7 +317,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 5 February 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -3399,7 +3399,6 @@ Normative references to this spec from:
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -3753,7 +3752,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -3841,7 +3839,6 @@ Normative references to this spec from:
 - [Compositing and Blending Level 2](https://drafts.fxtf.org/compositing-2/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
@@ -4744,7 +4741,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 9 February 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -4756,25 +4753,18 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/png-3/`](https://www.w3.org/TR/png-3/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2016/WD-css-color-4-20160705/`](https://www.w3.org/TR/2016/WD-css-color-4-20160705/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/2019/WD-css-color-4-20191105/`](https://www.w3.org/TR/2019/WD-css-color-4-20191105/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/2020/WD-css-color-4-20201112/`](https://www.w3.org/TR/2020/WD-css-color-4-20201112/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/2021/WD-css-color-4-20210601/`](https://www.w3.org/TR/2021/WD-css-color-4-20210601/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/2021/WD-css-color-4-20211215/`](https://www.w3.org/TR/2021/WD-css-color-4-20211215/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/2022/CR-css-color-4-20220705/`](https://www.w3.org/TR/2022/CR-css-color-4-20220705/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/2022/CRD-css-color-4-20221101/`](https://www.w3.org/TR/2022/CRD-css-color-4-20221101/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/2022/WD-css-color-4-20220428/`](https://www.w3.org/TR/2022/WD-css-color-4-20220428/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/2022/WD-css-color-4-20220628/`](https://www.w3.org/TR/2022/WD-css-color-4-20220628/), related reference "CSS-COLOR-4" uses URL [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -6866,7 +6856,6 @@ Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -7965,7 +7954,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
@@ -8422,7 +8410,6 @@ Informative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
-- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -8872,7 +8859,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS View Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS View Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8892,17 +8879,11 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221025/`](https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221025/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
-     * [`https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221124/`](https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221124/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
-     * [`https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230525/`](https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230525/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
-     * [`https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/`](https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 
 Informative references to this spec from:
@@ -12025,7 +12006,9 @@ Normative references to this spec from:
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 
 
 ## Privacy Community Group {#group-privacy_community_group}
@@ -15376,7 +15359,6 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
-- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 
 No informative reference to this spec from other specs.
 
@@ -18889,7 +18871,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 13 February 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-2-fork-gc
 
@@ -19193,7 +19175,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 31 January 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport
