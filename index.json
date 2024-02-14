@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-13T18:34:07.572Z",
+  "date": "2024-02-14T00:46:43.749Z",
   "stats": {
     "crawled": 603,
     "errors": 17,
@@ -2465,7 +2465,7 @@
     {
       "title": "Clipboard API and events",
       "shortname": "clipboard-apis",
-      "date": "21 November 2023",
+      "date": "14 February 2024",
       "url": "https://www.w3.org/TR/clipboard-apis/",
       "release": {
         "url": "https://www.w3.org/TR/clipboard-apis/",
@@ -21121,9 +21121,43 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221025/",
+            "ref": {
+              "name": "CSS-VIEW-TRANSITIONS-1",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221124/",
+            "ref": {
+              "name": "CSS-VIEW-TRANSITIONS-1",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230525/",
+            "ref": {
+              "name": "CSS-VIEW-TRANSITIONS-1",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/",
+            "ref": {
+              "name": "CSS-VIEW-TRANSITIONS-1",
+              "url": "https://www.w3.org/TR/css-view-transitions-1/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
             {
               "url": "https://drafts.csswg.org/css-view-transitions-2/",
               "title": "CSS View Transitions Module Level 2",
@@ -21144,7 +21178,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "9 February 2024",
+      "date": "13 February 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -24389,7 +24423,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "5 February 2024",
+      "date": "13 February 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -24980,7 +25014,7 @@
     {
       "title": "EditContext API",
       "shortname": "edit-context",
-      "date": "23 January 2024",
+      "date": "14 February 2024",
       "url": "https://www.w3.org/TR/edit-context/",
       "release": {
         "url": "https://www.w3.org/TR/edit-context/",
@@ -25428,7 +25462,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "14 December 2023",
+      "date": "13 February 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",

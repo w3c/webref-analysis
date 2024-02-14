@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 13, 2024
+% February 14, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -289,7 +289,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 5 February 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -8872,7 +8872,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS View Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS View Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8892,11 +8892,17 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221025/`](https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221025/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
+     * [`https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221124/`](https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221124/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
+     * [`https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230525/`](https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230525/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
+     * [`https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/`](https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/), related reference "CSS-VIEW-TRANSITIONS-1" uses URL [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 
 Informative references to this spec from:
@@ -8910,7 +8916,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 9 February 2024
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -10510,7 +10516,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Crawled URL: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
-- Crawled version: 14 December 2023
+- Crawled version: 13 February 2024
 - Editor's Draft: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
 - Latest published version: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Shortname: encrypted-media
@@ -15302,7 +15308,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/clipboard-apis/](https://www.w3.org/TR/clipboard-apis/)
 - Crawled URL: [https://w3c.github.io/clipboard-apis/](https://w3c.github.io/clipboard-apis/)
-- Crawled version: 21 November 2023
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://w3c.github.io/clipboard-apis/](https://w3c.github.io/clipboard-apis/)
 - Latest published version: [https://www.w3.org/TR/clipboard-apis/](https://www.w3.org/TR/clipboard-apis/)
 - Shortname: clipboard-apis
@@ -15353,7 +15359,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Crawled URL: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
-- Crawled version: 23 January 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://w3c.github.io/edit-context/](https://w3c.github.io/edit-context/)
 - Latest published version: [https://www.w3.org/TR/edit-context/](https://www.w3.org/TR/edit-context/)
 - Shortname: edit-context
