@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-14T06:33:38.750Z",
+  "date": "2024-02-14T12:39:02.721Z",
   "stats": {
     "crawled": 603,
     "errors": 17,
@@ -20992,7 +20992,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "13 February 2024",
+      "date": "14 February 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -22388,7 +22388,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "2 February 2024",
+      "date": "14 February 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -25340,7 +25340,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "13 February 2024",
+      "date": "14 February 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -54385,7 +54385,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "13 February 2024",
+      "date": "14 February 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -56122,7 +56122,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "5 February 2024",
+      "date": "14 February 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",

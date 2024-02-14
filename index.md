@@ -3349,7 +3349,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 5 February 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -8865,7 +8865,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 13 February 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -10089,7 +10089,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 2 February 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -10497,7 +10497,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Crawled URL: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
-- Crawled version: 13 February 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
 - Latest published version: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Shortname: encrypted-media
@@ -15569,7 +15569,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 13 February 2024
+- Crawled version: 14 February 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
