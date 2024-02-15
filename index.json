@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-15T00:48:03.324Z",
+  "date": "2024-02-15T06:34:37.501Z",
   "stats": {
     "crawled": 603,
     "errors": 17,
@@ -24333,7 +24333,7 @@
     {
       "title": "ECMAScript® 2024 Language Specification",
       "shortname": "ecmascript",
-      "date": "14 February 2024",
+      "date": "15 February 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -28669,7 +28669,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "13 February 2024",
+      "date": "15 February 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -39300,7 +39300,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "13 February 2024",
+      "date": "15 February 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -42954,7 +42954,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "8 February 2024",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
