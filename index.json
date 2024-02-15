@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-14T18:32:13.363Z",
+  "date": "2024-02-15T00:48:03.324Z",
   "stats": {
     "crawled": 603,
     "errors": 17,
@@ -3497,7 +3497,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "13 February 2024",
+      "date": "14 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -12864,7 +12864,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "15 January 2024",
+      "date": "14 February 2024",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -21061,7 +21061,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "13 February 2024",
+      "date": "14 February 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -22475,48 +22475,6 @@
       }
     },
     {
-      "title": "Digest Fields",
-      "shortname": "digest-headers",
-      "date": "13 February 2024",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
-      "nightly": {
-        "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/httpwg/http-extensions",
-        "sourcePath": "draft-ietf-httpbis-digest-headers.md",
-        "filename": "draft-ietf-httpbis-digest-headers.html"
-      },
-      "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
-      "organization": "IETF",
-      "groups": [
-        {
-          "name": "HTTP Working Group",
-          "url": "https://datatracker.ietf.org/wg/httpbis/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": []
-        },
-        "ok": true
-      }
-    },
-    {
       "title": "Digital Goods API",
       "shortname": "digital-goods",
       "date": "18 March 2022",
@@ -22808,7 +22766,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "17 November 2023",
+      "date": "14 February 2024",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -41710,7 +41668,7 @@
     {
       "title": "RFC 6265 - HTTP State Management Mechanism",
       "shortname": "rfc6265",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6265",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6265.html",
@@ -41897,7 +41855,7 @@
     {
       "title": "RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)",
       "shortname": "rfc6266",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6266",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6266.html",
@@ -42284,7 +42242,7 @@
     {
       "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
       "shortname": "rfc7230",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7230",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7230.html",
@@ -42441,7 +42399,7 @@
     {
       "title": "RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
       "shortname": "rfc7231",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7231",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7231.html",
@@ -42613,7 +42571,7 @@
     {
       "title": "RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
       "shortname": "rfc7232",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7232",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7232.html",
@@ -42700,7 +42658,7 @@
     {
       "title": "RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests",
       "shortname": "rfc7233",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7233",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7233.html",
@@ -42772,7 +42730,7 @@
     {
       "title": "RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching",
       "shortname": "rfc7234",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7234",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7234.html",
@@ -42914,7 +42872,7 @@
     {
       "title": "RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication",
       "shortname": "rfc7235",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7235",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7235.html",
@@ -43162,7 +43120,7 @@
     {
       "title": "RFC 7616 - HTTP Digest Access Authentication",
       "shortname": "rfc7616",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7616",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7616.html",
@@ -43218,7 +43176,7 @@
     {
       "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
       "shortname": "rfc7617",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7617",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7617.html",
@@ -43274,7 +43232,7 @@
     {
       "title": "RFC 7725 - An HTTP Status Code to Report Legal Obstacles",
       "shortname": "rfc7725",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7725",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7725.html",
@@ -43319,7 +43277,7 @@
     {
       "title": "RFC 7838 - HTTP Alternative Services",
       "shortname": "rfc7838",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7838",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7838.html",
@@ -43381,7 +43339,7 @@
     {
       "title": "RFC 8246 - HTTP Immutable Responses",
       "shortname": "rfc8246",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8246",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8246.html",
@@ -43432,7 +43390,7 @@
     {
       "title": "RFC 8288 - Web Linking",
       "shortname": "rfc8288",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8288",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8288.html",
@@ -43514,7 +43472,7 @@
     {
       "title": "RFC 8297 - An HTTP Status Code for Indicating Hints",
       "shortname": "rfc8297",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8297",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8297.html",
@@ -43565,7 +43523,7 @@
     {
       "title": "RFC 8470 - Using Early Data in HTTP",
       "shortname": "rfc8470",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8470",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8470.html",
@@ -43686,7 +43644,7 @@
     {
       "title": "RFC 9110 - HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9110.html",
@@ -43732,11 +43690,6 @@
               "url": "https://www.w3.org/TR/CSP3/",
               "title": "Content Security Policy Level 3",
               "crawled": "https://w3c.github.io/webappsec-csp/"
-            },
-            {
-              "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
-              "title": "Digest Fields",
-              "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -43804,6 +43757,11 @@
               "crawled": "https://httpwg.org/specs/rfc9114.html"
             },
             {
+              "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
+              "title": "RFC 9530: Digest Fields",
+              "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html"
+            },
+            {
               "url": "https://www.w3.org/TR/sparql12-protocol/",
               "title": "SPARQL 1.2 Protocol",
               "crawled": "https://w3c.github.io/sparql-protocol/spec/"
@@ -43853,7 +43811,7 @@
     {
       "title": "RFC 9111 - HTTP Caching",
       "shortname": "rfc9111",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9111.html",
@@ -43930,7 +43888,7 @@
     {
       "title": "RFC 9112 - HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9112.html",
@@ -43980,11 +43938,6 @@
           ],
           "informative": [
             {
-              "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
-              "title": "Digest Fields",
-              "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html"
-            },
-            {
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
               "title": "RFC 9110 - HTTP Semantics",
               "crawled": "https://httpwg.org/specs/rfc9110.html"
@@ -44005,6 +43958,11 @@
               "crawled": "https://httpwg.org/specs/rfc9114.html"
             },
             {
+              "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
+              "title": "RFC 9530: Digest Fields",
+              "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html"
+            },
+            {
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
@@ -44017,7 +43975,7 @@
     {
       "title": "RFC 9113 - HTTP/2",
       "shortname": "rfc9113",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9113.html",
@@ -44073,7 +44031,7 @@
     {
       "title": "RFC 9114 - HTTP/3",
       "shortname": "rfc9114",
-      "date": "21 December 2023",
+      "date": "15 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9114.html",
@@ -44174,6 +44132,48 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             }
           ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "RFC 9530: Digest Fields",
+      "shortname": "digest-headers",
+      "date": "14 February 2024",
+      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-digest-headers",
+      "nightly": {
+        "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/httpwg/http-extensions",
+        "sourcePath": "draft-ietf-httpbis-digest-headers.md",
+        "filename": "draft-ietf-httpbis-digest-headers.html"
+      },
+      "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-digest-headers.html",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "HTTP Working Group",
+          "url": "https://datatracker.ietf.org/wg/httpbis/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": true
       }
@@ -52550,7 +52550,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "24 January 2024",
+      "date": "14 February 2024",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
