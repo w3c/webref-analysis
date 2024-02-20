@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 19, 2024
+% February 20, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -975,7 +975,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 18 February 2024
+- Crawled version: 20 February 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -13966,7 +13966,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Crawled URL: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
-- Crawled version: 11 February 2024
+- Crawled version: 19 February 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
 - Latest published version: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Shortname: vc-data-integrity
@@ -20724,7 +20724,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Crawled URL: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
-- Crawled version: 1 February 2024
+- Crawled version: 19 February 2024
 - Editor's Draft: [https://streams.spec.whatwg.org/](https://streams.spec.whatwg.org/)
 - Shortname: streams
 
@@ -20815,7 +20815,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 26 January 2024
+- Crawled version: 19 February 2024
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
@@ -21238,7 +21238,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Crawled URL: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
-- Crawled version: 24 January 2024
+- Crawled version: 19 February 2024
 - Editor's Draft: [https://xhr.spec.whatwg.org/](https://xhr.spec.whatwg.org/)
 - Shortname: xhr
 
