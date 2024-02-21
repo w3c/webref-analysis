@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-21T15:09:07.795Z",
+  "date": "2024-02-21T18:33:32.901Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -38910,6 +38910,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/2003/REC-PNG-20031110/",
           "https://www.w3.org/TR/2022/WD-png-3-20221025/",
+          "https://www.w3.org/TR/2023/CR-png-3-20230921/",
           "https://www.w3.org/TR/2023/WD-png-3-20230720/",
           "https://www.w3.org/TR/i18n-glossary/",
           "https://www.w3.org/TR/png/"
@@ -51609,7 +51610,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "18 February 2024",
+      "date": "21 February 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
