@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-20T18:33:38.367Z",
+  "date": "2024-02-21T00:46:45.764Z",
   "stats": {
     "crawled": 606,
     "errors": 19,
@@ -3641,7 +3641,7 @@
             },
             {
               "url": "https://w3c.github.io/mathml-aam/",
-              "title": "MathML Accessiblity API Mappings 1.0",
+              "title": "MathML Accessibility API Mappings 1.0",
               "crawled": "https://w3c.github.io/mathml-aam/"
             }
           ],
@@ -22742,7 +22742,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "14 February 2024",
+      "date": "20 February 2024",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -24080,6 +24080,11 @@
               "url": "https://infra.spec.whatwg.org/",
               "title": "Infra Standard",
               "crawled": "https://infra.spec.whatwg.org/"
+            },
+            {
+              "url": "https://w3c.github.io/mathml-aam/",
+              "title": "MathML Accessibility API Mappings 1.0",
+              "crawled": "https://w3c.github.io/mathml-aam/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
@@ -29528,7 +29533,7 @@
             },
             {
               "url": "https://w3c.github.io/mathml-aam/",
-              "title": "MathML Accessiblity API Mappings 1.0",
+              "title": "MathML Accessibility API Mappings 1.0",
               "crawled": "https://w3c.github.io/mathml-aam/"
             },
             {
@@ -32383,6 +32388,11 @@
               "crawled": "https://w3c.github.io/i18n-glossary/"
             },
             {
+              "url": "https://w3c.github.io/mathml-aam/",
+              "title": "MathML Accessibility API Mappings 1.0",
+              "crawled": "https://w3c.github.io/mathml-aam/"
+            },
+            {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
               "title": "Media Queries Level 4",
               "crawled": "https://drafts.csswg.org/mediaqueries-4/"
@@ -34004,9 +34014,9 @@
       }
     },
     {
-      "title": "MathML Accessiblity API Mappings 1.0",
+      "title": "MathML Accessibility API Mappings 1.0",
       "shortname": "mathml-aam",
-      "date": "05 November 2021",
+      "date": "20 February 2024",
       "url": "https://w3c.github.io/mathml-aam/",
       "nightly": {
         "url": "https://w3c.github.io/mathml-aam/",
@@ -34036,9 +34046,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://w3c.github.io/aria/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/core-aam/",
@@ -35136,6 +35144,11 @@
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
+            },
+            {
+              "url": "https://wicg.github.io/document-picture-in-picture/",
+              "title": "Document Picture-in-Picture Specification",
+              "crawled": "https://wicg.github.io/document-picture-in-picture/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -58228,7 +58241,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "16 February 2024",
+      "date": "20 February 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -58302,7 +58315,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "16 February 2024",
+      "date": "20 February 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",

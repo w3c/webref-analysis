@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 20, 2024
+% February 21, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -2998,7 +2998,7 @@ Normative references to this spec from:
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
-- [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/)
+- [MathML Accessibility API Mappings 1.0](https://w3c.github.io/mathml-aam/)
 
 No informative reference to this spec from other specs.
 
@@ -3122,20 +3122,18 @@ Informative references to this spec from:
 - [The <model> element](https://immersive-web.github.io/model-element/)
 
 
-### MathML Accessiblity API Mappings 1.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### MathML Accessibility API Mappings 1.0 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://w3c.github.io/mathml-aam/](https://w3c.github.io/mathml-aam/)
 - Crawled URL: [https://w3c.github.io/mathml-aam/](https://w3c.github.io/mathml-aam/)
-- Crawled version: 05 November 2021
+- Crawled version: 20 February 2024
 - Editor's Draft: [https://w3c.github.io/mathml-aam/](https://w3c.github.io/mathml-aam/)
 - Shortname: mathml-aam
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
 
@@ -9545,6 +9543,7 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
+- [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [MiniApp Manifest](https://w3c.github.io/miniapp-manifest/)
@@ -10472,7 +10471,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 16 February 2024
+- Crawled version: 20 February 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10502,7 +10501,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 16 February 2024
+- Crawled version: 20 February 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -16741,7 +16740,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/document-picture-in-picture/](https://wicg.github.io/document-picture-in-picture/)
 - Crawled URL: [https://wicg.github.io/document-picture-in-picture/](https://wicg.github.io/document-picture-in-picture/)
-- Crawled version: 14 February 2024
+- Crawled version: 20 February 2024
 - Editor's Draft: [https://wicg.github.io/document-picture-in-picture/](https://wicg.github.io/document-picture-in-picture/)
 - Shortname: document-picture-in-picture
 
@@ -19608,6 +19607,7 @@ Informative references to this spec from:
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
 - [Identity for WebRTC 1.0](https://w3c.github.io/webrtc-identity/)
 - [Infra Standard](https://infra.spec.whatwg.org/)
+- [MathML Accessibility API Mappings 1.0](https://w3c.github.io/mathml-aam/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
 - [requestIdleCallback()](https://w3c.github.io/requestidlecallback/)
 - [Scalable Vector Graphics (SVG) 1.1 (Second Edition)](https://www.w3.org/TR/SVG11/)
@@ -20033,7 +20033,7 @@ Normative references to this spec from:
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Mathematical Markup Language (MathML) Version 4.0](https://w3c.github.io/mathml/)
-- [MathML Accessiblity API Mappings 1.0](https://w3c.github.io/mathml-aam/)
+- [MathML Accessibility API Mappings 1.0](https://w3c.github.io/mathml-aam/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
@@ -20524,6 +20524,7 @@ Informative references to this spec from:
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
+- [MathML Accessibility API Mappings 1.0](https://w3c.github.io/mathml-aam/)
 - [Media Queries Level 4](https://drafts.csswg.org/mediaqueries-4/)
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
