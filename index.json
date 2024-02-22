@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-22T15:25:45.959Z",
+  "date": "2024-02-22T18:32:13.235Z",
   "stats": {
     "crawled": 609,
-    "errors": 20,
+    "errors": 21,
     "studied": 609
   },
   "results": [
@@ -654,6 +654,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers' Error: Loading https://w3c.github.io/aria/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)\n    at async Promise.all (index 548)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -45561,7 +45562,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "05 February 2024",
+      "date": "22 February 2024",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
@@ -58833,7 +58834,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "15 February 2024",
+      "date": "22 February 2024",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
