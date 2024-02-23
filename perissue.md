@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 22, 2024
+% February 23, 2024
 
 609 specifications were crawled in this report.
 
@@ -9,12 +9,6 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
-- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/): `Error: Loading https://w3c.github.io/aria/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers' Error: Loading https://w3c.github.io/aria/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
-    at async Promise.all (index 548)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/): `Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error TypeError: fetch failed
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
@@ -77,12 +71,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
     at async Promise.all (index 363)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
-- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/): `Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
-    at async Promise.all (index 378)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error TypeError: fetch failed
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
@@ -96,12 +84,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
     at async Promise.all (index 14)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
-- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/): `Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
-    at async Promise.all (index 396)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/): `Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error TypeError: fetch failed
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
@@ -144,14 +126,8 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
     at async Promise.all (index 533)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
-- [Selectors Level 3](https://drafts.csswg.org/selectors-3/): `Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
-    at async Promise.all (index 514)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
 
-=> 21 specifications found
+=> 17 specifications found
 
 
 ## Specifications without normative dependencies
@@ -331,6 +307,9 @@ Basically all specifications have normative dependencies on some other specifica
 - [Accelerometer](https://w3c.github.io/accelerometer/) links to [`https://w3c.github.io/sensors/usecases.html`](https://w3c.github.io/sensors/usecases.html) but does not list it in its references
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/) links to [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/) but does not list it in its references
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/) links to [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/) links to:
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/) but does not list it in its references
 - [Audiobooks](https://w3c.github.io/audiobooks/) links to:
     * [`https://www.w3.org/TR/annotation-model/`](https://www.w3.org/TR/annotation-model/) but does not list it in its references
     * [`https://www.w3.org/TR/lpf/`](https://www.w3.org/TR/lpf/) but does not list it in its references
@@ -989,6 +968,13 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/) links to:
+    * [`https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/`](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/) but does not list it in its references
+    * [`https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/`](https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
@@ -1250,6 +1236,9 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/) links to [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/) but does not list it in its references
 - [Selection API](https://w3c.github.io/selection-api/) links to [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html) but does not list it in its references
+- [Selectors Level 3](https://drafts.csswg.org/selectors-3/) links to:
+    * [`http://www.w3.org/TR/2011/REC-css3-selectors-20110929/`](http://www.w3.org/TR/2011/REC-css3-selectors-20110929/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-namespace/`](https://www.w3.org/TR/css3-namespace/) but does not list it in its references
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/) links to:
     * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/) but does not list it in its references
     * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/) but does not list it in its references
@@ -1463,7 +1452,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 961 missing references for links found in 246 specifications
+=> 971 missing references for links found in 249 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1477,6 +1466,11 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/) links to:
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/) links to:
+    * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+    * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+    * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/) but related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+    * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/) but related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/) links to:
     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/) but related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/) but related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
@@ -1791,6 +1785,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/) links to:
     * [`http://www.w3.org/TR/css-values-4/`](http://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/) but related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/) links to [`https://w3c.github.io/virtual-keyboard`](https://w3c.github.io/virtual-keyboard) but related reference "VIRTUAL-KEYBOARD" uses URL [`https://www.w3.org/TR/virtual-keyboard/`](https://www.w3.org/TR/virtual-keyboard/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1999,7 +1994,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 429 inconsistent references for links found in 175 specifications
+=> 434 inconsistent references for links found in 177 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

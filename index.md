@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 22, 2024
+% February 23, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -1974,7 +1974,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - Shortname: ANGLE_instanced_arrays
 
@@ -1995,7 +1995,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - Shortname: EXT_blend_minmax
 
@@ -2016,7 +2016,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - Shortname: EXT_color_buffer_float
 
@@ -2037,7 +2037,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - Shortname: EXT_color_buffer_half_float
 
@@ -2058,7 +2058,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
 - Shortname: EXT_disjoint_timer_query
 
@@ -2079,7 +2079,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Shortname: EXT_disjoint_timer_query_webgl2
 
@@ -2100,7 +2100,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
 - Shortname: EXT_float_blend
 
@@ -2121,7 +2121,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
 - Shortname: EXT_frag_depth
 
@@ -2142,7 +2142,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
 - Shortname: EXT_shader_texture_lod
 
@@ -2163,7 +2163,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
 - Shortname: EXT_sRGB
 
@@ -2184,7 +2184,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
 - Shortname: EXT_texture_compression_bptc
 
@@ -2205,7 +2205,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
 - Shortname: EXT_texture_compression_rgtc
 
@@ -2226,7 +2226,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Shortname: EXT_texture_filter_anisotropic
 
@@ -2247,7 +2247,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
 - Shortname: EXT_texture_norm16
 
@@ -2268,7 +2268,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
 - Shortname: KHR_parallel_shader_compile
 
@@ -2289,7 +2289,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
 - Shortname: OES_draw_buffers_indexed
 
@@ -2310,7 +2310,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
 - Shortname: OES_element_index_uint
 
@@ -2331,7 +2331,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
 - Shortname: OES_fbo_render_mipmap
 
@@ -2352,7 +2352,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
 - Shortname: OES_standard_derivatives
 
@@ -2373,7 +2373,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
 - Shortname: OES_texture_float
 
@@ -2394,7 +2394,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
 - Shortname: OES_texture_float_linear
 
@@ -2415,7 +2415,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
 - Shortname: OES_texture_half_float
 
@@ -2436,7 +2436,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
 - Shortname: OES_texture_half_float_linear
 
@@ -2457,7 +2457,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - Shortname: OES_vertex_array_object
 
@@ -2478,7 +2478,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - Shortname: OVR_multiview2
 
@@ -2499,7 +2499,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/specs/latest/1.0/](https://registry.khronos.org/webgl/specs/latest/1.0/)
 - Crawled URL: [https://registry.khronos.org/webgl/specs/latest/1.0/](https://registry.khronos.org/webgl/specs/latest/1.0/)
-- Crawled version: 20 December 2023
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/specs/latest/1.0/](https://registry.khronos.org/webgl/specs/latest/1.0/)
 - Shortname: webgl1
 
@@ -2519,7 +2519,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Shortname: WEBGL_blend_equation_advanced_coherent
 
@@ -2540,7 +2540,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - Shortname: WEBGL_clip_cull_distance
 
@@ -2561,7 +2561,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - Shortname: WEBGL_color_buffer_float
 
@@ -2582,7 +2582,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Shortname: WEBGL_compressed_texture_astc
 
@@ -2603,7 +2603,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Shortname: WEBGL_compressed_texture_etc
 
@@ -2624,7 +2624,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Shortname: WEBGL_compressed_texture_etc1
 
@@ -2645,7 +2645,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Shortname: WEBGL_compressed_texture_pvrtc
 
@@ -2666,7 +2666,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Shortname: WEBGL_compressed_texture_s3tc
 
@@ -2687,7 +2687,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Shortname: WEBGL_compressed_texture_s3tc_srgb
 
@@ -2708,7 +2708,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
 - Shortname: WEBGL_debug_renderer_info
 
@@ -2729,7 +2729,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
 - Shortname: WEBGL_debug_shaders
 
@@ -2750,7 +2750,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
 - Shortname: WEBGL_depth_texture
 
@@ -2771,7 +2771,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
 - Shortname: WEBGL_draw_buffers
 
@@ -2792,7 +2792,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_draw_instanced_base_vertex_base_instance
 
@@ -2813,7 +2813,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - Shortname: WEBGL_lose_context
 
@@ -2834,7 +2834,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - Shortname: WEBGL_multi_draw
 
@@ -2855,7 +2855,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_multi_draw_instanced_base_vertex_base_instance
 
@@ -2876,7 +2876,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
-- Crawled version: 8 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - Shortname: WEBGL_provoking_vertex
 
@@ -2938,7 +2938,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 16 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.2/](https://www.w3.org/TR/wai-aria-1.2/)
 - Shortname: wai-aria-1.2
@@ -2969,28 +2969,27 @@ Informative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 
 
-### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-error=true}
+### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.3/](https://www.w3.org/TR/wai-aria-1.3/)
 - Crawled URL: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Crawled version: 16 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
 - Latest published version: [https://www.w3.org/TR/wai-aria-1.3/](https://www.w3.org/TR/wai-aria-1.3/)
 - Shortname: wai-aria-1.3
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/aria/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers' Error: Loading https://w3c.github.io/aria/ triggered network error Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
-    at async Promise.all (index 548)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4810,7 +4809,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 20 February 2024
+- Crawled version: 21 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5767,7 +5766,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
-- Crawled version: 19 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Shortname: css-fonts-4
@@ -5853,7 +5852,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
-- Crawled version: 12 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Shortname: css-fonts-5
@@ -7969,7 +7968,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Style Attributes {data-spec=true data-error=true}
+### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -7982,15 +7981,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
-    at async Promise.all (index 378)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8988,7 +8979,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Viewport Module Level 1 {data-spec=true data-error=true}
+### CSS Viewport Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9001,15 +8992,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504 Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
-    at async Promise.all (index 396)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/`](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/)
+     * [`https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/`](https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/virtual-keyboard`](https://w3c.github.io/virtual-keyboard), related reference "VIRTUAL-KEYBOARD" uses URL [`https://www.w3.org/TR/virtual-keyboard/`](https://www.w3.org/TR/virtual-keyboard/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9756,7 +9747,7 @@ Informative references to this spec from:
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
-### Selectors Level 3 {data-spec=true data-error=true}
+### Selectors Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9769,15 +9760,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error TimeoutError: Navigation timeout of 120000 ms exceeded
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:97:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:366:22)
-    at async Promise.all (index 514)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:374:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2011/REC-css3-selectors-20110929/`](http://www.w3.org/TR/2011/REC-css3-selectors-20110929/)
+     * [`https://www.w3.org/TR/css3-namespace/`](https://www.w3.org/TR/css3-namespace/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10199,7 +10184,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Crawled URL: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
-- Crawled version: 20 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://w3c.github.io/sensors/](https://w3c.github.io/sensors/)
 - Latest published version: [https://www.w3.org/TR/generic-sensor/](https://www.w3.org/TR/generic-sensor/)
 - Shortname: generic-sensor
@@ -15548,7 +15533,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 9 February 2024
+- Crawled version: 15 February 2024
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Shortname: IFT
@@ -16868,7 +16853,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 19 January 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -17647,7 +17632,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 21 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -19877,7 +19862,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 21 February 2024
+- Crawled version: 22 February 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
