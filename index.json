@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-23T14:59:45.841Z",
+  "date": "2024-02-23T18:31:54.466Z",
   "stats": {
     "crawled": 609,
     "errors": 0,
@@ -48002,7 +48002,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "22 February 2024",
+      "date": "23 February 2024",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
