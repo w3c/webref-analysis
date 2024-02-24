@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-23T18:31:54.466Z",
+  "date": "2024-02-24T06:31:52.620Z",
   "stats": {
     "crawled": 609,
-    "errors": 0,
+    "errors": 1,
     "studied": 609
   },
   "results": [
@@ -654,6 +654,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 548)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3493,7 +3494,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "22 February 2024",
+      "date": "23 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -25322,7 +25323,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "15 February 2024",
+      "date": "23 February 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -39427,7 +39428,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "22 February 2024",
+      "date": "23 February 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41759,7 +41760,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "17 February 2024",
+      "date": "24 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42046,7 +42047,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "16 February 2024",
+      "date": "23 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -42231,7 +42232,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "16 February 2024",
+      "date": "23 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42319,7 +42320,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "16 February 2024",
+      "date": "23 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -43131,7 +43132,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "16 February 2024",
+      "date": "24 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43192,7 +43193,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "16 February 2024",
+      "date": "23 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -43719,7 +43720,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "17 February 2024",
+      "date": "24 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -44222,7 +44223,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "16 February 2024",
+      "date": "24 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
