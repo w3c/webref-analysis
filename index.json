@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-24T06:31:52.620Z",
+  "date": "2024-02-24T12:36:11.408Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -42117,7 +42117,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "16 February 2024",
+      "date": "23 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
