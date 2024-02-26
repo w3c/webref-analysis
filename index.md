@@ -7023,7 +7023,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-overflow-4/](https://www.w3.org/TR/css-overflow-4/)
 - Crawled URL: [https://drafts.csswg.org/css-overflow-4/](https://drafts.csswg.org/css-overflow-4/)
-- Crawled version: 19 February 2024
+- Crawled version: 26 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-4/](https://drafts.csswg.org/css-overflow-4/)
 - Latest published version: [https://www.w3.org/TR/css-overflow-4/](https://www.w3.org/TR/css-overflow-4/)
 - Shortname: css-overflow-4
