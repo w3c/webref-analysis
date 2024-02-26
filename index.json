@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-26T06:33:24.797Z",
+  "date": "2024-02-26T12:39:03.335Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -5201,7 +5201,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "8 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -49630,7 +49630,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "22 February 2024",
+      "date": "26 February 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -50109,7 +50109,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "22 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -59054,7 +59054,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "14 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
