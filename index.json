@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-26T18:31:55.405Z",
+  "date": "2024-02-27T00:46:43.808Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -3494,7 +3494,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "23 February 2024",
+      "date": "27 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4523,7 +4523,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "9 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -7998,7 +7998,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "21 February 2024",
+      "date": "25 February 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8144,7 +8144,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "16 February 2024",
+      "date": "25 February 2024",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8362,7 +8362,7 @@
     {
       "title": "CSS Color Module Level 6",
       "shortname": "css-color-6",
-      "date": "16 February 2023",
+      "date": "25 February 2024",
       "url": "https://drafts.csswg.org/css-color-6/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-6/",
@@ -14480,7 +14480,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "30 January 2024",
+      "date": "25 February 2024",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -16061,11 +16061,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
             {
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
@@ -28491,7 +28486,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "08 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -41803,7 +41798,7 @@
     {
       "title": "RFC 6265 - HTTP State Management Mechanism",
       "shortname": "rfc6265",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6265",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6265.html",
@@ -41990,7 +41985,7 @@
     {
       "title": "RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)",
       "shortname": "rfc6266",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6266",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6266.html",
@@ -42377,7 +42372,7 @@
     {
       "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
       "shortname": "rfc7230",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7230",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7230.html",
@@ -42534,7 +42529,7 @@
     {
       "title": "RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
       "shortname": "rfc7231",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7231",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7231.html",
@@ -42706,7 +42701,7 @@
     {
       "title": "RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
       "shortname": "rfc7232",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7232",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7232.html",
@@ -42793,7 +42788,7 @@
     {
       "title": "RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests",
       "shortname": "rfc7233",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7233",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7233.html",
@@ -42865,7 +42860,7 @@
     {
       "title": "RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching",
       "shortname": "rfc7234",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7234",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7234.html",
@@ -43007,7 +43002,7 @@
     {
       "title": "RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication",
       "shortname": "rfc7235",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7235",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7235.html",
@@ -43255,7 +43250,7 @@
     {
       "title": "RFC 7616 - HTTP Digest Access Authentication",
       "shortname": "rfc7616",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7616",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7616.html",
@@ -43311,7 +43306,7 @@
     {
       "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
       "shortname": "rfc7617",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7617",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7617.html",
@@ -43367,7 +43362,7 @@
     {
       "title": "RFC 7725 - An HTTP Status Code to Report Legal Obstacles",
       "shortname": "rfc7725",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7725",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7725.html",
@@ -43412,7 +43407,7 @@
     {
       "title": "RFC 7838 - HTTP Alternative Services",
       "shortname": "rfc7838",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7838",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7838.html",
@@ -43474,7 +43469,7 @@
     {
       "title": "RFC 8246 - HTTP Immutable Responses",
       "shortname": "rfc8246",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8246",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8246.html",
@@ -43525,7 +43520,7 @@
     {
       "title": "RFC 8288 - Web Linking",
       "shortname": "rfc8288",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8288",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8288.html",
@@ -43607,7 +43602,7 @@
     {
       "title": "RFC 8297 - An HTTP Status Code for Indicating Hints",
       "shortname": "rfc8297",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8297",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8297.html",
@@ -43658,7 +43653,7 @@
     {
       "title": "RFC 8470 - Using Early Data in HTTP",
       "shortname": "rfc8470",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8470",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8470.html",
@@ -43779,7 +43774,7 @@
     {
       "title": "RFC 9110 - HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9110.html",
@@ -43946,7 +43941,7 @@
     {
       "title": "RFC 9111 - HTTP Caching",
       "shortname": "rfc9111",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9111.html",
@@ -44023,7 +44018,7 @@
     {
       "title": "RFC 9112 - HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9112.html",
@@ -44110,7 +44105,7 @@
     {
       "title": "RFC 9113 - HTTP/2",
       "shortname": "rfc9113",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9113.html",
@@ -44166,7 +44161,7 @@
     {
       "title": "RFC 9114 - HTTP/3",
       "shortname": "rfc9114",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9114.html",
@@ -44274,7 +44269,7 @@
     {
       "title": "RFC 9530 - Digest Fields",
       "shortname": "rfc9530",
-      "date": "15 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9530",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9530.html",
@@ -51615,7 +51610,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "24 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -55474,7 +55469,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2",
-      "date": "21 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-2/",
@@ -55716,7 +55711,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "21 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -55835,7 +55830,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "21 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
