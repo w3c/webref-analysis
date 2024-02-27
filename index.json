@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-27T00:46:43.808Z",
+  "date": "2024-02-27T06:33:13.030Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -7779,7 +7779,7 @@
     {
       "title": "CSS Color HDR Module Level 1",
       "shortname": "css-color-hdr",
-      "date": "18 February 2024",
+      "date": "27 February 2024",
       "url": "https://drafts.csswg.org/css-color-hdr/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-hdr/",
@@ -7998,7 +7998,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "25 February 2024",
+      "date": "26 February 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -22442,7 +22442,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "26 February 2024",
+      "date": "27 February 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",

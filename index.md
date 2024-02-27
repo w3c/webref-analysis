@@ -4731,7 +4731,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-color-hdr/](https://drafts.csswg.org/css-color-hdr/)
 - Crawled URL: [https://drafts.csswg.org/css-color-hdr/](https://drafts.csswg.org/css-color-hdr/)
-- Crawled version: 18 February 2024
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-hdr/](https://drafts.csswg.org/css-color-hdr/)
 - Shortname: css-color-hdr
 
@@ -4808,7 +4808,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 25 February 2024
+- Crawled version: 26 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -16641,7 +16641,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Crawled URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
-- Crawled version: 26 February 2024
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Shortname: digital-identities
 
