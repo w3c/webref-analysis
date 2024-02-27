@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-27T06:33:13.030Z",
+  "date": "2024-02-27T12:39:52.962Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -28685,7 +28685,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "22 February 2024",
+      "date": "27 February 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -50722,7 +50722,7 @@
     {
       "title": "URL Pattern Standard",
       "shortname": "urlpattern",
-      "date": "30 January 2024",
+      "date": "27 February 2024",
       "url": "https://urlpattern.spec.whatwg.org/",
       "nightly": {
         "url": "https://urlpattern.spec.whatwg.org/",
@@ -54637,7 +54637,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "22 February 2024",
+      "date": "27 February 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
