@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% February 27, 2024
+% February 28, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -2893,7 +2893,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 25 January 2024
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -4832,6 +4832,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -4849,13 +4850,13 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### CSS Color Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS Color Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 25 February 2024
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -4864,6 +4865,12 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2020/WD-css-color-5-20200303/`](https://www.w3.org/TR/2020/WD-css-color-5-20200303/), related reference "CSS-COLOR-5" uses URL [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/)
+     * [`https://www.w3.org/TR/2021/WD-css-color-5-20210601/`](https://www.w3.org/TR/2021/WD-css-color-5-20210601/), related reference "CSS-COLOR-5" uses URL [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/)
+     * [`https://www.w3.org/TR/2021/WD-css-color-5-20211215/`](https://www.w3.org/TR/2021/WD-css-color-5-20211215/), related reference "CSS-COLOR-5" uses URL [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/)
+     * [`https://www.w3.org/TR/2022/WD-css-color-5-20220428/`](https://www.w3.org/TR/2022/WD-css-color-5-20220428/), related reference "CSS-COLOR-5" uses URL [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/)
+     * [`https://www.w3.org/TR/2022/WD-css-color-5-20220628/`](https://www.w3.org/TR/2022/WD-css-color-5-20220628/), related reference "CSS-COLOR-5" uses URL [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4878,6 +4885,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color HDR Module Level 1](https://drafts.csswg.org/css-color-hdr/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Color Module Level 6](https://drafts.csswg.org/css-color-6/)
 - [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -5017,7 +5025,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-5/](https://www.w3.org/TR/css-conditional-5/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-5/](https://drafts.csswg.org/css-conditional-5/)
-- Crawled version: 28 August 2023
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-5/](https://drafts.csswg.org/css-conditional-5/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-5/](https://www.w3.org/TR/css-conditional-5/)
 - Shortname: css-conditional-5
@@ -5033,7 +5041,6 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 
 No informative reference to this spec from other specs.
 
@@ -5250,7 +5257,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-variables-1/](https://www.w3.org/TR/css-variables-1/)
 - Crawled URL: [https://drafts.csswg.org/css-variables-1/](https://drafts.csswg.org/css-variables-1/)
-- Crawled version: 18 December 2023
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-variables-1/](https://drafts.csswg.org/css-variables-1/)
 - Latest published version: [https://www.w3.org/TR/css-variables-1/](https://www.w3.org/TR/css-variables-1/)
 - Shortname: css-variables-1
@@ -5282,7 +5289,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-variables-2/](https://drafts.csswg.org/css-variables-2/)
 - Crawled URL: [https://drafts.csswg.org/css-variables-2/](https://drafts.csswg.org/css-variables-2/)
-- Crawled version: 18 December 2023
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://drafts.csswg.org/css-variables-2/](https://drafts.csswg.org/css-variables-2/)
 - Shortname: css-variables-2
 
@@ -6919,6 +6926,7 @@ Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -8000,7 +8008,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+- [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
@@ -10039,7 +10047,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
-- Crawled version: 7 February 2024
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Shortname: contact-picker
@@ -10439,7 +10447,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 20 February 2024
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10469,7 +10477,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 20 February 2024
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14124,7 +14132,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
-- Crawled version: 12 July 2023
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
 - Latest published version: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
 - Shortname: credential-management-1
@@ -14634,7 +14642,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
-- Crawled version: 7 February 2024
+- Crawled version: 27 February 2024
 - Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Shortname: contact-picker
@@ -19239,7 +19247,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 26 February 2024
+- Crawled version: 28 February 2024
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport
