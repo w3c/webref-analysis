@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-02-28T18:33:16.665Z",
+  "date": "2024-02-29T00:47:42.495Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -3500,7 +3500,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "27 February 2024",
+      "date": "29 February 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4529,7 +4529,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "26 February 2024",
+      "date": "29 February 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -21078,7 +21078,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "18 February 2024",
+      "date": "28 February 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -24400,7 +24400,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "22 February 2024",
+      "date": "28 February 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -25760,7 +25760,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "22 February 2024",
+      "date": "28 February 2024",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -33316,7 +33316,7 @@
     {
       "title": "JSON-LD 1.1 Framing",
       "shortname": "json-ld11-framing",
-      "date": "06 February 2024",
+      "date": "28 February 2024",
       "url": "https://www.w3.org/TR/json-ld11-framing/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-framing/",
@@ -33374,7 +33374,7 @@
     {
       "title": "JSON-LD 1.1 Processing Algorithms and API",
       "shortname": "json-ld11-api",
-      "date": "06 February 2024",
+      "date": "28 February 2024",
       "url": "https://www.w3.org/TR/json-ld11-api/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-api/",
@@ -50780,7 +50780,7 @@
     {
       "title": "URL Pattern Standard",
       "shortname": "urlpattern",
-      "date": "27 February 2024",
+      "date": "29 February 2024",
       "url": "https://urlpattern.spec.whatwg.org/",
       "nightly": {
         "url": "https://urlpattern.spec.whatwg.org/",
@@ -52855,7 +52855,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "21 February 2024",
+      "date": "28 February 2024",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
