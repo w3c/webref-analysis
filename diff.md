@@ -1,13 +1,13 @@
-% Diff between report from "February 29, 2024" and reference report from "February 29, 2024"
+% Diff between report from "March 01, 2024" and reference report from "February 29, 2024"
 % Strudy
-% February 29, 2024
+% March 01, 2024
 
-## CSS Color Module Level 5
+## CSS Typed OM Level 1
 
-- Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
+- Initial URL: [https://www.w3.org/TR/css-typed-om-1/](https://www.w3.org/TR/css-typed-om-1/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Inconsistent references for links: *DEL* https://www.w3.org/TR/2020/WD-css-color-5-20200303/, https://www.w3.org/TR/2021/WD-css-color-5-20210601/, https://www.w3.org/TR/2021/WD-css-color-5-20211215/, https://www.w3.org/TR/2022/WD-css-color-5-20220428/, https://www.w3.org/TR/2022/WD-css-color-5-20220628/
+- Editor's Draft: [https://drafts.css-houdini.org/css-typed-om-1/](https://drafts.css-houdini.org/css-typed-om-1/)
+- Inconsistent references for links: *DEL* https://www.w3.org/TR/css-fonts-4/
 
 
 
