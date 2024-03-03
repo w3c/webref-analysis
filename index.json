@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-02T18:31:40.879Z",
+  "date": "2024-03-03T00:45:44.766Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -22431,7 +22431,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "27 February 2024",
+      "date": "02 March 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -42095,7 +42095,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "23 February 2024",
+      "date": "1 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42298,7 +42298,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "23 February 2024",
+      "date": "1 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -43177,7 +43177,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "23 February 2024",
+      "date": "1 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
