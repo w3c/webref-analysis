@@ -15994,7 +15994,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
 - Crawled URL: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
-- Crawled version: 01 February 2024
+- Crawled version: 04 March 2024
 - Editor's Draft: [https://w3c.github.io/navigation-timing/](https://w3c.github.io/navigation-timing/)
 - Latest published version: [https://www.w3.org/TR/navigation-timing-2/](https://www.w3.org/TR/navigation-timing-2/)
 - Shortname: navigation-timing-2

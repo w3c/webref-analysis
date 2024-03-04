@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-04T06:51:45.409Z",
+  "date": "2024-03-04T12:42:41.941Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -36585,7 +36585,7 @@
     {
       "title": "Navigation Timing Level 2",
       "shortname": "navigation-timing-2",
-      "date": "01 February 2024",
+      "date": "04 March 2024",
       "url": "https://www.w3.org/TR/navigation-timing-2/",
       "release": {
         "url": "https://www.w3.org/TR/navigation-timing-2/",
