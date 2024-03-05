@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-05T00:46:46.770Z",
+  "date": "2024-03-05T06:34:48.184Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -28673,7 +28673,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "4 March 2024",
+      "date": "5 March 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -50716,7 +50716,7 @@
     {
       "title": "URL Pattern Standard",
       "shortname": "urlpattern",
-      "date": "29 February 2024",
+      "date": "5 March 2024",
       "url": "https://urlpattern.spec.whatwg.org/",
       "nightly": {
         "url": "https://urlpattern.spec.whatwg.org/",
