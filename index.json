@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-05T12:41:13.817Z",
+  "date": "2024-03-05T18:39:39.966Z",
   "stats": {
-    "crawled": 609,
-    "errors": 1,
-    "studied": 609
+    "crawled": 615,
+    "errors": 0,
+    "studied": 615
   },
   "results": [
     {
@@ -408,7 +408,7 @@
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -654,7 +654,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 548)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -958,7 +957,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "28 February 2024",
+      "date": "5 March 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -8150,7 +8149,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "29 February 2024",
+      "date": "5 March 2024",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -22537,7 +22536,7 @@
       "url": "https://www.w3.org/TR/dpub-aam-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aam-1.1/",
-        "status": "Working Draft",
+        "status": "Candidate Recommendation Snapshot",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -22586,7 +22585,7 @@
       "url": "https://www.w3.org/TR/dpub-aria-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aria-1.1/",
-        "status": "Working Draft",
+        "status": "Candidate Recommendation Snapshot",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -27896,6 +27895,48 @@
       }
     },
     {
+      "title": "glTF™ 2.0 Specification",
+      "shortname": "glTF",
+      "date": "29 July 2023",
+      "url": "https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html",
+      "nightly": {
+        "url": "https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html",
+        "status": "Editor's Draft",
+        "sourcePath": "specification/2.0/Specification.adoc",
+        "alternateUrls": [],
+        "repository": "https://github.com/KhronosGroup/glTF",
+        "filename": "glTF-2.0.html"
+      },
+      "crawled": "https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html",
+      "organization": "Khronos Group",
+      "groups": [
+        {
+          "name": "glTF Working Group",
+          "url": "https://www.khronos.org/gltf/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Graphics Accessibility API Mappings",
       "shortname": "graphics-aam-1.0",
       "date": "23 January 2024",
@@ -27957,6 +27998,68 @@
             }
           ],
           "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Graphics Interchange Format",
+      "shortname": "GIF",
+      "date": "17 January 1995",
+      "url": "https://www.w3.org/Graphics/GIF/spec-gif89a.txt",
+      "nightly": {
+        "url": "https://www.w3.org/Graphics/GIF/spec-gif89a.txt",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "filename": "spec-gif89a.txt"
+      },
+      "crawled": "https://www.w3.org/Graphics/GIF/spec-gif89a.txt",
+      "organization": "CompuServe Incorporated",
+      "groups": [
+        {
+          "name": "CompuServe Incorporated",
+          "url": "https://www.compuserve.com/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://w3c.github.io/PNG-spec/",
+              "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
+              "crawled": "https://w3c.github.io/PNG-spec/"
+            },
+            {
+              "url": "https://datatracker.ietf.org/doc/html/draft-zern-webp/",
+              "title": "WebP Image Format",
+              "crawled": "https://www.ietf.org/archive/id/draft-zern-webp-13.html"
+            }
+          ]
         },
         "ok": false
       }
@@ -31143,6 +31246,38 @@
       "title": "Information technology — Coding of audio-visual objects — Part 22: Open Font Format",
       "shortname": "iso14496-22",
       "url": "https://www.iso.org/standard/87621.html",
+      "organization": "ISO/IEC",
+      "groups": [
+        {
+          "name": "ISO/IEC JTC 1/SC 29",
+          "url": "https://www.iso.org/committee/45316.html"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Information technology — Digital compression and coding of continuous-tone still images: JPEG File Interchange Format (JFIF) — Part 5:",
+      "shortname": "iso10918-5",
+      "url": "https://www.iso.org/standard/54989.html",
       "organization": "ISO/IEC",
       "groups": [
         {
@@ -40794,7 +40929,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "03 March 2024",
+      "date": "05 March 2024",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -43461,6 +43596,55 @@
       }
     },
     {
+      "title": "RFC 7932: Brotli Compressed Data Format",
+      "shortname": "rfc7932",
+      "date": "2 March 2024",
+      "url": "https://www.rfc-editor.org/rfc/rfc7932",
+      "nightly": {
+        "url": "https://www.rfc-editor.org/rfc/rfc7932",
+        "status": "Informational",
+        "alternateUrls": [
+          "https://datatracker.ietf.org/doc/html/rfc7932",
+          "https://tools.ietf.org/html/rfc7932"
+        ],
+        "filename": "rfc7932.html"
+      },
+      "crawled": "https://www.rfc-editor.org/rfc/rfc7932",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "Applications and Real-Time Area",
+          "url": "https://datatracker.ietf.org/wg/art/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "RFC 8246 - HTTP Immutable Responses",
       "shortname": "rfc8246",
       "date": "26 February 2024",
@@ -43702,6 +43886,49 @@
               "crawled": "https://fetch.spec.whatwg.org/"
             }
           ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
+      "shortname": "rfc8878",
+      "date": "3 March 2024",
+      "url": "https://www.rfc-editor.org/rfc/rfc8878",
+      "nightly": {
+        "url": "https://www.rfc-editor.org/rfc/rfc8878",
+        "status": "Informational",
+        "alternateUrls": [
+          "https://datatracker.ietf.org/doc/html/rfc8878",
+          "https://tools.ietf.org/html/rfc8878"
+        ],
+        "filename": "rfc8878.html"
+      },
+      "crawled": "https://www.rfc-editor.org/rfc/rfc8878",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "Applications and Real-Time Area",
+          "url": "https://datatracker.ietf.org/wg/art/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": true
       }
@@ -49791,6 +50018,46 @@
       }
     },
     {
+      "title": "The OpenGL ES® Shading Language, Version 3.20.8",
+      "shortname": "ESSL",
+      "date": "31 August 2023",
+      "url": "https://registry.khronos.org/OpenGL/specs/es/3.2/GLSL_ES_Specification_3.20.html",
+      "nightly": {
+        "url": "https://registry.khronos.org/OpenGL/specs/es/3.2/GLSL_ES_Specification_3.20.html",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "filename": "GLSL_ES_Specification_3.20.html"
+      },
+      "crawled": "https://registry.khronos.org/OpenGL/specs/es/3.2/GLSL_ES_Specification_3.20.html",
+      "organization": "Khronos Group",
+      "groups": [
+        {
+          "name": "OpenGL ES Working Group",
+          "url": "https://www.khronos.org/opengles/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "The Storage Access API",
       "shortname": "storage-access",
       "date": "19 February 2024",
@@ -55228,7 +55495,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-gc",
-      "date": "18 February 2024",
+      "date": "5 March 2024",
       "url": "https://webassembly.github.io/gc/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/gc/core/bikeshed/",
