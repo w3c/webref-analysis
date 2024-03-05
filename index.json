@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-05T06:34:48.184Z",
+  "date": "2024-03-05T12:41:13.817Z",
   "stats": {
     "crawled": 609,
     "errors": 1,
@@ -8004,7 +8004,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "29 February 2024",
+      "date": "5 March 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -10431,7 +10431,7 @@
     {
       "title": "CSS Exclusions Module Level 1",
       "shortname": "css3-exclusions",
-      "date": "28 July 2021",
+      "date": "5 March 2024",
       "url": "https://www.w3.org/TR/css3-exclusions/",
       "release": {
         "url": "https://www.w3.org/TR/css3-exclusions/",
@@ -55458,7 +55458,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2",
-      "date": "28 February 2024",
+      "date": "5 March 2024",
       "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-2/",
@@ -55700,7 +55700,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "28 February 2024",
+      "date": "5 March 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -55819,7 +55819,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "28 February 2024",
+      "date": "5 March 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -56254,7 +56254,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "26 February 2024",
+      "date": "05 March 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
