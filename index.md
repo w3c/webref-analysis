@@ -10151,7 +10151,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
-- Crawled version: 04 January 2024
+- Crawled version: 06 March 2024
 - Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Latest published version: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Shortname: compute-pressure
@@ -15726,7 +15726,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 1 March 2024
+- Crawled version: 6 March 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
