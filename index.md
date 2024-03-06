@@ -3552,7 +3552,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 29 February 2024
+- Crawled version: 6 March 2024
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -10206,7 +10206,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 08 January 2024
+- Crawled version: 06 March 2024
 - Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
 - Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Shortname: device-posture
@@ -11208,7 +11208,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
 - Crawled URL: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
-- Crawled version: 06 February 2024
+- Crawled version: 06 March 2024
 - Editor's Draft: [https://w3c.github.io/json-ld-syntax/](https://w3c.github.io/json-ld-syntax/)
 - Latest published version: [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/)
 - Shortname: json-ld11
@@ -19052,7 +19052,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 5 March 2024
+- Crawled version: 6 March 2024
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-2-fork-gc
 
@@ -19973,7 +19973,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 5 March 2024
+- Crawled version: 6 March 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
