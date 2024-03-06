@@ -9370,7 +9370,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/filter-effects-1/](https://www.w3.org/TR/filter-effects-1/)
 - Crawled URL: [https://drafts.fxtf.org/filter-effects-1/](https://drafts.fxtf.org/filter-effects-1/)
-- Crawled version: 23 January 2024
+- Crawled version: 5 March 2024
 - Editor's Draft: [https://drafts.fxtf.org/filter-effects-1/](https://drafts.fxtf.org/filter-effects-1/)
 - Latest published version: [https://www.w3.org/TR/filter-effects-1/](https://www.w3.org/TR/filter-effects-1/)
 - Shortname: filter-effects-1
@@ -9419,7 +9419,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
 - Crawled URL: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
-- Crawled version: 7 March 2023
+- Crawled version: 5 March 2024
 - Editor's Draft: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
 - Shortname: filter-effects-2
 
