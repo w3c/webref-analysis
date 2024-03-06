@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-05T18:39:39.966Z",
+  "date": "2024-03-06T00:45:26.382Z",
   "stats": {
     "crawled": 615,
-    "errors": 0,
+    "errors": 1,
     "studied": 615
   },
   "results": [
@@ -654,6 +654,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 554)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22346,7 +22347,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "14 February 2024",
+      "date": "5 March 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -39546,7 +39547,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "4 March 2024",
+      "date": "5 March 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -55829,7 +55830,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2-fork-js-promise-integration",
-      "date": "19 October 2022",
+      "date": "5 March 2024",
       "url": "https://webassembly.github.io/js-promise-integration/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/js-promise-integration/js-api/",
