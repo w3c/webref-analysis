@@ -1071,7 +1071,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 7 March 2024
+- Crawled version: 8 March 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -1610,6 +1610,7 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
 
@@ -1835,6 +1836,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
@@ -3552,7 +3554,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 7 March 2024
+- Crawled version: 8 March 2024
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -3736,6 +3738,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/)
 - [CSS 2](https://drafts.csswg.org/css2/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Backgrounds and Borders Module Level 3](https://drafts.csswg.org/css-backgrounds-3/)
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
@@ -3847,7 +3850,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Backgrounds Module Level 4](https://drafts.csswg.org/css-backgrounds-4/)
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
@@ -3862,13 +3864,13 @@ Informative references to this spec from:
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
 
-### CSS Anchor Positioning {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Anchor Positioning {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
 - Crawled URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
-- Crawled version: 7 March 2024
+- Crawled version: 8 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
 - Latest published version: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
 - Shortname: css-anchor-position-1
@@ -3876,15 +3878,11 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/css-align/`](https://www.w3.org/TR/css-align/)
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
      * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-anchor-position-1/`](https://www.w3.org/TR/css-anchor-position-1/), related reference "CSS-ANCHOR-POSITION-1" uses URL [`https://drafts.csswg.org/css-anchor-position-1/`](https://drafts.csswg.org/css-anchor-position-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4996,7 +4994,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 5 March 2024
+- Crawled version: 6 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -6504,7 +6502,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Crawled URL: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
-- Crawled version: 14 February 2024
+- Crawled version: 8 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
 - Latest published version: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Shortname: css-images-4
@@ -10205,7 +10203,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 07 March 2024
+- Crawled version: 08 March 2024
 - Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
 - Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Shortname: device-posture
@@ -14463,7 +14461,6 @@ Normative references to this spec from:
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
-- [Device Posture API](https://w3c.github.io/device-posture/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
@@ -17744,7 +17741,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 5 March 2024
+- Crawled version: 8 March 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
