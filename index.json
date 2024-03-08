@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-08T06:31:40.509Z",
+  "date": "2024-03-08T12:37:42.788Z",
   "stats": {
     "crawled": 615,
     "errors": 1,
@@ -50724,11 +50724,6 @@
               "url": "https://www.w3.org/TR/uievents-key/",
               "title": "UI Events KeyboardEvent key Values",
               "crawled": "https://w3c.github.io/uievents-key/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webdriver2/",
-              "title": "WebDriver",
-              "crawled": "https://w3c.github.io/webdriver/"
             }
           ],
           "informative": []
@@ -54895,7 +54890,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "7 March 2024",
+      "date": "8 March 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -56523,7 +56518,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "07 March 2024",
+      "date": "08 March 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
