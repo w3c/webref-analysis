@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-08T18:32:45.089Z",
+  "date": "2024-03-09T00:46:24.251Z",
   "stats": {
     "crawled": 615,
     "errors": 1,
@@ -4579,11 +4579,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css3-exclusions/",
               "title": "CSS Exclusions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-exclusions-1/"
@@ -4852,7 +4847,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "7 March 2024",
+      "date": "8 March 2024",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -4900,11 +4895,11 @@
           "https://www.w3.org/TR/2012/WD-css3-background-20120214/",
           "https://www.w3.org/TR/2014/CR-css3-background-20140909/",
           "https://www.w3.org/TR/2014/WD-css3-background-20140204/",
+          "https://www.w3.org/TR/css-break/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-color-4/",
           "https://www.w3.org/TR/css-images/",
           "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/css3-break/",
           "https://www.w3.org/TR/css3-images/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/media-frags/",
@@ -6369,6 +6364,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -7559,6 +7559,11 @@
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
@@ -12166,6 +12171,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -14661,6 +14671,11 @@
               "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
@@ -14887,11 +14902,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-backgrounds-3/",
-              "title": "CSS Backgrounds and Borders Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
@@ -17393,6 +17403,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
@@ -18093,7 +18108,7 @@
     {
       "title": "CSS Text Decoration Module Level 4",
       "shortname": "css-text-decor-4",
-      "date": "24 January 2024",
+      "date": "8 March 2024",
       "url": "https://www.w3.org/TR/css-text-decor-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-decor-4/",
@@ -20041,7 +20056,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "7 March 2024",
+      "date": "8 March 2024",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -27169,11 +27184,6 @@
               "url": "https://wicg.github.io/capability-delegation/spec.html",
               "title": "Capability Delegation",
               "crawled": "https://wicg.github.io/capability-delegation/spec.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/device-posture/",
-              "title": "Device Posture API",
-              "crawled": "https://w3c.github.io/device-posture/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -35188,6 +35198,11 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-color-adjust-1/",
               "title": "CSS Color Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
@@ -42217,7 +42232,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "1 March 2024",
+      "date": "8 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -51603,7 +51618,7 @@
     {
       "title": "User Agent Interaction with Related Website Sets",
       "shortname": "first-party-sets",
-      "date": "29 January 2024",
+      "date": "8 March 2024",
       "url": "https://wicg.github.io/first-party-sets/",
       "nightly": {
         "url": "https://wicg.github.io/first-party-sets/",
