@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-11T06:33:37.734Z",
+  "date": "2024-03-11T12:40:57.342Z",
   "stats": {
     "crawled": 615,
     "errors": 1,
@@ -22343,7 +22343,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "5 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -28768,7 +28768,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "7 March 2024",
+      "date": "11 March 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -56684,7 +56684,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "8 March 2024",
+      "date": "11 March 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
