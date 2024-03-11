@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-11T12:40:57.342Z",
+  "date": "2024-03-11T18:33:59.393Z",
   "stats": {
     "crawled": 615,
     "errors": 1,
@@ -4847,7 +4847,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "8 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -5707,7 +5707,7 @@
     {
       "title": "CSS Box Model Module Level 4",
       "shortname": "css-box-4",
-      "date": "10 November 2023",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/css-box-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-4/",
@@ -22290,7 +22290,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "08 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -31913,11 +31913,6 @@
               "crawled": "https://wicg.github.io/local-font-access/"
             },
             {
-              "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API",
-              "crawled": "https://w3c.github.io/longtasks/"
-            },
-            {
               "url": "https://www.w3.org/TR/magnetometer/",
               "title": "Magnetometer",
               "crawled": "https://w3c.github.io/magnetometer/"
@@ -33093,7 +33088,7 @@
     {
       "title": "ISO BMFF Byte Stream Format",
       "shortname": "mse-byte-stream-format-isobmff",
-      "date": "20 December 2023",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
@@ -33927,7 +33922,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "16 February 2024",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -35478,7 +35473,7 @@
     {
       "title": "Media Source Extensions Byte Stream Format Registry",
       "shortname": "mse-byte-stream-format-registry",
-      "date": "19 February 2024",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
@@ -36616,7 +36611,7 @@
     {
       "title": "MPEG Audio Byte Stream Format",
       "shortname": "mse-byte-stream-format-mpeg-audio",
-      "date": "20 December 2023",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
@@ -37619,11 +37614,6 @@
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
-            },
-            {
-              "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API",
-              "crawled": "https://w3c.github.io/longtasks/"
             },
             {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
@@ -40926,7 +40916,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "07 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -42162,7 +42152,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "9 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -42232,7 +42222,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "8 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42347,7 +42337,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "8 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -43595,7 +43585,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "9 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -43933,7 +43923,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "9 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -50614,11 +50604,6 @@
               "crawled": "https://wicg.github.io/keyboard-map/"
             },
             {
-              "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API",
-              "crawled": "https://w3c.github.io/longtasks/"
-            },
-            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -51237,11 +51222,6 @@
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API",
-              "crawled": "https://w3c.github.io/longtasks/"
             },
             {
               "url": "https://wicg.github.io/WebApiDevice/managed_config/",
@@ -52961,7 +52941,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "7 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -53410,7 +53390,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "13 February 2024",
+      "date": "11 March 2024",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -56528,7 +56508,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "08 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -58815,7 +58795,7 @@
     {
       "title": "WebM Byte Stream Format",
       "shortname": "mse-byte-stream-format-webm",
-      "date": "20 December 2023",
+      "date": "11 March 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",

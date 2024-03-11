@@ -891,7 +891,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 9 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -988,7 +988,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
-- Crawled version: 9 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Shortname: rfc6386
 
@@ -1464,7 +1464,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 9 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1848,7 +1848,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 8 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1889,7 +1889,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 8 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -3388,7 +3388,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Crawled URL: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
-- Crawled version: 7 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
 - Latest published version: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Shortname: webaudio
@@ -3508,7 +3508,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Crawled URL: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
-- Crawled version: 08 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
 - Latest published version: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Shortname: webdriver2
@@ -3999,7 +3999,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
 - Crawled URL: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
-- Crawled version: 8 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
 - Latest published version: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
 - Shortname: css-backgrounds-3
@@ -4312,7 +4312,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-box-4/](https://www.w3.org/TR/css-box-4/)
 - Crawled URL: [https://drafts.csswg.org/css-box-4/](https://drafts.csswg.org/css-box-4/)
-- Crawled version: 10 November 2023
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-box-4/](https://drafts.csswg.org/css-box-4/)
 - Latest published version: [https://www.w3.org/TR/css-box-4/](https://www.w3.org/TR/css-box-4/)
 - Shortname: css-box-4
@@ -10207,7 +10207,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 08 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
 - Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Shortname: device-posture
@@ -10668,7 +10668,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
-- Crawled version: 20 December 2023
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 - Shortname: mse-byte-stream-format-isobmff
@@ -10692,7 +10692,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
-- Crawled version: 19 February 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
 - Shortname: mse-byte-stream-format-registry
@@ -10716,7 +10716,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
-- Crawled version: 20 December 2023
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
 - Shortname: mse-byte-stream-format-mpeg-audio
@@ -10764,7 +10764,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
 - Crawled URL: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
-- Crawled version: 20 December 2023
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
 - Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
 - Shortname: mse-byte-stream-format-webm
@@ -12341,7 +12341,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Crawled URL: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
-- Crawled version: 07 March 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://w3c.github.io/rdf-canon/spec/](https://w3c.github.io/rdf-canon/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf-canon/](https://www.w3.org/TR/rdf-canon/)
 - Shortname: rdf-canon
@@ -15127,7 +15127,6 @@ Normative references to this spec from:
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
-- [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -16110,7 +16109,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Crawled URL: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
-- Crawled version: 16 February 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 - Latest published version: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Shortname: longtasks-1
@@ -16245,7 +16244,6 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
-- [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
@@ -20502,7 +20500,6 @@ Normative references to this spec from:
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
-- [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
@@ -20966,7 +20963,6 @@ Normative references to this spec from:
 - [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
-- [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
@@ -21053,7 +21049,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 13 February 2024
+- Crawled version: 11 March 2024
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
