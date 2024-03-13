@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-12T18:32:54.937Z",
+  "date": "2024-03-13T00:46:51.686Z",
   "stats": {
     "crawled": 615,
-    "errors": 1,
+    "errors": 0,
     "studied": 615
   },
   "results": [
@@ -515,7 +515,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "07 March 2024",
+      "date": "12 March 2024",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -630,7 +630,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.3",
-      "date": "07 March 2024",
+      "date": "12 March 2024",
       "url": "https://www.w3.org/TR/wai-aria-1.3/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.3/",
@@ -654,7 +654,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 554)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4530,7 +4529,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "11 March 2024",
+      "date": "12 March 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -4848,7 +4847,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "11 March 2024",
+      "date": "12 March 2024",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -20062,7 +20061,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "11 March 2024",
+      "date": "12 March 2024",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -54891,7 +54890,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "8 March 2024",
+      "date": "12 March 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
