@@ -7,7 +7,7 @@
 - Initial URL: [https://www.w3.org/TR/wai-aria-1.3/](https://www.w3.org/TR/wai-aria-1.3/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://w3c.github.io/aria/](https://w3c.github.io/aria/)
-- Spec could not be rendered: *INS* Error: Loading https://w3c.github.io/aria/ triggered network error
+- Spec could not be rendered: *DEL* Error: Loading https://w3c.github.io/aria/ triggered network error
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
@@ -20,6 +20,14 @@
     path: '/tmp/reffy-cache/w3c.github.io!aria.headers'
   }
 }
+
+
+## Long Animation Frames API
+
+- Initial URL: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
+- Crawled URL: [undefined](undefined)
+- Editor's Draft: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
+- This specification was not in the reference crawl report.
 
 
 

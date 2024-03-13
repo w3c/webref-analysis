@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-13T06:34:38.234Z",
+  "date": "2024-03-13T12:45:58.050Z",
   "stats": {
-    "crawled": 615,
-    "errors": 1,
-    "studied": 615
+    "crawled": 616,
+    "errors": 0,
+    "studied": 616
   },
   "results": [
     {
@@ -654,7 +654,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 554)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22349,7 +22348,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "11 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -23490,6 +23489,11 @@
               "crawled": "https://wicg.github.io/webpackage/loading.html"
             },
             {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
+            },
+            {
               "url": "https://www.w3.org/TR/longtasks-1/",
               "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
@@ -24562,6 +24566,11 @@
               "crawled": "https://wicg.github.io/keyboard-lock/"
             },
             {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
+            },
+            {
               "url": "https://www.w3.org/TR/longtasks-1/",
               "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
@@ -25034,7 +25043,7 @@
     {
       "title": "Encoding Standard",
       "shortname": "encoding",
-      "date": "24 January 2024",
+      "date": "13 March 2024",
       "url": "https://encoding.spec.whatwg.org/",
       "nightly": {
         "url": "https://encoding.spec.whatwg.org/",
@@ -28366,6 +28375,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
+            },
+            {
               "url": "https://www.w3.org/TR/longtasks-1/",
               "title": "Long Tasks API",
               "crawled": "https://w3c.github.io/longtasks/"
@@ -29634,6 +29648,11 @@
               "url": "https://wicg.github.io/local-font-access/",
               "title": "Local Font Access API",
               "crawled": "https://wicg.github.io/local-font-access/"
+            },
+            {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
             },
             {
               "url": "https://www.w3.org/TR/longtasks-1/",
@@ -31924,6 +31943,11 @@
               "crawled": "https://wicg.github.io/local-font-access/"
             },
             {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
+            },
+            {
               "url": "https://www.w3.org/TR/magnetometer/",
               "title": "Magnetometer",
               "crawled": "https://w3c.github.io/magnetometer/"
@@ -33931,6 +33955,48 @@
       }
     },
     {
+      "title": "Long Animation Frames API",
+      "shortname": "long-animation-frames",
+      "date": "12 March 2024",
+      "url": "https://w3c.github.io/long-animation-frames/",
+      "nightly": {
+        "url": "https://w3c.github.io/long-animation-frames/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/long-animation-frames",
+        "sourcePath": "index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/long-animation-frames/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Performance Working Group",
+          "url": "https://www.w3.org/groups/wg/webperf/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": true
+      }
+    },
+    {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
       "date": "11 March 2024",
@@ -33976,6 +34042,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
             },
             {
               "url": "https://www.w3.org/TR/longtasks-1/",
@@ -37627,6 +37698,11 @@
               "crawled": "https://wicg.github.io/layout-instability/"
             },
             {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
+            },
+            {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
               "title": "Timing Entry Names Registry",
               "crawled": "https://w3c.github.io/timing-entrytypes-registry/"
@@ -37988,6 +38064,11 @@
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
+            },
+            {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
             },
             {
               "url": "https://www.w3.org/TR/longtasks-1/",
@@ -38814,7 +38895,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "31 January 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -41876,7 +41957,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "11 March 2024",
+      "date": "2 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42233,7 +42314,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "11 March 2024",
+      "date": "1 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -43596,7 +43677,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "11 March 2024",
+      "date": "9 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -50615,6 +50696,11 @@
               "crawled": "https://wicg.github.io/keyboard-map/"
             },
             {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
+            },
+            {
               "url": "https://www.w3.org/TR/pointerevents3/",
               "title": "Pointer Events",
               "crawled": "https://w3c.github.io/pointerevents/"
@@ -51233,6 +51319,11 @@
               "url": "https://wicg.github.io/webpackage/loading.html",
               "title": "Loading Signed Exchanges",
               "crawled": "https://wicg.github.io/webpackage/loading.html"
+            },
+            {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
             },
             {
               "url": "https://wicg.github.io/WebApiDevice/managed_config/",
@@ -54041,6 +54132,11 @@
               "url": "https://wicg.github.io/local-font-access/",
               "title": "Local Font Access API",
               "crawled": "https://wicg.github.io/local-font-access/"
+            },
+            {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
             },
             {
               "url": "https://www.w3.org/TR/longtasks-1/",

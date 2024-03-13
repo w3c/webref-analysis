@@ -391,6 +391,7 @@ Normative references to this spec from:
 - [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
 - [JSON-LD 1.1 Processing Algorithms and API](https://w3c.github.io/json-ld-api/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
@@ -891,7 +892,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 11 March 2024
+- Crawled version: 9 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -1797,7 +1798,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 11 March 2024
+- Crawled version: 2 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1848,7 +1849,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 11 March 2024
+- Crawled version: 1 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -3105,7 +3106,7 @@ Informative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 
 
-### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-error=true}
+### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3118,22 +3119,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/aria/ triggered network error
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 554)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
-  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {
-    errno: -2,
-    code: 'ENOENT',
-    syscall: 'open',
-    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'
-  }
-}`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10233,7 +10226,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 11 March 2024
+- Crawled version: 13 March 2024
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -12097,7 +12090,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 31 January 2024
+- Crawled version: 13 March 2024
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -15129,6 +15122,7 @@ Normative references to this spec from:
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Keyboard Lock](https://wicg.github.io/keyboard-lock/)
 - [Keyboard Map](https://wicg.github.io/keyboard-map/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Pointer Lock 2.0](https://w3c.github.io/pointerlock/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -16035,6 +16029,7 @@ Normative references to this spec from:
 - [JS Self-Profiling API](https://wicg.github.io/js-self-profiling/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Measure Memory API](https://wicg.github.io/performance-measure-memory/)
 - [Media Playback Quality](https://w3c.github.io/media-playback-quality/)
@@ -16105,6 +16100,27 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+### Long Animation Frames API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
+- Crawled URL: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
+- Crawled version: 12 March 2024
+- Editor's Draft: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
+- Shortname: long-animation-frames
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Long Tasks API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -16125,6 +16141,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
@@ -16246,6 +16263,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
@@ -16276,6 +16294,7 @@ Normative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Navigation Timing Level 2](https://w3c.github.io/navigation-timing/)
 - [Paint Timing](https://w3c.github.io/paint-timing/)
@@ -19592,6 +19611,7 @@ Normative references to this spec from:
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
@@ -19735,7 +19755,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
 - Crawled URL: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
-- Crawled version: 24 January 2024
+- Crawled version: 13 March 2024
 - Editor's Draft: [https://encoding.spec.whatwg.org/](https://encoding.spec.whatwg.org/)
 - Shortname: encoding
 
@@ -20141,6 +20161,7 @@ Normative references to this spec from:
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
@@ -20503,6 +20524,7 @@ Normative references to this spec from:
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
@@ -20966,6 +20988,7 @@ Normative references to this spec from:
 - [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
 - [Image Resource](https://w3c.github.io/image-resource/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Managed Configuration API](https://wicg.github.io/WebApiDevice/managed_config/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Media Feeds](https://wicg.github.io/media-feeds/)
@@ -21186,6 +21209,7 @@ Normative references to this spec from:
 - [Linear PCM WebCodecs Registration](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [Local Font Access API](https://wicg.github.io/local-font-access/)
+- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 - [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
