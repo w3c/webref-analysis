@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-13T12:45:58.050Z",
+  "date": "2024-03-13T18:31:59.076Z",
   "stats": {
     "crawled": 616,
     "errors": 0,
@@ -112,7 +112,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -165,7 +165,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -1416,7 +1416,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1469,7 +1469,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -3495,7 +3495,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -22437,7 +22437,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "08 March 2024",
+      "date": "13 March 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -22771,7 +22771,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "20 February 2024",
+      "date": "13 March 2024",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -26301,7 +26301,7 @@
             {
               "url": "https://tc39.es/source-map-spec/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map-spec/"
+              "crawled": "https://tc39.es/source-map"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -27024,7 +27024,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -28177,7 +28177,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -32250,7 +32250,7 @@
             {
               "url": "https://tc39.es/source-map-spec/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map-spec/"
+              "crawled": "https://tc39.es/source-map"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -33809,7 +33809,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -36640,7 +36640,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -37370,7 +37370,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -39625,7 +39625,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "8 March 2024",
+      "date": "13 March 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41957,7 +41957,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "2 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42314,7 +42314,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "1 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -43677,7 +43677,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "9 March 2024",
+      "date": "11 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -47077,7 +47077,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "22 February 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -47488,7 +47488,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "1 February 2024",
+      "date": "13 March 2024",
       "url": "https://tc39.es/source-map-spec/",
       "nightly": {
         "url": "https://tc39.es/source-map-spec/",
@@ -47498,7 +47498,7 @@
         "repository": "https://github.com/tc39/source-map-spec",
         "filename": "index.html"
       },
-      "crawled": "https://tc39.es/source-map-spec/",
+      "crawled": "https://tc39.es/source-map",
       "organization": "Ecma International",
       "groups": [
         {
@@ -50454,7 +50454,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "7 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -50495,7 +50495,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/trusted-types/",
+              "title": "Trusted Types",
+              "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -50504,7 +50510,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -51523,7 +51529,7 @@
             {
               "url": "https://tc39.es/source-map-spec/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map-spec/"
+              "crawled": "https://tc39.es/source-map"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -51955,7 +51961,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "09 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -52184,7 +52190,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -52237,7 +52243,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -52290,7 +52296,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -54456,7 +54462,7 @@
             {
               "url": "https://tc39.es/source-map-spec/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map-spec/"
+              "crawled": "https://tc39.es/source-map"
             },
             {
               "url": "https://wicg.github.io/storage-buckets/",
@@ -55866,7 +55872,7 @@
             {
               "url": "https://tc39.es/source-map-spec/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map-spec/"
+              "crawled": "https://tc39.es/source-map"
             }
           ]
         },
@@ -56231,7 +56237,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -56400,7 +56406,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
