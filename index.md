@@ -945,7 +945,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
-- Crawled version: 11 March 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Shortname: rfc8878
 
@@ -8672,7 +8672,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.css-houdini.org/css-typed-om-2/](https://drafts.css-houdini.org/css-typed-om-2/)
 - Crawled URL: [https://drafts.css-houdini.org/css-typed-om-2/](https://drafts.css-houdini.org/css-typed-om-2/)
-- Crawled version: 8 February 2021
+- Crawled version: 13 March 2024
 - Editor's Draft: [https://drafts.css-houdini.org/css-typed-om-2/](https://drafts.css-houdini.org/css-typed-om-2/)
 - Shortname: css-typed-om-2
 
@@ -9611,7 +9611,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
 - Crawled URL: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
-- Crawled version: 8 February 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://drafts.csswg.org/mediaqueries-5/](https://drafts.csswg.org/mediaqueries-5/)
 - Latest published version: [https://www.w3.org/TR/mediaqueries-5/](https://www.w3.org/TR/mediaqueries-5/)
 - Shortname: mediaqueries-5
@@ -15733,7 +15733,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 13 March 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -20004,7 +20004,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 13 March 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

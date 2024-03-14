@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-14T00:46:42.074Z",
+  "date": "2024-03-14T06:35:00.037Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -19481,7 +19481,7 @@
     {
       "title": "CSS Typed OM Level 2",
       "shortname": "css-typed-om-2",
-      "date": "8 February 2021",
+      "date": "13 March 2024",
       "url": "https://drafts.css-houdini.org/css-typed-om-2/",
       "nightly": {
         "url": "https://drafts.css-houdini.org/css-typed-om-2/",
@@ -28789,7 +28789,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "13 March 2024",
+      "date": "14 March 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -35207,7 +35207,7 @@
     {
       "title": "Media Queries Level 5",
       "shortname": "mediaqueries-5",
-      "date": "8 February 2024",
+      "date": "14 March 2024",
       "url": "https://www.w3.org/TR/mediaqueries-5/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-5/",
@@ -43973,7 +43973,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "11 March 2024",
+      "date": "14 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
@@ -54994,7 +54994,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "13 March 2024",
+      "date": "14 March 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
