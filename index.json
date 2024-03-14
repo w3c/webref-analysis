@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-14T12:38:11.023Z",
+  "date": "2024-03-14T18:32:56.604Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -21022,7 +21022,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "28 February 2024",
+      "date": "14 March 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -22296,7 +22296,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "12 March 2024",
+      "date": "14 March 2024",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -27861,7 +27861,7 @@
     {
       "title": "Global Privacy Control (GPC)",
       "shortname": "gpc-spec",
-      "date": "07 March 2024",
+      "date": "14 March 2024",
       "url": "https://privacycg.github.io/gpc-spec/",
       "nightly": {
         "url": "https://privacycg.github.io/gpc-spec/",
@@ -32790,7 +32790,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "07 March 2024",
+      "date": "14 March 2024",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -38896,7 +38896,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "13 March 2024",
+      "date": "14 March 2024",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -46116,7 +46116,7 @@
     {
       "title": "Screen Wake Lock API",
       "shortname": "screen-wake-lock",
-      "date": "05 January 2024",
+      "date": "14 March 2024",
       "url": "https://www.w3.org/TR/screen-wake-lock/",
       "release": {
         "url": "https://www.w3.org/TR/screen-wake-lock/",
@@ -53154,7 +53154,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "13 March 2024",
+      "date": "14 March 2024",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",

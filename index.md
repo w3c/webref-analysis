@@ -9062,7 +9062,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 28 February 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -10210,7 +10210,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 12 March 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
 - Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Shortname: device-posture
@@ -10478,7 +10478,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Crawled URL: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
-- Crawled version: 05 January 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://w3c.github.io/screen-wake-lock/](https://w3c.github.io/screen-wake-lock/)
 - Latest published version: [https://www.w3.org/TR/screen-wake-lock/](https://www.w3.org/TR/screen-wake-lock/)
 - Shortname: screen-wake-lock
@@ -11169,7 +11169,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 07 March 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -12098,7 +12098,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 13 March 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -12166,7 +12166,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
 - Crawled URL: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
-- Crawled version: 07 March 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://privacycg.github.io/gpc-spec/](https://privacycg.github.io/gpc-spec/)
 - Shortname: gpc-spec
 
@@ -15338,7 +15338,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 13 March 2024
+- Crawled version: 14 March 2024
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
