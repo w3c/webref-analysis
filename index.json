@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-13T18:31:59.076Z",
+  "date": "2024-03-14T00:46:42.074Z",
   "stats": {
     "crawled": 616,
-    "errors": 0,
+    "errors": 1,
     "studied": 616
   },
   "results": [
@@ -654,6 +654,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 555)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7776,7 +7777,7 @@
     {
       "title": "CSS Color HDR Module Level 1",
       "shortname": "css-color-hdr",
-      "date": "27 February 2024",
+      "date": "13 March 2024",
       "url": "https://drafts.csswg.org/css-color-hdr/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-hdr/",
@@ -7995,7 +7996,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "5 March 2024",
+      "date": "8 March 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -49935,7 +49936,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53153,7 +53154,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "28 February 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -54993,7 +54994,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "12 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -58728,7 +58729,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "7 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -58802,7 +58803,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "7 March 2024",
+      "date": "13 March 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
