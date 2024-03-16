@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-15T18:32:53.203Z",
+  "date": "2024-03-16T00:45:35.305Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -958,7 +958,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "11 March 2024",
+      "date": "15 March 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -56141,7 +56141,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "29 January 2024",
+      "date": "16 March 2024",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -58729,7 +58729,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "14 March 2024",
+      "date": "15 March 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -58803,7 +58803,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "14 March 2024",
+      "date": "15 March 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
