@@ -14095,6 +14095,7 @@ Normative references to this spec from:
 
 - [Digital Credentials](https://wicg.github.io/digital-identities/)
 - [Verifiable Credential Data Integrity 1.0](https://w3c.github.io/vc-data-integrity/)
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 
 No informative reference to this spec from other specs.
 
@@ -15733,7 +15734,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 14 March 2024
+- Crawled version: 16 March 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-16T00:45:35.305Z",
+  "date": "2024-03-16T06:31:35.931Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -52018,6 +52018,11 @@
               "url": "https://www.w3.org/TR/vc-data-integrity/",
               "title": "Verifiable Credential Data Integrity 1.0",
               "crawled": "https://w3c.github.io/vc-data-integrity/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webnn/",
+              "title": "Web Neural Network API",
+              "crawled": "https://webmachinelearning.github.io/webnn/"
             }
           ],
           "informative": []
@@ -54994,7 +54999,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "14 March 2024",
+      "date": "16 March 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
