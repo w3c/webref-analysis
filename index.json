@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-16T18:32:45.739Z",
+  "date": "2024-03-17T00:46:01.768Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -2076,6 +2076,11 @@
               "crawled": "https://w3c.github.io/accname/"
             },
             {
+              "url": "https://www.w3.org/TR/compositing-1/",
+              "title": "Compositing and Blending Level 1",
+              "crawled": "https://drafts.fxtf.org/compositing-1/"
+            },
+            {
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
@@ -2119,6 +2124,11 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -2603,7 +2613,7 @@
     {
       "title": "Compositing and Blending Level 1",
       "shortname": "compositing-1",
-      "date": "7 March 2024",
+      "date": "21 March 2024",
       "url": "https://www.w3.org/TR/compositing-1/",
       "release": {
         "url": "https://www.w3.org/TR/compositing-1/",
@@ -2645,10 +2655,8 @@
         "missingLinkRef": [
           "https://dom.spec.whatwg.org/",
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-color-4/",
           "https://www.w3.org/TR/css-values/",
           "https://www.w3.org/TR/css3-background/",
-          "https://www.w3.org/TR/css3-color/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
@@ -3496,7 +3504,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "13 March 2024",
+      "date": "17 March 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -3904,11 +3912,6 @@
               "url": "https://compat.spec.whatwg.org/",
               "title": "Compatibility Standard",
               "crawled": "https://compat.spec.whatwg.org/"
-            },
-            {
-              "url": "https://www.w3.org/TR/compositing-1/",
-              "title": "Compositing and Blending Level 1",
-              "crawled": "https://drafts.fxtf.org/compositing-1/"
             },
             {
               "url": "https://www.w3.org/TR/CSS22/",
@@ -4932,6 +4935,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/compositing-1/",
+              "title": "Compositing and Blending Level 1",
+              "crawled": "https://drafts.fxtf.org/compositing-1/"
+            },
+            {
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
@@ -4965,6 +4973,11 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -5461,6 +5474,11 @@
               "url": "https://www.w3.org/TR/css-color-4/",
               "title": "CSS Color Module Level 4",
               "crawled": "https://drafts.csswg.org/css-color-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -7897,11 +7915,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/compositing-1/",
-              "title": "Compositing and Blending Level 1",
-              "crawled": "https://drafts.fxtf.org/compositing-1/"
-            },
-            {
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
@@ -8068,6 +8081,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/compositing-1/",
+              "title": "Compositing and Blending Level 1",
+              "crawled": "https://drafts.fxtf.org/compositing-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
@@ -8086,6 +8104,11 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -9689,6 +9712,11 @@
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -9939,11 +9967,6 @@
               "url": "https://www.w3.org/TR/css-logical-1/",
               "title": "CSS Logical Properties and Values Level 1",
               "crawled": "https://drafts.csswg.org/css-logical-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-masking-1/",
-              "title": "CSS Masking Module Level 1",
-              "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
               "url": "https://drafts.csswg.org/css-size-adjust-1/",
@@ -10600,7 +10623,13 @@
         ],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -13921,7 +13950,7 @@
     {
       "title": "CSS Masking Module Level 1",
       "shortname": "css-masking-1",
-      "date": "13 January 2024",
+      "date": "8 March 2024",
       "url": "https://www.w3.org/TR/css-masking-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-masking-1/",
@@ -14002,24 +14031,10 @@
             }
           },
           {
-            "link": "https://www.w3.org/TR/compositing-1/",
-            "ref": {
-              "name": "COMPOSITING-1",
-              "url": "https://drafts.fxtf.org/compositing-1/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-fonts-4/",
-            "ref": {
-              "name": "CSS-FONTS-4",
-              "url": "https://drafts.csswg.org/css-fonts-4/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS3VAL",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -17174,6 +17189,11 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -18999,6 +19019,11 @@
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-masking-1/",
+              "title": "CSS Masking Module Level 1",
+              "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -58734,7 +58759,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "15 March 2024",
+      "date": "17 March 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -58808,7 +58833,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "15 March 2024",
+      "date": "17 March 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
