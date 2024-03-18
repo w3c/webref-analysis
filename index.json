@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-17T18:31:35.762Z",
+  "date": "2024-03-18T00:45:39.403Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -25783,7 +25783,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "19 January 2024",
+      "date": "17 March 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -39684,7 +39684,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/fenced-frame/",
+              "title": "Fenced Frame",
+              "crawled": "https://wicg.github.io/fenced-frame/"
+            }
+          ],
           "informative": [
             {
               "url": "https://wicg.github.io/fenced-frame/",

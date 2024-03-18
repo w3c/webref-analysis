@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 17, 2024
+% March 18, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -17025,7 +17025,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 19 January 2024
+- Crawled version: 17 March 2024
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -17790,7 +17790,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Fenced Frame](https://wicg.github.io/fenced-frame/)
 
 Informative references to this spec from:
 
