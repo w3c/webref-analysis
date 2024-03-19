@@ -14696,6 +14696,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
 
 No informative reference to this spec from other specs.
@@ -17114,21 +17115,19 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### HTML Sanitizer API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### HTML Sanitizer API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Crawled URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
-- Crawled version: 24 November 2023
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Shortname: sanitizer-api
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/)
-     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18312,6 +18311,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 
 Informative references to this spec from:
@@ -20012,7 +20012,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 15 March 2024
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -20948,6 +20948,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 
@@ -21075,7 +21076,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
-- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [Media Source Extensions™](https://w3c.github.io/media-source/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
