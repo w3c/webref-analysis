@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-19T12:41:18.266Z",
+  "date": "2024-03-19T18:33:08.444Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -958,7 +958,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "15 March 2024",
+      "date": "19 March 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2874,7 +2874,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "06 March 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -4533,7 +4533,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "14 March 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -22374,7 +22374,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "13 March 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -25410,7 +25410,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "21 February 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25476,7 +25476,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "21 February 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -36009,7 +36009,7 @@
     {
       "title": "MIME Sniffing Standard",
       "shortname": "mimesniff",
-      "date": "24 January 2024",
+      "date": "19 March 2024",
       "url": "https://mimesniff.spec.whatwg.org/",
       "nightly": {
         "url": "https://mimesniff.spec.whatwg.org/",
@@ -38148,7 +38148,7 @@
     {
       "title": "Permissions",
       "shortname": "permissions",
-      "date": "08 March 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/permissions/",
       "release": {
         "url": "https://www.w3.org/TR/permissions/",
@@ -41037,7 +41037,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "11 March 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -44388,11 +44388,6 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
-            },
-            {
-              "url": "https://mimesniff.spec.whatwg.org/",
-              "title": "MIME Sniffing Standard",
-              "crawled": "https://mimesniff.spec.whatwg.org/"
             }
           ],
           "informative": [
@@ -55639,7 +55634,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-gc",
-      "date": "6 March 2024",
+      "date": "19 March 2024",
       "url": "https://webassembly.github.io/gc/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/gc/core/bikeshed/",
