@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-19T18:33:08.444Z",
+  "date": "2024-03-20T00:46:56.027Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -8632,7 +8632,7 @@
     {
       "title": "CSS Conditional Rules Module Level 4",
       "shortname": "css-conditional-4",
-      "date": "28 August 2023",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/css-conditional-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-4/",
@@ -10891,7 +10891,7 @@
     {
       "title": "CSS Font Loading Module Level 3",
       "shortname": "css-font-loading-3",
-      "date": "2 October 2023",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/css-font-loading-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-font-loading-3/",
@@ -12653,7 +12653,7 @@
     {
       "title": "CSS Images Module Level 3",
       "shortname": "css-images-3",
-      "date": "18 December 2023",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/css-images-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-3/",
@@ -12919,7 +12919,7 @@
     {
       "title": "CSS Images Module Level 4",
       "shortname": "css-images-4",
-      "date": "8 March 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/css-images-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-images-4/",
@@ -16896,6 +16896,11 @@
               "crawled": "https://drafts.csswg.org/css-scroll-anchoring-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "title": "CSS Scroll Snap Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
@@ -16904,6 +16909,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
               "url": "https://www.w3.org/TR/scroll-animations-1/",
@@ -16930,7 +16940,7 @@
     {
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
-      "date": "25 January 2024",
+      "date": "19 March 2024",
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
@@ -22007,7 +22017,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "30 January 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -25343,7 +25353,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "23 February 2024",
+      "date": "19 March 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -42029,7 +42039,7 @@
     {
       "title": "RFC 6265 - HTTP State Management Mechanism",
       "shortname": "rfc6265",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6265",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6265.html",
@@ -42216,7 +42226,7 @@
     {
       "title": "RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)",
       "shortname": "rfc6266",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6266",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6266.html",
@@ -42603,7 +42613,7 @@
     {
       "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
       "shortname": "rfc7230",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7230",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7230.html",
@@ -42760,7 +42770,7 @@
     {
       "title": "RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
       "shortname": "rfc7231",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7231",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7231.html",
@@ -42932,7 +42942,7 @@
     {
       "title": "RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
       "shortname": "rfc7232",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7232",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7232.html",
@@ -43019,7 +43029,7 @@
     {
       "title": "RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests",
       "shortname": "rfc7233",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7233",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7233.html",
@@ -43091,7 +43101,7 @@
     {
       "title": "RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching",
       "shortname": "rfc7234",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7234",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7234.html",
@@ -43233,7 +43243,7 @@
     {
       "title": "RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication",
       "shortname": "rfc7235",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7235",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7235.html",
@@ -43487,7 +43497,7 @@
     {
       "title": "RFC 7616 - HTTP Digest Access Authentication",
       "shortname": "rfc7616",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7616",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7616.html",
@@ -43543,7 +43553,7 @@
     {
       "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
       "shortname": "rfc7617",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7617",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7617.html",
@@ -43599,7 +43609,7 @@
     {
       "title": "RFC 7725 - An HTTP Status Code to Report Legal Obstacles",
       "shortname": "rfc7725",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7725",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7725.html",
@@ -43644,7 +43654,7 @@
     {
       "title": "RFC 7838 - HTTP Alternative Services",
       "shortname": "rfc7838",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7838",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7838.html",
@@ -43755,7 +43765,7 @@
     {
       "title": "RFC 8246 - HTTP Immutable Responses",
       "shortname": "rfc8246",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8246",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8246.html",
@@ -43806,7 +43816,7 @@
     {
       "title": "RFC 8288 - Web Linking",
       "shortname": "rfc8288",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8288",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8288.html",
@@ -43888,7 +43898,7 @@
     {
       "title": "RFC 8297 - An HTTP Status Code for Indicating Hints",
       "shortname": "rfc8297",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8297",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8297.html",
@@ -43939,7 +43949,7 @@
     {
       "title": "RFC 8470 - Using Early Data in HTTP",
       "shortname": "rfc8470",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8470",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8470.html",
@@ -44103,7 +44113,7 @@
     {
       "title": "RFC 9110 - HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9110.html",
@@ -44270,7 +44280,7 @@
     {
       "title": "RFC 9111 - HTTP Caching",
       "shortname": "rfc9111",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9111.html",
@@ -44347,7 +44357,7 @@
     {
       "title": "RFC 9112 - HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9112.html",
@@ -44429,7 +44439,7 @@
     {
       "title": "RFC 9113 - HTTP/2",
       "shortname": "rfc9113",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9113.html",
@@ -44490,7 +44500,7 @@
     {
       "title": "RFC 9114 - HTTP/3",
       "shortname": "rfc9114",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9114.html",
@@ -44603,7 +44613,7 @@
     {
       "title": "RFC 9530 - Digest Fields",
       "shortname": "rfc9530",
-      "date": "26 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9530",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9530.html",
@@ -50671,11 +50681,6 @@
               "crawled": "https://drafts.csswg.org/css-regions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
-              "title": "CSS Scroll Snap Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-nav-1/",
               "title": "CSS Spatial Navigation Level 1",
               "crawled": "https://drafts.csswg.org/css-nav-1/"
@@ -50942,7 +50947,7 @@
     {
       "title": "Uint8Array to/from base64",
       "shortname": "tc39-arraybuffer-base64",
-      "date": "21 February 2024",
+      "date": "19 March 2024",
       "url": "https://tc39.es/proposal-arraybuffer-base64/spec/",
       "nightly": {
         "url": "https://tc39.es/proposal-arraybuffer-base64/spec/",

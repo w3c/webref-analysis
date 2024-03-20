@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% March 19, 2024
+% March 20, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -785,7 +785,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-arraybuffer-base64/spec/](https://tc39.es/proposal-arraybuffer-base64/spec/)
 - Crawled URL: [https://tc39.es/proposal-arraybuffer-base64/spec/](https://tc39.es/proposal-arraybuffer-base64/spec/)
-- Crawled version: 21 February 2024
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://tc39.es/proposal-arraybuffer-base64/spec/](https://tc39.es/proposal-arraybuffer-base64/spec/)
 - Shortname: tc39-arraybuffer-base64
 
@@ -915,7 +915,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8288](https://www.rfc-editor.org/rfc/rfc8288)
 - Crawled URL: [https://httpwg.org/specs/rfc8288.html](https://httpwg.org/specs/rfc8288.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc8288.html](https://httpwg.org/specs/rfc8288.html)
 - Shortname: rfc8288
 
@@ -1019,7 +1019,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6265](https://www.rfc-editor.org/rfc/rfc6265)
 - Crawled URL: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
 - Shortname: rfc6265
 
@@ -1097,7 +1097,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6266](https://www.rfc-editor.org/rfc/rfc6266)
 - Crawled URL: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
 - Shortname: rfc6266
 
@@ -1122,7 +1122,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7230](https://www.rfc-editor.org/rfc/rfc7230)
 - Crawled URL: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
 - Shortname: rfc7230
 
@@ -1167,7 +1167,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7231](https://www.rfc-editor.org/rfc/rfc7231)
 - Crawled URL: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
 - Shortname: rfc7231
 
@@ -1215,7 +1215,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7232](https://www.rfc-editor.org/rfc/rfc7232)
 - Crawled URL: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
 - Shortname: rfc7232
 
@@ -1246,7 +1246,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7233](https://www.rfc-editor.org/rfc/rfc7233)
 - Crawled URL: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
 - Shortname: rfc7233
 
@@ -1274,7 +1274,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7234](https://www.rfc-editor.org/rfc/rfc7234)
 - Crawled URL: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
 - Shortname: rfc7234
 
@@ -1316,7 +1316,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7235](https://www.rfc-editor.org/rfc/rfc7235)
 - Crawled URL: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
 - Shortname: rfc7235
 
@@ -1346,7 +1346,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
 - Crawled URL: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
 - Shortname: rfc7725
 
@@ -1367,7 +1367,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
 - Crawled URL: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
 - Shortname: rfc7838
 
@@ -1393,7 +1393,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
 - Crawled URL: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
 - Shortname: rfc8246
 
@@ -1416,7 +1416,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8297](https://www.rfc-editor.org/rfc/rfc8297)
 - Crawled URL: [https://httpwg.org/specs/rfc8297.html](https://httpwg.org/specs/rfc8297.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc8297.html](https://httpwg.org/specs/rfc8297.html)
 - Shortname: rfc8297
 
@@ -1439,7 +1439,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
 - Crawled URL: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
 - Shortname: rfc8470
 
@@ -1490,7 +1490,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Crawled URL: [https://httpwg.org/specs/rfc9110.html](https://httpwg.org/specs/rfc9110.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9110.html](https://httpwg.org/specs/rfc9110.html)
 - Shortname: rfc9110
 
@@ -1537,7 +1537,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://httpwg.org/specs/rfc9111.html](https://httpwg.org/specs/rfc9111.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9111.html](https://httpwg.org/specs/rfc9111.html)
 - Shortname: rfc9111
 
@@ -1566,7 +1566,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://httpwg.org/specs/rfc9112.html](https://httpwg.org/specs/rfc9112.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9112.html](https://httpwg.org/specs/rfc9112.html)
 - Shortname: rfc9112
 
@@ -1596,7 +1596,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://httpwg.org/specs/rfc9113.html](https://httpwg.org/specs/rfc9113.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9113.html](https://httpwg.org/specs/rfc9113.html)
 - Shortname: rfc9113
 
@@ -1644,7 +1644,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9530](https://www.rfc-editor.org/rfc/rfc9530)
 - Crawled URL: [https://httpwg.org/specs/rfc9530.html](https://httpwg.org/specs/rfc9530.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9530.html](https://httpwg.org/specs/rfc9530.html)
 - Shortname: rfc9530
 
@@ -1667,7 +1667,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7616](https://www.rfc-editor.org/rfc/rfc7616)
 - Crawled URL: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
 - Shortname: rfc7616
 
@@ -1691,7 +1691,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7617](https://www.rfc-editor.org/rfc/rfc7617)
 - Crawled URL: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
 - Shortname: rfc7617
 
@@ -1820,7 +1820,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://httpwg.org/specs/rfc9114.html](https://httpwg.org/specs/rfc9114.html)
-- Crawled version: 26 February 2024
+- Crawled version: 20 March 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9114.html](https://httpwg.org/specs/rfc9114.html)
 - Shortname: rfc9114
 
@@ -5135,7 +5135,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-4/](https://www.w3.org/TR/css-conditional-4/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-4/](https://drafts.csswg.org/css-conditional-4/)
-- Crawled version: 28 August 2023
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-4/](https://drafts.csswg.org/css-conditional-4/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-4/](https://www.w3.org/TR/css-conditional-4/)
 - Shortname: css-conditional-4
@@ -5877,7 +5877,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-font-loading-3/](https://www.w3.org/TR/css-font-loading-3/)
 - Crawled URL: [https://drafts.csswg.org/css-font-loading-3/](https://drafts.csswg.org/css-font-loading-3/)
-- Crawled version: 2 October 2023
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-font-loading-3/](https://drafts.csswg.org/css-font-loading-3/)
 - Latest published version: [https://www.w3.org/TR/css-font-loading-3/](https://www.w3.org/TR/css-font-loading-3/)
 - Shortname: css-font-loading-3
@@ -6437,7 +6437,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
 - Crawled URL: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
-- Crawled version: 18 December 2023
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-images-3/](https://drafts.csswg.org/css-images-3/)
 - Latest published version: [https://www.w3.org/TR/css-images-3/](https://www.w3.org/TR/css-images-3/)
 - Shortname: css-images-3
@@ -6510,7 +6510,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Crawled URL: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
-- Crawled version: 8 March 2024
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-images-4/](https://drafts.csswg.org/css-images-4/)
 - Latest published version: [https://www.w3.org/TR/css-images-4/](https://www.w3.org/TR/css-images-4/)
 - Shortname: css-images-4
@@ -7793,8 +7793,10 @@ Normative references to this spec from:
 - [CSS Logical Properties and Values Level 1](https://drafts.csswg.org/css-logical-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 
 Informative references to this spec from:
@@ -7809,7 +7811,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Crawled URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
-- Crawled version: 25 January 2024
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Shortname: css-scroll-snap-2
 
@@ -9345,7 +9347,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Crawled URL: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
-- Crawled version: 30 January 2024
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
 - Latest published version: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Shortname: cssom-view-1
@@ -10646,7 +10648,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Crawled URL: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
-- Crawled version: 23 February 2024
+- Crawled version: 19 March 2024
 - Editor's Draft: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
 - Latest published version: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Shortname: encrypted-media
@@ -15126,7 +15128,6 @@ Normative references to this spec from:
 
 - [Captured Mouse Events](https://screen-share.github.io/captured-mouse-events/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
-- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
