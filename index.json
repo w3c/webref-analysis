@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-20T18:32:14.288Z",
+  "date": "2024-03-21T00:47:26.599Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -3504,7 +3504,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "20 March 2024",
+      "date": "21 March 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -4667,7 +4667,7 @@
     {
       "title": "CSS Animations Level 1",
       "shortname": "css-animations-1",
-      "date": "2 June 2023",
+      "date": "8 December 2023",
       "url": "https://www.w3.org/TR/css-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-animations-1/",
@@ -10985,7 +10985,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "22 February 2024",
+      "date": "8 December 2023",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -14498,7 +14498,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "25 February 2024",
+      "date": "8 December 2023",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -17077,7 +17077,7 @@
     {
       "title": "CSS Shadow Parts",
       "shortname": "css-shadow-parts-1",
-      "date": "15 September 2020",
+      "date": "20 March 2024",
       "url": "https://www.w3.org/TR/css-shadow-parts-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-shadow-parts-1/",
@@ -20994,7 +20994,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "14 February 2024",
+      "date": "20 March 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -22479,7 +22479,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "13 March 2024",
+      "date": "20 March 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -24279,7 +24279,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "24 November 2023",
+      "date": "20 March 2024",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -24390,7 +24390,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "18 March 2024",
+      "date": "20 March 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
