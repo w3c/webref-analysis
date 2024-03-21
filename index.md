@@ -1465,7 +1465,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 18 March 2024
+- Crawled version: 21 March 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -3554,7 +3554,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 20 March 2024
+- Crawled version: 21 March 2024
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -7839,7 +7839,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
 - Crawled URL: [https://drafts.csswg.org/css-scrollbars-1/](https://drafts.csswg.org/css-scrollbars-1/)
-- Crawled version: 26 January 2024
+- Crawled version: 21 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-scrollbars-1/](https://drafts.csswg.org/css-scrollbars-1/)
 - Latest published version: [https://www.w3.org/TR/css-scrollbars-1/](https://www.w3.org/TR/css-scrollbars-1/)
 - Shortname: css-scrollbars-1
