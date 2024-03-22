@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-21T18:33:37.744Z",
+  "date": "2024-03-22T00:45:47.902Z",
   "stats": {
     "crawled": 616,
-    "errors": 44,
+    "errors": 1,
     "studied": 616
   },
   "results": [
@@ -24279,7 +24279,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "20 March 2024",
+      "date": "21 March 2024",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -34375,7 +34375,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "10 January 2024",
+      "date": "21 March 2024",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -39664,7 +39664,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "18 March 2024",
+      "date": "21 March 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -40167,7 +40167,7 @@
     {
       "title": "RDF 1.2 N-Quads",
       "shortname": "rdf12-n-quads",
-      "date": "21 December 2023",
+      "date": "21 March 2024",
       "url": "https://www.w3.org/TR/rdf12-n-quads/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-quads/",
@@ -40256,7 +40256,7 @@
     {
       "title": "RDF 1.2 N-Triples",
       "shortname": "rdf12-n-triples",
-      "date": "21 December 2023",
+      "date": "21 March 2024",
       "url": "https://www.w3.org/TR/rdf12-n-triples/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-n-triples/",
@@ -56931,7 +56931,7 @@
     {
       "title": "WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification",
       "shortname": "ANGLE_instanced_arrays",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
@@ -56950,7 +56950,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 66)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -56974,7 +56973,7 @@
     {
       "title": "WebGL EXT_blend_minmax Khronos Ratified Extension Specification",
       "shortname": "EXT_blend_minmax",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
@@ -56993,7 +56992,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 67)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57017,7 +57015,7 @@
     {
       "title": "WebGL EXT_color_buffer_float Extension Specification",
       "shortname": "EXT_color_buffer_float",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
@@ -57036,7 +57034,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 68)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57060,7 +57057,7 @@
     {
       "title": "WebGL EXT_color_buffer_half_float Extension Specification",
       "shortname": "EXT_color_buffer_half_float",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
@@ -57079,7 +57076,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 69)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57103,7 +57099,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query Extension Specification",
       "shortname": "EXT_disjoint_timer_query",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
@@ -57122,7 +57118,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 71)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57146,7 +57141,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query_webgl2 Extension Specification",
       "shortname": "EXT_disjoint_timer_query_webgl2",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -57165,7 +57160,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 70)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57189,7 +57183,7 @@
     {
       "title": "WebGL EXT_float_blend Extension Specification",
       "shortname": "EXT_float_blend",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
@@ -57208,7 +57202,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_float_blend/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 72)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57232,7 +57225,7 @@
     {
       "title": "WebGL EXT_frag_depth Khronos Ratified Extension Specification",
       "shortname": "EXT_frag_depth",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
@@ -57251,7 +57244,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_frag_depth/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 73)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57275,7 +57267,7 @@
     {
       "title": "WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification",
       "shortname": "EXT_shader_texture_lod",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
@@ -57294,7 +57286,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 74)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57318,7 +57309,7 @@
     {
       "title": "WebGL EXT_sRGB Extension Specification",
       "shortname": "EXT_sRGB",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
@@ -57337,7 +57328,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_sRGB/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 75)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57361,7 +57351,7 @@
     {
       "title": "WebGL EXT_texture_compression_bptc Extension Specification",
       "shortname": "EXT_texture_compression_bptc",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
@@ -57380,7 +57370,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 76)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57404,7 +57393,7 @@
     {
       "title": "WebGL EXT_texture_compression_rgtc Extension Specification",
       "shortname": "EXT_texture_compression_rgtc",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
@@ -57423,7 +57412,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 77)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57447,7 +57435,7 @@
     {
       "title": "WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification",
       "shortname": "EXT_texture_filter_anisotropic",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -57466,7 +57454,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 78)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57490,7 +57477,7 @@
     {
       "title": "WebGL EXT_texture_norm16 Extension Specification",
       "shortname": "EXT_texture_norm16",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
@@ -57509,7 +57496,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 79)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57533,7 +57519,7 @@
     {
       "title": "WebGL KHR_parallel_shader_compile Extension Specification",
       "shortname": "KHR_parallel_shader_compile",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
@@ -57552,7 +57538,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 80)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57576,7 +57561,7 @@
     {
       "title": "WebGL OES_draw_buffers_indexed Extension Specification",
       "shortname": "OES_draw_buffers_indexed",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
@@ -57595,7 +57580,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 81)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57619,7 +57603,7 @@
     {
       "title": "WebGL OES_element_index_uint Khronos Ratified Extension Specification",
       "shortname": "OES_element_index_uint",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
@@ -57638,7 +57622,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_element_index_uint/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 82)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57662,7 +57645,7 @@
     {
       "title": "WebGL OES_fbo_render_mipmap Extension Specification",
       "shortname": "OES_fbo_render_mipmap",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
@@ -57681,7 +57664,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 83)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57705,7 +57687,7 @@
     {
       "title": "WebGL OES_standard_derivatives Khronos Ratified Extension Specification",
       "shortname": "OES_standard_derivatives",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
@@ -57724,7 +57706,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 84)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57748,7 +57729,7 @@
     {
       "title": "WebGL OES_texture_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
@@ -57767,7 +57748,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_texture_float/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 86)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57791,7 +57771,7 @@
     {
       "title": "WebGL OES_texture_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float_linear",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
@@ -57810,7 +57790,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 85)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57834,7 +57813,7 @@
     {
       "title": "WebGL OES_texture_half_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
@@ -57853,7 +57832,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_texture_half_float/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 88)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57877,7 +57855,7 @@
     {
       "title": "WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float_linear",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
@@ -57896,7 +57874,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 87)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57920,7 +57897,7 @@
     {
       "title": "WebGL OES_vertex_array_object Khronos Ratified Extension Specification",
       "shortname": "OES_vertex_array_object",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
@@ -57939,7 +57916,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 89)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -57963,7 +57939,7 @@
     {
       "title": "WebGL OVR_multiview2 Extension Specification",
       "shortname": "OVR_multiview2",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
@@ -57982,7 +57958,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OVR_multiview2/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 90)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58047,7 +58022,7 @@
     {
       "title": "WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification",
       "shortname": "WEBGL_blend_equation_advanced_coherent",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -58066,7 +58041,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 91)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58090,7 +58064,7 @@
     {
       "title": "WebGL WEBGL_clip_cull_distance Extension Specification",
       "shortname": "WEBGL_clip_cull_distance",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
@@ -58109,7 +58083,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 92)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58133,7 +58106,7 @@
     {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
@@ -58152,7 +58125,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 93)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58176,7 +58148,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_astc Extension Specification",
       "shortname": "WEBGL_compressed_texture_astc",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
@@ -58195,7 +58167,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 94)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58219,7 +58190,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
@@ -58238,7 +58209,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 95)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58262,7 +58232,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc1 Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc1",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
@@ -58281,7 +58251,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 96)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58305,7 +58274,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_pvrtc Extension Specification",
       "shortname": "WEBGL_compressed_texture_pvrtc",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
@@ -58324,7 +58293,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 97)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58348,7 +58316,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
@@ -58367,7 +58335,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 99)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58391,7 +58358,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc_srgb",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
@@ -58410,7 +58377,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 98)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58434,7 +58400,7 @@
     {
       "title": "WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_renderer_info",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
@@ -58453,7 +58419,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 100)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58477,7 +58442,7 @@
     {
       "title": "WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_shaders",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
@@ -58496,7 +58461,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 101)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58520,7 +58484,7 @@
     {
       "title": "WebGL WEBGL_depth_texture Khronos Ratified Extension Specification",
       "shortname": "WEBGL_depth_texture",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
@@ -58539,7 +58503,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 102)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58563,7 +58526,7 @@
     {
       "title": "WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification",
       "shortname": "WEBGL_draw_buffers",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
@@ -58582,7 +58545,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 103)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58606,7 +58568,7 @@
     {
       "title": "WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_draw_instanced_base_vertex_base_instance",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -58625,7 +58587,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 104)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58649,7 +58610,7 @@
     {
       "title": "WebGL WEBGL_lose_context Khronos Ratified Extension Specification",
       "shortname": "WEBGL_lose_context",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
@@ -58668,7 +58629,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 105)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58692,7 +58652,7 @@
     {
       "title": "WebGL WEBGL_multi_draw Extension Specification",
       "shortname": "WEBGL_multi_draw",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
@@ -58711,7 +58671,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 107)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58735,7 +58694,7 @@
     {
       "title": "WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_multi_draw_instanced_base_vertex_base_instance",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -58754,7 +58713,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 106)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -58778,7 +58736,7 @@
     {
       "title": "WebGL WEBGL_provoking_vertex Extension Specification",
       "shortname": "WEBGL_provoking_vertex",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
@@ -58797,7 +58755,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/ triggered HTTP status 403\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 108)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
