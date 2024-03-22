@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-22T12:37:50.543Z",
+  "date": "2024-03-22T18:32:57.109Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -958,7 +958,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "21 March 2024",
+      "date": "22 March 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -4901,7 +4901,6 @@
           "https://www.w3.org/TR/2014/WD-css3-background-20140204/",
           "https://www.w3.org/TR/css-break/",
           "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-color-4/",
           "https://www.w3.org/TR/css-images/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css3-images/",
@@ -4915,6 +4914,13 @@
             "ref": {
               "name": "CSS-BOX-3",
               "url": "https://drafts.csswg.org/css-box-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-color-4/",
+            "ref": {
+              "name": "CSS-COLOR-4",
+              "url": "https://drafts.csswg.org/css-color-4/"
             }
           },
           {
@@ -8086,9 +8092,59 @@
               "crawled": "https://drafts.fxtf.org/compositing-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-backgrounds-3/",
+              "title": "CSS Backgrounds and Borders Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-ui-4/",
+              "title": "CSS Basic User Interface Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-borders-4/",
+              "title": "CSS Borders and Box Decorations Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-borders-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-4/",
+              "title": "CSS Cascading and Inheritance Level 4",
+              "crawled": "https://drafts.csswg.org/css-cascade-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-cascade-5/",
+              "title": "CSS Cascading and Inheritance Level 5",
+              "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-adjust-1/",
+              "title": "CSS Color Adjustment Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-color-adjust-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-color-hdr/",
+              "title": "CSS Color HDR Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-color-hdr/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-color-5/",
+              "title": "CSS Color Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-color-5/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-color-6/",
+              "title": "CSS Color Module Level 6",
+              "crawled": "https://drafts.csswg.org/css-color-6/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -8101,6 +8157,16 @@
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-forms-1/",
+              "title": "CSS Form Styling Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-forms-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-3/",
+              "title": "CSS Images Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-images-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -8109,6 +8175,26 @@
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nesting-1/",
+              "title": "CSS Nesting Module",
+              "crawled": "https://drafts.csswg.org/css-nesting-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-1/",
+              "title": "CSS Object Model (CSSOM)",
+              "crawled": "https://drafts.csswg.org/cssom-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-pseudo-4/",
+              "title": "CSS Pseudo-Elements Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-pseudo-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-shapes-1/",
+              "title": "CSS Shapes Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-shapes-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -8121,9 +8207,44 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
+              "url": "https://www.w3.org/TR/css-tables-3/",
+              "title": "CSS Table Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-tables-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-decor-4/",
+              "title": "CSS Text Decoration Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-text-decor-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transforms-2/",
+              "title": "CSS Transforms Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-transforms-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transitions-1/",
+              "title": "CSS Transitions Level 1",
+              "crawled": "https://drafts.csswg.org/css-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-4/",
+              "title": "CSS Values and Units Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view-1/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -8136,6 +8257,11 @@
               "crawled": "https://w3c.github.io/miniapp-manifest/"
             },
             {
+              "url": "https://www.w3.org/TR/web-animations-1/",
+              "title": "Web Animations",
+              "crawled": "https://drafts.csswg.org/web-animations-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -8146,6 +8272,61 @@
               "url": "https://drafts.fxtf.org/compositing-2/",
               "title": "Compositing and Blending Level 2",
               "crawled": "https://drafts.fxtf.org/compositing-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-3/",
+              "title": "CSS Conditional Rules Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-variables-1/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-variables-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-variables-2/",
+              "title": "CSS Custom Properties for Cascading Variables Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-link-params-1/",
+              "title": "CSS Linked Parameters",
+              "crawled": "https://drafts.csswg.org/css-link-params-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-lists-3/",
+              "title": "CSS Lists and Counters Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-position-4/",
+              "title": "CSS Positioned Layout Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-position-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-syntax-3/",
+              "title": "CSS Syntax Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-syntax-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-text-decor-3/",
+              "title": "CSS Text Decoration Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-text-decor-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-transitions-2/",
+              "title": "CSS Transitions Level 2",
+              "crawled": "https://drafts.csswg.org/css-transitions-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-will-change-1/",
+              "title": "CSS Will Change Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-will-change-1/"
             },
             {
               "url": "https://www.w3.org/TR/SVG2/",
@@ -21063,7 +21244,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "15 March 2024",
+      "date": "22 March 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -22390,7 +22571,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "19 March 2024",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -24279,7 +24460,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "21 March 2024",
+      "date": "22 March 2024",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
@@ -27902,7 +28083,7 @@
     {
       "title": "Global Privacy Control (GPC)",
       "shortname": "gpc-spec",
-      "date": "21 March 2024",
+      "date": "22 March 2024",
       "url": "https://privacycg.github.io/gpc-spec/",
       "nightly": {
         "url": "https://privacycg.github.io/gpc-spec/",
@@ -39664,7 +39845,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "21 March 2024",
+      "date": "22 March 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41353,7 +41534,7 @@
     {
       "title": "Remote Playback API",
       "shortname": "remote-playback",
-      "date": "29 September 2022",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/remote-playback/",
       "release": {
         "url": "https://www.w3.org/TR/remote-playback/",
@@ -49975,7 +50156,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "20 March 2024",
+      "date": "22 March 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -52480,6 +52661,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "DeviceOrientation Event Specification",
+              "crawled": "https://w3c.github.io/deviceorientation/"
+            },
             {
               "url": "https://www.w3.org/TR/epub-rs-33/",
               "title": "EPUB Reading Systems 3.3",
@@ -55923,6 +56109,11 @@
               "url": "https://tc39.es/source-map-spec/",
               "title": "Source Map",
               "crawled": "https://tc39.es/source-map"
+            },
+            {
+              "url": "https://www.w3.org/TR/WGSL/",
+              "title": "WebGPU Shading Language",
+              "crawled": "https://gpuweb.github.io/gpuweb/wgsl/"
             }
           ]
         },
@@ -58778,7 +58969,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "17 March 2024",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -58852,7 +59043,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "17 March 2024",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
