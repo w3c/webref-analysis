@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-22T18:32:57.109Z",
+  "date": "2024-03-23T00:46:34.710Z",
   "stats": {
     "crawled": 616,
     "errors": 1,
@@ -5359,11 +5359,6 @@
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-values-3/",
-              "title": "CSS Values and Units Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-values-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -5394,6 +5389,11 @@
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-4/",
@@ -5617,7 +5617,7 @@
     {
       "title": "CSS Box Model Module Level 3",
       "shortname": "css-box-3",
-      "date": "10 November 2023",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/css-box-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-3/",
@@ -5732,7 +5732,7 @@
     {
       "title": "CSS Box Model Module Level 4",
       "shortname": "css-box-4",
-      "date": "11 March 2024",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/css-box-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-4/",
@@ -5772,7 +5772,6 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/2018/WD-css3-box-20180731/",
           "https://www.w3.org/TR/css-box-3/",
-          "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-display/",
           "https://www.w3.org/TR/css-flexbox/",
@@ -5783,6 +5782,13 @@
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-break-4/",
+            "ref": {
+              "name": "CSS-BREAK-4",
+              "url": "https://drafts.csswg.org/css-break-4/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-values-3/",
             "ref": {
@@ -17631,6 +17637,11 @@
               "crawled": "https://drafts.csswg.org/css-backgrounds-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
@@ -19745,7 +19756,7 @@
     {
       "title": "CSS Values and Units Module Level 3",
       "shortname": "css-values-3",
-      "date": "18 December 2023",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/css-values-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-3/",
@@ -20284,7 +20295,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "12 March 2024",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -21028,6 +21039,11 @@
               "crawled": "https://drafts.csswg.org/css-highlight-api-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-values-3/",
+              "title": "CSS Values and Units Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-values-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/resource-timing/",
               "title": "Resource Timing",
               "crawled": "https://w3c.github.io/resource-timing/"
@@ -21175,7 +21191,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "20 March 2024",
+      "date": "23 March 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -22518,7 +22534,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "15 March 2024",
+      "date": "22 March 2024",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -23320,16 +23336,6 @@
               "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-box-4/",
-              "title": "CSS Box Model Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-box-4/"
             },
             {
               "url": "https://www.w3.org/TR/css-cascade-4/",
@@ -56938,6 +56944,11 @@
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
+            {
+              "url": "https://www.w3.org/TR/device-posture/",
+              "title": "Device Posture API",
+              "crawled": "https://w3c.github.io/device-posture/"
             },
             {
               "url": "https://www.w3.org/TR/orientation-event/",

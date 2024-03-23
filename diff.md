@@ -1,14 +1,14 @@
-% Diff between report from "March 22, 2024" and reference report from "March 22, 2024"
+% Diff between report from "March 23, 2024" and reference report from "March 22, 2024"
 % Strudy
-% March 22, 2024
+% March 23, 2024
 
-## CSS Backgrounds and Borders Module Level 3
+## CSS Box Model Module Level 4
 
-- Initial URL: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
+- Initial URL: [https://www.w3.org/TR/css-box-4/](https://www.w3.org/TR/css-box-4/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
-- Missing references for links: *DEL* https://www.w3.org/TR/css-color-4/
-- Inconsistent references for links: *INS* https://www.w3.org/TR/css-color-4/
+- Editor's Draft: [https://drafts.csswg.org/css-box-4/](https://drafts.csswg.org/css-box-4/)
+- Missing references for links: *DEL* https://www.w3.org/TR/css-break-3/
+- Inconsistent references for links: *INS* https://www.w3.org/TR/css-break-4/
 
 
 
