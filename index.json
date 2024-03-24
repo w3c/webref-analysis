@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-24T12:38:28.493Z",
+  "date": "2024-03-24T18:32:08.842Z",
   "stats": {
     "crawled": 616,
-    "errors": 1,
+    "errors": 2,
     "studied": 616
   },
   "results": [
@@ -34149,6 +34149,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://wicg.github.io/local-font-access/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 211)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -34177,7 +34178,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {

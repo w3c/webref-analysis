@@ -22,8 +22,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
     path: '/tmp/reffy-cache/w3c.github.io!aria.headers'
   }
 }`
+- [Local Font Access API](https://wicg.github.io/local-font-access/): `Error: Loading https://wicg.github.io/local-font-access/ triggered HTTP status 503
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 211)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 
-=> 1 specification found
+=> 2 specifications found
 
 
 ## Specifications without normative dependencies
