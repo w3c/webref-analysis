@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-25T12:38:02.322Z",
+  "date": "2024-03-25T18:33:12.124Z",
   "stats": {
     "crawled": 616,
     "errors": 2,
@@ -8251,6 +8251,11 @@
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
+            },
+            {
+              "url": "https://fedidcg.github.io/FedCM/",
+              "title": "Federated Credential Management API",
+              "crawled": "https://fedidcg.github.io/FedCM/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -21260,7 +21265,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "22 March 2024",
+      "date": "25 March 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -22534,7 +22539,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "22 March 2024",
+      "date": "25 March 2024",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -25936,7 +25941,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "28 February 2024",
+      "date": "25 March 2024",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -26123,7 +26128,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "24 January 2024",
+      "date": "25 March 2024",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -36213,7 +36218,7 @@
     {
       "title": "MIME Sniffing Standard",
       "shortname": "mimesniff",
-      "date": "19 March 2024",
+      "date": "25 March 2024",
       "url": "https://mimesniff.spec.whatwg.org/",
       "nightly": {
         "url": "https://mimesniff.spec.whatwg.org/",
@@ -53295,7 +53300,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "11 March 2024",
+      "date": "25 March 2024",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -55239,7 +55244,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "22 March 2024",
+      "date": "25 March 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -55708,7 +55713,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-branch-hinting",
-      "date": "29 February 2024",
+      "date": "25 March 2024",
       "url": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
