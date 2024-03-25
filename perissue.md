@@ -1973,6 +1973,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [SVG Integration](https://svgwg.org/specs/integration/) links to [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/) but related reference "HTML5" uses URL [`https://www.w3.org/TR/2014/CR-html5-20140204/`](https://www.w3.org/TR/2014/CR-html5-20140204/)
 - [Topics API](https://patcg-individual-drafts.github.io/topics/) links to [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/) but related reference "PERMISSIONS-POLICY-1" uses URL [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/)
 - [Tracking Preference Expression (DNT)](https://w3c.github.io/dnt/drafts/tracking-dnt.html) links to [`https://www.w3.org/TR/html5/single-page.html`](https://www.w3.org/TR/html5/single-page.html) but related reference "HTML51" uses URL [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/) links to [`https://www.w3.org/TR/trusted-types/`](https://www.w3.org/TR/trusted-types/) but related reference "TRUSTED-TYPES" uses URL [`https://w3c.github.io/trusted-types/dist/spec/`](https://w3c.github.io/trusted-types/dist/spec/)
 - [UI Events](https://w3c.github.io/uievents/) links to:
     * [`http://www.w3.org/TR/uievents-code/`](http://www.w3.org/TR/uievents-code/) but related reference "UIEvents-Code" uses URL [`https://w3c.github.io/uievents-code/`](https://w3c.github.io/uievents-code/)
     * [`http://www.w3.org/TR/uievents-key/`](http://www.w3.org/TR/uievents-key/) but related reference "UIEvents-Key" uses URL [`https://w3c.github.io/uievents-key/`](https://w3c.github.io/uievents-key/)
@@ -2024,7 +2025,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 476 inconsistent references for links found in 182 specifications
+=> 477 inconsistent references for links found in 183 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 

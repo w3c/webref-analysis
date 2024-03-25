@@ -14718,13 +14718,13 @@ Informative references to this spec from:
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 
 
-### Trusted Types {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Trusted Types {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Crawled URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
-- Crawled version: 13 March 2024
+- Crawled version: 25 March 2024
 - Editor's Draft: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
 - Latest published version: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Shortname: trusted-types
@@ -14734,6 +14734,8 @@ Informative references to this spec from:
 - Missing references for links: 
      * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
      * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/trusted-types/`](https://www.w3.org/TR/trusted-types/), related reference "TRUSTED-TYPES" uses URL [`https://w3c.github.io/trusted-types/dist/spec/`](https://w3c.github.io/trusted-types/dist/spec/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21012,7 +21014,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Crawled URL: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
-- Crawled version: 19 February 2024
+- Crawled version: 25 March 2024
 - Editor's Draft: [https://url.spec.whatwg.org/](https://url.spec.whatwg.org/)
 - Shortname: url
 
