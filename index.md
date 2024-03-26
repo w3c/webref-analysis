@@ -9110,7 +9110,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 25 March 2024
+- Crawled version: 26 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -12146,7 +12146,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 18 March 2024
+- Crawled version: 26 March 2024
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -14725,7 +14725,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Crawled URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
-- Crawled version: 25 March 2024
+- Crawled version: 26 March 2024
 - Editor's Draft: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
 - Latest published version: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Shortname: trusted-types
@@ -19072,7 +19072,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
-- Crawled version: 25 March 2024
+- Crawled version: 26 March 2024
 - Editor's Draft: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
 - Shortname: wasm-core-2-fork-branch-hinting
 
