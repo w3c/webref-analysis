@@ -16168,7 +16168,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
 - Crawled URL: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
-- Crawled version: 18 March 2024
+- Crawled version: 26 March 2024
 - Editor's Draft: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
 - Shortname: long-animation-frames
 

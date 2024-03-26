@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-26T06:35:45.700Z",
+  "date": "2024-03-26T12:41:07.579Z",
   "stats": {
     "crawled": 616,
     "errors": 2,
@@ -34189,7 +34189,7 @@
     {
       "title": "Long Animation Frames API",
       "shortname": "long-animation-frames",
-      "date": "18 March 2024",
+      "date": "26 March 2024",
       "url": "https://w3c.github.io/long-animation-frames/",
       "nightly": {
         "url": "https://w3c.github.io/long-animation-frames/",
