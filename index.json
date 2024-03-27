@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-27T12:38:26.480Z",
+  "date": "2024-03-27T18:31:56.069Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -36441,7 +36441,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "16 January 2024",
+      "date": "27 March 2024",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -36527,7 +36527,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "22 March 2024",
+      "date": "27 March 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -46384,7 +46384,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "26 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
