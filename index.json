@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-27T00:45:38.007Z",
+  "date": "2024-03-27T06:34:48.910Z",
   "stats": {
     "crawled": 616,
     "errors": 2,
@@ -27012,6 +27012,11 @@
               "crawled": "https://wicg.github.io/file-system-access/"
             },
             {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
+            },
+            {
               "url": "https://wicg.github.io/storage-buckets/",
               "title": "Storage Buckets API",
               "crawled": "https://wicg.github.io/storage-buckets/"
@@ -29019,7 +29024,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "26 March 2024",
+      "date": "27 March 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34222,7 +34227,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -34394,7 +34405,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "12 January 2024",
+      "date": "27 March 2024",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -42238,7 +42249,7 @@
     {
       "title": "RFC 6265 - HTTP State Management Mechanism",
       "shortname": "rfc6265",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6265",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6265.html",
@@ -42425,7 +42436,7 @@
     {
       "title": "RFC 6266 - Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)",
       "shortname": "rfc6266",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6266",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc6266.html",
@@ -42812,7 +42823,7 @@
     {
       "title": "RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
       "shortname": "rfc7230",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7230",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7230.html",
@@ -42969,7 +42980,7 @@
     {
       "title": "RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
       "shortname": "rfc7231",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7231",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7231.html",
@@ -43141,7 +43152,7 @@
     {
       "title": "RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
       "shortname": "rfc7232",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7232",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7232.html",
@@ -43228,7 +43239,7 @@
     {
       "title": "RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests",
       "shortname": "rfc7233",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7233",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7233.html",
@@ -43300,7 +43311,7 @@
     {
       "title": "RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching",
       "shortname": "rfc7234",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7234",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7234.html",
@@ -43442,7 +43453,7 @@
     {
       "title": "RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication",
       "shortname": "rfc7235",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7235",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7235.html",
@@ -43696,7 +43707,7 @@
     {
       "title": "RFC 7616 - HTTP Digest Access Authentication",
       "shortname": "rfc7616",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7616",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7616.html",
@@ -43752,7 +43763,7 @@
     {
       "title": "RFC 7617 - The 'Basic' HTTP Authentication Scheme",
       "shortname": "rfc7617",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7617",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7617.html",
@@ -43808,7 +43819,7 @@
     {
       "title": "RFC 7725 - An HTTP Status Code to Report Legal Obstacles",
       "shortname": "rfc7725",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7725",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7725.html",
@@ -43853,7 +43864,7 @@
     {
       "title": "RFC 7838 - HTTP Alternative Services",
       "shortname": "rfc7838",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7838",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc7838.html",
@@ -43964,7 +43975,7 @@
     {
       "title": "RFC 8246 - HTTP Immutable Responses",
       "shortname": "rfc8246",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8246",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8246.html",
@@ -44015,7 +44026,7 @@
     {
       "title": "RFC 8288 - Web Linking",
       "shortname": "rfc8288",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8288",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8288.html",
@@ -44097,7 +44108,7 @@
     {
       "title": "RFC 8297 - An HTTP Status Code for Indicating Hints",
       "shortname": "rfc8297",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8297",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8297.html",
@@ -44148,7 +44159,7 @@
     {
       "title": "RFC 8470 - Using Early Data in HTTP",
       "shortname": "rfc8470",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8470",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc8470.html",
@@ -44312,7 +44323,7 @@
     {
       "title": "RFC 9110 - HTTP Semantics",
       "shortname": "rfc9110",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9110",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9110.html",
@@ -44479,7 +44490,7 @@
     {
       "title": "RFC 9111 - HTTP Caching",
       "shortname": "rfc9111",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9111",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9111.html",
@@ -44556,7 +44567,7 @@
     {
       "title": "RFC 9112 - HTTP/1.1",
       "shortname": "rfc9112",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9112",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9112.html",
@@ -44638,7 +44649,7 @@
     {
       "title": "RFC 9113 - HTTP/2",
       "shortname": "rfc9113",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9113",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9113.html",
@@ -44699,7 +44710,7 @@
     {
       "title": "RFC 9114 - HTTP/3",
       "shortname": "rfc9114",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9114",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9114.html",
@@ -44812,7 +44823,7 @@
     {
       "title": "RFC 9530 - Digest Fields",
       "shortname": "rfc9530",
-      "date": "20 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9530",
       "nightly": {
         "url": "https://httpwg.org/specs/rfc9530.html",
@@ -53103,7 +53114,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://wicg.github.io/manifest-incubations/",
+              "title": "Manifest Incubations",
+              "crawled": "https://wicg.github.io/manifest-incubations/"
+            }
+          ],
           "informative": []
         },
         "ok": true
