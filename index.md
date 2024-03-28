@@ -757,7 +757,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 26 March 2024
+- Crawled version: 28 March 2024
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -8151,7 +8151,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 26 March 2024
+- Crawled version: 28 March 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -10074,7 +10074,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 14 March 2024
+- Crawled version: 28 March 2024
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -17324,7 +17324,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 21 March 2024
+- Crawled version: 28 March 2024
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -17371,7 +17371,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
-- Crawled version: 26 March 2024
+- Crawled version: 28 March 2024
 - Editor's Draft: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
 - Shortname: wasm-core-2-fork-branch-hinting
 

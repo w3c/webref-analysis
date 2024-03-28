@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-28T12:38:32.394Z",
+  "date": "2024-03-28T18:33:04.118Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -18590,7 +18590,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "26 March 2024",
+      "date": "28 March 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -30017,7 +30017,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "14 March 2024",
+      "date": "28 March 2024",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -45886,7 +45886,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "26 March 2024",
+      "date": "28 March 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -51267,7 +51267,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-branch-hinting",
-      "date": "26 March 2024",
+      "date": "28 March 2024",
       "url": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
@@ -54753,7 +54753,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "21 March 2024",
+      "date": "28 March 2024",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
