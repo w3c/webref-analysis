@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-27T18:31:56.069Z",
+  "date": "2024-03-28T00:47:26.726Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -860,7 +860,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "22 March 2024",
+      "date": "27 March 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -21763,7 +21763,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "21 March 2024",
+      "date": "27 March 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -31486,7 +31486,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "21 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -54343,7 +54343,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "26 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54406,7 +54406,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "26 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -55977,7 +55977,7 @@
     {
       "title": "Window Management",
       "shortname": "window-management",
-      "date": "6 September 2023",
+      "date": "27 March 2024",
       "url": "https://www.w3.org/TR/window-management/",
       "release": {
         "url": "https://www.w3.org/TR/window-management/",
