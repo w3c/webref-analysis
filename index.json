@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-29T18:31:54.844Z",
+  "date": "2024-03-30T00:45:29.569Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -24623,7 +24623,7 @@
     {
       "title": "Gamepad",
       "shortname": "gamepad",
-      "date": "22 February 2024",
+      "date": "30 March 2024",
       "url": "https://www.w3.org/TR/gamepad/",
       "release": {
         "url": "https://www.w3.org/TR/gamepad/",
@@ -24687,7 +24687,7 @@
     {
       "title": "Gamepad Extensions",
       "shortname": "gamepad-extensions",
-      "date": "22 February 2024",
+      "date": "30 March 2024",
       "url": "https://w3c.github.io/gamepad/extensions.html",
       "nightly": {
         "url": "https://w3c.github.io/gamepad/extensions.html",
@@ -30672,7 +30672,7 @@
     {
       "title": "JSON-LD 1.1 Processing Algorithms and API",
       "shortname": "json-ld11-api",
-      "date": "06 March 2024",
+      "date": "29 March 2024",
       "url": "https://www.w3.org/TR/json-ld11-api/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-api/",
@@ -54753,7 +54753,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "28 March 2024",
+      "date": "29 March 2024",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
