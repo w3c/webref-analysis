@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-03-31T18:31:45.293Z",
+  "date": "2024-04-01T00:46:00.990Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -24623,7 +24623,7 @@
     {
       "title": "Gamepad",
       "shortname": "gamepad",
-      "date": "30 March 2024",
+      "date": "01 April 2024",
       "url": "https://www.w3.org/TR/gamepad/",
       "release": {
         "url": "https://www.w3.org/TR/gamepad/",
@@ -24687,7 +24687,7 @@
     {
       "title": "Gamepad Extensions",
       "shortname": "gamepad-extensions",
-      "date": "30 March 2024",
+      "date": "01 April 2024",
       "url": "https://w3c.github.io/gamepad/extensions.html",
       "nightly": {
         "url": "https://w3c.github.io/gamepad/extensions.html",
@@ -54343,7 +54343,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "27 March 2024",
+      "date": "31 March 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54406,7 +54406,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "27 March 2024",
+      "date": "31 March 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
