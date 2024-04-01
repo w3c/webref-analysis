@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-01T12:39:35.211Z",
+  "date": "2024-04-01T18:31:56.683Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -860,7 +860,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "29 March 2024",
+      "date": "1 April 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -32665,7 +32665,7 @@
     {
       "title": "Media Source Extensions™",
       "shortname": "media-source-2",
-      "date": "21 March 2024",
+      "date": "01 April 2024",
       "url": "https://www.w3.org/TR/media-source-2/",
       "release": {
         "url": "https://www.w3.org/TR/media-source-2/",
@@ -36512,7 +36512,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "28 March 2024",
+      "date": "1 April 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -47708,7 +47708,7 @@
     {
       "title": "User-Agent Client Hints",
       "shortname": "ua-client-hints",
-      "date": "7 March 2024",
+      "date": "1 April 2024",
       "url": "https://wicg.github.io/ua-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/ua-client-hints/",
@@ -55962,7 +55962,7 @@
     {
       "title": "Window Management",
       "shortname": "window-management",
-      "date": "27 March 2024",
+      "date": "1 April 2024",
       "url": "https://www.w3.org/TR/window-management/",
       "release": {
         "url": "https://www.w3.org/TR/window-management/",
