@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-01T00:46:00.990Z",
+  "date": "2024-04-01T06:35:24.011Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -1944,11 +1944,6 @@
               "crawled": "https://drafts.csswg.org/css-ui-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -3623,6 +3618,11 @@
               "crawled": "https://drafts.csswg.org/css-align-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-box-4/",
               "title": "CSS Box Model Module Level 4",
               "crawled": "https://drafts.csswg.org/css-box-4/"
@@ -4546,11 +4546,6 @@
               "crawled": "https://drafts.csswg.org/css-ui-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -5117,7 +5112,7 @@
     {
       "title": "CSS Box Model Module Level 3",
       "shortname": "css-box-3",
-      "date": "22 March 2024",
+      "date": "1 April 2024",
       "url": "https://www.w3.org/TR/css-box-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-3/",
@@ -8900,11 +8895,6 @@
               "crawled": "https://drafts.csswg.org/css-animations-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -9039,6 +9029,11 @@
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-box-4/",
@@ -10548,11 +10543,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
@@ -16672,11 +16662,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
-            },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
@@ -26075,7 +26060,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 March 2024",
+      "date": "1 April 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
