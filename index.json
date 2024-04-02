@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-02T06:33:21.735Z",
+  "date": "2024-04-02T12:41:23.933Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -23253,7 +23253,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "25 March 2024",
+      "date": "2 April 2024",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -26060,7 +26060,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "1 April 2024",
+      "date": "2 April 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -54738,7 +54738,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "29 March 2024",
+      "date": "02 April 2024",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
