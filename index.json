@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-02T12:41:23.933Z",
+  "date": "2024-04-02T18:34:38.056Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -18575,7 +18575,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "28 March 2024",
+      "date": "2 April 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -36512,7 +36512,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "1 April 2024",
+      "date": "2 April 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -47815,7 +47815,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "30 March 2024",
+      "date": "02 April 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -51588,7 +51588,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2",
-      "date": "5 March 2024",
+      "date": "2 April 2024",
       "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-2/",
@@ -51814,7 +51814,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "5 March 2024",
+      "date": "2 April 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -51883,7 +51883,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "16 March 2024",
+      "date": "2 April 2024",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -51925,7 +51925,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "5 March 2024",
+      "date": "2 April 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",

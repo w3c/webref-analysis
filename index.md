@@ -8148,7 +8148,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 28 March 2024
+- Crawled version: 2 April 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -12566,7 +12566,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 30 March 2024
+- Crawled version: 02 April 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
@@ -16174,7 +16174,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 1 April 2024
+- Crawled version: 2 April 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -17620,7 +17620,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 16 March 2024
+- Crawled version: 2 April 2024
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
@@ -17643,7 +17643,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-2/](https://www.w3.org/TR/wasm-core-2/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 5 March 2024
+- Crawled version: 2 April 2024
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-2/](https://www.w3.org/TR/wasm-core-2/)
 - Shortname: wasm-core-2
@@ -17668,7 +17668,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 5 March 2024
+- Crawled version: 2 April 2024
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
@@ -17696,7 +17696,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 5 March 2024
+- Crawled version: 2 April 2024
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
