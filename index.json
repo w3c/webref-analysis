@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-01T18:31:56.683Z",
+  "date": "2024-04-02T00:45:37.327Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -3230,7 +3230,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "31 March 2024",
+      "date": "2 April 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -40268,7 +40268,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "25 March 2024",
+      "date": "1 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
