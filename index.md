@@ -9231,7 +9231,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Crawled URL: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
-- Crawled version: 08 January 2024
+- Crawled version: 03 April 2024
 - Editor's Draft: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
 - Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Shortname: geolocation

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-03T00:45:48.260Z",
+  "date": "2024-04-03T06:31:57.802Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -24818,7 +24818,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "08 January 2024",
+      "date": "03 April 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
