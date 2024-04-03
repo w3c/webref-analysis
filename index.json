@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-03T12:38:10.023Z",
+  "date": "2024-04-03T18:34:55.036Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -860,7 +860,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "2 April 2024",
+      "date": "3 April 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -20196,7 +20196,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "13 March 2024",
+      "date": "14 March 2024",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -20354,7 +20354,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "28 February 2024",
+      "date": "3 April 2024",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -22768,7 +22768,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "19 March 2024",
+      "date": "03 April 2024",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -22831,7 +22831,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "19 March 2024",
+      "date": "03 April 2024",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -26060,7 +26060,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "2 April 2024",
+      "date": "3 April 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -45871,7 +45871,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "2 April 2024",
+      "date": "3 April 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
