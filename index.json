@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-04T00:47:08.299Z",
+  "date": "2024-04-04T06:32:48.565Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -6598,6 +6598,11 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-scrollbars-1/",
+              "title": "CSS Scrollbars Styling Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-shapes-1/",
               "title": "CSS Shapes Module Level 1",
               "crawled": "https://drafts.csswg.org/css-shapes-1/"
@@ -6763,11 +6768,6 @@
               "url": "https://www.w3.org/TR/css-nesting-1/",
               "title": "CSS Nesting Module",
               "crawled": "https://drafts.csswg.org/css-nesting-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-scrollbars-1/",
-              "title": "CSS Scrollbars Styling Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-scrollbars-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-2023/",
@@ -15000,7 +15000,7 @@
     {
       "title": "CSS Scrollbars Styling Module Level 1",
       "shortname": "css-scrollbars-1",
-      "date": "21 March 2024",
+      "date": "4 April 2024",
       "url": "https://www.w3.org/TR/css-scrollbars-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-scrollbars-1/",
@@ -16364,7 +16364,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "15 March 2024",
+      "date": "27 March 2024",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
