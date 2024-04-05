@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-05T12:37:49.220Z",
+  "date": "2024-04-05T18:34:33.419Z",
   "stats": {
     "crawled": 617,
     "errors": 1,
@@ -2631,7 +2631,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "21 March 2024",
+      "date": "05 April 2024",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -26029,7 +26029,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "4 April 2024",
+      "date": "5 April 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -40526,7 +40526,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "29 March 2024",
+      "date": "5 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
