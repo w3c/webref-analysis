@@ -513,7 +513,9 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 
 ### Import Attributes {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
@@ -19410,7 +19412,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Crawled version: 18 March 2024
+- Crawled version: 8 April 2024
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Shortname: webidl
 
