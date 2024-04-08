@@ -1063,7 +1063,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 7 April 2024
+- Crawled version: 8 April 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -3216,7 +3216,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 26 February 2024
+- Crawled version: 08 April 2024
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -3481,7 +3481,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 21 March 2024
+- Crawled version: 8 April 2024
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -14935,7 +14935,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/shape-detection-api/](https://wicg.github.io/shape-detection-api/)
 - Crawled URL: [https://wicg.github.io/shape-detection-api/](https://wicg.github.io/shape-detection-api/)
-- Crawled version: 30 January 2023
+- Crawled version: 8 April 2024
 - Editor's Draft: [https://wicg.github.io/shape-detection-api/](https://wicg.github.io/shape-detection-api/)
 - Shortname: shape-detection-api
 
@@ -14960,7 +14960,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/shape-detection-api/text.html](https://wicg.github.io/shape-detection-api/text.html)
 - Crawled URL: [https://wicg.github.io/shape-detection-api/text.html](https://wicg.github.io/shape-detection-api/text.html)
-- Crawled version: 30 January 2023
+- Crawled version: 8 April 2024
 - Editor's Draft: [https://wicg.github.io/shape-detection-api/text.html](https://wicg.github.io/shape-detection-api/text.html)
 - Shortname: text-detection-api
 
@@ -16196,7 +16196,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 4 April 2024
+- Crawled version: 8 April 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 

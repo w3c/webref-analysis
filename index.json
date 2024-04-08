@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-08T12:38:15.756Z",
+  "date": "2024-04-08T18:33:43.719Z",
   "stats": {
     "crawled": 617,
     "errors": 5,
@@ -210,7 +210,7 @@
     {
       "title": "Accelerated Shape Detection in Images",
       "shortname": "shape-detection-api",
-      "date": "30 January 2023",
+      "date": "8 April 2024",
       "url": "https://wicg.github.io/shape-detection-api/",
       "nightly": {
         "url": "https://wicg.github.io/shape-detection-api/",
@@ -264,7 +264,7 @@
     {
       "title": "Accelerated Text Detection in Images",
       "shortname": "text-detection-api",
-      "date": "30 January 2023",
+      "date": "8 April 2024",
       "url": "https://wicg.github.io/shape-detection-api/text.html",
       "nightly": {
         "url": "https://wicg.github.io/shape-detection-api/text.html",
@@ -3225,7 +3225,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "7 April 2024",
+      "date": "8 April 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -25882,7 +25882,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "26 February 2024",
+      "date": "08 April 2024",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -36498,7 +36498,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "4 April 2024",
+      "date": "8 April 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -52369,7 +52369,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "21 March 2024",
+      "date": "8 April 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
