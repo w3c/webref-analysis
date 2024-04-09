@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-09T12:39:32.964Z",
+  "date": "2024-04-09T18:31:47.712Z",
   "stats": {
     "crawled": 617,
     "errors": 5,
@@ -860,7 +860,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "8 April 2024",
+      "date": "9 April 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -51254,7 +51254,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-branch-hinting",
-      "date": "28 March 2024",
+      "date": "9 April 2024",
       "url": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/branch-hinting/core/bikeshed/",
@@ -54335,7 +54335,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "2 April 2024",
+      "date": "9 April 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -54398,7 +54398,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "2 April 2024",
+      "date": "9 April 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
