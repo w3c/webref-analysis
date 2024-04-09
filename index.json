@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-09T06:35:16.499Z",
+  "date": "2024-04-09T12:39:32.964Z",
   "stats": {
     "crawled": 617,
     "errors": 5,
@@ -2631,7 +2631,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "05 April 2024",
+      "date": "09 April 2024",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -18497,7 +18497,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "8 April 2024",
+      "date": "9 April 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -31095,7 +31095,7 @@
     {
       "title": "Long Animation Frames API",
       "shortname": "long-animation-frames",
-      "date": "27 March 2024",
+      "date": "9 April 2024",
       "url": "https://w3c.github.io/long-animation-frames/",
       "nightly": {
         "url": "https://w3c.github.io/long-animation-frames/",
@@ -31133,6 +31133,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://w3c.github.io/long-animation-frames/",
+              "title": "Long Animation Frames API",
+              "crawled": "https://w3c.github.io/long-animation-frames/"
             }
           ],
           "informative": []
@@ -36498,7 +36503,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "8 April 2024",
+      "date": "9 April 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -41100,7 +41105,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "2 April 2024",
+      "date": "9 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -52374,7 +52379,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "8 April 2024",
+      "date": "9 April 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
