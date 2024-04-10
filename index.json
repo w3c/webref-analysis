@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-09T18:31:47.712Z",
+  "date": "2024-04-10T00:46:48.638Z",
   "stats": {
     "crawled": 617,
-    "errors": 5,
+    "errors": 4,
     "studied": 617
   },
   "results": [
@@ -707,7 +707,7 @@
     {
       "title": "ARIA in HTML",
       "shortname": "html-aria",
-      "date": "16 February 2024",
+      "date": "09 April 2024",
       "url": "https://www.w3.org/TR/html-aria/",
       "release": {
         "url": "https://www.w3.org/TR/html-aria/",
@@ -8723,6 +8723,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -9573,6 +9578,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
@@ -22012,6 +22022,11 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
+              "url": "https://wicg.github.io/scheduling-apis/",
+              "title": "Prioritized Task Scheduling",
+              "crawled": "https://wicg.github.io/scheduling-apis/"
+            },
+            {
               "url": "https://wicg.github.io/turtledove/",
               "title": "Protected Audience (formerly FLEDGE)",
               "crawled": "https://wicg.github.io/turtledove/"
@@ -32549,7 +32564,7 @@
     {
       "title": "Media Session",
       "shortname": "mediasession",
-      "date": "16 February 2024",
+      "date": "10 April 2024",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -36291,7 +36306,7 @@
     {
       "title": "Prioritized Task Scheduling",
       "shortname": "scheduling-apis",
-      "date": "4 April 2024",
+      "date": "9 April 2024",
       "url": "https://wicg.github.io/scheduling-apis/",
       "nightly": {
         "url": "https://wicg.github.io/scheduling-apis/",
@@ -55495,7 +55510,7 @@
     {
       "title": "WebXR Gamepads Module - Level 1",
       "shortname": "webxr-gamepads-module-1",
-      "date": "26 April 2022",
+      "date": "9 April 2024",
       "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
@@ -55519,7 +55534,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://immersive-web.github.io/webxr-gamepads-module/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 597)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -55543,7 +55557,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
