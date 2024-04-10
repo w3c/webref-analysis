@@ -202,7 +202,7 @@ Informative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
-- [WebP Image Format](https://www.ietf.org/archive/id/draft-zern-webp-14.html)
+- [WebP Image Format](https://www.ietf.org/archive/id/draft-zern-webp-15.html)
 
 
 # Ecma International {#org-ecma_international}
@@ -299,7 +299,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Crawled URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
-- Crawled version: 25 March 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Shortname: tc39-explicit-resource-management
 
@@ -342,7 +342,7 @@ Informative references to this spec from:
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 
 
-### ECMAScript® 2025 Language Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### ECMAScript® 2025 Language Specification {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -355,6 +355,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://html.spec.whatwg.org/multipage/obsolete.html`](https://html.spec.whatwg.org/multipage/obsolete.html)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -367,6 +370,7 @@ Normative references to this spec from:
 - [Console Standard](https://console.spec.whatwg.org/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
@@ -519,7 +523,7 @@ Informative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 
-### Import Attributes {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### Import Attributes {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -532,6 +536,8 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -760,7 +766,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 3 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -802,7 +808,7 @@ No informative reference to this spec from other specs.
 
 ## FIDO2 Technical Working Group {#group-fido2_technical_working_group}
 
-### Client to Authenticator Protocol (CTAP) {data-spec=true data-missingDfns=true data-ok=true}
+### Client to Authenticator Protocol (CTAP) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -814,7 +820,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/)
+     * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/), related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -835,7 +845,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 8 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -850,19 +860,21 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### RFC 7578: Returning Values from Forms: multipart/form-data {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### RFC 7578: Returning Values from Forms: multipart/form-data {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 9 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2014/REC-html5-20141028`](http://www.w3.org/TR/2014/REC-html5-20141028)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -884,7 +896,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 8 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -937,7 +949,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
-- Crawled version: 5 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Shortname: rfc8878
 
@@ -957,9 +969,9 @@ No informative reference to this spec from other specs.
 #### Spec info {.info}
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-zern-webp/](https://datatracker.ietf.org/doc/html/draft-zern-webp/)
-- Crawled URL: [https://www.ietf.org/archive/id/draft-zern-webp-14.html](https://www.ietf.org/archive/id/draft-zern-webp-14.html)
-- Crawled version: 18 March 2024
-- Editor's Draft: [https://www.ietf.org/archive/id/draft-zern-webp-14.html](https://www.ietf.org/archive/id/draft-zern-webp-14.html)
+- Crawled URL: [https://www.ietf.org/archive/id/draft-zern-webp-15.html](https://www.ietf.org/archive/id/draft-zern-webp-15.html)
+- Crawled version: 4 April 2024
+- Editor's Draft: [https://www.ietf.org/archive/id/draft-zern-webp-15.html](https://www.ietf.org/archive/id/draft-zern-webp-15.html)
 - Shortname: webp
 
 #### Potential issue(s) {.anomalies}
@@ -1457,7 +1469,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 9 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1494,6 +1506,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [A Well-Known URL for Passkey Endpoints](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
@@ -1613,7 +1626,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 9 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1753,7 +1766,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 8 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1789,7 +1802,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 9 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1834,19 +1847,24 @@ Informative references to this spec from:
 
 ## Web Security Working Group {#group-web_security_working_group}
 
-### RFC 6454: The Web Origin Concept {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### RFC 6454: The Web Origin Concept {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 8 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2010/WD-cors-20100727/`](http://www.w3.org/TR/2010/WD-cors-20100727/)
+     * [`http://www.w3.org/TR/2011/WD-html5-20110525/`](http://www.w3.org/TR/2011/WD-html5-20110525/)
+     * [`http://www.w3.org/TR/cors/`](http://www.w3.org/TR/cors/)
+     * [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1870,19 +1888,22 @@ Informative references to this spec from:
 - [URL Standard](https://url.spec.whatwg.org/)
 
 
-### RFC 6797: HTTP Strict Transport Security (HSTS) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### RFC 6797: HTTP Strict Transport Security (HSTS) {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 8 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224/`](http://www.w3.org/TR/1999/REC-html401-19991224/)
+     * [`http://www.w3.org/TR/2010/REC-wsc-ui-20100812`](http://www.w3.org/TR/2010/REC-wsc-ui-20100812)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1901,19 +1922,22 @@ Informative references to this spec from:
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 
 
-### RFC 7034: HTTP Header Field X-Frame-Options {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### RFC 7034: HTTP Header Field X-Frame-Options {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 9 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2012/CR-CSP-20121115/`](http://www.w3.org/TR/2012/CR-CSP-20121115/)
+     * [`http://www.w3.org/TR/2013/WD-CSP11-20130604/`](http://www.w3.org/TR/2013/WD-CSP11-20130604/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -1925,19 +1949,21 @@ Informative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
-### RFC 7469: Public Key Pinning Extension for HTTP {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### RFC 7469: Public Key Pinning Extension for HTTP {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 9 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224`](http://www.w3.org/TR/1999/REC-html401-19991224)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3010,7 +3036,7 @@ No informative reference to this spec from other specs.
 
 ## Accessible Rich Internet Applications Working Group {#group-accessible_rich_internet_applications_working_group}
 
-### Accessible Name and Description Computation 1.2 {data-spec=true data-missingDfns=true data-ok=true}
+### Accessible Name and Description Computation 1.2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3023,7 +3049,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3043,7 +3073,7 @@ Informative references to this spec from:
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 
 
-### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-missingDfns=true data-ok=true}
+### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3056,7 +3086,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3074,7 +3110,7 @@ Informative references to this spec from:
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 
 
-### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-error=true}
+### Accessible Rich Internet Applications (WAI-ARIA) 1.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3087,22 +3123,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/aria/ triggered network error
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 556)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
-  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {
-    errno: -2,
-    code: 'ENOENT',
-    syscall: 'open',
-    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'
-  }
-}`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "ACCNAME-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "XML-NAMES" uses URL [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3111,7 +3139,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Core Accessibility API Mappings 1.2 {data-spec=true data-missingDfns=true data-ok=true}
+### Core Accessibility API Mappings 1.2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3124,7 +3152,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/wai-aria-implementation/`](http://www.w3.org/TR/wai-aria-implementation/)
+     * [`http://www.w3.org/TR/wai-aria-practices/`](http://www.w3.org/TR/wai-aria-practices/)
+     * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/)
+     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3140,7 +3175,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Digital Publishing Accessibility API Mappings 1.1 {data-spec=true data-missingDfns=true data-ok=true}
+### Digital Publishing Accessibility API Mappings 1.1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -3153,7 +3188,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2017/REC-dpub-aam-1.0-20171214//`](https://www.w3.org/TR/2017/REC-dpub-aam-1.0-20171214//)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3162,7 +3198,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Digital Publishing WAI-ARIA Module 1.1 {data-spec=true data-missingDfns=true data-ok=true}
+### Digital Publishing WAI-ARIA Module 1.1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -3175,7 +3211,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/dpub-aria-1.0/`](https://www.w3.org/TR/dpub-aria-1.0/)
+     * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3187,7 +3225,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Graphics Accessibility API Mappings {data-spec=true data-missingDfns=true data-ok=true}
+### Graphics Accessibility API Mappings {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3200,7 +3238,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/)
+     * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/)
+     * [`https://www.w3.org/TR/wai-aria-practices/`](https://www.w3.org/TR/wai-aria-practices/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/), related reference "GRAPHICS-ARIA-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3211,7 +3255,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### HTML Accessibility API Mappings 1.0 {data-spec=true data-missingDfns=true data-ok=true}
+### HTML Accessibility API Mappings 1.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3224,7 +3268,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/)
+     * [`https://w3c.github.io/mathml-aam/`](https://w3c.github.io/mathml-aam/)
+     * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/)
+     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/)
+     * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/), related reference "accname-1.2" uses URL [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "WAI-ARIA-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "core-aam-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3241,7 +3294,7 @@ Informative references to this spec from:
 - [The <model> element](https://immersive-web.github.io/model-element/)
 
 
-### MathML Accessibility API Mappings 1.0 {data-spec=true data-missingDfns=true data-ok=true}
+### MathML Accessibility API Mappings 1.0 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3253,7 +3306,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/), related reference "CORE-AAM-1.2" uses URL [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3264,7 +3318,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WAI-ARIA Graphics Module {data-spec=true data-missingDfns=true data-ok=true}
+### WAI-ARIA Graphics Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -3277,7 +3331,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3325,7 +3380,7 @@ Informative references to this spec from:
 
 ## Audio Working Group {#group-audio_working_group}
 
-### Web Audio API {data-spec=true data-missingDfns=true data-ok=true}
+### Web Audio API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3338,7 +3393,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/mediacapture-fromelement/`](https://www.w3.org/TR/mediacapture-fromelement/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/), related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3384,7 +3442,7 @@ No informative reference to this spec from other specs.
 
 ## Audiobooks Working Group {#group-audiobooks_working_group}
 
-### Audiobooks {data-spec=true data-missingDfns=true data-ok=true}
+### Audiobooks {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3397,7 +3455,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/annotation-model/`](https://www.w3.org/TR/annotation-model/)
+     * [`https://www.w3.org/TR/lpf/`](https://www.w3.org/TR/lpf/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/), related reference "pub-manifest" uses URL [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3409,7 +3471,7 @@ Informative references to this spec from:
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
 
 
-### Publication Manifest {data-spec=true data-missingDfns=true data-ok=true}
+### Publication Manifest {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3422,7 +3484,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/), related reference "json-ld10" uses URL [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3437,7 +3500,7 @@ No informative reference to this spec from other specs.
 
 ## Browser Testing and Tools Working Group {#group-browser_testing_and_tools_working_group}
 
-### WebDriver {data-spec=true data-missingDfns=true data-ok=true}
+### WebDriver {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3450,7 +3513,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/contentEditable`](https://w3c.github.io/contentEditable)
+     * [`https://w3c.github.io/editing/execCommand.html`](https://w3c.github.io/editing/execCommand.html)
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/DOM-Parsing/`](https://w3c.github.io/DOM-Parsing/), related reference "DOM-PARSING" uses URL [`https://www.w3.org/TR/DOM-Parsing/`](https://www.w3.org/TR/DOM-Parsing/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/), related reference "wai-aria-1.2" uses URL [`https://www.w3.org/TR/wai-aria-1.2/`](https://www.w3.org/TR/wai-aria-1.2/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP3" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3505,7 +3576,7 @@ No informative reference to this spec from other specs.
 
 ## Cascading Style Sheets (CSS) Working Group {#group-cascading_style_sheets_css_working_group}
 
-### Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification {data-spec=true data-missingDfns=true data-ok=true}
+### Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3518,7 +3589,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2009/CR-CSS2-20090423`](https://www.w3.org/TR/2009/CR-CSS2-20090423), related reference "CSS2" uses URL [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/2009/CR-CSS2-20090908`](https://www.w3.org/TR/2009/CR-CSS2-20090908), related reference "CSS2" uses URL [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/), related reference "CSS3COLOR" uses URL [`https://www.w3.org/TR/2010/PR-css3-color-20101028/`](https://www.w3.org/TR/2010/PR-css3-color-20101028/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3551,7 +3625,7 @@ Informative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 
 
-### Compositing and Blending Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3564,7 +3638,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3584,7 +3667,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Compositing and Blending Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### Compositing and Blending Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3596,7 +3679,20 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
+     * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
+     * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3610,7 +3706,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3623,7 +3719,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/about.html), related reference "CSS20" uses URL [`https://www.w3.org/TR/1998/REC-CSS2-19980512/`](https://www.w3.org/TR/1998/REC-CSS2-19980512/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3758,7 +3862,7 @@ Informative references to this spec from:
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 
 
-### CSS Anchor Positioning {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Anchor Positioning {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -3771,7 +3875,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3787,7 +3897,7 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 
 
-### CSS Animation Worklet API {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Animation Worklet API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -3800,7 +3910,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://w3c.github.io/html/infrastructure.html`](http://w3c.github.io/html/infrastructure.html)
+     * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3809,7 +3921,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Animations Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Animations Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3822,7 +3934,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3838,7 +3956,7 @@ Informative references to this spec from:
 - [SVG Animations](https://svgwg.org/specs/animations/)
 
 
-### CSS Animations Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -3851,7 +3969,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3867,7 +3990,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Backgrounds and Borders Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Backgrounds and Borders Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3880,7 +4003,29 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3)
+     * [`https://www.w3.org/TR/2009/CR-css3-background-20091217/`](https://www.w3.org/TR/2009/CR-css3-background-20091217/)
+     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html)
+     * [`https://www.w3.org/TR/2012/CR-css3-background-20120417/`](https://www.w3.org/TR/2012/CR-css3-background-20120417/)
+     * [`https://www.w3.org/TR/2012/CR-css3-background-20120724/`](https://www.w3.org/TR/2012/CR-css3-background-20120724/)
+     * [`https://www.w3.org/TR/2012/WD-css3-background-20120214/`](https://www.w3.org/TR/2012/WD-css3-background-20120214/)
+     * [`https://www.w3.org/TR/2014/CR-css3-background-20140909/`](https://www.w3.org/TR/2014/CR-css3-background-20140909/)
+     * [`https://www.w3.org/TR/2014/WD-css3-background-20140204/`](https://www.w3.org/TR/2014/WD-css3-background-20140204/)
+     * [`https://www.w3.org/TR/css-break/`](https://www.w3.org/TR/css-break/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-images/`](https://www.w3.org/TR/css-images/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/), related reference "CSS-BOX-3" uses URL [`https://drafts.csswg.org/css-box-3/`](https://drafts.csswg.org/css-box-3/)
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/), related reference "CSS-COLOR-4" uses URL [`https://drafts.csswg.org/css-color-4/`](https://drafts.csswg.org/css-color-4/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3904,7 +4049,7 @@ Informative references to this spec from:
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 
 
-### CSS Backgrounds Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Backgrounds Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -3916,7 +4061,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3930,7 +4080,7 @@ Informative references to this spec from:
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
 
 
-### CSS Basic User Interface Module Level 3 (CSS3 UI) {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Basic User Interface Module Level 3 (CSS3 UI) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3943,7 +4093,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2000/WD-css3-userint-20000216`](https://www.w3.org/TR/2000/WD-css3-userint-20000216)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3965,7 +4123,7 @@ Informative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 
 
-### CSS Basic User Interface Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Basic User Interface Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -3978,7 +4136,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/contentEditable/`](https://w3c.github.io/contentEditable/)
+     * [`https://www.w3.org/TR/2000/WD-css3-userint-20000216`](https://www.w3.org/TR/2000/WD-css3-userint-20000216)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4015,7 +4183,7 @@ Informative references to this spec from:
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 
 
-### CSS Borders and Box Decorations Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Borders and Box Decorations Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -4027,7 +4195,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4045,7 +4218,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Box Alignment Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Box Alignment Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4058,7 +4231,22 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/)
+     * [`http://www.w3.org/TR/css-grid/`](http://www.w3.org/TR/css-grid/)
+     * [`http://www.w3.org/TR/css3-multicol/`](http://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-flexbox/`](https://www.w3.org/TR/css3-flexbox/)
+     * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4073,7 +4261,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Box Model Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Box Model Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4086,7 +4274,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
+     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4106,7 +4307,7 @@ Informative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 
 
-### CSS Box Model Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Box Model Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4119,7 +4320,21 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
+     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-break-4/`](https://www.w3.org/TR/css-break-4/), related reference "CSS-BREAK-4" uses URL [`https://drafts.csswg.org/css-break-4/`](https://drafts.csswg.org/css-break-4/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4185,7 +4400,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS Box Sizing Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Box Sizing Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4198,7 +4413,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css2/box.html`](https://www.w3.org/TR/css2/box.html)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/), related reference "CSS-UI-3" uses URL [`https://drafts.csswg.org/css-ui-3/`](https://drafts.csswg.org/css-ui-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4263,7 +4488,7 @@ Informative references to this spec from:
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
-### CSS Box Sizing Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Box Sizing Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4276,7 +4501,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4301,7 +4535,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 
 
-### CSS Cascading and Inheritance Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Cascading and Inheritance Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4314,7 +4548,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4339,7 +4582,7 @@ Informative references to this spec from:
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
 
 
-### CSS Cascading and Inheritance Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Cascading and Inheritance Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4352,7 +4595,22 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/)
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/)
+     * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/), related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/), related reference "MEDIAQ" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4383,7 +4641,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Cascading and Inheritance Level 5 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Cascading and Inheritance Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4396,7 +4654,22 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-conditional/`](https://www.w3.org/TR/css-conditional/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/mediaqueries/`](https://www.w3.org/TR/mediaqueries/)
+     * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/), related reference "CSS-CASCADE-4" uses URL [`https://drafts.csswg.org/css-cascade-4/`](https://drafts.csswg.org/css-cascade-4/)
+     * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/), related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/), related reference "MEDIAQ" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4503,7 +4776,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Cascading and Inheritance Level 6 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Cascading and Inheritance Level 6 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4516,7 +4789,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+     * [`https://www.w3.org/TR/css-nesting/`](https://www.w3.org/TR/css-nesting/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-cascade-4/`](https://www.w3.org/TR/css-cascade-4/), related reference "CSS-CASCADE-4" uses URL [`https://drafts.csswg.org/css-cascade-4/`](https://drafts.csswg.org/css-cascade-4/)
+     * [`https://www.w3.org/TR/css-cascade-5/`](https://www.w3.org/TR/css-cascade-5/), related reference "CSS-CASCADE-5" uses URL [`https://drafts.csswg.org/css-cascade-5/`](https://drafts.csswg.org/css-cascade-5/)
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4543,7 +4823,7 @@ Informative references to this spec from:
 - [CSS Text Decoration Module Level 4](https://drafts.csswg.org/css-text-decor-4/)
 
 
-### CSS Color Adjustment Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Color Adjustment Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4556,7 +4836,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4578,7 +4865,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Color HDR Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Color HDR Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4590,7 +4877,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4599,7 +4894,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Color Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Color Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4612,7 +4907,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2011/REC-css3-color-20110607/`](https://www.w3.org/TR/2011/REC-css3-color-20110607/)
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`http://www.w3.org/TR/2011/REC-SVG11-20110816/`](http://www.w3.org/TR/2011/REC-SVG11-20110816/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4640,7 +4941,7 @@ Informative references to this spec from:
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 
 
-### CSS Color Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Color Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4653,7 +4954,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/png-3/`](https://www.w3.org/TR/png-3/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4715,7 +5026,7 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### CSS Color Module Level 5 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Color Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -4728,7 +5039,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4795,7 +5107,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Conditional Rules Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Conditional Rules Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -4808,7 +5120,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4848,7 +5162,7 @@ Informative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 
-### CSS Conditional Rules Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Conditional Rules Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4861,7 +5175,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-conditional-3/`](https://www.w3.org/TR/css-conditional-3/), related reference "CSS-CONDITIONAL-3" uses URL [`https://drafts.csswg.org/css-conditional-3/`](https://drafts.csswg.org/css-conditional-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4901,7 +5216,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Conditional Values Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Conditional Values Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4913,7 +5228,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4922,7 +5238,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Containment Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Containment Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4935,7 +5251,12 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4957,7 +5278,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Containment Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Containment Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4970,7 +5291,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selection-api/`](https://www.w3.org/TR/selection-api/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/), related reference "CSS-CONTAIN-1" uses URL [`https://drafts.csswg.org/css-contain-1/`](https://drafts.csswg.org/css-contain-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5007,7 +5336,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Containment Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Containment Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5020,7 +5349,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-contain-2/`](https://www.w3.org/TR/css-contain-2/), related reference "CSS-CONTAIN-2" uses URL [`https://drafts.csswg.org/css-contain-2/`](https://drafts.csswg.org/css-contain-2/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5037,7 +5374,7 @@ Informative references to this spec from:
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 
 
-### CSS Counter Styles Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Counter Styles Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -5050,7 +5387,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/predefined-counter-styles/`](https://www.w3.org/TR/predefined-counter-styles/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5084,7 +5422,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Custom Properties for Cascading Variables Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Custom Properties for Cascading Variables Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5097,7 +5435,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5109,7 +5453,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Custom Properties for Cascading Variables Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Custom Properties for Cascading Variables Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5121,7 +5465,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5156,7 +5506,7 @@ Informative references to this spec from:
 - [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
 
 
-### CSS Display Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Display Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5169,7 +5519,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-contain-1/`](https://www.w3.org/TR/css-contain-1/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5189,7 +5549,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Display Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Display Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5201,7 +5561,19 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
+     * [`https://www.w3.org/TR/css-logical/`](https://www.w3.org/TR/css-logical/)
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+     * [`https://www.w3.org/TR/webarch/`](https://www.w3.org/TR/webarch/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-speech-1/`](https://www.w3.org/TR/css-speech-1/), related reference "CSS-SPEECH-1" uses URL [`https://drafts.csswg.org/css-speech-1/`](https://drafts.csswg.org/css-speech-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5288,7 +5660,7 @@ Informative references to this spec from:
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 
 
-### CSS Easing Functions Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Easing Functions Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5301,7 +5673,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5314,7 +5689,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Easing Functions Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Easing Functions Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5326,7 +5701,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5371,7 +5749,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Exclusions Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Exclusions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5384,7 +5762,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css3-box/`](https://www.w3.org/TR/css3-box/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5418,7 +5804,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Fill and Stroke Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Fill and Stroke Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -5431,7 +5817,12 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5442,7 +5833,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Flexible Box Layout Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Flexible Box Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5455,7 +5846,25 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
+     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
+     * [`https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/`](https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-speech/`](https://www.w3.org/TR/css-speech/)
+     * [`https://www.w3.org/TR/css3-align/`](https://www.w3.org/TR/css3-align/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/`](https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/`](https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5495,7 +5904,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Font Loading Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Font Loading Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5508,7 +5917,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2014/WD-css-font-loading-3-20140522/`](https://www.w3.org/TR/2014/WD-css-font-loading-3-20140522/), related reference "CSS-FONT-LOADING-3" uses URL [`https://www.w3.org/TR/css-font-loading-3/`](https://www.w3.org/TR/css-font-loading-3/)
+     * [`https://www.w3.org/TR/2023/WD-css-font-loading-3-20230406/`](https://www.w3.org/TR/2023/WD-css-font-loading-3-20230406/), related reference "CSS-FONT-LOADING-3" uses URL [`https://www.w3.org/TR/css-font-loading-3/`](https://www.w3.org/TR/css-font-loading-3/)
+     * [`https://www.w3.org/TR/html5/webappapis.html`](https://www.w3.org/TR/html5/webappapis.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5522,7 +5934,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Fonts Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Fonts Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5535,7 +5947,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/mathml-core/`](https://w3c.github.io/mathml-core/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-syntax/`](https://www.w3.org/TR/css3-syntax/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5591,7 +6012,7 @@ Informative references to this spec from:
 - [WOFF File Format 1.0](https://w3c.github.io/woff/woff1/spec/Overview.html)
 
 
-### CSS Fonts Module Level 5 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Fonts Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5604,7 +6025,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/IFT/Overview.html`](https://w3c.github.io/IFT/Overview.html)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5653,7 +6082,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Fragmentation Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Fragmentation Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5666,7 +6095,25 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html)
+     * [`https://www.w3.org/TR/2015/WD-css3-break-20150129/`](https://www.w3.org/TR/2015/WD-css3-break-20150129/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
+     * [`https://www.w3.org/TR/css3-regions`](https://www.w3.org/TR/css3-regions)
+     * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5682,7 +6129,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Fragmentation Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Fragmentation Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5695,7 +6142,22 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-regions`](https://www.w3.org/TR/css3-regions)
+     * [`https://www.w3.org/TR/css3-regions/`](https://www.w3.org/TR/css3-regions/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-page-3/`](https://www.w3.org/TR/css-page-3/), related reference "CSS-PAGE-3" uses URL [`https://drafts.csswg.org/css-page-3/`](https://drafts.csswg.org/css-page-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5743,7 +6205,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 
 
-### CSS Generated Content for Paged Media Module {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Generated Content for Paged Media Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5756,7 +6218,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://books.spec.whatwg.org/`](http://books.spec.whatwg.org/)
+     * [`http://w3c.github.io/dpub-pagination/index.html`](http://w3c.github.io/dpub-pagination/index.html)
+     * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5765,7 +6236,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Generated Content for Paged Media Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Generated Content for Paged Media Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5777,7 +6248,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5788,7 +6265,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Generated Content Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Generated Content Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5801,7 +6278,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5827,7 +6311,7 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 
 
-### CSS Grid Layout Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Grid Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5840,7 +6324,26 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-align-3/`](http://www.w3.org/TR/css-align-3/)
+     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
+     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
+     * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/)
+     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css-align-3/`](https://www.w3.org/TR/css-align-3/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5854,7 +6357,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Grid Layout Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Grid Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5867,7 +6370,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
+     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
+     * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/)
+     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5904,7 +6425,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Grid Layout Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Grid Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5916,7 +6437,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-grid-2/`](https://www.w3.org/TR/css-grid-2/), related reference "CSS-GRID-2" uses URL [`https://drafts.csswg.org/css-grid-2/`](https://drafts.csswg.org/css-grid-2/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5925,7 +6454,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Images Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Images Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5938,7 +6467,18 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/)
+     * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/)
+     * [`https://www.w3.org/TR/2012/CR-css3-images-20120417/`](https://www.w3.org/TR/2012/CR-css3-images-20120417/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5987,7 +6527,7 @@ Informative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 
 
-### CSS Images Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true}
+### CSS Images Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6002,6 +6542,19 @@ Informative references to this spec from:
 
 - No definition for CSS constructs: 
      * `<radial-size>`
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/)
+     * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/)
+     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
+     * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2017/WD-css-images-4-20170413/`](https://www.w3.org/TR/2017/WD-css-images-4-20170413/), related reference "CSS-IMAGES-4" uses URL [`https://www.w3.org/TR/css-images-4/`](https://www.w3.org/TR/css-images-4/)
+     * [`https://www.w3.org/TR/2023/WD-css-images-4-20230217/`](https://www.w3.org/TR/2023/WD-css-images-4-20230217/), related reference "CSS-IMAGES-4" uses URL [`https://www.w3.org/TR/css-images-4/`](https://www.w3.org/TR/css-images-4/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6035,7 +6588,7 @@ Informative references to this spec from:
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 
 
-### CSS Images Module Level 5 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Images Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6047,7 +6600,11 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6058,7 +6615,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Inline Layout Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Inline Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6071,7 +6628,17 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://html.spec.whatwg.org/multipage/canvas.html`](https://html.spec.whatwg.org/multipage/canvas.html)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6113,7 +6680,7 @@ Informative references to this spec from:
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
 
 
-### CSS Layout API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Layout API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6126,7 +6693,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6138,7 +6706,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### CSS Line Grid Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Line Grid Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6151,7 +6719,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6160,7 +6734,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Linked Parameters {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Linked Parameters {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6172,7 +6746,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6181,7 +6759,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Lists and Counters Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Lists and Counters Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6194,7 +6772,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6225,7 +6810,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
 
-### CSS Logical Properties and Values Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Logical Properties and Values Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6238,7 +6823,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-writing-modes/`](http://www.w3.org/TR/css-writing-modes/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6270,7 +6863,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Masking Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Masking Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6283,7 +6876,21 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/)
+     * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6316,7 +6923,7 @@ Informative references to this spec from:
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 
-### CSS Mobile Text Size Adjustment Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Mobile Text Size Adjustment Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6328,7 +6935,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6340,7 +6954,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Multi-column Layout Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Multi-column Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6353,7 +6967,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/CR-css3-multicol-20110412/`](https://www.w3.org/TR/2011/CR-css3-multicol-20110412/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6367,7 +6989,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 
 
-### CSS Multi-column Layout Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Multi-column Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6379,7 +7001,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-multicol`](https://www.w3.org/TR/css3-multicol)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6390,7 +7017,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Namespaces Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Namespaces Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6403,7 +7030,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/REC-css3-namespace-20110929/`](https://www.w3.org/TR/2011/REC-css3-namespace-20110929/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6473,7 +7101,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Overflow Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Overflow Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6486,7 +7114,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-backgrounds/`](https://www.w3.org/TR/css-backgrounds/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/), related reference "CSS-UI-3" uses URL [`https://drafts.csswg.org/css-ui-3/`](https://drafts.csswg.org/css-ui-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6550,7 +7187,7 @@ Informative references to this spec from:
 - [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 
 
-### CSS Overflow Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Overflow Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6563,7 +7200,18 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2017/WD-css-overflow-4-20170613/`](https://www.w3.org/TR/2017/WD-css-overflow-4-20170613/), related reference "CSS-OVERFLOW-4" uses URL [`https://drafts.csswg.org/css-overflow-4/`](https://drafts.csswg.org/css-overflow-4/)
+     * [`https://www.w3.org/TR/css-overflow-3/`](https://www.w3.org/TR/css-overflow-3/), related reference "CSS-OVERFLOW-3" uses URL [`https://drafts.csswg.org/css-overflow-3/`](https://drafts.csswg.org/css-overflow-3/)
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6583,7 +7231,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 
 
-### CSS Overscroll Behavior Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Overscroll Behavior Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6596,7 +7244,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6605,7 +7259,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Page Floats {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Page Floats {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6618,7 +7272,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6627,7 +7287,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Paged Media Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Paged Media Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6640,7 +7300,18 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2013/WD-css3-page-20130314/`](https://www.w3.org/TR/2013/WD-css3-page-20130314/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6704,7 +7375,7 @@ Informative references to this spec from:
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
 
 
-### CSS Positioned Layout Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Positioned Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6717,7 +7388,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-logical-1/`](https://www.w3.org/TR/css-logical-1/), related reference "CSS-LOGICAL-1" uses URL [`https://drafts.csswg.org/css-logical-1/`](https://drafts.csswg.org/css-logical-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6771,7 +7451,7 @@ Informative references to this spec from:
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
 
 
-### CSS Positioned Layout Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Positioned Layout Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6783,7 +7463,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6799,7 +7484,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 
 
-### CSS Properties and Values API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Properties and Values API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -6812,7 +7497,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6828,7 +7514,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Pseudo-Elements Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Pseudo-Elements Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6841,7 +7527,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-lists-3/`](https://www.w3.org/TR/css-lists-3/), related reference "CSS-LISTS-3" uses URL [`https://drafts.csswg.org/css-lists-3/`](https://drafts.csswg.org/css-lists-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6889,7 +7578,7 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 
 
-### CSS Regions Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Regions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6902,7 +7591,26 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html)
+     * [`https://www.w3.org/TR/2012/WD-css3-regions-20120503/`](https://www.w3.org/TR/2012/WD-css3-regions-20120503/)
+     * [`https://www.w3.org/TR/2012/WD-css3-regions-20120823/`](https://www.w3.org/TR/2012/WD-css3-regions-20120823/)
+     * [`https://www.w3.org/TR/2013/WD-css3-regions-20130528/`](https://www.w3.org/TR/2013/WD-css3-regions-20130528/)
+     * [`https://www.w3.org/TR/2014/WD-css3-regions-20140218/`](https://www.w3.org/TR/2014/WD-css3-regions-20140218/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2012/WD-dom-20120405/`](https://www.w3.org/TR/2012/WD-dom-20120405/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6913,7 +7621,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 
 
-### CSS Rhythmic Sizing {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Rhythmic Sizing {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6926,7 +7634,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6935,7 +7649,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Round Display Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Round Display Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6948,7 +7662,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6957,7 +7678,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Ruby Annotation Layout Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Ruby Annotation Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6970,7 +7691,21 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display-3/`](https://www.w3.org/TR/css-display-3/)
+     * [`https://www.w3.org/TR/css3-text/`](https://www.w3.org/TR/css3-text/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/simple-ruby/`](https://www.w3.org/TR/simple-ruby/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/html5/text-level-semantics.html`](https://www.w3.org/TR/html5/text-level-semantics.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7020,7 +7755,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Scroll Anchoring Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Scroll Anchoring Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7033,7 +7768,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7042,7 +7784,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Scroll Snap Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Scroll Snap Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7055,7 +7797,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7076,7 +7825,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Scroll Snap Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Scroll Snap Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -7088,7 +7837,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7099,7 +7853,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Scrollbars Styling Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Scrollbars Styling Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7112,7 +7866,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7146,7 +7907,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Shapes Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Shapes Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7159,7 +7920,18 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/`](https://www.w3.org/TR/2011/WD-css3-exclusions-20111213/)
+     * [`https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/`](https://www.w3.org/TR/2012/WD-css3-exclusions-20120503/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/), related reference "CSS3BOX" uses URL [`https://drafts.csswg.org/css-box-3/`](https://drafts.csswg.org/css-box-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7175,7 +7947,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Shapes Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Shapes Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7187,7 +7959,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7205,7 +7984,7 @@ Informative references to this spec from:
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
 
 
-### CSS Snapshot 2022 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Snapshot 2022 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -7218,7 +7997,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS1-20080411/`](https://www.w3.org/TR/2008/REC-CSS1-20080411/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/css-font-loading/`](https://www.w3.org/TR/css-font-loading/)
+     * [`https://www.w3.org/TR/css-namespaces/`](https://www.w3.org/TR/css-namespaces/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7229,7 +8013,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Snapshot 2023 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Snapshot 2023 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -7242,7 +8026,12 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2008/REC-CSS1-20080411/`](https://www.w3.org/TR/2008/REC-CSS1-20080411/)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
+     * [`https://www.w3.org/TR/css-font-loading/`](https://www.w3.org/TR/css-font-loading/)
+     * [`https://www.w3.org/TR/css-namespaces/`](https://www.w3.org/TR/css-namespaces/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7255,7 +8044,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Spatial Navigation Level 1 {data-spec=true data-anomaly=true data-missingDfns=true}
+### CSS Spatial Navigation Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7270,6 +8059,14 @@ No informative reference to this spec from other specs.
 
 - No definition for CSS constructs: 
      * `distance`
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7278,7 +8075,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Speech Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Speech Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7291,7 +8088,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2012/CR-css3-speech-20120320/`](https://www.w3.org/TR/2012/CR-css3-speech-20120320/)
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7343,7 +8148,7 @@ Informative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 
 
-### CSS Syntax Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Syntax Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -7356,7 +8161,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/selectors-api/`](https://www.w3.org/TR/selectors-api/)
+     * [`https://www.w3.org/TR/selectors/`](https://www.w3.org/TR/selectors/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7376,7 +8184,7 @@ Informative references to this spec from:
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
 
 
-### CSS Table Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Table Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7389,7 +8197,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-display-3/`](http://www.w3.org/TR/css-display-3/)
+     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/html5/tabular-data.html`](https://www.w3.org/TR/html5/tabular-data.html)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7412,7 +8229,7 @@ Informative references to this spec from:
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
 
 
-### CSS Text Decoration Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Text Decoration Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7425,7 +8242,19 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/), related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7450,7 +8279,7 @@ Informative references to this spec from:
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 
 
-### CSS Text Decoration Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Text Decoration Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7463,7 +8292,22 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations-1/`](https://www.w3.org/TR/web-animations-1/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2020/WD-css-text-decor-4-20200506/`](https://www.w3.org/TR/2020/WD-css-text-decor-4-20200506/), related reference "CSS-TEXT-DECOR-4" uses URL [`https://drafts.csswg.org/css-text-decor-4/`](https://drafts.csswg.org/css-text-decor-4/)
+     * [`https://www.w3.org/TR/2022/WD-css-text-decor-4-20220504/`](https://www.w3.org/TR/2022/WD-css-text-decor-4-20220504/), related reference "CSS-TEXT-DECOR-4" uses URL [`https://drafts.csswg.org/css-text-decor-4/`](https://drafts.csswg.org/css-text-decor-4/)
+     * [`https://www.w3.org/TR/css-ruby-1/`](https://www.w3.org/TR/css-ruby-1/), related reference "CSS-RUBY-1" uses URL [`https://drafts.csswg.org/css-ruby-1/`](https://drafts.csswg.org/css-ruby-1/)
+     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
+     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7496,7 +8340,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### CSS Text Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Text Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7509,7 +8353,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7556,7 +8413,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 
 
-### CSS Text Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Text Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7569,7 +8426,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/clreq/`](https://www.w3.org/TR/clreq/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
+     * [`https://www.w3.org/TR/jlreq/`](https://www.w3.org/TR/jlreq/)
+     * [`https://www.w3.org/TR/typography/`](https://www.w3.org/TR/typography/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
+     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/), related reference "CSS-TEXT-DECOR-3" uses URL [`https://drafts.csswg.org/css-text-decor-3/`](https://drafts.csswg.org/css-text-decor-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7621,7 +8491,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS Transforms Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Transforms Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7634,7 +8504,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/`](https://www.w3.org/TR/2009/WD-SVG-Transforms-20090320/)
+     * [`https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/`](https://www.w3.org/TR/2009/WD-css3-2d-transforms-20090320/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css3-animations/`](https://www.w3.org/TR/css3-animations/)
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-overflow-3/`](https://www.w3.org/TR/css-overflow-3/), related reference "CSS-OVERFLOW-3" uses URL [`https://drafts.csswg.org/css-overflow-3/`](https://drafts.csswg.org/css-overflow-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7653,7 +8536,7 @@ Informative references to this spec from:
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/)
 
 
-### CSS Transforms Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Transforms Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7666,7 +8549,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-transforms-1/`](https://www.w3.org/TR/css-transforms-1/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7691,7 +8581,7 @@ Informative references to this spec from:
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 
 
-### CSS Transitions Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Transitions Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7704,7 +8594,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog`](https://www.w3.org/TR/2013/WD-css3-transitions-20130212/ChangeLog)
+     * [`https://www.w3.org/TR/2013/WD-css3-transitions-20131119/`](https://www.w3.org/TR/2013/WD-css3-transitions-20131119/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7720,7 +8619,7 @@ Informative references to this spec from:
 - [SVG Animations](https://svgwg.org/specs/animations/)
 
 
-### CSS Transitions Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Transitions Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -7733,7 +8632,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7745,7 +8649,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7758,7 +8662,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7801,7 +8706,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Values and Units Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Values and Units Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7814,7 +8719,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/)
+     * [`https://www.w3.org/TR/css3-page/`](https://www.w3.org/TR/css3-page/)
+     * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7920,7 +8831,7 @@ Informative references to this spec from:
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/)
 
 
-### CSS Values and Units Module Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Values and Units Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -7933,7 +8844,19 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-values-3/`](http://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-syntax/`](https://www.w3.org/TR/css-syntax/)
+     * [`https://www.w3.org/TR/css-transitions-1/`](https://www.w3.org/TR/css-transitions-1/)
+     * [`https://www.w3.org/TR/css-transitions/`](https://www.w3.org/TR/css-transitions/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/cssom-1/`](https://www.w3.org/TR/cssom-1/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css3-fonts/`](https://www.w3.org/TR/css3-fonts/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8084,7 +9007,7 @@ Informative references to this spec from:
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 
 
-### CSS Values and Units Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true}
+### CSS Values and Units Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8101,6 +9024,9 @@ Informative references to this spec from:
      * `mix-function()`
      * `<color-mix()>`
      * `<cross-fade()>`
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-values-4/`](http://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
+     * [`https://www.w3.org/TR/css-values-4/`](https://www.w3.org/TR/css-values-4/), related reference "CSS-VALUES-4" uses URL [`https://drafts.csswg.org/css-values-4/`](https://drafts.csswg.org/css-values-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8118,7 +9044,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS View Transitions Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS View Transitions Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8131,7 +9057,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8144,7 +9076,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS View Transitions Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS View Transitions Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8156,7 +9088,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8165,7 +9102,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Viewport Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Viewport Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8178,7 +9115,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/`](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/)
+     * [`https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/`](https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/virtual-keyboard`](https://w3c.github.io/virtual-keyboard), related reference "VIRTUAL-KEYBOARD" uses URL [`https://www.w3.org/TR/virtual-keyboard/`](https://www.w3.org/TR/virtual-keyboard/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8190,7 +9135,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Will Change Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Will Change Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8203,7 +9148,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8216,7 +9168,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Writing Modes Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Writing Modes Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8229,7 +9181,19 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-logical-1/`](http://www.w3.org/TR/css-logical-1/), related reference "CSS-LOGICAL-1" uses URL [`https://drafts.csswg.org/css-logical-1/`](https://drafts.csswg.org/css-logical-1/)
+     * [`http://www.w3.org/TR/css-writing-modes-4/`](http://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-writing-modes-4/`](https://www.w3.org/TR/css-writing-modes-4/), related reference "CSS-WRITING-MODES-4" uses URL [`https://drafts.csswg.org/css-writing-modes-4/`](https://drafts.csswg.org/css-writing-modes-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8286,7 +9250,7 @@ Informative references to this spec from:
 - [CSS Positioned Layout Module Level 4](https://drafts.csswg.org/css-position-4/)
 
 
-### CSS Writing Modes Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Writing Modes Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8299,7 +9263,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/`](http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
+     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/css3-multicol/`](https://www.w3.org/TR/css3-multicol/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-logical-1/`](http://www.w3.org/TR/css-logical-1/), related reference "CSS-LOGICAL-1" uses URL [`https://drafts.csswg.org/css-logical-1/`](https://drafts.csswg.org/css-logical-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8410,7 +9387,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### Filter Effects Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Filter Effects Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8423,7 +9400,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html)
+     * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8449,7 +9436,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### Filter Effects Module Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### Filter Effects Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8461,7 +9448,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8546,7 +9538,7 @@ Informative references to this spec from:
 - [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 
 
-### Media Queries Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### Media Queries Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8559,7 +9551,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html`](http://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html)
+     * [`http://www.w3.org/TR/2010/REC-xml-stylesheet-20101028/`](http://www.w3.org/TR/2010/REC-xml-stylesheet-20101028/)
+     * [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/1999/REC-html401-19991224/types.html`](https://www.w3.org/TR/1999/REC-html401-19991224/types.html)
+     * [`https://www.w3.org/TR/2010/CR-css3-mediaqueries-20100727/`](https://www.w3.org/TR/2010/CR-css3-mediaqueries-20100727/)
+     * [`https://www.w3.org/TR/2018/SPSD-html401-20180327/`](https://www.w3.org/TR/2018/SPSD-html401-20180327/)
+     * [`https://www.w3.org/TR/css-cascade-5/`](https://www.w3.org/TR/css-cascade-5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8575,7 +9575,7 @@ Informative references to this spec from:
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 
 
-### Media Queries Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### Media Queries Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8588,7 +9588,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8620,7 +9622,7 @@ Informative references to this spec from:
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 
 
-### Media Queries Level 5 {data-spec=true data-missingDfns=true data-ok=true}
+### Media Queries Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8633,7 +9635,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/mediaqueries-4/`](https://www.w3.org/TR/mediaqueries-4/), related reference "MEDIAQUERIES-4" uses URL [`https://drafts.csswg.org/mediaqueries-4/`](https://drafts.csswg.org/mediaqueries-4/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8689,7 +9692,7 @@ Informative references to this spec from:
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 
 
-### Motion Path Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Motion Path Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8702,7 +9705,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8716,7 +9725,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Non-element Selectors Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Non-element Selectors Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8729,7 +9738,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/its20/`](https://www.w3.org/TR/its20/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8785,7 +9795,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### Scroll-driven Animations {data-spec=true data-anomaly=true data-missingDfns=true}
+### Scroll-driven Animations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8800,6 +9810,17 @@ Informative references to this spec from:
 
 - No definition for CSS constructs: 
      * `<keyframe-selector>`
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-transforms/`](http://www.w3.org/TR/css-transforms/)
+     * [`https://www.w3.org/TR/css-animations/`](https://www.w3.org/TR/css-animations/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2023/WD-scroll-animations-1-20230428/`](https://www.w3.org/TR/2023/WD-scroll-animations-1-20230428/), related reference "SCROLL-ANIMATIONS-1" uses URL [`https://drafts.csswg.org/scroll-animations-1/`](https://drafts.csswg.org/scroll-animations-1/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8815,7 +9836,7 @@ Informative references to this spec from:
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
-### Selectors Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### Selectors Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8828,7 +9849,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2011/REC-css3-selectors-20110929/`](http://www.w3.org/TR/2011/REC-css3-selectors-20110929/)
+     * [`https://www.w3.org/TR/css3-namespace/`](https://www.w3.org/TR/css3-namespace/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8870,7 +9893,7 @@ Informative references to this spec from:
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 
-### Selectors Level 4 {data-spec=true data-missingDfns=true data-ok=true}
+### Selectors Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8883,7 +9906,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-selectors4-20110929/`](https://www.w3.org/TR/2011/WD-selectors4-20110929/)
+     * [`https://www.w3.org/TR/2012/WD-selectors4-20120823/`](https://www.w3.org/TR/2012/WD-selectors4-20120823/)
+     * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
+     * [`https://www.w3.org/TR/css3-selectors`](https://www.w3.org/TR/css3-selectors)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-style-attr/`](https://www.w3.org/TR/css-style-attr/), related reference "CSSSTYLEATTR" uses URL [`https://drafts.csswg.org/css-style-attr/`](https://drafts.csswg.org/css-style-attr/)
+     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/), related reference "CSS3UI" uses URL [`https://drafts.csswg.org/css-ui-3/`](https://drafts.csswg.org/css-ui-3/)
+     * [`https://www.w3.org/TR/selectors-3/`](https://www.w3.org/TR/selectors-3/), related reference "SELECT" uses URL [`https://drafts.csswg.org/selectors-3/`](https://drafts.csswg.org/selectors-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8899,7 +9931,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Web Animations {data-spec=true data-missingDfns=true data-ok=true}
+### Web Animations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8912,7 +9944,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-easing/`](https://www.w3.org/TR/css-easing/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME" uses URL [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8949,7 +9984,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### Web Animations Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### Web Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -8962,7 +9997,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8981,7 +10019,7 @@ Informative references to this spec from:
 
 ## DOM Working Group {#group-dom_working_group}
 
-### Document Object Model (DOM) Level 2 Style Specification {data-spec=true data-missingDfns=true data-ok=true}
+### Document Object Model (DOM) Level 2 Style Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -8994,7 +10032,35 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/about.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/about.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/media.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/media.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/text.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/text.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html)
+     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html)
+     * [`https://www.w3.org/TR/1998/REC-html40-19980424`](https://www.w3.org/TR/1998/REC-html40-19980424)
+     * [`https://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html`](https://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html)
+     * [`https://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html`](https://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html)
+     * [`https://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html`](https://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html)
+     * [`https://www.w3.org/TR/1998/REC-html40-19980424/types.html`](https://www.w3.org/TR/1998/REC-html40-19980424/types.html)
+     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113)
+     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9008,7 +10074,7 @@ No informative reference to this spec from other specs.
 
 ## Devices and Sensors Working Group {#group-devices_and_sensors_working_group}
 
-### Accelerometer {data-spec=true data-missingDfns=true data-ok=true}
+### Accelerometer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9021,7 +10087,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/sensors/usecases.html`](https://w3c.github.io/sensors/usecases.html)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/screen-orientation/`](https://www.w3.org/TR/screen-orientation/), related reference "SCREEN-ORIENTATION" uses URL [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9089,7 +10158,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 
-### Compute Pressure Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Compute Pressure Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9102,7 +10171,11 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/picture-in-picture/`](https://w3c.github.io/picture-in-picture/)
+     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
+     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
+     * [`https://www.w3.org/TR/privacy-principles/`](https://www.w3.org/TR/privacy-principles/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9113,7 +10186,7 @@ Informative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
-### Contact Picker API {data-spec=true data-missingDfns=true data-ok=true}
+### Contact Picker API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9126,7 +10199,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2010/WD-contacts-api-20100121/`](https://www.w3.org/TR/2010/WD-contacts-api-20100121/)
+     * [`https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/`](https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/)
+     * [`https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/`](https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9283,7 +10359,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Gyroscope {data-spec=true data-missingDfns=true data-ok=true}
+### Gyroscope {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9296,7 +10372,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/motion-sensors/`](https://w3c.github.io/motion-sensors/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9355,7 +10432,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Orientation Sensor {data-spec=true data-missingDfns=true data-ok=true}
+### Orientation Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9368,7 +10445,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/), related reference "ORIENTATION-EVENT" uses URL [`https://w3c.github.io/deviceorientation/`](https://w3c.github.io/deviceorientation/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9427,7 +10505,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Vibration API (Second Edition) {data-spec=true data-missingDfns=true data-ok=true}
+### Vibration API (Second Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9440,7 +10518,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9453,7 +10532,7 @@ No informative reference to this spec from other specs.
 
 ## EPUB 3 Working Group {#group-epub_3_working_group}
 
-### EPUB 3.3 {data-spec=true data-missingDfns=true data-ok=true}
+### EPUB 3.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9466,7 +10545,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/epub-structural-tests/`](https://w3c.github.io/epub-structural-tests/)
+     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9479,7 +10560,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### EPUB Reading Systems 3.3 {data-spec=true data-missingDfns=true data-ok=true}
+### EPUB Reading Systems 3.3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9492,7 +10573,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://fetch.spec.whatwg.org/`](https://fetch.spec.whatwg.org/)
+     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9558,7 +10641,7 @@ No informative reference to this spec from other specs.
 
 ## HTML Media Extensions Working Group {#group-html_media_extensions_working_group}
 
-### Encrypted Media Extensions {data-spec=true data-missingDfns=true data-ok=true}
+### Encrypted Media Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9571,7 +10654,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://mimesniff.spec.whatwg.org/`](https://mimesniff.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9609,7 +10694,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Media Source Extensions Byte Stream Format Registry {data-spec=true data-error=true}
+### Media Source Extensions Byte Stream Format Registry {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -9622,15 +10707,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/mse-byte-stream-format-registry/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 476)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9799,7 +10876,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Raw Camera Access Module {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Raw Camera Access Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -9811,7 +10888,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9822,7 +10900,7 @@ No informative reference to this spec from other specs.
 
 ## Immersive Web Working Group {#group-immersive_web_working_group}
 
-### WebXR Anchors Module {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Anchors Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9834,7 +10912,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9846,7 +10925,7 @@ Informative references to this spec from:
 - [WebXR Plane Detection Module](https://immersive-web.github.io/real-world-geometry/plane-detection.html)
 
 
-### WebXR Augmented Reality Module - Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Augmented Reality Module - Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9859,7 +10938,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/compositing-1`](https://www.w3.org/TR/compositing-1), related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9875,7 +10956,7 @@ Informative references to this spec from:
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 
-### WebXR Depth Sensing Module {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Depth Sensing Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9888,7 +10969,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/), related reference "WEBXR-LAYERS-1" uses URL [`https://immersive-web.github.io/layers/`](https://immersive-web.github.io/layers/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9897,7 +10979,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Device API {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Device API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9910,7 +10992,12 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/orientation-sensor/`](https://www.w3.org/TR/orientation-sensor/)
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
+     * [`https://www.w3.org/TR/webxr-gamepads-module-1/`](https://www.w3.org/TR/webxr-gamepads-module-1/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9935,7 +11022,7 @@ Informative references to this spec from:
 - [WebXR Raw Camera Access Module](https://immersive-web.github.io/raw-camera-access/)
 
 
-### WebXR DOM Overlays Module {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR DOM Overlays Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9948,7 +11035,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9957,7 +11045,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Gamepads Module - Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Gamepads Module - Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9970,7 +11058,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/gamepad/`](https://www.w3.org/TR/gamepad/), related reference "GAMEPAD" uses URL [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/)
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9981,7 +11071,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebXR Hand Input Module - Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Hand Input Module - Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9994,7 +11084,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10027,7 +11118,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Layers API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Layers API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10040,7 +11131,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
+     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10052,7 +11145,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebXR Lighting Estimation API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### WebXR Lighting Estimation API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10065,7 +11158,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10076,7 +11170,7 @@ No informative reference to this spec from other specs.
 
 ## Internationalization Working Group {#group-internationalization_working_group}
 
-### Internationalization Glossary {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### Internationalization Glossary {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10090,6 +11184,10 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-text-4/`](https://www.w3.org/TR/css-text-4/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2005/REC-charmod-20050215/`](https://www.w3.org/TR/2005/REC-charmod-20050215/), related reference "CHARMOD" uses URL [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10202,7 +11300,7 @@ No informative reference to this spec from other specs.
 
 ## Math Working Group {#group-math_working_group}
 
-### Mathematical Markup Language (MathML) Version 4.0 {data-spec=true data-missingDfns=true data-ok=true}
+### Mathematical Markup Language (MathML) Version 4.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10215,7 +11313,17 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://w3c.github.io/mathml-core/spec.html`](https://w3c.github.io/mathml-core/spec.html)
+     * [`https://w3c.github.io/mathml-docs/intent-core-concepts/`](https://w3c.github.io/mathml-docs/intent-core-concepts/)
+     * [`https://w3c.github.io/mathml-docs/intent-core-properties`](https://w3c.github.io/mathml-docs/intent-core-properties)
+     * [`https://w3c.github.io/mathml-docs/intent-core-properties/`](https://w3c.github.io/mathml-docs/intent-core-properties/)
+     * [`https://w3c.github.io/mathml-docs/intent-open-concepts`](https://w3c.github.io/mathml-docs/intent-open-concepts)
+     * [`https://w3c.github.io/mathml-docs/intent-open-properties`](https://w3c.github.io/mathml-docs/intent-open-properties)
+     * [`https://www.w3.org/TR/wai-aria-1.1/`](https://www.w3.org/TR/wai-aria-1.1/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/2004/REC-xml-20040204/`](http://www.w3.org/TR/2004/REC-xml-20040204/), related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10226,7 +11334,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### MathML Core {data-spec=true data-missingDfns=true data-ok=true}
+### MathML Core {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10239,7 +11347,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10467,7 +11578,7 @@ Informative references to this spec from:
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
 
 
-### Media Capabilities {data-spec=true data-missingDfns=true data-ok=true}
+### Media Capabilities {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10480,7 +11591,11 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/media-source/`](https://www.w3.org/TR/media-source/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/encrypted-media/`](https://www.w3.org/TR/encrypted-media/), related reference "ENCRYPTED-MEDIA" uses URL [`https://w3c.github.io/encrypted-media/`](https://w3c.github.io/encrypted-media/)
+     * [`https://www.w3.org/TR/mediastream-recording/`](https://www.w3.org/TR/mediastream-recording/), related reference "MEDIASTREAM-RECORDING" uses URL [`https://w3c.github.io/mediacapture-record/`](https://w3c.github.io/mediacapture-record/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10495,7 +11610,7 @@ Informative references to this spec from:
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
 
-### Media Playback Quality {data-spec=true data-error=true}
+### Media Playback Quality {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -10507,15 +11622,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/media-playback-quality/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 147)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10527,7 +11634,7 @@ Informative references to this spec from:
 - [Media Source Extensions™](https://w3c.github.io/media-source/)
 
 
-### Media Session {data-spec=true data-missingDfns=true data-ok=true}
+### Media Session {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10540,7 +11647,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
+     * [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10551,7 +11660,7 @@ Informative references to this spec from:
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 
 
-### Media Source Extensions™ {data-spec=true data-missingDfns=true data-ok=true}
+### Media Source Extensions™ {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10564,7 +11673,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2016/CR-media-source-20160705/`](https://www.w3.org/TR/2016/CR-media-source-20160705/)
+     * [`https://www.w3.org/TR/2016/REC-media-source-20161117/`](https://www.w3.org/TR/2016/REC-media-source-20161117/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10757,7 +11868,7 @@ Informative references to this spec from:
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
 
 
-### WebCodecs {data-spec=true data-missingDfns=true data-ok=true}
+### WebCodecs {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10770,7 +11881,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/mst-content-hint/`](https://www.w3.org/TR/mst-content-hint/), related reference "MST-CONTENT-HINT" uses URL [`https://w3c.github.io/mst-content-hint/`](https://w3c.github.io/mst-content-hint/)
+     * [`https://www.w3.org/TR/webrtc-svc/`](https://www.w3.org/TR/webrtc-svc/), related reference "WebRTC-SVC" uses URL [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10802,7 +11915,7 @@ Informative references to this spec from:
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
 
 
-### WebCodecs Codec Registry {data-spec=true data-missingDfns=true data-ok=true}
+### WebCodecs Codec Registry {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10815,7 +11928,20 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/webcodecs-aac-codec-registration/`](https://www.w3.org/TR/webcodecs-aac-codec-registration/), related reference "WEBCODECS-AAC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/aac_codec_registration.html`](https://w3c.github.io/webcodecs/aac_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-alaw-codec-registration/`](https://www.w3.org/TR/webcodecs-alaw-codec-registration/), related reference "WEBCODECS-ALAW-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/alaw_codec_registration.html`](https://w3c.github.io/webcodecs/alaw_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-av1-codec-registration/`](https://www.w3.org/TR/webcodecs-av1-codec-registration/), related reference "WEBCODECS-AV1-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/av1_codec_registration.html`](https://w3c.github.io/webcodecs/av1_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-avc-codec-registration/`](https://www.w3.org/TR/webcodecs-avc-codec-registration/), related reference "WEBCODECS-AVC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/avc_codec_registration.html`](https://w3c.github.io/webcodecs/avc_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-flac-codec-registration/`](https://www.w3.org/TR/webcodecs-flac-codec-registration/), related reference "WEBCODECS-FLAC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/flac_codec_registration.html`](https://w3c.github.io/webcodecs/flac_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-hevc-codec-registration/`](https://www.w3.org/TR/webcodecs-hevc-codec-registration/), related reference "WEBCODECS-HEVC-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/hevc_codec_registration.html`](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-mp3-codec-registration/`](https://www.w3.org/TR/webcodecs-mp3-codec-registration/), related reference "WEBCODECS-MP3-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/mp3_codec_registration.html`](https://w3c.github.io/webcodecs/mp3_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-opus-codec-registration/`](https://www.w3.org/TR/webcodecs-opus-codec-registration/), related reference "WEBCODECS-OPUS-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/opus_codec_registration.html`](https://w3c.github.io/webcodecs/opus_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-pcm-codec-registration/`](https://www.w3.org/TR/webcodecs-pcm-codec-registration/), related reference "WEBCODECS-PCM-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/pcm_codec_registration.html`](https://w3c.github.io/webcodecs/pcm_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-ulaw-codec-registration/`](https://www.w3.org/TR/webcodecs-ulaw-codec-registration/), related reference "WEBCODECS-ULAW-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/ulaw_codec_registration.html`](https://w3c.github.io/webcodecs/ulaw_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-vorbis-codec-registration/`](https://www.w3.org/TR/webcodecs-vorbis-codec-registration/), related reference "WEBCODECS-VORBIS-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vorbis_codec_registration.html`](https://w3c.github.io/webcodecs/vorbis_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-vp8-codec-registration/`](https://www.w3.org/TR/webcodecs-vp8-codec-registration/), related reference "WEBCODECS-VP8-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vp8_codec_registration.html`](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
+     * [`https://www.w3.org/TR/webcodecs-vp9-codec-registration/`](https://www.w3.org/TR/webcodecs-vp9-codec-registration/), related reference "WEBCODECS-VP9-CODEC-REGISTRATION" uses URL [`https://w3c.github.io/webcodecs/vp9_codec_registration.html`](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10842,7 +11968,7 @@ Informative references to this spec from:
 
 ## MiniApps Working Group {#group-miniapps_working_group}
 
-### MiniApp Lifecycle {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### MiniApp Lifecycle {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10856,6 +11982,11 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+     * [`https://www.w3.org/TR/mini-app-white-paper/`](https://www.w3.org/TR/mini-app-white-paper/)
+     * [`https://www.w3.org/TR/miniapp-manifest/`](https://www.w3.org/TR/miniapp-manifest/)
+     * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10890,7 +12021,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### MiniApp Packaging {data-spec=true data-missingDfns=true data-ok=true}
+### MiniApp Packaging {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10903,7 +12034,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10940,7 +12072,7 @@ No informative reference to this spec from other specs.
 
 ## Patents and Standards Interest Group {#group-patents_and_standards_interest_group}
 
-### W3C Patent Policy {data-spec=true data-missingDfns=true data-ok=true}
+### W3C Patent Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10952,7 +12084,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10965,7 +12098,7 @@ No informative reference to this spec from other specs.
 
 ## Pointer Events Working Group {#group-pointer_events_working_group}
 
-### Pointer Events {data-spec=true data-missingDfns=true data-ok=true}
+### Pointer Events {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -10978,7 +12111,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/), related reference "TOUCH-EVENTS" uses URL [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10998,7 +12132,7 @@ Informative references to this spec from:
 
 ## Portable Network Graphics (PNG) Working Group {#group-portable_network_graphics_png_working_group}
 
-### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-missingDfns=true data-ok=true}
+### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11010,7 +12144,13 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
+     * [`https://www.w3.org/TR/2022/WD-png-3-20221025/`](https://www.w3.org/TR/2022/WD-png-3-20221025/)
+     * [`https://www.w3.org/TR/2023/CR-png-3-20230921/`](https://www.w3.org/TR/2023/CR-png-3-20230921/)
+     * [`https://www.w3.org/TR/2023/WD-png-3-20230720/`](https://www.w3.org/TR/2023/WD-png-3-20230720/)
+     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/)
+     * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11026,7 +12166,7 @@ Informative references to this spec from:
 
 ## Privacy Community Group {#group-privacy_community_group}
 
-### Global Privacy Control (GPC) {data-spec=true data-missingDfns=true data-ok=true}
+### Global Privacy Control (GPC) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11038,7 +12178,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11047,7 +12188,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Navigational-Tracking Mitigations {data-spec=true data-missingDfns=true data-ok=true}
+### Navigational-Tracking Mitigations {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -11059,7 +12200,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/), related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
+     * [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/), related reference "TRACKING-DNT" uses URL [`https://w3c.github.io/dnt/drafts/tracking-dnt.html`](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11176,7 +12319,7 @@ Informative references to this spec from:
 
 ## Private Advertising Technology Community Group {#group-private_advertising_technology_community_group}
 
-### Topics API {data-spec=true data-missingDfns=true data-ok=true}
+### Topics API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -11188,7 +12331,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11199,7 +12343,7 @@ No informative reference to this spec from other specs.
 
 ## RDF Dataset Canonicalization and Hash Working Group {#group-rdf_dataset_canonicalization_and_hash_working_group}
 
-### RDF Dataset Canonicalization {data-spec=true data-missingDfns=true data-ok=true}
+### RDF Dataset Canonicalization {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11212,7 +12356,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/rdf-canon/tests/`](https://w3c.github.io/rdf-canon/tests/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11225,7 +12370,7 @@ No informative reference to this spec from other specs.
 
 ## RDF Working Group {#group-rdf_working_group}
 
-### RDF 1.1 N-Quads {data-spec=true data-missingDfns=true data-ok=true}
+### RDF 1.1 N-Quads {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -11238,7 +12383,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/n-triples/`](https://www.w3.org/TR/n-triples/), related reference "N-TRIPLES" uses URL [`https://www.w3.org/TR/2014/REC-n-triples-20140225/`](https://www.w3.org/TR/2014/REC-n-triples-20140225/)
+     * [`https://www.w3.org/TR/rdf11-concepts/`](https://www.w3.org/TR/rdf11-concepts/), related reference "RDF11-CONCEPTS" uses URL [`https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
+     * [`https://www.w3.org/TR/turtle/`](https://www.w3.org/TR/turtle/), related reference "TURTLE" uses URL [`https://www.w3.org/TR/2014/REC-turtle-20140225/`](https://www.w3.org/TR/2014/REC-turtle-20140225/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11253,7 +12401,7 @@ Informative references to this spec from:
 
 ## RDF-star Working Group {#group-rdf_star_working_group}
 
-### RDF 1.2 Concepts and Abstract Syntax {data-spec=true data-missingDfns=true data-ok=true}
+### RDF 1.2 Concepts and Abstract Syntax {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11266,7 +12414,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/rdf-dir-literal/`](https://w3c.github.io/rdf-dir-literal/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11484,7 +12633,7 @@ Informative references to this spec from:
 - [RDF 1.2 Semantics](https://w3c.github.io/rdf-semantics/spec/)
 
 
-### RDF 1.2 XML Syntax {data-spec=true data-missingDfns=true data-ok=true}
+### RDF 1.2 XML Syntax {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -11497,7 +12646,64 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error001.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-abouteach/error002.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test002.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test004.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test005.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test009.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test013.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.nt`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/rdfms-empty-property-elements/test014.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test001.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test004.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test008.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test011.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test013.rdf)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.nt)
+     * [`https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf`](https://w3c.github.io/rdf-tests/rdf-xml/xmlbase/test014.rdf)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example08.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example09.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example10.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example11.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example12.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example13.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example14.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example15.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example16.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example17.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example18.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example19.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.nt), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example20.rdf), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rnc), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
+     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/rdfxml.rng), related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11518,7 +12724,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Entailment Regimes](https://w3c.github.io/sparql-entailment/spec/)
 
 
-### SPARQL 1.2 Entailment Regimes {data-spec=true data-missingDfns=true data-ok=true}
+### SPARQL 1.2 Entailment Regimes {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11531,7 +12737,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/owl2-test/`](http://www.w3.org/TR/owl2-test/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11560,7 +12767,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
-### SPARQL 1.2 Federated Query {data-spec=true data-missingDfns=true data-ok=true}
+### SPARQL 1.2 Federated Query {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11573,7 +12780,19 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/`](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/)
+     * [`http://www.w3.org/TR/2011/WD-sparql11-query-20110512/`](http://www.w3.org/TR/2011/WD-sparql11-query-20110512/)
+     * [`http://www.w3.org/TR/2013/CR-turtle-20130219/`](http://www.w3.org/TR/2013/CR-turtle-20130219/)
+     * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321)
+     * [`http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321`](http://www.w3.org/TR/2013/REC-sparql11-protocol-20130321)
+     * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321)
+     * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/)
+     * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/)
+     * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/)
+     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
+     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/)
+     * [`http://www.w3.org/TR/xml11/`](http://www.w3.org/TR/xml11/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11602,7 +12821,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
-### SPARQL 1.2 Graph Store Protocol {data-spec=true data-missingDfns=true data-ok=true}
+### SPARQL 1.2 Graph Store Protocol {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11615,7 +12834,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2004/REC-rdf-mt-20040210/`](http://www.w3.org/TR/2004/REC-rdf-mt-20040210/)
+     * [`http://www.w3.org/TR/2004/REC-webarch-20041215/`](http://www.w3.org/TR/2004/REC-webarch-20041215/)
+     * [`http://www.w3.org/TR/2013/REC-sparql11-query-20130321`](http://www.w3.org/TR/2013/REC-sparql11-query-20130321)
+     * [`http://www.w3.org/TR/2013/REC-sparql11-update-20130321`](http://www.w3.org/TR/2013/REC-sparql11-update-20130321)
+     * [`http://www.w3.org/TR/html4/`](http://www.w3.org/TR/html4/)
+     * [`http://www.w3.org/TR/html4/interact/forms.html`](http://www.w3.org/TR/html4/interact/forms.html)
+     * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/)
+     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
+     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/)
+     * [`http://www.w3.org/TR/webarch/`](http://www.w3.org/TR/webarch/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11644,7 +12873,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
-### SPARQL 1.2 Overview {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+### SPARQL 1.2 Overview {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11657,6 +12886,24 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - No normative references found
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321`](http://www.w3.org/TR/2013/REC-rdf-sparql-XMLres-20130321)
+     * [`http://www.w3.org/TR/owl2-overview/`](http://www.w3.org/TR/owl2-overview/)
+     * [`http://www.w3.org/TR/rdf-mt/`](http://www.w3.org/TR/rdf-mt/)
+     * [`http://www.w3.org/TR/rdf-schema/`](http://www.w3.org/TR/rdf-schema/)
+     * [`http://www.w3.org/TR/rdf-sparql-XMLres/`](http://www.w3.org/TR/rdf-sparql-XMLres/)
+     * [`http://www.w3.org/TR/rdf-sparql-query/`](http://www.w3.org/TR/rdf-sparql-query/)
+     * [`http://www.w3.org/TR/rif-overview/`](http://www.w3.org/TR/rif-overview/)
+     * [`http://www.w3.org/TR/sparql11-entailment/`](http://www.w3.org/TR/sparql11-entailment/)
+     * [`http://www.w3.org/TR/sparql11-federated-query/`](http://www.w3.org/TR/sparql11-federated-query/)
+     * [`http://www.w3.org/TR/sparql11-http-rdf-update/`](http://www.w3.org/TR/sparql11-http-rdf-update/)
+     * [`http://www.w3.org/TR/sparql11-protocol/`](http://www.w3.org/TR/sparql11-protocol/)
+     * [`http://www.w3.org/TR/sparql11-query/`](http://www.w3.org/TR/sparql11-query/)
+     * [`http://www.w3.org/TR/sparql11-results-csv-tsv/`](http://www.w3.org/TR/sparql11-results-csv-tsv/)
+     * [`http://www.w3.org/TR/sparql11-results-json/`](http://www.w3.org/TR/sparql11-results-json/)
+     * [`http://www.w3.org/TR/sparql11-service-description/`](http://www.w3.org/TR/sparql11-service-description/)
+     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/)
+     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11685,7 +12932,7 @@ Informative references to this spec from:
 - [SPARQL 1.2 Query Results XML Format](https://w3c.github.io/sparql-results-xml/spec/)
 
 
-### SPARQL 1.2 Protocol {data-spec=true data-missingDfns=true data-ok=true}
+### SPARQL 1.2 Protocol {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11698,7 +12945,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11981,7 +13229,7 @@ Informative references to this spec from:
 
 ## SVG Working Group {#group-svg_working_group}
 
-### CSS Fill and Stroke Module Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Fill and Stroke Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11994,7 +13242,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12005,7 +13258,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Scalable Vector Graphics (SVG) 1.1 (Second Edition) {data-spec=true data-missingDfns=true data-ok=true}
+### Scalable Vector Graphics (SVG) 1.1 (Second Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12018,7 +13271,34 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html`](https://www.w3.org/TR/1999/REC-html401-19991224/present/styles.html)
+     * [`https://www.w3.org/TR/1999/REC-html401-19991224/struct/links.html`](https://www.w3.org/TR/1999/REC-html401-19991224/struct/links.html)
+     * [`https://www.w3.org/TR/2001/REC-MathML2-20010221/`](https://www.w3.org/TR/2001/REC-MathML2-20010221/)
+     * [`https://www.w3.org/TR/2001/REC-xlink-20010627/`](https://www.w3.org/TR/2001/REC-xlink-20010627/)
+     * [`https://www.w3.org/TR/2003/REC-MathML2-20031021/`](https://www.w3.org/TR/2003/REC-MathML2-20031021/)
+     * [`https://www.w3.org/TR/2005/NOTE-xml11schema10-20050511/`](https://www.w3.org/TR/2005/NOTE-xml11schema10-20050511/)
+     * [`https://www.w3.org/TR/html4/`](https://www.w3.org/TR/html4/)
+     * [`https://www.w3.org/TR/smil/`](https://www.w3.org/TR/smil/)
+     * [`https://www.w3.org/TR/xlink/`](https://www.w3.org/TR/xlink/)
+     * [`https://www.w3.org/TR/xml-names11/`](https://www.w3.org/TR/xml-names11/)
+     * [`https://www.w3.org/TR/xml-stylesheet/`](https://www.w3.org/TR/xml-stylesheet/)
+     * [`https://www.w3.org/TR/xsl/`](https://www.w3.org/TR/xsl/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2006/REC-xml-20060816/`](https://www.w3.org/TR/2006/REC-xml-20060816/), related reference "XML10" uses URL [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "XML-NS" uses URL [`https://www.w3.org/TR/2009/REC-xml-names-20091208/`](https://www.w3.org/TR/2009/REC-xml-names-20091208/)
+     * [`https://www.w3.org/TR/charmod/`](https://www.w3.org/TR/charmod/), related reference "CHARMOD" uses URL [`https://www.w3.org/TR/2005/REC-charmod-20050215/`](https://www.w3.org/TR/2005/REC-charmod-20050215/)
+     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/), related reference "SELECTORS" uses URL [`https://www.w3.org/TR/2009/PR-css3-selectors-20091215/`](https://www.w3.org/TR/2009/PR-css3-selectors-20091215/)
+     * [`https://www.w3.org/TR/rdf-primer/`](https://www.w3.org/TR/rdf-primer/), related reference "RDF-PRIMER" uses URL [`https://www.w3.org/TR/2004/REC-rdf-primer-20040210/`](https://www.w3.org/TR/2004/REC-rdf-primer-20040210/)
+     * [`https://www.w3.org/TR/smil-animation/`](https://www.w3.org/TR/smil-animation/), related reference "SMILANIM" uses URL [`https://www.w3.org/TR/2001/REC-smil-animation-20010904/`](https://www.w3.org/TR/2001/REC-smil-animation-20010904/)
+     * [`https://www.w3.org/TR/xhtml1/`](https://www.w3.org/TR/xhtml1/), related reference "XHTML" uses URL [`https://www.w3.org/TR/2002/REC-xhtml1-20020801/`](https://www.w3.org/TR/2002/REC-xhtml1-20020801/)
+     * [`https://www.w3.org/TR/xlink11/`](https://www.w3.org/TR/xlink11/), related reference "XLINK" uses URL [`https://www.w3.org/TR/2010/REC-xlink11-20100506/`](https://www.w3.org/TR/2010/REC-xlink11-20100506/)
+     * [`https://www.w3.org/TR/xml-names/`](https://www.w3.org/TR/xml-names/), related reference "XML-NS" uses URL [`https://www.w3.org/TR/2009/REC-xml-names-20091208/`](https://www.w3.org/TR/2009/REC-xml-names-20091208/)
+     * [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/), related reference "XML10" uses URL [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`https://www.w3.org/TR/xmlbase/`](https://www.w3.org/TR/xmlbase/), related reference "XML-BASE" uses URL [`https://www.w3.org/TR/2009/REC-xmlbase-20090128/`](https://www.w3.org/TR/2009/REC-xmlbase-20090128/)
+     * [`https://www.w3.org/TR/xmlschema-2/`](https://www.w3.org/TR/xmlschema-2/), related reference "SCHEMA2" uses URL [`https://www.w3.org/TR/2004/REC-xmlschema-2-20041028/`](https://www.w3.org/TR/2004/REC-xmlschema-2-20041028/)
+     * [`https://www.w3.org/TR/xslt`](https://www.w3.org/TR/xslt), related reference "XSLT" uses URL [`https://www.w3.org/TR/1999/REC-xslt-19991116`](https://www.w3.org/TR/1999/REC-xslt-19991116)
+     * [`https://www.w3.org/TR/xslt20/`](https://www.w3.org/TR/xslt20/), related reference "XSLT2" uses URL [`https://www.w3.org/TR/2007/REC-xslt20-20070123/`](https://www.w3.org/TR/2007/REC-xslt20-20070123/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12063,7 +13343,7 @@ Informative references to this spec from:
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/)
 
 
-### Scalable Vector Graphics (SVG) 2 {data-spec=true data-anomaly=true data-missingDfns=true}
+### Scalable Vector Graphics (SVG) 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12076,6 +13356,67 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`http://w3c.github.io/selection-api/`](http://w3c.github.io/selection-api/)
+     * [`https://w3c.github.io/web-animations/`](https://w3c.github.io/web-animations/)
+     * [`https://www.w3.org/TR/2001/REC-xlink-20010627/`](https://www.w3.org/TR/2001/REC-xlink-20010627/)
+     * [`https://www.w3.org/TR/2003/REC-MathML2-20031021/`](https://www.w3.org/TR/2003/REC-MathML2-20031021/)
+     * [`https://www.w3.org/TR/2012/CR-WebIDL-20120419/`](https://www.w3.org/TR/2012/CR-WebIDL-20120419/)
+     * [`https://www.w3.org/TR/2013/REC-css-style-attr-20131107/`](https://www.w3.org/TR/2013/REC-css-style-attr-20131107/)
+     * [`https://www.w3.org/TR/2015/WD-svg-markers-20150407/`](https://www.w3.org/TR/2015/WD-svg-markers-20150407/)
+     * [`https://www.w3.org/TR/2015/WD-svg-strokes-20150407/`](https://www.w3.org/TR/2015/WD-svg-strokes-20150407/)
+     * [`https://www.w3.org/TR/accname-aam-1.1/`](https://www.w3.org/TR/accname-aam-1.1/)
+     * [`https://www.w3.org/TR/core-aam-1.1/`](https://www.w3.org/TR/core-aam-1.1/)
+     * [`https://www.w3.org/TR/css-backgrounds-3/`](https://www.w3.org/TR/css-backgrounds-3/)
+     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/)
+     * [`https://www.w3.org/TR/css-cascade-3/`](https://www.w3.org/TR/css-cascade-3/)
+     * [`https://www.w3.org/TR/css-content-3/`](https://www.w3.org/TR/css-content-3/)
+     * [`https://www.w3.org/TR/css-position-3/`](https://www.w3.org/TR/css-position-3/)
+     * [`https://www.w3.org/TR/css-selectors-3/`](https://www.w3.org/TR/css-selectors-3/)
+     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
+     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
+     * [`https://www.w3.org/TR/css3-exclusions/`](https://www.w3.org/TR/css3-exclusions/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css3-transforms/`](https://www.w3.org/TR/css3-transforms/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/filter-effects/`](https://www.w3.org/TR/filter-effects/)
+     * [`https://www.w3.org/TR/orientation-event/`](https://www.w3.org/TR/orientation-event/)
+     * [`https://www.w3.org/TR/resource-hints/`](https://www.w3.org/TR/resource-hints/)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
+     * [`https://www.w3.org/TR/smil/`](https://www.w3.org/TR/smil/)
+     * [`https://www.w3.org/TR/svg-integration/`](https://www.w3.org/TR/svg-integration/)
+     * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/)
+     * [`https://www.w3.org/TR/xlink/`](https://www.w3.org/TR/xlink/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/2014/CR-geometry-1-20141125/`](http://www.w3.org/TR/2014/CR-geometry-1-20141125/), related reference "geometry-1" uses URL [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/)
+     * [`https://w3c.github.io/clipboard-apis/`](https://w3c.github.io/clipboard-apis/), related reference "clipboard-apis" uses URL [`https://www.w3.org/TR/clipboard-apis/`](https://www.w3.org/TR/clipboard-apis/)
+     * [`https://w3c.github.io/graphics-aria/`](https://w3c.github.io/graphics-aria/), related reference "graphics-aria-1.0" uses URL [`https://www.w3.org/TR/graphics-aria-1.0/`](https://www.w3.org/TR/graphics-aria-1.0/)
+     * [`https://w3c.github.io/svg-aam/`](https://w3c.github.io/svg-aam/), related reference "svg-aam-1.0" uses URL [`https://www.w3.org/TR/svg-aam-1.0/`](https://www.w3.org/TR/svg-aam-1.0/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "uievents" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+     * [`https://www.w3.org/TR/2001/REC-smil-animation-20010904/`](https://www.w3.org/TR/2001/REC-smil-animation-20010904/), related reference "smil-animation" uses URL [`https://www.w3.org/TR/smil-animation/`](https://www.w3.org/TR/smil-animation/)
+     * [`https://www.w3.org/TR/2006/REC-xml-names-20060816/`](https://www.w3.org/TR/2006/REC-xml-names-20060816/), related reference "xml-names" uses URL [`https://www.w3.org/TR/xml-names`](https://www.w3.org/TR/xml-names)
+     * [`https://www.w3.org/TR/2008/REC-CSS2-20080411/media.html`](https://www.w3.org/TR/2008/REC-CSS2-20080411/media.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/), related reference "xml" uses URL [`https://www.w3.org/TR/xml`](https://www.w3.org/TR/xml)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/`](https://www.w3.org/TR/2011/REC-CSS2-20110607/), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/cascade.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/media.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/media.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/selector.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/selector.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html), related reference "CSS2" uses URL [`https://www.w3.org/TR/CSS2`](https://www.w3.org/TR/CSS2)
+     * [`https://www.w3.org/TR/2011/WD-css3-fonts-20111004/`](https://www.w3.org/TR/2011/WD-css3-fonts-20111004/), related reference "css-fonts-3" uses URL [`https://www.w3.org/TR/css-fonts-3/`](https://www.w3.org/TR/css-fonts-3/)
+     * [`https://www.w3.org/TR/2014/CR-html5-20140204/dom.html`](https://www.w3.org/TR/2014/CR-html5-20140204/dom.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
+     * [`https://www.w3.org/TR/2014/WD-dom-20140204/`](https://www.w3.org/TR/2014/WD-dom-20140204/), related reference "dom" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2014/WD-geometry-1-20140522/`](https://www.w3.org/TR/2014/WD-geometry-1-20140522/), related reference "geometry-1" uses URL [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/)
+     * [`https://www.w3.org/TR/2015/CR-compositing-1-20150113`](https://www.w3.org/TR/2015/CR-compositing-1-20150113), related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/2015/CR-compositing-1-20150113/`](https://www.w3.org/TR/2015/CR-compositing-1-20150113/), related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/`](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/), related reference "UAAG20" uses URL [`https://www.w3.org/TR/UAAG20/`](https://www.w3.org/TR/UAAG20/)
+     * [`https://www.w3.org/TR/compositing/`](https://www.w3.org/TR/compositing/), related reference "compositing-1" uses URL [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "css-values" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/), related reference "css-values" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "css-writing-modes-3" uses URL [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "dom" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/), related reference "ReferrerPolicy" uses URL [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12160,7 +13501,7 @@ Informative references to this spec from:
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
 
 
-### SVG Accessibility API Mappings {data-spec=true data-missingDfns=true data-ok=true}
+### SVG Accessibility API Mappings {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12173,7 +13514,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2012/WD-css-masking-20121115/`](http://www.w3.org/TR/2012/WD-css-masking-20121115/)
+     * [`http://www.w3.org/TR/2012/WD-filter-effects-20121025/`](http://www.w3.org/TR/2012/WD-filter-effects-20121025/)
+     * [`http://www.w3.org/TR/html5/embedded-content-0.html`](http://www.w3.org/TR/html5/embedded-content-0.html)
+     * [`http://www.w3.org/TR/html5/scripting-1.html`](http://www.w3.org/TR/html5/scripting-1.html)
+     * [`https://w3c.github.io/accname/`](https://w3c.github.io/accname/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://w3c.github.io/core-aam/`](https://w3c.github.io/core-aam/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/graphics-aam/`](https://w3c.github.io/graphics-aam/), related reference "GRAPHICS-AAM" uses URL [`https://www.w3.org/TR/graphics-aam-1.0/`](https://www.w3.org/TR/graphics-aam-1.0/)
+     * [`https://w3c.github.io/html-aam/`](https://w3c.github.io/html-aam/), related reference "HTML-AAM" uses URL [`https://www.w3.org/TR/html-aam-1.0/`](https://www.w3.org/TR/html-aam-1.0/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12189,7 +13540,7 @@ Informative references to this spec from:
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
 
 
-### SVG Animations {data-spec=true data-anomaly=true data-missingDfns=true}
+### SVG Animations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12201,6 +13552,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`http://www.w3.org/TR/charmod/`](http://www.w3.org/TR/charmod/)
+     * [`http://www.w3.org/TR/smil/`](http://www.w3.org/TR/smil/)
+     * [`https://www.w3.org/TR/css-transforms-1/`](https://www.w3.org/TR/css-transforms-1/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+     * [`https://www.w3.org/TR/wai-aria-1.1/`](https://www.w3.org/TR/wai-aria-1.1/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/2006/REC-xml-20060816/`](http://www.w3.org/TR/2006/REC-xml-20060816/), related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`http://www.w3.org/TR/2012/WD-dom-20120405/`](http://www.w3.org/TR/2012/WD-dom-20120405/), related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+     * [`http://www.w3.org/TR/2014/REC-html5-20141028/`](http://www.w3.org/TR/2014/REC-html5-20141028/), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+     * [`http://www.w3.org/TR/css-transitions-1/`](http://www.w3.org/TR/css-transitions-1/), related reference "CSS3TRANSITIONS" uses URL [`http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/`](http://www.w3.org/TR/2012/WD-css-transitions-1-20120403/)
+     * [`http://www.w3.org/TR/dom/`](http://www.w3.org/TR/dom/), related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+     * [`http://www.w3.org/TR/html/`](http://www.w3.org/TR/html/), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+     * [`http://www.w3.org/TR/smil-animation/`](http://www.w3.org/TR/smil-animation/), related reference "SMILANIM" uses URL [`http://www.w3.org/TR/2001/REC-smil-animation-20010904/`](http://www.w3.org/TR/2001/REC-smil-animation-20010904/)
+     * [`http://www.w3.org/TR/xml/`](http://www.w3.org/TR/xml/), related reference "XML10" uses URL [`http://www.w3.org/TR/2008/REC-xml-20081126/`](http://www.w3.org/TR/2008/REC-xml-20081126/)
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/), related reference "DOM4" uses URL [`http://www.w3.org/TR/2014/WD-dom-20140204/`](http://www.w3.org/TR/2014/WD-dom-20140204/)
+     * [`https://html.spec.whatwg.org/multipage/webappapis.html`](https://html.spec.whatwg.org/multipage/webappapis.html), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
+     * [`https://html.spec.whatwg.org/multipage/window-object.html`](https://html.spec.whatwg.org/multipage/window-object.html), related reference "HTML" uses URL [`http://www.w3.org/TR/html5/`](http://www.w3.org/TR/html5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12214,7 +13584,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### SVG Integration {data-spec=true data-missingDfns=true data-ok=true}
+### SVG Integration {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12227,7 +13597,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/)
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML5" uses URL [`https://www.w3.org/TR/2014/CR-html5-20140204/`](https://www.w3.org/TR/2014/CR-html5-20140204/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12238,7 +13612,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### SVG Strokes {data-spec=true data-anomaly=true data-missingDfns=true}
+### SVG Strokes {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -12251,6 +13625,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-values/`](https://www.w3.org/TR/css3-values/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12379,7 +13755,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Window Management {data-spec=true data-missingDfns=true data-ok=true}
+### Window Management {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12392,7 +13768,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12406,7 +13785,7 @@ Informative references to this spec from:
 
 ## Service Workers Working Group {#group-service_workers_working_group}
 
-### Service Workers Nightly {data-spec=true data-missingDfns=true data-ok=true}
+### Service Workers Nightly {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -12419,7 +13798,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/)
+     * [`https://w3c.github.io/payment-handler/`](https://w3c.github.io/payment-handler/)
+     * [`https://w3c.github.io/push-api/`](https://w3c.github.io/push-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12498,7 +13880,7 @@ Informative references to this spec from:
 
 ## Timed Text Working Group {#group-timed_text_working_group}
 
-### WebVTT: The Web Video Text Tracks Format {data-spec=true data-missingDfns=true data-ok=true}
+### WebVTT: The Web Video Text Tracks Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -12511,7 +13893,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12526,7 +13909,7 @@ Informative references to this spec from:
 
 ## Tracking Protection Working Group {#group-tracking_protection_working_group}
 
-### Tracking Preference Expression (DNT) {data-spec=true data-missingDfns=true data-ok=true}
+### Tracking Preference Expression (DNT) {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12539,7 +13922,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html5/single-page.html`](https://www.w3.org/TR/html5/single-page.html), related reference "HTML51" uses URL [`https://www.w3.org/TR/html51/`](https://www.w3.org/TR/html51/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12579,7 +13963,7 @@ Informative references to this spec from:
 - [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
 
 
-### Verifiable Credentials Data Model v2.0 {data-spec=true data-missingDfns=true data-ok=true}
+### Verifiable Credentials Data Model v2.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -12592,7 +13976,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/vc-data-model-2.0-test-suite/`](https://w3c.github.io/vc-data-model-2.0-test-suite/)
+     * [`https://w3c.github.io/vc-di-bbs/`](https://w3c.github.io/vc-di-bbs/)
+     * [`https://www.w3.org/TR/2019/REC-vc-data-model-20191119/`](https://www.w3.org/TR/2019/REC-vc-data-model-20191119/)
+     * [`https://www.w3.org/TR/2022/REC-vc-data-model-20220303/`](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/)
+     * [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/)
+     * [`https://www.w3.org/TR/ld-glossary/`](https://www.w3.org/TR/ld-glossary/)
+     * [`https://www.w3.org/TR/vc-imp-guide/`](https://www.w3.org/TR/vc-imp-guide/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12639,7 +14030,7 @@ Informative references to this spec from:
 
 ## Web Application Security Working Group {#group-web_application_security_working_group}
 
-### A Well-Known URL for Changing Passwords {data-spec=true data-missingDfns=true data-ok=true}
+### A Well-Known URL for Changing Passwords {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12649,6 +14040,28 @@ Informative references to this spec from:
 - Editor's Draft: [https://w3c.github.io/webappsec-change-password-url/](https://w3c.github.io/webappsec-change-password-url/)
 - Latest published version: [https://www.w3.org/TR/change-password-url/](https://www.w3.org/TR/change-password-url/)
 - Shortname: change-password-url
+
+#### Potential issue(s) {.anomalies}
+
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/), related reference "SECURE-CONTEXTS" uses URL [`https://www.w3.org/TR/secure-contexts/`](https://www.w3.org/TR/secure-contexts/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### A Well-Known URL for Passkey Endpoints {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
+- Crawled URL: [https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
+- Crawled version: 29 November 2023
+- Editor's Draft: [https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
+- Shortname: passkey-endpoints
 
 #### Potential issue(s) {.anomalies}
 
@@ -12692,7 +14105,7 @@ Informative references to this spec from:
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 
 
-### Content Security Policy Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### Content Security Policy Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12705,7 +14118,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12745,7 +14159,7 @@ Informative references to this spec from:
 - [Web Serial API](https://wicg.github.io/serial/)
 
 
-### Content Security Policy: Embedded Enforcement {data-spec=true data-missingDfns=true data-ok=true}
+### Content Security Policy: Embedded Enforcement {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12758,7 +14172,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12769,7 +14184,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Credential Management Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Credential Management Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -12782,7 +14197,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec/usecases/credentialmanagement/`](https://w3c.github.io/webappsec/usecases/credentialmanagement/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12832,7 +14248,7 @@ Informative references to this spec from:
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 
 
-### Mixed Content {data-spec=true data-missingDfns=true data-ok=true}
+### Mixed Content {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -12845,7 +14261,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2008/REC-xml-20081126/`](https://www.w3.org/TR/2008/REC-xml-20081126/), related reference "XML" uses URL [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13136,7 +14553,7 @@ Informative references to this spec from:
 - [WebUSB API](https://wicg.github.io/webusb/)
 
 
-### Subresource Integrity {data-spec=true data-missingDfns=true data-ok=true}
+### Subresource Integrity {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -13149,7 +14566,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/powerful-features/`](http://www.w3.org/TR/powerful-features/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/html5/infrastructure.html`](http://www.w3.org/TR/html5/infrastructure.html), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13168,7 +14588,7 @@ Informative references to this spec from:
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 
 
-### Trusted Types {data-spec=true data-missingDfns=true data-ok=true}
+### Trusted Types {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -13181,12 +14601,17 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
+     * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/trusted-types/`](https://www.w3.org/TR/trusted-types/), related reference "TRUSTED-TYPES" uses URL [`https://w3c.github.io/trusted-types/dist/spec/`](https://w3c.github.io/trusted-types/dist/spec/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
+- [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -13194,7 +14619,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Upgrade Insecure Requests {data-spec=true data-missingDfns=true data-ok=true}
+### Upgrade Insecure Requests {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -13207,7 +14632,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec/specs/mixedcontent/`](https://w3c.github.io/webappsec/specs/mixedcontent/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/dom/`](http://www.w3.org/TR/dom/), related reference "DOM" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13273,7 +14701,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Contact Picker API {data-spec=true data-missingDfns=true data-ok=true}
+### Contact Picker API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13286,7 +14714,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2010/WD-contacts-api-20100121/`](https://www.w3.org/TR/2010/WD-contacts-api-20100121/)
+     * [`https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/`](https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/)
+     * [`https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/`](https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13375,7 +14806,7 @@ Informative references to this spec from:
 - [WebHID API](https://wicg.github.io/webhid/)
 
 
-### Gamepad Extensions {data-spec=true data-missingDfns=true data-ok=true}
+### Gamepad Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13387,7 +14818,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/gamepad/`](https://w3c.github.io/gamepad/)
+     * [`https://w3c.github.io/touch-events/`](https://w3c.github.io/touch-events/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13427,7 +14860,7 @@ Informative references to this spec from:
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 
 
-### Indexed Database API 3.0 {data-spec=true data-missingDfns=true data-ok=true}
+### Indexed Database API 3.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13440,7 +14873,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2015/REC-IndexedDB-20150108/`](https://www.w3.org/TR/2015/REC-IndexedDB-20150108/)
+     * [`https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/`](https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13460,7 +14895,7 @@ Informative references to this spec from:
 - [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
 
 
-### Intersection Observer {data-spec=true data-missingDfns=true data-ok=true}
+### Intersection Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13473,7 +14908,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-masking-1/`](http://www.w3.org/TR/css-masking-1/)
+     * [`http://www.w3.org/TR/hr-time/`](http://www.w3.org/TR/hr-time/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13488,7 +14925,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Pointer Lock 2.0 {data-spec=true data-missingDfns=true data-ok=true}
+### Pointer Lock 2.0 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -13501,7 +14938,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "ui-events" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13581,7 +15019,7 @@ Informative references to this spec from:
 - [Window Management](https://w3c.github.io/window-management/)
 
 
-### UI Events {data-spec=true data-missingDfns=true data-ok=true}
+### UI Events {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -13594,7 +15032,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/uievents-code/`](http://www.w3.org/TR/uievents-code/), related reference "UIEvents-Code" uses URL [`https://w3c.github.io/uievents-code/`](https://w3c.github.io/uievents-code/)
+     * [`http://www.w3.org/TR/uievents-key/`](http://www.w3.org/TR/uievents-key/), related reference "UIEvents-Key" uses URL [`https://w3c.github.io/uievents-key/`](https://w3c.github.io/uievents-key/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13628,7 +15068,7 @@ Informative references to this spec from:
 - [WebHID API](https://wicg.github.io/webhid/)
 
 
-### UI Events KeyboardEvent code Values {data-spec=true data-missingDfns=true data-ok=true}
+### UI Events KeyboardEvent code Values {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13641,7 +15081,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/apa/fast/checklist.html`](https://w3c.github.io/apa/fast/checklist.html)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13655,7 +15097,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### UI Events KeyboardEvent key Values {data-spec=true data-missingDfns=true data-ok=true}
+### UI Events KeyboardEvent key Values {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13668,7 +15110,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/apa/fast/checklist.html`](https://w3c.github.io/apa/fast/checklist.html)
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13750,7 +15194,7 @@ Informative references to this spec from:
 - [Window Controls Overlay](https://wicg.github.io/window-controls-overlay/)
 
 
-### Web Locks API {data-spec=true data-missingDfns=true data-ok=true}
+### Web Locks API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13763,7 +15207,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13776,7 +15221,7 @@ Informative references to this spec from:
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 
-### Web Share API {data-spec=true data-missingDfns=true data-ok=true}
+### Web Share API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13789,7 +15234,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/web-intents`](https://www.w3.org/TR/web-intents)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13806,7 +15253,7 @@ Informative references to this spec from:
 
 ## Web Authentication Working Group {#group-web_authentication_working_group}
 
-### Web Authentication: An API for accessing Public Key Credentials - Level 3 {data-spec=true data-missingDfns=true data-ok=true}
+### Web Authentication: An API for accessing Public Key Credentials - Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13819,12 +15266,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/IntersectionObserver/v2/`](https://w3c.github.io/IntersectionObserver/v2/)
+     * [`https://www.w3.org/TR/string-meta/`](https://www.w3.org/TR/string-meta/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
+- [A Well-Known URL for Passkey Endpoints](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
@@ -13838,7 +15288,7 @@ Informative references to this spec from:
 
 ## Web Bluetooth Community Group {#group-web_bluetooth_community_group}
 
-### Web Bluetooth {data-spec=true data-missingDfns=true data-ok=true}
+### Web Bluetooth {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13850,7 +15300,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13922,7 +15373,7 @@ Informative references to this spec from:
 
 ## Web Editing Working Group {#group-web_editing_working_group}
 
-### Clipboard API and events {data-spec=true data-missingDfns=true data-ok=true}
+### Clipboard API and events {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -13935,7 +15386,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/editing/`](https://w3c.github.io/editing/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13970,7 +15422,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### EditContext API {data-spec=true data-missingDfns=true data-ok=true}
+### EditContext API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -13983,7 +15435,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "uievents" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13992,7 +15447,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Input Events Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### Input Events Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -14005,7 +15460,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/edit-context/`](https://w3c.github.io/edit-context/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/), related reference "UI-EVENTS" uses URL [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14018,7 +15476,7 @@ Informative references to this spec from:
 - [UI Events](https://w3c.github.io/uievents/)
 
 
-### Selection API {data-spec=true data-missingDfns=true data-ok=true}
+### Selection API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -14031,7 +15489,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/html5/`](https://www.w3.org/TR/html5/), related reference "HTML" uses URL [`https://html.spec.whatwg.org/multipage/`](https://html.spec.whatwg.org/multipage/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14042,7 +15503,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### VirtualKeyboard API {data-spec=true data-missingDfns=true data-ok=true}
+### VirtualKeyboard API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -14055,7 +15516,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14068,7 +15530,7 @@ No informative reference to this spec from other specs.
 
 ## Web Events Working Group {#group-web_events_working_group}
 
-### Touch Events - Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### Touch Events - Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -14081,7 +15543,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`http://www.w3.org/TR/touch-events-extensions/`](http://www.w3.org/TR/touch-events-extensions/)
+     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14314,7 +15778,7 @@ Informative references to this spec from:
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 
 
-### Payment Request API 1.1 {data-spec=true data-missingDfns=true data-ok=true}
+### Payment Request API 1.1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -14327,7 +15791,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14346,7 +15811,7 @@ Informative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 
 
-### Secure Payment Confirmation {data-spec=true data-missingDfns=true data-ok=true}
+### Secure Payment Confirmation {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -14359,7 +15824,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/), related reference "I18N-GLOSSARY" uses URL [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14420,7 +15888,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Event Timing API {data-spec=true data-missingDfns=true data-ok=true}
+### Event Timing API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -14433,7 +15901,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/pointerevents3/`](https://www.w3.org/TR/pointerevents3/), related reference "POINTEREVENTS3" uses URL [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/), related reference "UIEVENTS" uses URL [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14723,7 +16195,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Performance Timeline {data-spec=true data-missingDfns=true data-ok=true}
+### Performance Timeline {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -14736,7 +16208,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14825,7 +16298,7 @@ Informative references to this spec from:
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 
 
-### Resource Timing {data-spec=true data-missingDfns=true data-ok=true}
+### Resource Timing {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -14838,7 +16311,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE-2" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14998,7 +16472,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Background Fetch {data-spec=true data-missingDfns=true data-ok=true}
+### Background Fetch {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15010,7 +16484,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/)
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/), related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15043,7 +16523,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Client Hints Infrastructure {data-spec=true data-missingDfns=true data-ok=true}
+### Client Hints Infrastructure {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -15055,7 +16535,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15095,7 +16576,7 @@ Informative references to this spec from:
 - [Streams Standard](https://streams.spec.whatwg.org/)
 
 
-### Content Index {data-spec=true data-missingDfns=true data-ok=true}
+### Content Index {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15107,7 +16588,11 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://www.w3.org/TR/service-workers/`](https://www.w3.org/TR/service-workers/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/image-resource/`](https://w3c.github.io/image-resource/), related reference "IMAGE-RESOURCE" uses URL [`https://www.w3.org/TR/image-resource/`](https://www.w3.org/TR/image-resource/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15137,7 +16622,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Crash Reporting {data-spec=true data-missingDfns=true data-ok=true}
+### Crash Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15149,7 +16634,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15221,7 +16707,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Deprecation Reporting {data-spec=true data-missingDfns=true data-ok=true}
+### Deprecation Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15233,7 +16719,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15263,7 +16750,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Digital Credentials {data-spec=true data-missingDfns=true data-ok=true}
+### Digital Credentials {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -15275,7 +16762,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15284,7 +16773,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Digital Goods API {data-spec=true data-missingDfns=true data-ok=true}
+### Digital Goods API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15296,7 +16785,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/), related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15347,7 +16839,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Document Policy {data-spec=true data-missingDfns=true data-ok=true}
+### Document Policy {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15359,7 +16851,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15438,7 +16931,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Federated Credential Management API {data-spec=true data-missingDfns=true data-ok=true}
+### Federated Credential Management API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -15450,7 +16943,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15562,7 +17056,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Crawled URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
-- Crawled version: 4 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Shortname: sanitizer-api
 
@@ -15577,7 +17071,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### HTMLVideoElement.requestVideoFrameCallback() {data-spec=true data-missingDfns=true data-ok=true}
+### HTMLVideoElement.requestVideoFrameCallback() {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15589,7 +17083,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+     * [`https://w3c.github.io/media-capabilities`](https://w3c.github.io/media-capabilities), related reference "MEDIA-CAPABILITIES" uses URL [`https://www.w3.org/TR/media-capabilities/`](https://www.w3.org/TR/media-capabilities/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15598,7 +17094,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Idle Detection API {data-spec=true data-missingDfns=true data-ok=true}
+### Idle Detection API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -15610,7 +17106,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15621,7 +17118,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Iframe credentialless {data-spec=true data-missingDfns=true data-ok=true}
+### Iframe credentialless {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -15633,7 +17130,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/hr-time//issues/1`](https://www.w3.org/TR/hr-time//issues/1)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15684,7 +17182,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Intervention Reporting {data-spec=true data-missingDfns=true data-ok=true}
+### Intervention Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15696,7 +17194,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15705,7 +17204,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### JS Self-Profiling API {data-spec=true data-missingDfns=true data-ok=true}
+### JS Self-Profiling API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -15717,7 +17216,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-permissions-policy/document-policy.html`](https://w3c.github.io/webappsec-permissions-policy/document-policy.html)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15750,7 +17250,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Keyboard Map {data-spec=true data-missingDfns=true data-ok=true}
+### Keyboard Map {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15762,7 +17262,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "PERMISSIONS-POLICY-1" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15771,7 +17272,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Layout Instability API {data-spec=true data-missingDfns=true data-ok=true}
+### Layout Instability API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -15783,7 +17284,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/)
+     * [`https://w3c.github.io/resource-timing/`](https://w3c.github.io/resource-timing/)
+     * [`https://www.w3.org/TR/pointerevents/`](https://www.w3.org/TR/pointerevents/)
+     * [`https://www.w3.org/TR/uievents/`](https://www.w3.org/TR/uievents/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
+     * [`https://w3c.github.io/paint-timing/`](https://w3c.github.io/paint-timing/), related reference "PAINT-TIMING" uses URL [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
+     * [`https://w3c.github.io/performance-timeline/`](https://w3c.github.io/performance-timeline/), related reference "PERFORMANCE-TIMELINE" uses URL [`https://www.w3.org/TR/performance-timeline/`](https://www.w3.org/TR/performance-timeline/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15925,7 +17435,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Network Information API {data-spec=true data-missingDfns=true data-ok=true}
+### Network Information API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -15937,7 +17447,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/v1/`](https://w3c.github.io/ServiceWorker/v1/)
+     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15992,7 +17504,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### overscroll and scrollend events {data-spec=true data-missingDfns=true data-ok=true}
+### overscroll and scrollend events {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16004,7 +17516,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/cssom-view/`](https://www.w3.org/TR/cssom-view/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16013,7 +17527,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Page Lifecycle {data-spec=true data-missingDfns=true data-ok=true}
+### Page Lifecycle {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16025,7 +17539,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/IntersectionObserver/`](https://w3c.github.io/IntersectionObserver/)
+     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16036,7 +17552,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Portals {data-spec=true data-missingDfns=true data-ok=true}
+### Portals {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16048,7 +17564,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
+     * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/), related reference "REFERRER-POLICY" uses URL [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16212,7 +17732,7 @@ Informative references to this spec from:
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
 
 
-### Relinquishing Permissions {data-spec=true data-missingDfns=true data-ok=true}
+### Relinquishing Permissions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16224,7 +17744,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16233,7 +17754,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Requesting Permissions {data-spec=true data-missingDfns=true data-ok=true}
+### Requesting Permissions {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16245,7 +17766,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16261,7 +17783,7 @@ Informative references to this spec from:
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 
 
-### Responsive Image Client Hints {data-spec=true data-missingDfns=true data-ok=true}
+### Responsive Image Client Hints {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16273,7 +17795,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16282,7 +17805,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Save Data API {data-spec=true data-error=true}
+### Save Data API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16294,15 +17817,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/savedata/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 230)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/netinfo/`](https://www.w3.org/TR/netinfo/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16313,7 +17829,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Scripting Policy {data-spec=true data-missingDfns=true data-ok=true}
+### Scripting Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16325,7 +17841,12 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/webappsec-trusted-types/dist/spec/`](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/), related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16357,7 +17878,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Shared Storage API {data-spec=true data-missingDfns=true data-ok=true}
+### Shared Storage API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16369,7 +17890,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/), related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16380,7 +17904,7 @@ Informative references to this spec from:
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
 
 
-### Soft Navigations {data-spec=true data-missingDfns=true data-ok=true}
+### Soft Navigations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16392,7 +17916,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/event-timing/`](https://w3c.github.io/event-timing/)
+     * [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
+     * [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16445,7 +17972,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### URL Fragment Text Directives {data-spec=true data-missingDfns=true data-ok=true}
+### URL Fragment Text Directives {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16457,7 +17984,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/selection-api/`](https://w3c.github.io/selection-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16510,7 +18038,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### User-Agent Client Hints {data-spec=true data-missingDfns=true data-ok=true}
+### User-Agent Client Hints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16522,7 +18050,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/)
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16556,7 +18086,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Web Background Synchronization {data-spec=true data-missingDfns=true data-ok=true}
+### Web Background Synchronization {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16568,7 +18098,12 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/)
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+     * [`https://w3c.github.io/webappsec/specs/powerfulfeatures/`](https://w3c.github.io/webappsec/specs/powerfulfeatures/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16581,7 +18116,7 @@ Informative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 
 
-### Web Periodic Background Synchronization {data-spec=true data-missingDfns=true data-ok=true}
+### Web Periodic Background Synchronization {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16593,7 +18128,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/), related reference "PERMISSIONS" uses URL [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16739,7 +18277,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebOTP API {data-spec=true data-missingDfns=true data-ok=true}
+### WebOTP API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16751,7 +18289,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/), related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
+     * [`https://w3c.github.io/webappsec-permissions-policy/`](https://w3c.github.io/webappsec-permissions-policy/), related reference "Permissions-Policy" uses URL [`https://www.w3.org/TR/permissions-policy-1/`](https://www.w3.org/TR/permissions-policy-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16812,20 +18352,22 @@ No informative reference to this spec from other specs.
 
 ## Web Platform Working Group {#group-web_platform_working_group}
 
-### DOM Parsing and Serialization {data-spec=true data-missingDfns=true data-ok=true}
+### DOM Parsing and Serialization {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/DOM-Parsing/](https://www.w3.org/TR/DOM-Parsing/)
 - Crawled URL: [https://w3c.github.io/DOM-Parsing/](https://w3c.github.io/DOM-Parsing/)
-- Crawled version: 02 May 2021
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://w3c.github.io/DOM-Parsing/](https://w3c.github.io/DOM-Parsing/)
 - Latest published version: [https://www.w3.org/TR/DOM-Parsing/](https://www.w3.org/TR/DOM-Parsing/)
 - Shortname: DOM-Parsing
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/trusted-types/dist/spec/`](https://w3c.github.io/trusted-types/dist/spec/), related reference "TRUSTED-TYPES" uses URL [`https://www.w3.org/TR/trusted-types/`](https://www.w3.org/TR/trusted-types/)
+     * [`https://www.w3.org/TR/dom/`](https://www.w3.org/TR/dom/), related reference "DOM4" uses URL [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16867,7 +18409,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Capture Handle - Bootstrapping Collaboration when Screensharing {data-spec=true data-missingDfns=true data-ok=true}
+### Capture Handle - Bootstrapping Collaboration when Screensharing {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -16880,7 +18422,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16910,7 +18453,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Identifiers for WebRTC's Statistics API {data-spec=true data-missingDfns=true data-ok=true}
+### Identifiers for WebRTC's Statistics API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16923,7 +18466,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/)
+     * [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "GETUSERMEDIA" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16936,7 +18483,7 @@ Informative references to this spec from:
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 
 
-### Identity for WebRTC 1.0 {data-spec=true data-anomaly=true data-missingDfns=true}
+### Identity for WebRTC 1.0 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -16949,6 +18496,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/webrtc-pc/`](https://w3c.github.io/webrtc-pc/), related reference "WEBRTC" uses URL [`https://www.w3.org/TR/webrtc/`](https://www.w3.org/TR/webrtc/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17018,7 +18567,7 @@ Informative references to this spec from:
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
 
 
-### Media Capture Automation {data-spec=true data-missingDfns=true data-ok=true}
+### Media Capture Automation {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -17030,7 +18579,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17039,7 +18589,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Media Capture from DOM Elements {data-spec=true data-missingDfns=true data-ok=true}
+### Media Capture from DOM Elements {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -17052,7 +18602,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/), related reference "mediacapture-streams" uses URL [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17063,7 +18614,7 @@ Informative references to this spec from:
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 
 
-### MediaStream Image Capture {data-spec=true data-missingDfns=true data-ok=true}
+### MediaStream Image Capture {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -17076,7 +18627,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/), related reference "GETUSERMEDIA" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17090,7 +18642,7 @@ Informative references to this spec from:
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 
 
-### MediaStream Recording {data-spec=true data-missingDfns=true data-ok=true}
+### MediaStream Recording {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -17103,7 +18655,11 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/webrtc-identity/`](https://www.w3.org/TR/webrtc-identity/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/), related reference "GETUSERMEDIA" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17143,7 +18699,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### MediaStreamTrack Insertable Media Processing using Streams {data-spec=true data-missingDfns=true data-ok=true}
+### MediaStreamTrack Insertable Media Processing using Streams {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -17156,7 +18712,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/), related reference "MEDIACAPTURE-STREAMS" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17165,7 +18722,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Region Capture {data-spec=true data-missingDfns=true data-ok=true}
+### Region Capture {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17178,7 +18735,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-transform/`](https://w3c.github.io/mediacapture-transform/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17296,7 +18854,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebRTC Encoded Transform {data-spec=true data-missingDfns=true data-ok=true}
+### WebRTC Encoded Transform {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17309,7 +18867,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17342,7 +18901,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### WebRTC: Real-Time Communication in Browsers {data-spec=true data-missingDfns=true data-ok=true}
+### WebRTC: Real-Time Communication in Browsers {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17355,7 +18914,8 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html`](https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17389,19 +18949,22 @@ Informative references to this spec from:
 
 ## WebAssembly Community Group {#group-webassembly_community_group}
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
-- Crawled version: 9 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://webassembly.github.io/branch-hinting/core/bikeshed/](https://webassembly.github.io/branch-hinting/core/bikeshed/)
 - Shortname: wasm-core-2-fork-branch-hinting
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17410,7 +18973,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17422,7 +18985,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17431,7 +18997,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17443,7 +19009,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17452,7 +19021,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17464,7 +19033,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17473,7 +19045,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17485,7 +19057,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17494,7 +19069,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17506,7 +19081,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17515,7 +19093,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17527,7 +19105,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17536,7 +19117,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17548,7 +19129,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17557,7 +19141,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly JavaScript Interface {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17569,7 +19153,11 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/)
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17578,7 +19166,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly JavaScript Interface {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17590,7 +19178,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17599,7 +19190,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly JavaScript Interface {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17611,7 +19202,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17620,7 +19214,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly JavaScript Interface {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17632,7 +19226,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17641,7 +19238,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebAssembly JavaScript Interface: Exception Handling {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly JavaScript Interface: Exception Handling {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17653,7 +19250,10 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17664,20 +19264,23 @@ No informative reference to this spec from other specs.
 
 ## WebAssembly Working Group {#group-webassembly_working_group}
 
-### WebAssembly Core Specification {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Core Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/wasm-core-2/](https://www.w3.org/TR/wasm-core-2/)
 - Crawled URL: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
-- Crawled version: 3 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://webassembly.github.io/spec/core/bikeshed/](https://webassembly.github.io/spec/core/bikeshed/)
 - Latest published version: [https://www.w3.org/TR/wasm-core-2/](https://www.w3.org/TR/wasm-core-2/)
 - Shortname: wasm-core-2
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17689,20 +19292,23 @@ Informative references to this spec from:
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
 
 
-### WebAssembly JavaScript Interface {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
-- Crawled version: 3 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://webassembly.github.io/spec/js-api/](https://webassembly.github.io/spec/js-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-js-api-2/](https://www.w3.org/TR/wasm-js-api-2/)
 - Shortname: wasm-js-api-2
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17717,20 +19323,23 @@ Informative references to this spec from:
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 
-### WebAssembly Web API {data-spec=true data-missingDfns=true data-ok=true}
+### WebAssembly Web API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Crawled URL: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
-- Crawled version: 3 April 2024
+- Crawled version: 10 April 2024
 - Editor's Draft: [https://webassembly.github.io/spec/web-api/](https://webassembly.github.io/spec/web-api/)
 - Latest published version: [https://www.w3.org/TR/wasm-web-api-2/](https://www.w3.org/TR/wasm-web-api-2/)
 - Shortname: wasm-web-api-2
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17741,7 +19350,7 @@ No informative reference to this spec from other specs.
 
 ## WebTransport Working Group {#group-webtransport_working_group}
 
-### WebTransport {data-spec=true data-missingDfns=true data-ok=true}
+### WebTransport {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17754,7 +19363,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://websockets.spec.whatwg.org/`](https://websockets.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/string-meta/`](https://www.w3.org/TR/string-meta/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17771,7 +19382,7 @@ Informative references to this spec from:
 
 ## Compatibility Workstream {#group-compatibility_workstream}
 
-### Compatibility Standard {data-spec=true data-missingDfns=true data-ok=true}
+### Compatibility Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -17783,7 +19394,12 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18176,6 +19792,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [A Well-Known URL for Passkey Endpoints](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Beacon](https://w3c.github.io/beacon/)
@@ -18325,7 +19942,7 @@ Informative references to this spec from:
 
 ## HTML Workstream {#group-html_workstream}
 
-### HTML Standard {data-spec=true data-missingDfns=true data-ok=true}
+### HTML Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -18337,13 +19954,18 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://spec.whatwg.org/`](https://spec.whatwg.org/)
+     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/manifest/`](https://w3c.github.io/manifest/), related reference "MANIFEST" uses URL [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [A Well-Known URL for Passkey Endpoints](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
 - [Accelerated Shape Detection in Images](https://wicg.github.io/shape-detection-api/)
 - [Accelerated Text Detection in Images](https://wicg.github.io/shape-detection-api/text.html)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
@@ -18750,6 +20372,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [A Well-Known URL for Passkey Endpoints](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
 - [Accelerometer](https://w3c.github.io/accelerometer/)
 - [Accessible Name and Description Computation 1.2](https://w3c.github.io/accname/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.3](https://w3c.github.io/aria/)
@@ -19087,7 +20710,7 @@ Informative references to this spec from:
 
 ## Quirks Mode Workstream {#group-quirks_mode_workstream}
 
-### Quirks Mode Standard {data-spec=true data-missingDfns=true data-ok=true}
+### Quirks Mode Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -19099,7 +20722,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19292,6 +20916,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [A Well-Known URL for Changing Passwords](https://w3c.github.io/webappsec-change-password-url/)
+- [A Well-Known URL for Passkey Endpoints](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Audiobooks](https://w3c.github.io/audiobooks/)
 - [Background Fetch](https://wicg.github.io/background-fetch/)
@@ -19403,7 +21028,7 @@ Informative references to this spec from:
 
 ## Web IDL Workstream {#group-web_idl_workstream}
 
-### Web IDL Standard {data-spec=true data-missingDfns=true data-ok=true}
+### Web IDL Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -19415,7 +21040,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/`](https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19487,6 +21113,7 @@ Normative references to this spec from:
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
+- [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
 - [EditContext API](https://w3c.github.io/edit-context/)
@@ -19695,7 +21322,7 @@ Informative references to this spec from:
 
 ## XMLHttpRequest Workstream {#group-xmlhttprequest_workstream}
 
-### XMLHttpRequest Standard {data-spec=true data-missingDfns=true data-ok=true}
+### XMLHttpRequest Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -19707,7 +21334,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html)
 
 #### Known dependencies on this specification {.dependencies}
 
