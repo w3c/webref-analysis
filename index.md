@@ -12415,7 +12415,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-concepts/](https://www.w3.org/TR/rdf12-concepts/)
 - Crawled URL: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
-- Crawled version: 07 March 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-concepts/](https://www.w3.org/TR/rdf12-concepts/)
 - Shortname: rdf12-concepts
@@ -12452,7 +12452,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-n-quads/](https://www.w3.org/TR/rdf12-n-quads/)
 - Crawled URL: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
-- Crawled version: 21 March 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/rdf-n-quads/spec/](https://w3c.github.io/rdf-n-quads/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-n-quads/](https://www.w3.org/TR/rdf12-n-quads/)
 - Shortname: rdf12-n-quads
@@ -12484,7 +12484,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-n-triples/](https://www.w3.org/TR/rdf12-n-triples/)
 - Crawled URL: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
-- Crawled version: 21 March 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/rdf-n-triples/spec/](https://w3c.github.io/rdf-n-triples/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-n-triples/](https://www.w3.org/TR/rdf12-n-triples/)
 - Shortname: rdf12-n-triples
@@ -12516,7 +12516,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-schema/](https://www.w3.org/TR/rdf12-schema/)
 - Crawled URL: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
-- Crawled version: 28 September 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/rdf-schema/spec/](https://w3c.github.io/rdf-schema/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-schema/](https://www.w3.org/TR/rdf12-schema/)
 - Shortname: rdf12-schema
@@ -12548,7 +12548,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-semantics/](https://www.w3.org/TR/rdf12-semantics/)
 - Crawled URL: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
-- Crawled version: 25 January 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/rdf-semantics/spec/](https://w3c.github.io/rdf-semantics/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-semantics/](https://www.w3.org/TR/rdf12-semantics/)
 - Shortname: rdf12-semantics
@@ -12581,7 +12581,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-trig/](https://www.w3.org/TR/rdf12-trig/)
 - Crawled URL: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
-- Crawled version: 04 November 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/rdf-trig/spec/](https://w3c.github.io/rdf-trig/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-trig/](https://www.w3.org/TR/rdf12-trig/)
 - Shortname: rdf12-trig
@@ -12613,7 +12613,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-turtle/](https://www.w3.org/TR/rdf12-turtle/)
 - Crawled URL: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
-- Crawled version: 08 February 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-turtle/](https://www.w3.org/TR/rdf12-turtle/)
 - Shortname: rdf12-turtle
@@ -12647,7 +12647,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-xml/](https://www.w3.org/TR/rdf12-xml/)
 - Crawled URL: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
-- Crawled version: 04 November 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/rdf-xml/spec/](https://w3c.github.io/rdf-xml/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-xml/](https://www.w3.org/TR/rdf12-xml/)
 - Shortname: rdf12-xml
@@ -12738,7 +12738,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-entailment/](https://www.w3.org/TR/sparql12-entailment/)
 - Crawled URL: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
-- Crawled version: 20 July 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-entailment/spec/](https://w3c.github.io/sparql-entailment/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-entailment/](https://www.w3.org/TR/sparql12-entailment/)
 - Shortname: sparql12-entailment
@@ -12781,7 +12781,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-federated-query/](https://www.w3.org/TR/sparql12-federated-query/)
 - Crawled URL: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
-- Crawled version: 21 March 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-federated-query/spec/](https://w3c.github.io/sparql-federated-query/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-federated-query/](https://www.w3.org/TR/sparql12-federated-query/)
 - Shortname: sparql12-federated-query
@@ -12835,7 +12835,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-graph-store-protocol/](https://www.w3.org/TR/sparql12-graph-store-protocol/)
 - Crawled URL: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
-- Crawled version: 20 July 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-graph-store-protocol/spec/](https://w3c.github.io/sparql-graph-store-protocol/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-graph-store-protocol/](https://www.w3.org/TR/sparql12-graph-store-protocol/)
 - Shortname: sparql12-graph-store-protocol
@@ -12946,7 +12946,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-protocol/](https://www.w3.org/TR/sparql12-protocol/)
 - Crawled URL: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
-- Crawled version: 14 December 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-protocol/spec/](https://w3c.github.io/sparql-protocol/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-protocol/](https://www.w3.org/TR/sparql12-protocol/)
 - Shortname: sparql12-protocol
@@ -12989,7 +12989,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-query/](https://www.w3.org/TR/sparql12-query/)
 - Crawled URL: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
-- Crawled version: 21 March 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-query/spec/](https://w3c.github.io/sparql-query/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-query/](https://www.w3.org/TR/sparql12-query/)
 - Shortname: sparql12-query
@@ -13031,7 +13031,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-results-csv-tsv/](https://www.w3.org/TR/sparql12-results-csv-tsv/)
 - Crawled URL: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
-- Crawled version: 10 November 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-results-csv-tsv/spec/](https://w3c.github.io/sparql-results-csv-tsv/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-results-csv-tsv/](https://www.w3.org/TR/sparql12-results-csv-tsv/)
 - Shortname: sparql12-results-csv-tsv
@@ -13073,7 +13073,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-results-json/](https://www.w3.org/TR/sparql12-results-json/)
 - Crawled URL: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
-- Crawled version: 08 February 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-results-json/spec/](https://w3c.github.io/sparql-results-json/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-results-json/](https://www.w3.org/TR/sparql12-results-json/)
 - Shortname: sparql12-results-json
@@ -13115,7 +13115,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-results-xml/](https://www.w3.org/TR/sparql12-results-xml/)
 - Crawled URL: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
-- Crawled version: 30 November 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-results-xml/spec/](https://w3c.github.io/sparql-results-xml/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-results-xml/](https://www.w3.org/TR/sparql12-results-xml/)
 - Shortname: sparql12-results-xml
@@ -13157,7 +13157,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-service-description/](https://www.w3.org/TR/sparql12-service-description/)
 - Crawled URL: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
-- Crawled version: 14 December 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-service-description/spec/](https://w3c.github.io/sparql-service-description/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-service-description/](https://www.w3.org/TR/sparql12-service-description/)
 - Shortname: sparql12-service-description
@@ -13199,7 +13199,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/sparql12-update/](https://www.w3.org/TR/sparql12-update/)
 - Crawled URL: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
-- Crawled version: 28 September 2023
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/sparql-update/spec/](https://w3c.github.io/sparql-update/spec/)
 - Latest published version: [https://www.w3.org/TR/sparql12-update/](https://www.w3.org/TR/sparql12-update/)
 - Shortname: sparql12-update
@@ -17721,7 +17721,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 9 April 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18915,7 +18915,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 02 April 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
@@ -19252,7 +19252,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 2 April 2024
+- Crawled version: 11 April 2024
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
