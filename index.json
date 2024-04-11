@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-11T00:46:54.313Z",
+  "date": "2024-04-11T06:35:03.943Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -18786,7 +18786,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "27 March 2024",
+      "date": "11 April 2024",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -27721,7 +27721,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "03 April 2024",
+      "date": "11 April 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -29008,7 +29008,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "10 April 2024",
+      "date": "11 April 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
