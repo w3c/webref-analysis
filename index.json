@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-12T12:38:03.605Z",
+  "date": "2024-04-12T18:31:55.125Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -1000,7 +1000,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "9 April 2024",
+      "date": "12 April 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -25586,7 +25586,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "03 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25652,7 +25652,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "03 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -28971,7 +28971,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "10 April 2024",
+      "date": "12 April 2024",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -39871,7 +39871,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "11 April 2024",
+      "date": "12 April 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -56125,7 +56125,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2",
-      "date": "10 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-2/",
@@ -56372,7 +56372,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "10 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -56491,7 +56491,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "10 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
