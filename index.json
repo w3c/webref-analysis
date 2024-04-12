@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-12T06:32:25.023Z",
+  "date": "2024-04-12T12:38:03.605Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -3135,7 +3135,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "21 February 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
