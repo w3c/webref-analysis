@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-13T00:46:17.355Z",
+  "date": "2024-04-13T06:31:39.144Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -31371,7 +31371,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "9 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -44694,6 +44694,11 @@
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html"
             },
             {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
+            },
+            {
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
               "title": "RFC 9110 - HTTP Semantics",
               "crawled": "https://httpwg.org/specs/rfc9110.html"
@@ -44759,6 +44764,11 @@
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
               "title": "Cookies: HTTP State Management Mechanism",
               "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
             },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -60951,15 +60961,14 @@
               "url": "https://www.w3.org/TR/epub-rs-33/",
               "title": "EPUB Reading Systems 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
-            }
-          ],
-          "informative": [
+            },
             {
               "url": "https://www.w3.org/TR/IFT/",
               "title": "Incremental Font Transfer",
               "crawled": "https://w3c.github.io/IFT/Overview.html"
             }
-          ]
+          ],
+          "informative": []
         },
         "ok": true
       }

@@ -1616,6 +1616,7 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
 
@@ -1842,6 +1843,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
+- [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 
 
@@ -15582,7 +15584,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 9 April 2024
+- Crawled version: 12 April 2024
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Shortname: IFT
@@ -15648,10 +15650,9 @@ Normative references to this spec from:
 
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
-
-Informative references to this spec from:
-
 - [Incremental Font Transfer](https://w3c.github.io/IFT/Overview.html)
+
+No informative reference to this spec from other specs.
 
 
 ## Web Machine Learning Working Group {#group-web_machine_learning_working_group}
