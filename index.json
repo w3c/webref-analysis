@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-12T18:31:55.125Z",
+  "date": "2024-04-13T00:46:17.355Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -2138,6 +2138,11 @@
               "crawled": "https://drafts.csswg.org/css-ui-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -3969,11 +3974,6 @@
               "crawled": "https://drafts.csswg.org/css-align-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-box-4/",
               "title": "CSS Box Model Module Level 4",
               "crawled": "https://drafts.csswg.org/css-box-4/"
@@ -4558,7 +4558,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "11 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -4629,6 +4629,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
@@ -4971,6 +4976,11 @@
               "url": "https://www.w3.org/TR/css-ui-3/",
               "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
               "crawled": "https://drafts.csswg.org/css-ui-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-1/",
@@ -5629,7 +5639,7 @@
     {
       "title": "CSS Box Model Module Level 3",
       "shortname": "css-box-3",
-      "date": "1 April 2024",
+      "date": "4 April 2024",
       "url": "https://www.w3.org/TR/css-box-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-3/",
@@ -5669,7 +5679,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/2018/WD-css3-box-20180731/",
-          "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-display/",
           "https://www.w3.org/TR/css-flexbox/",
@@ -5681,17 +5690,10 @@
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -5826,11 +5828,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
             {
               "url": "https://www.w3.org/TR/css-backgrounds-3/",
               "title": "CSS Backgrounds and Borders Module Level 3",
@@ -6088,6 +6085,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
@@ -7609,11 +7611,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-animations-2/",
               "title": "CSS Animations Level 2",
               "crawled": "https://drafts.csswg.org/css-animations-2/"
@@ -7675,6 +7672,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
@@ -8039,7 +8041,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "8 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8370,7 +8372,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "8 April 2024",
+      "date": "12 April 2024",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -9718,11 +9720,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-cascade-3/",
               "title": "CSS Cascading and Inheritance Level 3",
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
@@ -9835,6 +9832,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-rhythm-1/",
               "title": "CSS Rhythmic Sizing",
               "crawled": "https://drafts.csswg.org/css-rhythm-1/"
@@ -9910,6 +9912,11 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-1/",
@@ -10071,11 +10078,6 @@
               "url": "https://www.w3.org/TR/css-align-3/",
               "title": "CSS Box Alignment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-align-3/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-box-3/",
-              "title": "CSS Box Model Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-box-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-box-4/",
@@ -10642,17 +10644,18 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            }
+          ]
         },
         "ok": true
       }
@@ -11801,6 +11804,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
@@ -15187,11 +15195,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-ui-4/",
               "title": "CSS Basic User Interface Module Level 4",
               "crawled": "https://drafts.csswg.org/css-ui-4/"
@@ -15218,6 +15221,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
@@ -16153,7 +16161,13 @@
               "crawled": "https://drafts.csswg.org/web-animations-1/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            }
+          ]
         },
         "ok": false
       }
@@ -19151,6 +19165,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/css-box-3/",
+              "title": "CSS Box Model Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-box-3/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-images-4/",
               "title": "CSS Images Module Level 4",
               "crawled": "https://drafts.csswg.org/css-images-4/"
@@ -20974,7 +20993,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "15 March 2024",
+      "date": "12 April 2024",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -25959,7 +25978,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "4 April 2024",
+      "date": "12 April 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -31762,11 +31781,6 @@
               "crawled": "https://drafts.csswg.org/css2/"
             },
             {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
               "title": "CSS Animation Worklet API",
               "crawled": "https://drafts.css-houdini.org/css-animationworklet-1/"
@@ -32818,6 +32832,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/dpub-aria-1.1/",
               "title": "Digital Publishing WAI-ARIA Module 1.1",
@@ -35482,48 +35501,6 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/2020/WD-mediaqueries-5-20200303/",
-            "ref": {
-              "name": "MEDIAQUERIES-5",
-              "url": "https://drafts.csswg.org/mediaqueries-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2020/WD-mediaqueries-5-20200318/",
-            "ref": {
-              "name": "MEDIAQUERIES-5",
-              "url": "https://drafts.csswg.org/mediaqueries-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2020/WD-mediaqueries-5-20200603/",
-            "ref": {
-              "name": "MEDIAQUERIES-5",
-              "url": "https://drafts.csswg.org/mediaqueries-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2020/WD-mediaqueries-5-20200715/",
-            "ref": {
-              "name": "MEDIAQUERIES-5",
-              "url": "https://drafts.csswg.org/mediaqueries-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2020/WD-mediaqueries-5-20200731/",
-            "ref": {
-              "name": "MEDIAQUERIES-5",
-              "url": "https://drafts.csswg.org/mediaqueries-5/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2021/WD-mediaqueries-5-20211218/",
-            "ref": {
-              "name": "MEDIAQUERIES-5",
-              "url": "https://drafts.csswg.org/mediaqueries-5/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/mediaqueries-4/",
             "ref": {
               "name": "MEDIAQUERIES-4",
@@ -35697,11 +35674,6 @@
               "url": "https://wicg.github.io/manifest-incubations/",
               "title": "Manifest Incubations",
               "crawled": "https://wicg.github.io/manifest-incubations/"
-            },
-            {
-              "url": "https://www.w3.org/TR/mediaqueries-5/",
-              "title": "Media Queries Level 5",
-              "crawled": "https://drafts.csswg.org/mediaqueries-5/"
             },
             {
               "url": "https://www.w3.org/TR/miniapp-manifest/",
@@ -53963,11 +53935,6 @@
               "url": "https://www.w3.org/TR/credential-management-1/",
               "title": "Credential Management Level 1",
               "crawled": "https://w3c.github.io/webappsec-credential-management/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-animation-worklet-1/",
