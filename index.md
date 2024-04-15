@@ -12218,7 +12218,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [No-Vary-Search](https://wicg.github.io/nav-speculation/no-vary-search.html)
 
 No informative reference to this spec from other specs.
 
@@ -17478,7 +17480,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
-- Crawled version: 29 February 2024
+- Crawled version: 14 April 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Shortname: no-vary-search
 
@@ -17616,7 +17618,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
-- Crawled version: 29 February 2024
+- Crawled version: 14 April 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Shortname: prefetch
 
@@ -17637,7 +17639,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Crawled version: 29 February 2024
+- Crawled version: 14 April 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Shortname: prerendering-revamped
 
@@ -17946,7 +17948,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled version: 29 February 2024
+- Crawled version: 14 April 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
 
@@ -19962,7 +19964,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 11 April 2024
+- Crawled version: 15 April 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -20161,6 +20163,7 @@ Normative references to this spec from:
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Network Information API](https://wicg.github.io/netinfo/)
 - [Network Reporting API](https://w3c.github.io/reporting/network-reporting.html)
+- [No-Vary-Search](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - [Notifications API Standard](https://notifications.spec.whatwg.org/)
 - [Open Screen Protocol](https://w3c.github.io/openscreenprotocol/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)
