@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-14T21:07:37.564Z",
+  "date": "2024-04-15T02:43:22.100Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -23740,11 +23740,6 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
-              "url": "https://www.w3.org/TR/mediasession/",
-              "title": "Media Session",
-              "crawled": "https://w3c.github.io/mediasession/"
-            },
-            {
               "url": "https://www.w3.org/TR/media-source-2/",
               "title": "Media Source Extensions™",
               "crawled": "https://w3c.github.io/media-source/"
@@ -24805,6 +24800,11 @@
               "url": "https://w3c.github.io/mediacapture-automation/",
               "title": "Media Capture Automation",
               "crawled": "https://w3c.github.io/mediacapture-automation/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mediasession/",
+              "title": "Media Session",
+              "crawled": "https://w3c.github.io/mediasession/"
             },
             {
               "url": "https://www.w3.org/TR/media-source-2/",
@@ -35745,7 +35745,7 @@
     {
       "title": "Media Session",
       "shortname": "mediasession",
-      "date": "10 April 2024",
+      "date": "14 April 2024",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -35780,10 +35780,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/mediacapture-streams/",
-          "https://www.w3.org/TR/permissions-policy-1/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
@@ -35795,7 +35792,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -38825,6 +38822,11 @@
               "crawled": "https://w3c.github.io/mediacapture-main/"
             },
             {
+              "url": "https://www.w3.org/TR/mediasession/",
+              "title": "Media Session",
+              "crawled": "https://w3c.github.io/mediasession/"
+            },
+            {
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
@@ -39213,7 +39215,7 @@
     {
       "title": "Pointer Lock 2.0",
       "shortname": "pointerlock-2",
-      "date": "29 January 2024",
+      "date": "15 April 2024",
       "url": "https://www.w3.org/TR/pointerlock-2/",
       "release": {
         "url": "https://www.w3.org/TR/pointerlock-2/",
