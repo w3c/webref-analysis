@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-15T06:34:24.711Z",
+  "date": "2024-04-15T12:37:26.988Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -28990,7 +28990,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "12 April 2024",
+      "date": "15 April 2024",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -41545,7 +41545,7 @@
     {
       "title": "Remote Playback API",
       "shortname": "remote-playback",
-      "date": "22 March 2024",
+      "date": "15 April 2024",
       "url": "https://www.w3.org/TR/remote-playback/",
       "release": {
         "url": "https://www.w3.org/TR/remote-playback/",
@@ -50712,7 +50712,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "4 April 2024",
+      "date": "15 April 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -55885,7 +55885,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-gc",
-      "date": "19 March 2024",
+      "date": "15 April 2024",
       "url": "https://webassembly.github.io/gc/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/gc/core/bikeshed/",
