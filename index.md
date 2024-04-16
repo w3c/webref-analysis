@@ -3397,7 +3397,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Crawled URL: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
-- Crawled version: 25 March 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://webaudio.github.io/web-audio-api/](https://webaudio.github.io/web-audio-api/)
 - Latest published version: [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
 - Shortname: webaudio
@@ -3517,7 +3517,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Crawled URL: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
-- Crawled version: 03 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://w3c.github.io/webdriver/](https://w3c.github.io/webdriver/)
 - Latest published version: [https://www.w3.org/TR/webdriver2/](https://www.w3.org/TR/webdriver2/)
 - Shortname: webdriver2
@@ -3879,7 +3879,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
 - Crawled URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
-- Crawled version: 15 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
 - Latest published version: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
 - Shortname: css-anchor-position-1
@@ -10606,7 +10606,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 12 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10632,7 +10632,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 12 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -13803,7 +13803,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/service-workers/](https://www.w3.org/TR/service-workers/)
 - Crawled URL: [https://w3c.github.io/ServiceWorker/](https://w3c.github.io/ServiceWorker/)
-- Crawled version: 13 March 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://w3c.github.io/ServiceWorker/](https://w3c.github.io/ServiceWorker/)
 - Latest published version: [https://www.w3.org/TR/service-workers/](https://www.w3.org/TR/service-workers/)
 - Shortname: service-workers
@@ -13981,7 +13981,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 02 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
@@ -16046,7 +16046,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
 - Crawled URL: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
-- Crawled version: 9 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://w3c.github.io/long-animation-frames/](https://w3c.github.io/long-animation-frames/)
 - Shortname: long-animation-frames
 
@@ -16058,8 +16058,8 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [DOM Standard](https://dom.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
 
 No informative reference to this spec from other specs.
 
@@ -16466,7 +16466,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 12 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16973,7 +16973,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 15 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -19464,7 +19464,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 4 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 

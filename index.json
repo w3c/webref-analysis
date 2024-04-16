@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-16T12:38:50.090Z",
+  "date": "2024-04-16T18:32:57.816Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -1000,7 +1000,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "12 April 2024",
+      "date": "16 April 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -4558,7 +4558,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "15 April 2024",
+      "date": "16 April 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -23154,7 +23154,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "4 April 2024",
+      "date": "16 April 2024",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -25972,7 +25972,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "15 April 2024",
+      "date": "16 April 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -34209,7 +34209,7 @@
     {
       "title": "Long Animation Frames API",
       "shortname": "long-animation-frames",
-      "date": "9 April 2024",
+      "date": "16 April 2024",
       "url": "https://w3c.github.io/long-animation-frames/",
       "nightly": {
         "url": "https://w3c.github.io/long-animation-frames/",
@@ -34244,14 +34244,14 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://dom.spec.whatwg.org/",
+              "title": "DOM Standard",
+              "crawled": "https://dom.spec.whatwg.org/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://w3c.github.io/long-animation-frames/",
-              "title": "Long Animation Frames API",
-              "crawled": "https://w3c.github.io/long-animation-frames/"
             }
           ],
           "informative": []
@@ -47331,7 +47331,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "13 March 2024",
+      "date": "16 April 2024",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -52214,7 +52214,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "02 April 2024",
+      "date": "16 April 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -53323,7 +53323,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "25 March 2024",
+      "date": "16 April 2024",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -56915,7 +56915,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "03 April 2024",
+      "date": "16 April 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -59032,7 +59032,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "12 April 2024",
+      "date": "16 April 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59095,7 +59095,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "12 April 2024",
+      "date": "16 April 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
