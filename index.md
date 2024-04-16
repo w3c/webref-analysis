@@ -15663,7 +15663,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 15 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -16768,7 +16768,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Crawled URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
-- Crawled version: 29 March 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Shortname: digital-identities
 
@@ -17725,7 +17725,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 12 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18370,7 +18370,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/DOM-Parsing/](https://www.w3.org/TR/DOM-Parsing/)
 - Crawled URL: [https://w3c.github.io/DOM-Parsing/](https://w3c.github.io/DOM-Parsing/)
-- Crawled version: 10 April 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://w3c.github.io/DOM-Parsing/](https://w3c.github.io/DOM-Parsing/)
 - Latest published version: [https://www.w3.org/TR/DOM-Parsing/](https://www.w3.org/TR/DOM-Parsing/)
 - Shortname: DOM-Parsing
