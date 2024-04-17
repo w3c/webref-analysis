@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-16T18:32:57.816Z",
+  "date": "2024-04-17T00:46:54.092Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -9358,7 +9358,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "18 March 2024",
+      "date": "16 April 2024",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",

@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 16, 2024
+% April 17, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -5351,7 +5351,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Crawled URL: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
-- Crawled version: 18 March 2024
+- Crawled version: 16 April 2024
 - Editor's Draft: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
 - Latest published version: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Shortname: css-contain-3
