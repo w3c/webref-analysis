@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-17T06:33:31.738Z",
+  "date": "2024-04-17T12:39:32.292Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -18784,7 +18784,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "11 April 2024",
+      "date": "17 April 2024",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -28984,7 +28984,7 @@
     {
       "title": "HTML Sanitizer API",
       "shortname": "sanitizer-api",
-      "date": "15 April 2024",
+      "date": "17 April 2024",
       "url": "https://wicg.github.io/sanitizer-api/",
       "nightly": {
         "url": "https://wicg.github.io/sanitizer-api/",
@@ -50706,7 +50706,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "16 April 2024",
+      "date": "17 April 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
