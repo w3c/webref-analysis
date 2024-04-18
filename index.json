@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-18T06:35:21.110Z",
+  "date": "2024-04-18T12:38:18.452Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -57076,7 +57076,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "9 April 2024",
+      "date": "18 April 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
@@ -57106,7 +57106,10 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/accname-1.2/",
+          "https://www.w3.org/TR/core-aam-1.2/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -57138,7 +57141,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
