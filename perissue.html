@@ -21,14 +21,6 @@
     <h1>Web specs analysis (per issue)</h1>
   <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>618 specifications were crawled in this report.</p>
-  <section id="specifications-that-could-not-be-rendered" class="level2">
-  <h2>Specifications that could not be rendered</h2>
-  <p>Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.</p>
-  <ul>
-  <li><a href="https://w3c.github.io/aria/">Accessible Rich Internet Applications (WAI-ARIA) 1.3</a>: <code>Error: Loading https://w3c.github.io/aria/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 557)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {     errno: -2,     code: 'ENOENT',     syscall: 'open',     path: '/tmp/reffy-cache/w3c.github.io!aria.headers'   } }</code></li>
-  </ul>
-  <p>=&gt; 1 specification found</p>
-  </section>
   <section id="specifications-without-normative-dependencies" class="level2">
   <h2>Specifications without normative dependencies</h2>
   <ul>
@@ -199,6 +191,11 @@
   <li><a href="https://w3c.github.io/accelerometer/">Accelerometer</a> links to <a href="https://w3c.github.io/sensors/usecases.html"><code>https://w3c.github.io/sensors/usecases.html</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/accname/">Accessible Name and Description Computation 1.2</a> links to <a href="https://www.w3.org/TR/svg-aam-1.0/"><code>https://www.w3.org/TR/svg-aam-1.0/</code></a> but does not list it in its references</li>
   <li><a href="https://w3c.github.io/aria/">Accessible Rich Internet Applications (WAI-ARIA) 1.3</a> links to <a href="https://www.w3.org/TR/css3-selectors/"><code>https://www.w3.org/TR/css3-selectors/</code></a> but does not list it in its references</li>
+  <li><a href="https://w3c.github.io/aria/">Accessible Rich Internet Applications (WAI-ARIA) 1.3</a> links to:
+  <ul>
+  <li><a href="https://w3c.github.io/aria/"><code>https://w3c.github.io/aria/</code></a> but does not list it in its references</li>
+  <li><a href="https://www.w3.org/TR/css3-selectors/"><code>https://www.w3.org/TR/css3-selectors/</code></a> but does not list it in its references</li>
+  </ul></li>
   <li><a href="https://w3c.github.io/audiobooks/">Audiobooks</a> links to:
   <ul>
   <li><a href="https://www.w3.org/TR/annotation-model/"><code>https://www.w3.org/TR/annotation-model/</code></a> but does not list it in its references</li>
@@ -1752,7 +1749,7 @@
   <li><a href="https://w3c.github.io/window-management/">Window Management</a> links to <a href="https://www.w3.org/TR/cssom-view-1/"><code>https://www.w3.org/TR/cssom-view-1/</code></a> but does not list it in its references</li>
   <li><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest Standard</a> links to <a href="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html"><code>https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html</code></a> but does not list it in its references</li>
   </ul>
-  <p>=&gt; 1015 missing references for links found in 249 specifications</p>
+  <p>=&gt; 1017 missing references for links found in 250 specifications</p>
   <p>Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.</p>
   <p>Note Strudy only reports on links to “well-known” specs and ignores links to non-usual specs (e.g. PDF documents, etc.) for now.</p>
   </section>
@@ -1765,6 +1762,13 @@
   <ul>
   <li><a href="https://w3c.github.io/aria/"><code>https://w3c.github.io/aria/</code></a> but related reference “wai-aria-1.2” uses URL <a href="https://www.w3.org/TR/wai-aria-1.2/"><code>https://www.w3.org/TR/wai-aria-1.2/</code></a></li>
   <li><a href="https://w3c.github.io/core-aam/"><code>https://w3c.github.io/core-aam/</code></a> but related reference “CORE-AAM-1.2” uses URL <a href="https://www.w3.org/TR/core-aam-1.2/"><code>https://www.w3.org/TR/core-aam-1.2/</code></a></li>
+  </ul></li>
+  <li><a href="https://w3c.github.io/aria/">Accessible Rich Internet Applications (WAI-ARIA) 1.3</a> links to:
+  <ul>
+  <li><a href="https://w3c.github.io/accname/"><code>https://w3c.github.io/accname/</code></a> but related reference “ACCNAME-1.2” uses URL <a href="https://www.w3.org/TR/accname-1.2/"><code>https://www.w3.org/TR/accname-1.2/</code></a></li>
+  <li><a href="https://w3c.github.io/core-aam/"><code>https://w3c.github.io/core-aam/</code></a> but related reference “CORE-AAM-1.2” uses URL <a href="https://www.w3.org/TR/core-aam-1.2/"><code>https://www.w3.org/TR/core-aam-1.2/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2006/REC-xml-names-20060816/"><code>https://www.w3.org/TR/2006/REC-xml-names-20060816/</code></a> but related reference “XML-NAMES” uses URL <a href="https://www.w3.org/TR/xml-names/"><code>https://www.w3.org/TR/xml-names/</code></a></li>
+  <li><a href="https://www.w3.org/TR/dom/"><code>https://www.w3.org/TR/dom/</code></a> but related reference “DOM” uses URL <a href="https://dom.spec.whatwg.org/"><code>https://dom.spec.whatwg.org/</code></a></li>
   </ul></li>
   <li><a href="https://w3c.github.io/aria/">Accessible Rich Internet Applications (WAI-ARIA) 1.3</a> links to:
   <ul>
@@ -2527,7 +2531,7 @@
   </ul></li>
   <li><a href="https://w3c.github.io/window-management/">Window Management</a> links to <a href="https://www.w3.org/TR/fingerprinting-guidance/"><code>https://www.w3.org/TR/fingerprinting-guidance/</code></a> but related reference “FINGERPRINTING-GUIDANCE” uses URL <a href="https://w3c.github.io/fingerprinting-guidance/"><code>https://w3c.github.io/fingerprinting-guidance/</code></a></li>
   </ul>
-  <p>=&gt; 458 inconsistent references for links found in 176 specifications</p>
+  <p>=&gt; 462 inconsistent references for links found in 177 specifications</p>
   <p>Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor’s Draft but target the latest published version in the References section. There should be some consistency across the specification.</p>
   </section>
   <section id="external-links-to-private-terms" class="level2">
