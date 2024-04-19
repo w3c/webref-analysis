@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-19T00:46:48.881Z",
+  "date": "2024-04-19T06:35:03.804Z",
   "stats": {
     "crawled": 618,
     "errors": 1,
@@ -23070,7 +23070,7 @@
     {
       "title": "DOM Parsing and Serialization",
       "shortname": "DOM-Parsing",
-      "date": "18 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/DOM-Parsing/",
       "release": {
         "url": "https://www.w3.org/TR/DOM-Parsing/",
@@ -29026,7 +29026,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "18 April 2024",
+      "date": "19 April 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -42054,7 +42054,7 @@
     {
       "title": "Responsive Image Client Hints",
       "shortname": "responsive-image-client-hints",
-      "date": "15 June 2023",
+      "date": "19 April 2024",
       "url": "https://wicg.github.io/responsive-image-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/responsive-image-client-hints/",
@@ -42204,7 +42204,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "11 April 2024",
+      "date": "18 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42561,7 +42561,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "11 April 2024",
+      "date": "18 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -43576,7 +43576,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "18 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -44262,7 +44262,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "18 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -44301,6 +44301,11 @@
               "url": "https://wicg.github.io/client-hints-infrastructure/",
               "title": "Client Hints Infrastructure",
               "crawled": "https://wicg.github.io/client-hints-infrastructure/"
+            },
+            {
+              "url": "https://wicg.github.io/responsive-image-client-hints/",
+              "title": "Responsive Image Client Hints",
+              "crawled": "https://wicg.github.io/responsive-image-client-hints/"
             },
             {
               "url": "https://wicg.github.io/user-preference-media-features-headers/",
@@ -59357,7 +59362,7 @@
     {
       "title": "WebRTC Encoded Transform",
       "shortname": "webrtc-encoded-transform",
-      "date": "12 December 2023",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
