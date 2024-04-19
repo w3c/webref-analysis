@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-18T18:32:09.751Z",
+  "date": "2024-04-19T00:46:48.881Z",
   "stats": {
     "crawled": 618,
-    "errors": 0,
+    "errors": 1,
     "studied": 618
   },
   "results": [
@@ -696,6 +696,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 557)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -999,7 +1000,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "17 April 2024",
+      "date": "18 April 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -8739,6 +8740,11 @@
               "crawled": "https://drafts.csswg.org/css-env-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-nesting-1/",
+              "title": "CSS Nesting Module",
+              "crawled": "https://drafts.csswg.org/css-nesting-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom-1/"
@@ -8814,11 +8820,6 @@
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting-1/"
             },
             {
               "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -14603,7 +14604,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "20 October 2023",
+      "date": "18 April 2024",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -16406,6 +16407,11 @@
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nesting-1/",
+              "title": "CSS Nesting Module",
+              "crawled": "https://drafts.csswg.org/css-nesting-1/"
             }
           ]
         },
@@ -17894,7 +17900,7 @@
     {
       "title": "CSS Syntax Module Level 3",
       "shortname": "css-syntax-3",
-      "date": "9 October 2023",
+      "date": "18 April 2024",
       "url": "https://www.w3.org/TR/css-syntax-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-syntax-3/",
@@ -26840,11 +26846,6 @@
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
-              "url": "https://wicg.github.io/shared-storage/",
-              "title": "Shared Storage API",
-              "crawled": "https://wicg.github.io/shared-storage/"
-            },
-            {
               "url": "https://www.w3.org/TR/trusted-types/",
               "title": "Trusted Types",
               "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
@@ -31120,11 +31121,6 @@
               "url": "https://www.w3.org/TR/webrtc-stats/",
               "title": "Identifiers for WebRTC's Statistics API",
               "crawled": "https://w3c.github.io/webrtc-stats/"
-            },
-            {
-              "url": "https://wicg.github.io/shared-storage/",
-              "title": "Shared Storage API",
-              "crawled": "https://wicg.github.io/shared-storage/"
             }
           ],
           "informative": [
@@ -31369,7 +31365,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "12 April 2024",
+      "date": "18 April 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -40012,11 +40008,6 @@
               "url": "https://privacycg.github.io/nav-tracking-mitigations/",
               "title": "Navigational-Tracking Mitigations",
               "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
-            },
-            {
-              "url": "https://wicg.github.io/shared-storage/",
-              "title": "Shared Storage API",
-              "crawled": "https://wicg.github.io/shared-storage/"
             }
           ],
           "informative": []
@@ -41333,6 +41324,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://wicg.github.io/attribution-reporting-api/",
+              "title": "Attribution Reporting",
+              "crawled": "https://wicg.github.io/attribution-reporting-api/"
+            },
+            {
               "url": "https://drafts.csswg.org/css-values-5/",
               "title": "CSS Values and Units Module Level 5",
               "crawled": "https://drafts.csswg.org/css-values-5/"
@@ -42495,7 +42491,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "11 April 2024",
+      "date": "18 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -42680,7 +42676,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "11 April 2024",
+      "date": "18 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -43537,7 +43533,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "11 April 2024",
+      "date": "18 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43580,7 +43576,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "11 April 2024",
+      "date": "18 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43928,7 +43924,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "11 April 2024",
+      "date": "18 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -47637,7 +47633,7 @@
     {
       "title": "Shared Storage API",
       "shortname": "shared-storage",
-      "date": "20 October 2023",
+      "date": "18 April 2024",
       "url": "https://wicg.github.io/shared-storage/",
       "nightly": {
         "url": "https://wicg.github.io/shared-storage/",
@@ -47670,15 +47666,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/permissions-policy/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/pub-manifest/",
-            "ref": {
-              "name": "PUB-MANIFEST",
-              "url": "https://w3c.github.io/pub-manifest/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": [
@@ -54041,6 +54029,11 @@
               "url": "https://www.w3.org/TR/css-masking-1/",
               "title": "CSS Masking Module Level 1",
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nesting-1/",
+              "title": "CSS Nesting Module",
+              "crawled": "https://drafts.csswg.org/css-nesting-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
