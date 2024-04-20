@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-19T18:44:51.705Z",
+  "date": "2024-04-20T00:46:10.797Z",
   "stats": {
     "crawled": 619,
-    "errors": 20,
+    "errors": 18,
     "studied": 619
   },
   "results": [
@@ -154,7 +154,7 @@
     {
       "title": "A-law PCM WebCodecs Registration",
       "shortname": "webcodecs-alaw-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-alaw-codec-registration/",
@@ -207,7 +207,7 @@
     {
       "title": "AAC WebCodecs Registration",
       "shortname": "webcodecs-aac-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -696,6 +696,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 558)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -1458,7 +1459,7 @@
     {
       "title": "AV1 WebCodecs Registration",
       "shortname": "webcodecs-av1-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-av1-codec-registration/",
@@ -1511,7 +1512,7 @@
     {
       "title": "AVC (H.264) WebCodecs Registration",
       "shortname": "webcodecs-avc-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
@@ -3217,11 +3218,6 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
-              "title": "Linear PCM WebCodecs Registration",
-              "crawled": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
             },
             {
               "url": "https://wicg.github.io/webpackage/loading.html",
@@ -8205,6 +8201,11 @@
               "crawled": "https://drafts.csswg.org/cssom-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-properties-values-api-1/",
+              "title": "CSS Properties and Values API Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-properties-values-api-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-pseudo-4/",
               "title": "CSS Pseudo-Elements Module Level 4",
               "crawled": "https://drafts.csswg.org/css-pseudo-4/"
@@ -8466,6 +8467,11 @@
               "url": "https://drafts.csswg.org/css-extensions-1/",
               "title": "CSS Extensions",
               "crawled": "https://drafts.csswg.org/css-extensions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/fill-stroke-3/",
+              "title": "CSS Fill and Stroke Module Level 3",
+              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -10816,7 +10822,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 427)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TypeError: fetch failed\n      at node:internal/deps/undici/undici:12618:11\n      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)\n      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)\n      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {\n    cause: ConnectTimeoutError: Connect Timeout Error\n        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)\n        at node:internal/deps/undici/undici:7716:50\n        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)\n        at process.processImmediate (node:internal/timers:478:21) {\n      code: 'UND_ERR_CONNECT_TIMEOUT'\n    }\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -16084,7 +16089,7 @@
     {
       "title": "CSS Properties and Values API Level 1",
       "shortname": "css-properties-values-api-1",
-      "date": "25 August 2023",
+      "date": "4 April 2024",
       "url": "https://www.w3.org/TR/css-properties-values-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-properties-values-api-1/",
@@ -16108,7 +16113,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 373)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TypeError: fetch failed\n      at node:internal/deps/undici/undici:12618:11\n      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)\n      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)\n      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {\n    cause: ConnectTimeoutError: Connect Timeout Error\n        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)\n        at node:internal/deps/undici/undici:7716:50\n        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)\n        at process.processImmediate (node:internal/timers:478:21) {\n      code: 'UND_ERR_CONNECT_TIMEOUT'\n    }\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26019,7 +26023,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "16 April 2024",
+      "date": "19 April 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -27228,7 +27232,7 @@
     {
       "title": "Filter Effects Module Level 2",
       "shortname": "filter-effects-2",
-      "date": "5 March 2024",
+      "date": "11 March 2024",
       "url": "https://drafts.fxtf.org/filter-effects-2/",
       "nightly": {
         "url": "https://drafts.fxtf.org/filter-effects-2/",
@@ -27247,7 +27251,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at runNextTicks (node:internal/process/task_queues:64:3)\n    at process.processImmediate (node:internal/timers:449:9)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 40)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TypeError: fetch failed\n      at node:internal/deps/undici/undici:12618:11\n      at processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at runNextTicks (node:internal/process/task_queues:64:3)\n      at process.processImmediate (node:internal/timers:449:9)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)\n      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24) {\n    cause: ConnectTimeoutError: Connect Timeout Error\n        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)\n        at node:internal/deps/undici/undici:7716:50\n        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)\n        at process.processImmediate (node:internal/timers:478:21) {\n      code: 'UND_ERR_CONNECT_TIMEOUT'\n    }\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -27298,7 +27301,7 @@
     {
       "title": "FLAC WebCodecs Registration",
       "shortname": "webcodecs-flac-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -28465,7 +28468,7 @@
     {
       "title": "HEVC (H.265) WebCodecs Registration",
       "shortname": "webcodecs-hevc-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -34103,7 +34106,7 @@
     {
       "title": "Linear PCM WebCodecs Registration",
       "shortname": "webcodecs-pcm-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -36908,7 +36911,7 @@
     {
       "title": "MP3 WebCodecs Registration",
       "shortname": "webcodecs-mp3-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-mp3-codec-registration/",
@@ -37636,7 +37639,7 @@
     {
       "title": "Opus WebCodecs Registration",
       "shortname": "webcodecs-opus-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -50310,7 +50313,7 @@
     {
       "title": "The <model> element",
       "shortname": "model-element",
-      "date": "05 June 2023",
+      "date": "19 April 2024",
       "url": "https://immersive-web.github.io/model-element/",
       "nightly": {
         "url": "https://immersive-web.github.io/model-element/",
@@ -50821,7 +50824,7 @@
     {
       "title": "u-law PCM WebCodecs Registration",
       "shortname": "webcodecs-ulaw-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-ulaw-codec-registration/",
@@ -52484,7 +52487,7 @@
     {
       "title": "Vorbis WebCodecs Registration",
       "shortname": "webcodecs-vorbis-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vorbis-codec-registration/",
@@ -52537,7 +52540,7 @@
     {
       "title": "VP8 WebCodecs Registration",
       "shortname": "webcodecs-vp8-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp8-codec-registration/",
@@ -52590,7 +52593,7 @@
     {
       "title": "VP9 WebCodecs Registration",
       "shortname": "webcodecs-vp9-codec-registration",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-vp9-codec-registration/",
@@ -52921,11 +52924,6 @@
               "url": "https://drafts.csswg.org/css-display-4/",
               "title": "CSS Display Module Level 4",
               "crawled": "https://drafts.csswg.org/css-display-4/"
-            },
-            {
-              "url": "https://www.w3.org/TR/fill-stroke-3/",
-              "title": "CSS Fill and Stroke Module Level 3",
-              "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-grid-1/",
@@ -56572,7 +56570,7 @@
     {
       "title": "WebCodecs",
       "shortname": "webcodecs",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs/",
@@ -56741,7 +56739,7 @@
     {
       "title": "WebCodecs Codec Registry",
       "shortname": "webcodecs-codec-registry",
-      "date": "8 April 2024",
+      "date": "19 April 2024",
       "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
       "release": {
         "url": "https://www.w3.org/TR/webcodecs-codec-registry/",
@@ -57229,7 +57227,7 @@
     {
       "title": "WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification",
       "shortname": "ANGLE_instanced_arrays",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
@@ -57271,7 +57269,7 @@
     {
       "title": "WebGL EXT_blend_minmax Khronos Ratified Extension Specification",
       "shortname": "EXT_blend_minmax",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
@@ -57313,7 +57311,7 @@
     {
       "title": "WebGL EXT_color_buffer_float Extension Specification",
       "shortname": "EXT_color_buffer_float",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
@@ -57355,7 +57353,7 @@
     {
       "title": "WebGL EXT_color_buffer_half_float Extension Specification",
       "shortname": "EXT_color_buffer_half_float",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
@@ -57397,7 +57395,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query Extension Specification",
       "shortname": "EXT_disjoint_timer_query",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
@@ -57439,7 +57437,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query_webgl2 Extension Specification",
       "shortname": "EXT_disjoint_timer_query_webgl2",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -57481,7 +57479,7 @@
     {
       "title": "WebGL EXT_float_blend Extension Specification",
       "shortname": "EXT_float_blend",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
@@ -57523,7 +57521,7 @@
     {
       "title": "WebGL EXT_frag_depth Khronos Ratified Extension Specification",
       "shortname": "EXT_frag_depth",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
@@ -57565,7 +57563,7 @@
     {
       "title": "WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification",
       "shortname": "EXT_shader_texture_lod",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
@@ -57607,7 +57605,7 @@
     {
       "title": "WebGL EXT_sRGB Extension Specification",
       "shortname": "EXT_sRGB",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
@@ -57649,7 +57647,7 @@
     {
       "title": "WebGL EXT_texture_compression_bptc Extension Specification",
       "shortname": "EXT_texture_compression_bptc",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
@@ -57691,7 +57689,7 @@
     {
       "title": "WebGL EXT_texture_compression_rgtc Extension Specification",
       "shortname": "EXT_texture_compression_rgtc",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
@@ -57733,7 +57731,7 @@
     {
       "title": "WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification",
       "shortname": "EXT_texture_filter_anisotropic",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -57775,7 +57773,7 @@
     {
       "title": "WebGL EXT_texture_norm16 Extension Specification",
       "shortname": "EXT_texture_norm16",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
@@ -57817,7 +57815,7 @@
     {
       "title": "WebGL KHR_parallel_shader_compile Extension Specification",
       "shortname": "KHR_parallel_shader_compile",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
@@ -57859,7 +57857,7 @@
     {
       "title": "WebGL OES_draw_buffers_indexed Extension Specification",
       "shortname": "OES_draw_buffers_indexed",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
@@ -57901,7 +57899,7 @@
     {
       "title": "WebGL OES_element_index_uint Khronos Ratified Extension Specification",
       "shortname": "OES_element_index_uint",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
@@ -57943,7 +57941,7 @@
     {
       "title": "WebGL OES_fbo_render_mipmap Extension Specification",
       "shortname": "OES_fbo_render_mipmap",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
@@ -57985,7 +57983,7 @@
     {
       "title": "WebGL OES_standard_derivatives Khronos Ratified Extension Specification",
       "shortname": "OES_standard_derivatives",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
@@ -58027,7 +58025,7 @@
     {
       "title": "WebGL OES_texture_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
@@ -58069,7 +58067,7 @@
     {
       "title": "WebGL OES_texture_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float_linear",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
@@ -58111,7 +58109,7 @@
     {
       "title": "WebGL OES_texture_half_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
@@ -58153,7 +58151,7 @@
     {
       "title": "WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float_linear",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
@@ -58195,7 +58193,7 @@
     {
       "title": "WebGL OES_vertex_array_object Khronos Ratified Extension Specification",
       "shortname": "OES_vertex_array_object",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
@@ -58237,7 +58235,7 @@
     {
       "title": "WebGL OVR_multiview2 Extension Specification",
       "shortname": "OVR_multiview2",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
@@ -58279,7 +58277,7 @@
     {
       "title": "WebGL Specification",
       "shortname": "webgl1",
-      "date": "22 February 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/specs/latest/1.0/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/specs/latest/1.0/",
@@ -58320,7 +58318,7 @@
     {
       "title": "WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification",
       "shortname": "WEBGL_blend_equation_advanced_coherent",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -58362,7 +58360,7 @@
     {
       "title": "WebGL WEBGL_clip_cull_distance Extension Specification",
       "shortname": "WEBGL_clip_cull_distance",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
@@ -58404,7 +58402,7 @@
     {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
@@ -58446,7 +58444,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_astc Extension Specification",
       "shortname": "WEBGL_compressed_texture_astc",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
@@ -58488,7 +58486,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
@@ -58530,7 +58528,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc1 Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc1",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
@@ -58572,7 +58570,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_pvrtc Extension Specification",
       "shortname": "WEBGL_compressed_texture_pvrtc",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
@@ -58614,7 +58612,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
@@ -58656,7 +58654,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc_srgb",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
@@ -58698,7 +58696,7 @@
     {
       "title": "WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_renderer_info",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
@@ -58740,7 +58738,7 @@
     {
       "title": "WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_shaders",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
@@ -58782,7 +58780,7 @@
     {
       "title": "WebGL WEBGL_depth_texture Khronos Ratified Extension Specification",
       "shortname": "WEBGL_depth_texture",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
@@ -58824,7 +58822,7 @@
     {
       "title": "WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification",
       "shortname": "WEBGL_draw_buffers",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
@@ -58866,7 +58864,7 @@
     {
       "title": "WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_draw_instanced_base_vertex_base_instance",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -58908,7 +58906,7 @@
     {
       "title": "WebGL WEBGL_lose_context Khronos Ratified Extension Specification",
       "shortname": "WEBGL_lose_context",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
@@ -58950,7 +58948,7 @@
     {
       "title": "WebGL WEBGL_multi_draw Extension Specification",
       "shortname": "WEBGL_multi_draw",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
@@ -58992,7 +58990,7 @@
     {
       "title": "WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_multi_draw_instanced_base_vertex_base_instance",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -59034,7 +59032,7 @@
     {
       "title": "WebGL WEBGL_provoking_vertex Extension Specification",
       "shortname": "WEBGL_provoking_vertex",
-      "date": "19 April 2024",
+      "date": "20 April 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
@@ -59178,6 +59176,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
+              "title": "Linear PCM WebCodecs Registration",
+              "crawled": "https://w3c.github.io/webcodecs/pcm_codec_registration.html"
+            },
             {
               "url": "https://www.w3.org/TR/webgpu/",
               "title": "WebGPU",
