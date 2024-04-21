@@ -98,12 +98,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -154,12 +156,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -210,12 +214,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -237,12 +243,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -282,12 +290,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -309,12 +319,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -400,12 +412,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
