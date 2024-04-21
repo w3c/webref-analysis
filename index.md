@@ -19531,7 +19531,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
-- Crawled version: 17 March 2024
+- Crawled version: 21 April 2024
 - Editor's Draft: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
 - Shortname: wasm-core-2-fork-function-references
 
@@ -19555,7 +19555,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 15 April 2024
+- Crawled version: 21 April 2024
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-2-fork-gc
 
