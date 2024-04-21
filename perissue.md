@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 20, 2024
+% April 21, 2024
 
 619 specifications were crawled in this report.
 
@@ -40,12 +40,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -67,12 +69,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -100,6 +104,35 @@ Reffy could not fetch or render these specifications for some reason. This may h
         at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
         at process.processImmediate (node:internal/timers:478:21) {
       code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
+- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/): `Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 427)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -148,12 +181,14 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -163,6 +198,33 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 371)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/): `Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 373)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
   [cause]: TypeError: fetch failed
       at node:internal/deps/undici/undici:12618:11
@@ -280,12 +342,43 @@ Reffy could not fetch or render these specifications for some reason. This may h
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
+    }
+  }
+}`
+- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/): `Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 40)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -353,12 +446,14 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -380,12 +475,14 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
-        at node:internal/deps/undici/undici:7716:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
     }
   }
 }`
@@ -426,7 +523,7 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
       at async Promise.all (index 524)
 }`
 
-=> 18 specifications found
+=> 21 specifications found
 
 
 ## Specifications without normative dependencies
@@ -866,12 +963,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-box/`](https://www.w3.org/TR/css3-box/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-- [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/) links to:
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/) links to:
     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/) but does not list it in its references
     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/) but does not list it in its references
@@ -1074,7 +1165,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
-- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/) links to [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/) but does not list it in its references
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/) links to [`https://www.w3.org/TR/css-text-decor/`](https://www.w3.org/TR/css-text-decor/) but does not list it in its references
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/) links to:
     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/syndata.html) but does not list it in its references
@@ -1339,12 +1429,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
 - [Event Timing API](https://w3c.github.io/event-timing/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/) links to [`https://www.w3.org/TR/appmanifest/`](https://www.w3.org/TR/appmanifest/) but does not list it in its references
-- [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/) links to:
-    * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
-    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
-    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
-    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [Global Privacy Control (GPC)](https://privacycg.github.io/gpc-spec/) links to [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/) but does not list it in its references
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/) links to:
     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
@@ -1720,7 +1804,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 940 missing references for links found in 238 specifications
+=> 929 missing references for links found in 235 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
