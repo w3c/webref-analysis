@@ -11268,7 +11268,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
 - Crawled URL: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
-- Crawled version: 19 April 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://immersive-web.github.io/model-element/](https://immersive-web.github.io/model-element/)
 - Shortname: model-element
 
@@ -11594,7 +11594,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
 - Crawled URL: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
-- Crawled version: 10 February 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://immersive-web.github.io/layers/](https://immersive-web.github.io/layers/)
 - Latest published version: [https://www.w3.org/TR/webxrlayers-1/](https://www.w3.org/TR/webxrlayers-1/)
 - Shortname: webxrlayers-1
@@ -11646,7 +11646,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Crawled URL: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
-- Crawled version: 28 March 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://w3c.github.io/i18n-glossary/](https://w3c.github.io/i18n-glossary/)
 - Latest published version: [https://www.w3.org/TR/i18n-glossary/](https://www.w3.org/TR/i18n-glossary/)
 - Shortname: i18n-glossary
@@ -20422,7 +20422,6 @@ Informative references to this spec from:
 - [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
 - [RFC 9163: Expect-CT Extension for HTTP](https://www.rfc-editor.org/rfc/rfc9163)
 - [Streams Standard](https://streams.spec.whatwg.org/)
-- [The <model> element](https://immersive-web.github.io/model-element/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
 

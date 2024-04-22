@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-22T12:39:14.577Z",
+  "date": "2024-04-22T18:31:34.938Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -26709,11 +26709,6 @@
               "crawled": "https://streams.spec.whatwg.org/"
             },
             {
-              "url": "https://immersive-web.github.io/model-element/",
-              "title": "The <model> element",
-              "crawled": "https://immersive-web.github.io/model-element/"
-            },
-            {
               "url": "https://webidl.spec.whatwg.org/",
               "title": "Web IDL Standard",
               "crawled": "https://webidl.spec.whatwg.org/"
@@ -33089,7 +33084,7 @@
     {
       "title": "Internationalization Glossary",
       "shortname": "i18n-glossary",
-      "date": "28 March 2024",
+      "date": "22 April 2024",
       "url": "https://www.w3.org/TR/i18n-glossary/",
       "release": {
         "url": "https://www.w3.org/TR/i18n-glossary/",
@@ -50316,7 +50311,7 @@
     {
       "title": "The <model> element",
       "shortname": "model-element",
-      "date": "19 April 2024",
+      "date": "22 April 2024",
       "url": "https://immersive-web.github.io/model-element/",
       "nightly": {
         "url": "https://immersive-web.github.io/model-element/",
@@ -60493,7 +60488,7 @@
     {
       "title": "WebXR Layers API Level 1",
       "shortname": "webxrlayers-1",
-      "date": "10 February 2024",
+      "date": "22 April 2024",
       "url": "https://www.w3.org/TR/webxrlayers-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxrlayers-1/",
