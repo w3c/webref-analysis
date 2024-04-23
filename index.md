@@ -3585,7 +3585,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Crawled URL: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
-- Crawled version: 22 April 2024
+- Crawled version: 23 April 2024
 - Editor's Draft: [https://w3c.github.io/webdriver-bidi/](https://w3c.github.io/webdriver-bidi/)
 - Shortname: webdriver-bidi
 
@@ -3985,12 +3985,33 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 320)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -5897,12 +5918,35 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 427)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -6777,12 +6821,33 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 357)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -7469,12 +7534,33 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 371)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -7612,12 +7698,33 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 373)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -8788,12 +8895,33 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 399)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -8830,12 +8958,33 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 14)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -9541,12 +9690,35 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 428)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -9587,12 +9759,35 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 40)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -9621,12 +9816,33 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 15)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -9651,12 +9867,35 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 434)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -9860,12 +10099,35 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 474)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -10465,7 +10727,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Crawled URL: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
-- Crawled version: 11 April 2024
+- Crawled version: 23 April 2024
 - Editor's Draft: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
 - Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Shortname: geolocation
@@ -13399,12 +13661,35 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 500
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 427)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TypeError: fetch failed
+      at node:internal/deps/undici/undici:12618:11
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
+      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
+      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
+    cause: AggregateError [ETIMEDOUT]: 
+        at internalConnectMultiple (node:net:1116:18)
+        at internalConnectMultiple (node:net:1184:5)
+        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
+        at listOnTimeout (node:internal/timers:575:11)
+        at process.processTimers (node:internal/timers:514:7) {
+      code: 'ETIMEDOUT',
+      [errors]: [Array]
+    }
+  }
+}`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -19194,7 +19479,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
-- Crawled version: 21 April 2024
+- Crawled version: 23 April 2024
 - Editor's Draft: [https://webassembly.github.io/function-references/core/bikeshed/](https://webassembly.github.io/function-references/core/bikeshed/)
 - Shortname: wasm-core-2-fork-function-references
 
@@ -19218,7 +19503,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 21 April 2024
+- Crawled version: 23 April 2024
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-2-fork-gc
 
