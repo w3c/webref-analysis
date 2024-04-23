@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 22, 2024
+% April 23, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -4003,14 +4003,12 @@ The following network or parsing error occurred:
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: AggregateError [ETIMEDOUT]: 
-        at internalConnectMultiple (node:net:1116:18)
-        at internalConnectMultiple (node:net:1184:5)
-        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
-        at listOnTimeout (node:internal/timers:575:11)
-        at process.processTimers (node:internal/timers:514:7) {
-      code: 'ETIMEDOUT',
-      [errors]: [Array]
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
     }
   }
 }`
@@ -5048,7 +5046,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 12 April 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -6841,14 +6839,12 @@ The following network or parsing error occurred:
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: AggregateError [ETIMEDOUT]: 
-        at internalConnectMultiple (node:net:1116:18)
-        at internalConnectMultiple (node:net:1184:5)
-        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
-        at listOnTimeout (node:internal/timers:575:11)
-        at process.processTimers (node:internal/timers:514:7) {
-      code: 'ETIMEDOUT',
-      [errors]: [Array]
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
     }
   }
 }`
@@ -7556,14 +7552,12 @@ The following network or parsing error occurred:
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: AggregateError [ETIMEDOUT]: 
-        at internalConnectMultiple (node:net:1116:18)
-        at internalConnectMultiple (node:net:1184:5)
-        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
-        at listOnTimeout (node:internal/timers:575:11)
-        at process.processTimers (node:internal/timers:514:7) {
-      code: 'ETIMEDOUT',
-      [errors]: [Array]
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
     }
   }
 }`
@@ -7722,14 +7716,12 @@ The following network or parsing error occurred:
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: AggregateError [ETIMEDOUT]: 
-        at internalConnectMultiple (node:net:1116:18)
-        at internalConnectMultiple (node:net:1184:5)
-        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
-        at listOnTimeout (node:internal/timers:575:11)
-        at process.processTimers (node:internal/timers:514:7) {
-      code: 'ETIMEDOUT',
-      [errors]: [Array]
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
     }
   }
 }`
@@ -8413,7 +8405,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-syntax-3/](https://www.w3.org/TR/css-syntax-3/)
 - Crawled URL: [https://drafts.csswg.org/css-syntax-3/](https://drafts.csswg.org/css-syntax-3/)
-- Crawled version: 18 April 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://drafts.csswg.org/css-syntax-3/](https://drafts.csswg.org/css-syntax-3/)
 - Latest published version: [https://www.w3.org/TR/css-syntax-3/](https://www.w3.org/TR/css-syntax-3/)
 - Shortname: css-syntax-3
@@ -8941,14 +8933,12 @@ The following network or parsing error occurred:
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: AggregateError [ETIMEDOUT]: 
-        at internalConnectMultiple (node:net:1116:18)
-        at internalConnectMultiple (node:net:1184:5)
-        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
-        at listOnTimeout (node:internal/timers:575:11)
-        at process.processTimers (node:internal/timers:514:7) {
-      code: 'ETIMEDOUT',
-      [errors]: [Array]
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
     }
   }
 }`
@@ -9006,14 +8996,12 @@ The following network or parsing error occurred:
       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: AggregateError [ETIMEDOUT]: 
-        at internalConnectMultiple (node:net:1116:18)
-        at internalConnectMultiple (node:net:1184:5)
-        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
-        at listOnTimeout (node:internal/timers:575:11)
-        at process.processTimers (node:internal/timers:514:7) {
-      code: 'ETIMEDOUT',
-      [errors]: [Array]
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
     }
   }
 }`
@@ -9850,30 +9838,30 @@ No informative reference to this spec from other specs.
 The following network or parsing error occurred:
 `Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:449:9)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 15)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
   [cause]: TypeError: fetch failed
       at node:internal/deps/undici/undici:12618:11
-      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at runNextTicks (node:internal/process/task_queues:64:3)
+      at process.processImmediate (node:internal/timers:449:9)
       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
-      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
-      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)
-      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {
-    cause: AggregateError [ETIMEDOUT]: 
-        at internalConnectMultiple (node:net:1116:18)
-        at internalConnectMultiple (node:net:1184:5)
-        at Timeout.internalConnectMultipleTimeout (node:net:1710:5)
-        at listOnTimeout (node:internal/timers:575:11)
-        at process.processTimers (node:internal/timers:514:7) {
-      code: 'ETIMEDOUT',
-      [errors]: [Array]
+      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24) {
+    cause: ConnectTimeoutError: Connect Timeout Error
+        at onConnectTimeout (node:internal/deps/undici/undici:7760:28)
+        at node:internal/deps/undici/undici:7716:50
+        at Immediate._onImmediate (node:internal/deps/undici/undici:7748:13)
+        at process.processImmediate (node:internal/timers:478:21) {
+      code: 'UND_ERR_CONNECT_TIMEOUT'
     }
   }
 }`
@@ -10288,7 +10276,7 @@ Informative references to this spec from:
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
-### Selectors Level 3 {data-spec=true data-error=true}
+### Selectors Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10301,27 +10289,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 524)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
-  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded
-      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)
-      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)
-      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)
-      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)
-      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
-      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
-      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
-      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-      at async Promise.all (index 524)
-}`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2011/REC-css3-selectors-20110929/`](http://www.w3.org/TR/2011/REC-css3-selectors-20110929/)
+     * [`https://www.w3.org/TR/css3-namespace/`](https://www.w3.org/TR/css3-namespace/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17997,7 +17967,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
-- Crawled version: 14 April 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Shortname: no-vary-search
 
@@ -18135,7 +18105,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
-- Crawled version: 14 April 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Shortname: prefetch
 
@@ -18156,7 +18126,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Crawled version: 14 April 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Shortname: prerendering-revamped
 
@@ -18463,7 +18433,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled version: 14 April 2024
+- Crawled version: 22 April 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
 
