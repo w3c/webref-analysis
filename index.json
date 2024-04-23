@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-23T12:41:33.498Z",
+  "date": "2024-04-23T18:31:51.886Z",
   "stats": {
     "crawled": 619,
     "errors": 19,
@@ -23145,11 +23145,6 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://www.w3.org/TR/trusted-types/",
-              "title": "Trusted Types",
-              "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -24531,7 +24526,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "30 March 2024",
+      "date": "23 April 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -39878,7 +39873,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "18 April 2024",
+      "date": "23 April 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -47503,11 +47498,6 @@
               "crawled": "https://wicg.github.io/storage-buckets/"
             },
             {
-              "url": "https://www.w3.org/TR/trusted-types/",
-              "title": "Trusted Types",
-              "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
-            },
-            {
               "url": "https://w3c.github.io/webdriver-bidi/",
               "title": "WebDriver BiDi",
               "crawled": "https://w3c.github.io/webdriver-bidi/"
@@ -50736,7 +50726,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "17 April 2024",
+      "date": "23 April 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -50772,7 +50762,6 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/editing/docs/execCommand/",
           "https://w3c.github.io/webcomponents/spec/imports/"
         ],
         "inconsistentRef": [

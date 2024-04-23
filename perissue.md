@@ -1641,9 +1641,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/) links to:
     * [`http://www.w3.org/TR/touch-events-extensions/`](http://www.w3.org/TR/touch-events-extensions/) but does not list it in its references
     * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/) but does not list it in its references
-- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/) links to:
-    * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
-    * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/) but does not list it in its references
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/) links to [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/) but does not list it in its references
 - [UI Events KeyboardEvent code Values](https://w3c.github.io/uievents-code/) links to:
     * [`https://w3c.github.io/apa/fast/checklist.html`](https://w3c.github.io/apa/fast/checklist.html) but does not list it in its references
     * [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
@@ -1771,7 +1769,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 931 missing references for links found in 236 specifications
+=> 930 missing references for links found in 236 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
