@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-24T00:47:38.235Z",
+  "date": "2024-04-24T06:37:38.434Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -23084,7 +23084,7 @@
     {
       "title": "DOM Parsing and Serialization",
       "shortname": "DOM-Parsing",
-      "date": "19 April 2024",
+      "date": "24 April 2024",
       "url": "https://www.w3.org/TR/DOM-Parsing/",
       "release": {
         "url": "https://www.w3.org/TR/DOM-Parsing/",
@@ -23122,10 +23122,17 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://w3c.github.io/trusted-types/dist/spec/",
+            "link": "https://html.spec.whatwg.org/dynamic-markup-insertion.html",
             "ref": {
-              "name": "TRUSTED-TYPES",
-              "url": "https://www.w3.org/TR/trusted-types/"
+              "name": "HTML5",
+              "url": "https://www.w3.org/TR/html5/"
+            }
+          },
+          {
+            "link": "https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html",
+            "ref": {
+              "name": "HTML5",
+              "url": "https://www.w3.org/TR/html5/"
             }
           },
           {
@@ -29067,7 +29074,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "19 April 2024",
+      "date": "24 April 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -49619,7 +49626,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "20 February 2024",
+      "date": "24 April 2024",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -50774,11 +50781,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/DOM-Parsing/",
-              "title": "DOM Parsing and Serialization",
-              "crawled": "https://w3c.github.io/DOM-Parsing/"
-            },
             {
               "url": "https://dom.spec.whatwg.org/",
               "title": "DOM Standard",
@@ -55300,7 +55302,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "19 April 2024",
+      "date": "24 April 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -59068,7 +59070,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "18 April 2024",
+      "date": "24 April 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59131,7 +59133,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "18 April 2024",
+      "date": "24 April 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
