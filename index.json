@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-25T00:45:59.128Z",
+  "date": "2024-04-25T06:34:43.613Z",
   "stats": {
     "crawled": 619,
     "errors": 12,
@@ -24599,7 +24599,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "27 March 2024",
+      "date": "25 April 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -37584,7 +37584,7 @@
     {
       "title": "Open Screen Protocol",
       "shortname": "openscreenprotocol",
-      "date": "28 February 2024",
+      "date": "25 April 2024",
       "url": "https://www.w3.org/TR/openscreenprotocol/",
       "release": {
         "url": "https://www.w3.org/TR/openscreenprotocol/",
@@ -55296,7 +55296,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "24 April 2024",
+      "date": "25 April 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
