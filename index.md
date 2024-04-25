@@ -17104,7 +17104,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
 - Crawled URL: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
-- Crawled version: 04 April 2023
+- Crawled version: 25 April 2024
 - Editor's Draft: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
 - Shortname: direct-sockets
 
