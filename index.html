@@ -21,7 +21,7 @@
   
       <header>
       <h1>Reffy crawl</h1>
-            <h2 class="date">April 24, 2024</h2>
+            <h2 class="date">April 25, 2024</h2>
           </header>
     <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>
@@ -4210,8 +4210,8 @@
   </ul>
   </section>
   </section>
-  <section id="compositing-and-blending-level-1" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">Compositing and Blending Level 1</h3>
+  <section id="compositing-and-blending-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">Compositing and Blending Level 1</h3>
   <section id="spec-info-140" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -4225,8 +4225,22 @@
   </section>
   <section id="potential-issues-140" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.fxtf.org/compositing-1/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 309)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12618:11       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     cause: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1116:18)         at internalConnectMultiple (node:net:1184:5)         at Timeout.internalConnectMultipleTimeout (node:net:1710:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://dom.spec.whatwg.org/"><code>https://dom.spec.whatwg.org/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-background/"><code>https://www.w3.org/TR/css3-background/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html"><code>https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html"><code>https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-140" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -6683,8 +6697,8 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="css-fill-and-stroke-module-level-3" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS Fill and Stroke Module Level 3</h3>
+  <section id="css-fill-and-stroke-module-level-3" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">CSS Fill and Stroke Module Level 3</h3>
   <section id="spec-info-185" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -6698,8 +6712,16 @@
   </section>
   <section id="potential-issues-185" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 427)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12618:11       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     cause: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1116:18)         at internalConnectMultiple (node:net:1184:5)         at Timeout.internalConnectMultipleTimeout (node:net:1710:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-185" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -10812,8 +10834,8 @@
   </ul>
   </section>
   </section>
-  <section id="filter-effects-module-level-1" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">Filter Effects Module Level 1</h3>
+  <section id="filter-effects-module-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">Filter Effects Module Level 1</h3>
   <section id="spec-info-264" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -10827,8 +10849,23 @@
   </section>
   <section id="potential-issues-264" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 428)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12618:11       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     cause: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1116:18)         at internalConnectMultiple (node:net:1184:5)         at Timeout.internalConnectMultipleTimeout (node:net:1710:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html"><code>http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html</code></a></li>
+  <li><a href="https://www.w3.org/TR/2012/WD-filter-effects-20121025/"><code>https://www.w3.org/TR/2012/WD-filter-effects-20121025/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html"><code>https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html"><code>https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html"><code>https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html</code></a>, related reference “SVG11” uses URL <a href="https://www.w3.org/TR/SVG11/"><code>https://www.w3.org/TR/SVG11/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS3VAL” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-264" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -10855,8 +10892,8 @@
   </ul>
   </section>
   </section>
-  <section id="filter-effects-module-level-2" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">Filter Effects Module Level 2</h3>
+  <section id="filter-effects-module-level-2" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">Filter Effects Module Level 2</h3>
   <section id="spec-info-265" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -10869,8 +10906,16 @@
   </section>
   <section id="potential-issues-265" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 40)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12618:11       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     cause: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1116:18)         at internalConnectMultiple (node:net:1184:5)         at Timeout.internalConnectMultipleTimeout (node:net:1710:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/compositing-1/"><code>https://www.w3.org/TR/compositing-1/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-265" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -10907,8 +10952,8 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="geometry-interfaces-module-level-1" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">Geometry Interfaces Module Level 1</h3>
+  <section id="geometry-interfaces-module-level-1" class="level3" data-spec="true" data-missingDfns="true" data-ok="true">
+  <h3 data-spec="true" data-missingDfns="true" data-ok="true">Geometry Interfaces Module Level 1</h3>
   <section id="spec-info-267" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -10922,8 +10967,7 @@
   </section>
   <section id="potential-issues-267" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.fxtf.org/geometry-1/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 434)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12618:11       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     cause: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1116:18)         at internalConnectMultiple (node:net:1184:5)         at Timeout.internalConnectMultipleTimeout (node:net:1710:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <p>This specification looks good!</p>
   </section>
   <section id="known-dependencies-on-this-specification-267" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -11133,8 +11177,8 @@
   </ul>
   </section>
   </section>
-  <section id="motion-path-module-level-1" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">Motion Path Module Level 1</h3>
+  <section id="motion-path-module-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">Motion Path Module Level 1</h3>
   <section id="spec-info-271" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -11148,8 +11192,19 @@
   </section>
   <section id="potential-issues-271" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.fxtf.org/motion-1/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 474)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12618:11       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     cause: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1116:18)         at internalConnectMultiple (node:net:1184:5)         at Timeout.internalConnectMultipleTimeout (node:net:1710:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/"><code>https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS3VAL” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-271" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -15175,8 +15230,8 @@
   </section>
   <section id="group-svg_working_group" class="level2">
   <h2>SVG Working Group</h2>
-  <section id="css-fill-and-stroke-module-level-3-1" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS Fill and Stroke Module Level 3</h3>
+  <section id="css-fill-and-stroke-module-level-3-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">CSS Fill and Stroke Module Level 3</h3>
   <section id="spec-info-386" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -15190,8 +15245,16 @@
   </section>
   <section id="potential-issues-386" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 427)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12618:11       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     cause: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1116:18)         at internalConnectMultiple (node:net:1184:5)         at Timeout.internalConnectMultipleTimeout (node:net:1710:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-386" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -17851,7 +17914,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/IFT/">https://www.w3.org/TR/IFT/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/IFT/Overview.html">https://w3c.github.io/IFT/Overview.html</a></li>
-  <li>Crawled version: 18 April 2024</li>
+  <li>Crawled version: 24 April 2024</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/IFT/Overview.html">https://w3c.github.io/IFT/Overview.html</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/IFT/">https://www.w3.org/TR/IFT/</a></li>
   <li>Shortname: IFT</li>
@@ -20460,7 +20523,7 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/shared-storage/">https://wicg.github.io/shared-storage/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/shared-storage/">https://wicg.github.io/shared-storage/</a></li>
-  <li>Crawled version: 18 April 2024</li>
+  <li>Crawled version: 25 April 2024</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/shared-storage/">https://wicg.github.io/shared-storage/</a></li>
   <li>Shortname: shared-storage</li>
   </ul>
@@ -21812,7 +21875,7 @@
   <ul>
   <li>Initial URL: <a href="https://webassembly.github.io/memory64/core/bikeshed/">https://webassembly.github.io/memory64/core/bikeshed/</a></li>
   <li>Crawled URL: <a href="https://webassembly.github.io/memory64/core/bikeshed/">https://webassembly.github.io/memory64/core/bikeshed/</a></li>
-  <li>Crawled version: 15 February 2024</li>
+  <li>Crawled version: 24 April 2024</li>
   <li>Editor’s Draft: <a href="https://webassembly.github.io/memory64/core/bikeshed/">https://webassembly.github.io/memory64/core/bikeshed/</a></li>
   <li>Shortname: wasm-core-2-fork-memory64</li>
   </ul>
