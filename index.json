@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-26T06:34:01.922Z",
+  "date": "2024-04-26T12:38:47.589Z",
   "stats": {
     "crawled": 619,
     "errors": 12,
@@ -42132,7 +42132,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "18 April 2024",
+      "date": "25 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -42792,7 +42792,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "18 April 2024",
+      "date": "26 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -43604,7 +43604,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "18 April 2024",
+      "date": "26 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43671,7 +43671,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "18 April 2024",
+      "date": "25 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -44247,7 +44247,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "18 April 2024",
+      "date": "26 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
@@ -44290,7 +44290,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "19 April 2024",
+      "date": "26 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -44818,7 +44818,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "19 April 2024",
+      "date": "26 April 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -47762,7 +47762,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "13 March 2024",
+      "date": "26 April 2024",
       "url": "https://tc39.es/source-map-spec/",
       "nightly": {
         "url": "https://tc39.es/source-map-spec/",
@@ -50209,7 +50209,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "17 April 2024",
+      "date": "26 April 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
