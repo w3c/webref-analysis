@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-26T18:32:22.548Z",
+  "date": "2024-04-27T00:46:12.726Z",
   "stats": {
     "crawled": 619,
-    "errors": 12,
+    "errors": 17,
     "studied": 619
   },
   "results": [
@@ -2085,6 +2085,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/TR/CSS21/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 410)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22497,6 +22498,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/TR/device-memory/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 415)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22514,7 +22516,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -25593,7 +25595,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "20 March 2024",
+      "date": "26 April 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -25628,10 +25630,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://infra.spec.whatwg.org/",
-          "https://mimesniff.spec.whatwg.org/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -25654,7 +25653,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -26033,7 +26032,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "19 April 2024",
+      "date": "26 April 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -28323,6 +28322,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/Graphics/GIF/spec-gif89a.txt triggered HTTP status 520\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 294)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -31418,7 +31418,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "24 April 2024",
+      "date": "26 April 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -31585,7 +31585,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/IFT/",
+              "title": "Incremental Font Transfer",
+              "crawled": "https://w3c.github.io/IFT/Overview.html"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -32056,6 +32062,11 @@
               "url": "https://encoding.spec.whatwg.org/",
               "title": "Encoding Standard",
               "crawled": "https://encoding.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/encrypted-media/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -36306,6 +36317,11 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
+              "url": "https://www.w3.org/TR/encrypted-media/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
+            },
+            {
               "url": "https://fedidcg.github.io/FedCM/",
               "title": "Federated Credential Management API",
               "crawled": "https://fedidcg.github.io/FedCM/"
@@ -40213,6 +40229,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/TR/n-quads/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 481)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -53434,6 +53451,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/encrypted-media/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -55306,7 +55328,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "25 April 2024",
+      "date": "26 April 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -61054,6 +61076,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/2001/tag/doc/promises-guide triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 291)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -61108,7 +61131,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
