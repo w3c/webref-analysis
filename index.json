@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-27T00:46:12.726Z",
+  "date": "2024-04-27T06:32:46.108Z",
   "stats": {
     "crawled": 619,
     "errors": 17,
@@ -55328,7 +55328,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "26 April 2024",
+      "date": "27 April 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
