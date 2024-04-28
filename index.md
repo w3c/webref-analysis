@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% April 27, 2024
+% April 28, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -15591,7 +15591,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 3 April 2024
+- Crawled version: 27 April 2024
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
