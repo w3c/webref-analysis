@@ -10448,7 +10448,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Crawled URL: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
-- Crawled version: 09 April 2024
+- Crawled version: 29 April 2024
 - Editor's Draft: [https://w3c.github.io/compute-pressure/](https://w3c.github.io/compute-pressure/)
 - Latest published version: [https://www.w3.org/TR/compute-pressure/](https://www.w3.org/TR/compute-pressure/)
 - Shortname: compute-pressure
@@ -18018,7 +18018,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
 - Crawled URL: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
-- Crawled version: 12 February 2024
+- Crawled version: 29 April 2024
 - Editor's Draft: [https://wicg.github.io/private-network-access/](https://wicg.github.io/private-network-access/)
 - Shortname: private-network-access
 
@@ -20291,7 +20291,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 24 April 2024
+- Crawled version: 29 April 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
