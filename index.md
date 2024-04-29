@@ -16574,7 +16574,7 @@ Informative references to this spec from:
 - [Server Timing](https://w3c.github.io/server-timing/)
 
 
-### Reporting API {data-spec=true data-missingDfns=true data-ok=true}
+### Reporting API {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -16587,7 +16587,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://w3c.github.io/reporting/ triggered HTTP status 503
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 513)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17715,7 +17723,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Crawled URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
-- Crawled version: 27 March 2024
+- Crawled version: 29 April 2024
 - Editor's Draft: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Shortname: manifest-incubations
 
@@ -21227,6 +21235,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
+- [Manifest Incubations](https://wicg.github.io/manifest-incubations/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 
