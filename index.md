@@ -1106,7 +1106,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 22 April 2024
+- Crawled version: 30 April 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -13984,7 +13984,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/remote-playback/](https://www.w3.org/TR/remote-playback/)
 - Crawled URL: [https://w3c.github.io/remote-playback/](https://w3c.github.io/remote-playback/)
-- Crawled version: 15 April 2024
+- Crawled version: 30 April 2024
 - Editor's Draft: [https://w3c.github.io/remote-playback/](https://w3c.github.io/remote-playback/)
 - Latest published version: [https://www.w3.org/TR/remote-playback/](https://www.w3.org/TR/remote-playback/)
 - Shortname: remote-playback
@@ -14915,7 +14915,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Crawled URL: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
-- Crawled version: 15 April 2024
+- Crawled version: 30 April 2024
 - Editor's Draft: [https://w3c.github.io/html-aria/](https://w3c.github.io/html-aria/)
 - Latest published version: [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
 - Shortname: html-aria
@@ -18061,7 +18061,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 29 April 2024
+- Crawled version: 30 April 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -19396,7 +19396,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
-- Crawled version: 24 April 2024
+- Crawled version: 30 April 2024
 - Editor's Draft: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
 - Shortname: wasm-core-2-fork-memory64
 
