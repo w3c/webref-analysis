@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-04-30T18:33:28.124Z",
+  "date": "2024-05-01T00:47:06.722Z",
   "stats": {
     "crawled": 619,
-    "errors": 18,
+    "errors": 19,
     "studied": 619
   },
   "results": [
@@ -3038,7 +3038,7 @@
     {
       "title": "Contact Picker API",
       "shortname": "contact-picker",
-      "date": "27 February 2024",
+      "date": "30 April 2024",
       "url": "https://www.w3.org/TR/contact-picker/",
       "release": {
         "url": "https://www.w3.org/TR/contact-picker/",
@@ -21282,6 +21282,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 400\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 406)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22165,7 +22166,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "15 March 2024",
+      "date": "30 April 2024",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -31418,7 +31419,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "26 April 2024",
+      "date": "30 April 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -34173,7 +34174,7 @@
     {
       "title": "Loading Signed Exchanges",
       "shortname": "webpackage",
-      "date": "19 April 2024",
+      "date": "30 April 2024",
       "url": "https://wicg.github.io/webpackage/loading.html",
       "nightly": {
         "url": "https://wicg.github.io/webpackage/loading.html",
@@ -47392,7 +47393,7 @@
     {
       "title": "Service Workers Nightly",
       "shortname": "service-workers",
-      "date": "16 April 2024",
+      "date": "30 April 2024",
       "url": "https://www.w3.org/TR/service-workers/",
       "release": {
         "url": "https://www.w3.org/TR/service-workers/",
@@ -50817,6 +50818,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/service-workers/",
+              "title": "Service Workers Nightly",
+              "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
               "url": "https://www.w3.org/TR/trusted-types/",
@@ -55334,7 +55340,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "29 April 2024",
+      "date": "30 April 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -59110,7 +59116,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "27 April 2024",
+      "date": "30 April 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59173,7 +59179,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "27 April 2024",
+      "date": "30 April 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
