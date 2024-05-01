@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-01T12:39:29.027Z",
+  "date": "2024-05-01T18:32:26.640Z",
   "stats": {
     "crawled": 619,
     "errors": 19,
@@ -1010,7 +1010,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "29 April 2024",
+      "date": "1 May 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2911,7 +2911,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "29 April 2024",
+      "date": "01 May 2024",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -22669,7 +22669,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "26 April 2024",
+      "date": "01 May 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -56001,7 +56001,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-memory64",
-      "date": "30 April 2024",
+      "date": "1 May 2024",
       "url": "https://webassembly.github.io/memory64/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/memory64/core/bikeshed/",
@@ -59116,7 +59116,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "30 April 2024",
+      "date": "1 May 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59179,7 +59179,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "30 April 2024",
+      "date": "1 May 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
