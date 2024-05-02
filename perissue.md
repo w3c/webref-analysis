@@ -1506,7 +1506,9 @@ Basically all specifications have normative dependencies on some other specifica
     * [`http://www.w3.org/TR/sparql11-service-description/`](http://www.w3.org/TR/sparql11-service-description/) but does not list it in its references
     * [`http://www.w3.org/TR/sparql11-update/`](http://www.w3.org/TR/sparql11-update/) but does not list it in its references
     * [`http://www.w3.org/TR/turtle/`](http://www.w3.org/TR/turtle/) but does not list it in its references
-- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/) links to [`http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/) but does not list it in its references
+- [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/) links to:
+    * [`http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/`](http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/) but does not list it in its references
+    * [`https://www.w3.org/TR/2013/REC-sparql11-protocol-20130321/`](https://www.w3.org/TR/2013/REC-sparql11-protocol-20130321/) but does not list it in its references
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/) links to [`http://www.w3.org/TR/powerful-features/`](http://www.w3.org/TR/powerful-features/) but does not list it in its references
 - [SVG Accessibility API Mappings](https://w3c.github.io/svg-aam/) links to:
     * [`http://www.w3.org/TR/2012/WD-css-masking-20121115/`](http://www.w3.org/TR/2012/WD-css-masking-20121115/) but does not list it in its references
@@ -1658,7 +1660,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 954 missing references for links found in 241 specifications
+=> 955 missing references for links found in 241 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

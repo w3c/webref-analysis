@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-02T12:42:04.258Z",
+  "date": "2024-05-02T18:32:33.880Z",
   "stats": {
     "crawled": 619,
     "errors": 19,
@@ -1010,7 +1010,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "1 May 2024",
+      "date": "2 May 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -34860,7 +34860,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "25 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -40288,7 +40288,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -48016,7 +48016,7 @@
     {
       "title": "SPARQL 1.2 Federated Query",
       "shortname": "sparql12-federated-query",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/sparql12-federated-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-federated-query/",
@@ -48470,7 +48470,7 @@
     {
       "title": "SPARQL 1.2 Protocol",
       "shortname": "sparql12-protocol",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/sparql12-protocol/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-protocol/",
@@ -48506,7 +48506,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/"
+          "http://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/",
+          "https://www.w3.org/TR/2013/REC-sparql11-protocol-20130321/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -48611,7 +48612,7 @@
     {
       "title": "SPARQL 1.2 Query Language",
       "shortname": "sparql12-query",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/sparql12-query/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-query/",
@@ -48750,7 +48751,7 @@
     {
       "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
       "shortname": "sparql12-results-csv-tsv",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
@@ -48889,7 +48890,7 @@
     {
       "title": "SPARQL 1.2 Query Results JSON Format",
       "shortname": "sparql12-results-json",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/sparql12-results-json/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-json/",
@@ -49028,7 +49029,7 @@
     {
       "title": "SPARQL 1.2 Query Results XML Format",
       "shortname": "sparql12-results-xml",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/sparql12-results-xml/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-results-xml/",
@@ -49167,7 +49168,7 @@
     {
       "title": "SPARQL 1.2 Service Description",
       "shortname": "sparql12-service-description",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/sparql12-service-description/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-service-description/",
@@ -49306,7 +49307,7 @@
     {
       "title": "SPARQL 1.2 Update",
       "shortname": "sparql12-update",
-      "date": "11 April 2024",
+      "date": "02 May 2024",
       "url": "https://www.w3.org/TR/sparql12-update/",
       "release": {
         "url": "https://www.w3.org/TR/sparql12-update/",
@@ -50238,7 +50239,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "29 April 2024",
+      "date": "2 May 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
