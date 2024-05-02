@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-02T06:32:34.496Z",
+  "date": "2024-05-02T12:42:04.258Z",
   "stats": {
     "crawled": 619,
     "errors": 19,
@@ -22576,7 +22576,7 @@
     {
       "title": "DeviceOrientation Event Specification",
       "shortname": "orientation-event",
-      "date": "2 April 2024",
+      "date": "2 May 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -26170,7 +26170,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "2 April 2024",
+      "date": "2 May 2024",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -29080,7 +29080,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "29 April 2024",
+      "date": "2 May 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -39114,7 +39114,7 @@
     {
       "title": "Picture-in-Picture",
       "shortname": "picture-in-picture",
-      "date": "19 December 2022",
+      "date": "2 May 2024",
       "url": "https://www.w3.org/TR/picture-in-picture/",
       "release": {
         "url": "https://www.w3.org/TR/picture-in-picture/",
