@@ -1106,7 +1106,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 5 May 2024
+- Crawled version: 6 May 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -7235,6 +7235,7 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport-1/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -8379,6 +8380,7 @@ Normative references to this spec from:
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 Informative references to this spec from:
@@ -9342,7 +9344,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 8 April 2024
+- Crawled version: 6 May 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
 
@@ -10212,6 +10214,7 @@ Normative references to this spec from:
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
 
 No informative reference to this spec from other specs.
@@ -16805,7 +16808,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 3 May 2024
+- Crawled version: 6 May 2024
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 

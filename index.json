@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-06T12:39:27.302Z",
+  "date": "2024-05-06T18:34:16.541Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -1010,7 +1010,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "3 May 2024",
+      "date": "6 May 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3536,7 +3536,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "5 May 2024",
+      "date": "6 May 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -14748,6 +14748,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
               "crawled": "https://drafts.csswg.org/css-viewport-1/"
@@ -18000,6 +18005,11 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -21206,7 +21216,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "8 April 2024",
+      "date": "6 May 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -47331,6 +47341,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
