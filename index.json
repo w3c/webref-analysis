@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-06T06:33:29.857Z",
+  "date": "2024-05-06T12:39:27.302Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -26170,7 +26170,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "2 May 2024",
+      "date": "6 May 2024",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -50239,7 +50239,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "3 May 2024",
+      "date": "6 May 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
