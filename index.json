@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-07T06:33:54.502Z",
+  "date": "2024-05-07T12:40:13.218Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -22188,7 +22188,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "3 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -26192,7 +26192,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "6 May 2024",
+      "date": "7 May 2024",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -27814,7 +27814,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "26 April 2024",
+      "date": "07 May 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -57167,7 +57167,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "23 April 2024",
+      "date": "7 May 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
