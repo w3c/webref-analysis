@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-06T18:34:16.541Z",
+  "date": "2024-05-07T00:48:59.605Z",
   "stats": {
     "crawled": 619,
-    "errors": 18,
+    "errors": 21,
     "studied": 619
   },
   "results": [
@@ -2179,6 +2179,11 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -4181,11 +4186,6 @@
               "crawled": "https://drafts.csswg.org/css-size-adjust-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-multicol-1/",
-              "title": "CSS Multi-column Layout Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-multicol-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-namespaces-3/",
               "title": "CSS Namespaces Module Level 3",
               "crawled": "https://drafts.csswg.org/css-namespaces-3/"
@@ -5012,6 +5012,11 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -5617,6 +5622,11 @@
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol-1/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -9943,6 +9953,11 @@
               "crawled": "https://drafts.fxtf.org/css-masking-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -10192,11 +10207,6 @@
               "url": "https://drafts.csswg.org/css-size-adjust-1/",
               "title": "CSS Mobile Text Size Adjustment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-size-adjust-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-multicol-1/",
-              "title": "CSS Multi-column Layout Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-multicol-1/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-1/",
@@ -11809,6 +11819,11 @@
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol-1/"
             }
           ],
           "informative": [
@@ -14403,7 +14418,7 @@
     {
       "title": "CSS Multi-column Layout Module Level 1",
       "shortname": "css-multicol-1",
-      "date": "12 February 2024",
+      "date": "6 May 2024",
       "url": "https://www.w3.org/TR/css-multicol-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-multicol-1/",
@@ -14443,24 +14458,16 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/2011/CR-css3-multicol-20110412/",
-          "https://www.w3.org/TR/css-break-3/",
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-values/",
             "ref": {
               "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
+              "url": "https://www.w3.org/TR/css-values-3/"
             }
           }
         ],
@@ -17853,6 +17860,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 388)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded\n      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)\n      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)\n      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)\n      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)\n      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)\n      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)\n      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n      at async Promise.all (index 388)\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17917,7 +17925,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -19233,6 +19241,11 @@
             }
           ],
           "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-multicol-1/",
+              "title": "CSS Multi-column Layout Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-multicol-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
@@ -21293,6 +21306,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 406)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -25670,7 +25684,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "30 April 2024",
+      "date": "06 May 2024",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -25736,7 +25750,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "30 April 2024",
+      "date": "06 May 2024",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
@@ -33403,7 +33417,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "25 April 2024",
+      "date": "6 May 2024",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -39910,7 +39924,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "30 April 2024",
+      "date": "7 May 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -47064,6 +47078,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 524)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded\n      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)\n      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)\n      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)\n      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)\n      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)\n      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)\n      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n      at async Promise.all (index 524)\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
