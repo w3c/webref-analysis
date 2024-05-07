@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-07T00:48:59.605Z",
+  "date": "2024-05-07T06:33:54.502Z",
   "stats": {
     "crawled": 619,
-    "errors": 21,
+    "errors": 18,
     "studied": 619
   },
   "results": [
@@ -423,7 +423,7 @@
           "normative": [
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
@@ -17860,7 +17860,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 388)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded\n      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)\n      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)\n      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)\n      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)\n      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)\n      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)\n      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n      at async Promise.all (index 388)\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -17925,7 +17924,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -19389,7 +19388,7 @@
             },
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             }
           ]
@@ -21306,7 +21305,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 406)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22545,62 +22543,9 @@
       }
     },
     {
-      "title": "Device Posture API",
-      "shortname": "device-posture",
-      "date": "08 April 2024",
-      "url": "https://www.w3.org/TR/device-posture/",
-      "release": {
-        "url": "https://www.w3.org/TR/device-posture/",
-        "status": "Working Draft",
-        "filename": "Overview.html"
-      },
-      "nightly": {
-        "url": "https://w3c.github.io/device-posture/",
-        "status": "Editor's Draft",
-        "alternateUrls": [],
-        "repository": "https://github.com/w3c/device-posture",
-        "sourcePath": "index.html",
-        "filename": "index.html"
-      },
-      "crawled": "https://w3c.github.io/device-posture/",
-      "organization": "W3C",
-      "groups": [
-        {
-          "name": "Devices and Sensors Working Group",
-          "url": "https://www.w3.org/das/"
-        }
-      ],
-      "report": {
-        "noNormativeRefs": false,
-        "noRefToWebIDL": false,
-        "hasInvalidIdl": false,
-        "unknownExposedNames": [],
-        "unknownIdlNames": [],
-        "redefinedIdlNames": [],
-        "missingWebIdlRef": [],
-        "missingDfns": {
-          "css": [],
-          "idl": []
-        },
-        "missingLinkRef": [],
-        "inconsistentRef": [],
-        "referencedBy": {
-          "normative": [],
-          "informative": [
-            {
-              "url": "https://html.spec.whatwg.org/multipage/",
-              "title": "HTML Standard",
-              "crawled": "https://html.spec.whatwg.org/multipage/"
-            }
-          ]
-        },
-        "ok": true
-      }
-    },
-    {
-      "title": "DeviceOrientation Event Specification",
+      "title": "Device Orientation and Motion",
       "shortname": "orientation-event",
-      "date": "4 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -22684,6 +22629,59 @@
               "url": "https://www.w3.org/TR/webxr/",
               "title": "WebXR Device API",
               "crawled": "https://immersive-web.github.io/webxr/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "Device Posture API",
+      "shortname": "device-posture",
+      "date": "08 April 2024",
+      "url": "https://www.w3.org/TR/device-posture/",
+      "release": {
+        "url": "https://www.w3.org/TR/device-posture/",
+        "status": "Working Draft",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/device-posture/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/device-posture",
+        "sourcePath": "index.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/device-posture/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Devices and Sensors Working Group",
+          "url": "https://www.w3.org/das/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ]
         },
@@ -23530,14 +23528,14 @@
               "crawled": "https://wicg.github.io/WebApiDevice/device_attributes/"
             },
             {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "Device Orientation and Motion",
+              "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
-              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://wicg.github.io/direct-sockets/",
@@ -24745,7 +24743,7 @@
             },
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
@@ -27473,7 +27471,7 @@
     {
       "title": "Fullscreen API Standard",
       "shortname": "fullscreen",
-      "date": "24 January 2024",
+      "date": "7 May 2024",
       "url": "https://fullscreen.spec.whatwg.org/",
       "nightly": {
         "url": "https://fullscreen.spec.whatwg.org/",
@@ -27763,7 +27761,7 @@
             },
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
@@ -28125,7 +28123,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             }
           ]
@@ -28443,7 +28441,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             }
           ]
@@ -29656,14 +29654,14 @@
               "crawled": "https://www.w3.org/TR/device-memory/"
             },
             {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "Device Orientation and Motion",
+              "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
-              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://wicg.github.io/digital-identities/",
@@ -32034,14 +32032,14 @@
               "crawled": "https://wicg.github.io/custom-state-pseudo-class/"
             },
             {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "Device Orientation and Motion",
+              "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
-              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://wicg.github.io/digital-identities/",
@@ -37784,7 +37782,7 @@
           "normative": [
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             }
           ],
@@ -38498,7 +38496,7 @@
             },
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
@@ -38817,7 +38815,7 @@
             },
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
@@ -46443,7 +46441,7 @@
           "informative": [
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
@@ -47078,7 +47076,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 524)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded\n      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)\n      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)\n      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)\n      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)\n      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)\n      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)\n      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n      at async Promise.all (index 524)\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -52359,11 +52356,6 @@
               "url": "https://www.w3.org/TR/vc-data-integrity/",
               "title": "Verifiable Credential Data Integrity 1.0",
               "crawled": "https://w3c.github.io/vc-data-integrity/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webnn/",
-              "title": "Web Neural Network API",
-              "crawled": "https://webmachinelearning.github.io/webnn/"
             }
           ],
           "informative": []
@@ -52784,7 +52776,7 @@
           "normative": [
             {
               "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
+              "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
@@ -54208,14 +54200,14 @@
               "crawled": "https://www.w3.org/TR/device-memory/"
             },
             {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "Device Orientation and Motion",
+              "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
-              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://wicg.github.io/digital-identities/",
@@ -55371,7 +55363,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "5 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -55407,20 +55399,12 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/vc-data-model-2.0/",
-            "ref": {
-              "name": "VC-DATA-MODEL-2.0",
-              "url": "https://w3c.github.io/vc-data-model/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -57095,14 +57079,14 @@
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
             },
             {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "Device Orientation and Motion",
+              "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/device-posture/",
               "title": "Device Posture API",
               "crawled": "https://w3c.github.io/device-posture/"
-            },
-            {
-              "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "DeviceOrientation Event Specification",
-              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://fedidcg.github.io/FedCM/",

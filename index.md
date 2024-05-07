@@ -398,7 +398,7 @@ Normative references to this spec from:
 - [Battery Status API](https://w3c.github.io/battery/)
 - [Console Standard](https://console.spec.whatwg.org/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [DOM Parsing and Serialization](https://w3c.github.io/DOM-Parsing/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Early detection of input events](https://wicg.github.io/is-input-pending/)
@@ -3409,7 +3409,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
@@ -3571,8 +3571,8 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
@@ -8319,7 +8319,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Style Attributes {data-spec=true data-error=true}
+### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -8332,27 +8332,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 388)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
-  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded
-      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)
-      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)
-      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)
-      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)
-      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
-      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
-      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
-      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-      at async Promise.all (index 388)
-}`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8805,7 +8785,7 @@ Informative references to this spec from:
 
 - [CSS Animations Level 2](https://drafts.csswg.org/css-animations-2/)
 - [CSS Transforms Module Level 1](https://drafts.csswg.org/css-transforms-1/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 
 
 ### CSS Transitions Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -9386,7 +9366,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Viewport Module Level 1 {data-spec=true data-error=true}
+### CSS Viewport Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -9399,15 +9379,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 406)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/`](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/)
+     * [`https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/`](https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/virtual-keyboard`](https://w3c.github.io/virtual-keyboard), related reference "VIRTUAL-KEYBOARD" uses URL [`https://www.w3.org/TR/virtual-keyboard/`](https://www.w3.org/TR/virtual-keyboard/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9848,7 +9828,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 
 
 ### Media Queries Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -10146,7 +10126,7 @@ Informative references to this spec from:
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
-### Selectors Level 3 {data-spec=true data-error=true}
+### Selectors Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10159,27 +10139,9 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 524)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
-  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded
-      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)
-      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)
-      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)
-      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)
-      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
-      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
-      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
-      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-      at async Promise.all (index 524)
-}`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/2011/REC-css3-selectors-20110929/`](http://www.w3.org/TR/2011/REC-css3-selectors-20110929/)
+     * [`https://www.w3.org/TR/css3-namespace/`](https://www.w3.org/TR/css3-namespace/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10424,7 +10386,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
@@ -10541,37 +10503,13 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Device Posture API {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
-- Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 08 April 2024
-- Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
-- Shortname: device-posture
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [HTML Standard](https://html.spec.whatwg.org/multipage/)
-
-
-### DeviceOrientation Event Specification {data-spec=true data-missingDfns=true data-ok=true}
+### Device Orientation and Motion {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 4 May 2024
+- Crawled version: 7 May 2024
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -10597,6 +10535,30 @@ Informative references to this spec from:
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 
+### Device Posture API {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
+- Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
+- Crawled version: 08 April 2024
+- Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
+- Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
+- Shortname: device-posture
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
+
+
 ### Generic Sensor API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -10618,7 +10580,7 @@ Normative references to this spec from:
 
 - [Accelerometer](https://w3c.github.io/accelerometer/)
 - [Ambient Light Sensor](https://w3c.github.io/ambient-light/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
 - [Magnetometer](https://w3c.github.io/magnetometer/)
@@ -10711,7 +10673,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 
 
 ### HTML Media Capture {data-spec=true data-missingDfns=true data-ok=true}
@@ -10780,7 +10742,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 
 No informative reference to this spec from other specs.
 
@@ -14291,7 +14253,6 @@ Normative references to this spec from:
 
 - [Digital Credentials](https://wicg.github.io/digital-identities/)
 - [Verifiable Credential Data Integrity 1.0](https://w3c.github.io/vc-data-integrity/)
-- [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 
 No informative reference to this spec from other specs.
 
@@ -14316,7 +14277,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/)
@@ -14611,7 +14572,7 @@ Normative references to this spec from:
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Badging API](https://w3c.github.io/badging/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
@@ -14689,7 +14650,7 @@ Normative references to this spec from:
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
@@ -15032,13 +14993,13 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### DeviceOrientation Event Specification {data-spec=true data-missingDfns=true data-ok=true}
+### Device Orientation and Motion {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Crawled URL: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
-- Crawled version: 4 May 2024
+- Crawled version: 7 May 2024
 - Editor's Draft: [https://w3c.github.io/deviceorientation/](https://w3c.github.io/deviceorientation/)
 - Latest published version: [https://www.w3.org/TR/orientation-event/](https://www.w3.org/TR/orientation-event/)
 - Shortname: orientation-event
@@ -15369,7 +15330,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Window Management](https://w3c.github.io/window-management/)
 
 
@@ -16022,21 +15983,20 @@ No informative reference to this spec from other specs.
 
 ## Web Machine Learning Working Group {#group-web_machine_learning_working_group}
 
-### Web Neural Network API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Web Neural Network API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 5 May 2024
+- Crawled version: 7 May 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/vc-data-model-2.0/`](https://www.w3.org/TR/vc-data-model-2.0/), related reference "VC-DATA-MODEL-2.0" uses URL [`https://w3c.github.io/vc-data-model/`](https://w3c.github.io/vc-data-model/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19912,8 +19872,8 @@ Normative references to this spec from:
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Device Attributes API](https://wicg.github.io/WebApiDevice/device_attributes/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
 - [Document Policy](https://wicg.github.io/document-policy/)
@@ -20296,7 +20256,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
 - Crawled URL: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
-- Crawled version: 24 January 2024
+- Crawled version: 7 May 2024
 - Editor's Draft: [https://fullscreen.spec.whatwg.org/](https://fullscreen.spec.whatwg.org/)
 - Shortname: fullscreen
 
@@ -20443,8 +20403,8 @@ Normative references to this spec from:
 - [DataCue API](https://wicg.github.io/datacue/)
 - [Device Attributes API](https://wicg.github.io/WebApiDevice/device_attributes/)
 - [Device Memory](https://www.w3.org/TR/device-memory/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Credentials](https://wicg.github.io/digital-identities/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
@@ -20824,8 +20784,8 @@ Normative references to this spec from:
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Credentials](https://wicg.github.io/digital-identities/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
@@ -21502,8 +21462,8 @@ Normative references to this spec from:
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Device Memory](https://www.w3.org/TR/device-memory/)
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [DeviceOrientation Event Specification](https://w3c.github.io/deviceorientation/)
 - [Digital Credentials](https://wicg.github.io/digital-identities/)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
