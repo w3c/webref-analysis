@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-07T18:33:17.195Z",
+  "date": "2024-05-08T00:45:26.471Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -22545,7 +22545,7 @@
     {
       "title": "Device Orientation and Motion",
       "shortname": "orientation-event",
-      "date": "7 May 2024",
+      "date": "8 May 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -22585,13 +22585,33 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2016/CR-orientation-event-20160818/",
+            "ref": {
+              "name": "ORIENTATION-EVENT",
+              "url": "https://w3c.github.io/deviceorientation/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/",
+            "ref": {
+              "name": "ORIENTATION-EVENT",
+              "url": "https://w3c.github.io/deviceorientation/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
               "url": "https://www.w3.org/TR/accelerometer/",
               "title": "Accelerometer",
               "crawled": "https://w3c.github.io/accelerometer/"
+            },
+            {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "Device Orientation and Motion",
+              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://dom.spec.whatwg.org/",
@@ -22632,7 +22652,7 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -24397,7 +24417,7 @@
     {
       "title": "Dynamic Code Brand Checks",
       "shortname": "tc39-dynamic-code-brand-checks",
-      "date": "17 April 2024",
+      "date": "7 May 2024",
       "url": "https://tc39.es/proposal-dynamic-code-brand-checks/",
       "nightly": {
         "url": "https://tc39.es/proposal-dynamic-code-brand-checks/",
@@ -37455,7 +37475,7 @@
     {
       "title": "No-Vary-Search",
       "shortname": "no-vary-search",
-      "date": "22 April 2024",
+      "date": "7 May 2024",
       "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -37489,7 +37509,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            }
+          ]
         },
         "ok": true
       }
@@ -39546,7 +39572,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "22 April 2024",
+      "date": "7 May 2024",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -39588,7 +39614,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "22 April 2024",
+      "date": "7 May 2024",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -42183,7 +42209,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -42283,7 +42309,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42640,7 +42666,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -42755,7 +42781,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -42843,7 +42869,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -43612,7 +43638,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43655,7 +43681,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43722,7 +43748,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -44003,7 +44029,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "1 May 2024",
+      "date": "8 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -44298,7 +44324,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
@@ -44869,7 +44895,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "1 May 2024",
+      "date": "7 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -49473,7 +49499,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "22 April 2024",
+      "date": "7 May 2024",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -52300,7 +52326,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "05 May 2024",
+      "date": "07 May 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
