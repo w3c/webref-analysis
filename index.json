@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-08T00:45:26.471Z",
+  "date": "2024-05-08T06:31:45.634Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -22585,33 +22585,13 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/2016/CR-orientation-event-20160818/",
-            "ref": {
-              "name": "ORIENTATION-EVENT",
-              "url": "https://w3c.github.io/deviceorientation/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/",
-            "ref": {
-              "name": "ORIENTATION-EVENT",
-              "url": "https://w3c.github.io/deviceorientation/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
               "url": "https://www.w3.org/TR/accelerometer/",
               "title": "Accelerometer",
               "crawled": "https://w3c.github.io/accelerometer/"
-            },
-            {
-              "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "Device Orientation and Motion",
-              "crawled": "https://w3c.github.io/deviceorientation/"
             },
             {
               "url": "https://dom.spec.whatwg.org/",
@@ -22652,7 +22632,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -34472,6 +34452,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/orientation-event/",
+              "title": "Device Orientation and Motion",
+              "crawled": "https://w3c.github.io/deviceorientation/"
+            },
+            {
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
               "crawled": "https://w3c.github.io/orientation-sensor/"
@@ -39318,7 +39303,7 @@
     {
       "title": "Pointer Lock 2.0",
       "shortname": "pointerlock-2",
-      "date": "15 April 2024",
+      "date": "08 May 2024",
       "url": "https://www.w3.org/TR/pointerlock-2/",
       "release": {
         "url": "https://www.w3.org/TR/pointerlock-2/",
@@ -42596,7 +42581,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "1 May 2024",
+      "date": "8 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -44367,7 +44352,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "1 May 2024",
+      "date": "8 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -46216,7 +46201,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "22 February 2024",
+      "date": "08 May 2024",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",

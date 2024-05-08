@@ -1023,7 +1023,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
-- Crawled version: 1 May 2024
+- Crawled version: 8 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Shortname: rfc6386
 
@@ -1499,7 +1499,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 1 May 2024
+- Crawled version: 8 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -10503,7 +10503,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Device Orientation and Motion {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Device Orientation and Motion {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -10516,16 +10516,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/), related reference "ORIENTATION-EVENT" uses URL [`https://w3c.github.io/deviceorientation/`](https://w3c.github.io/deviceorientation/)
-     * [`https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/`](https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/), related reference "ORIENTATION-EVENT" uses URL [`https://w3c.github.io/deviceorientation/`](https://w3c.github.io/deviceorientation/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
 - [Accelerometer](https://w3c.github.io/accelerometer/)
-- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
@@ -10720,6 +10717,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 
 No informative reference to this spec from other specs.
@@ -14996,7 +14994,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Device Orientation and Motion {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Device Orientation and Motion {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -15009,16 +15007,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/), related reference "ORIENTATION-EVENT" uses URL [`https://w3c.github.io/deviceorientation/`](https://w3c.github.io/deviceorientation/)
-     * [`https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/`](https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/), related reference "ORIENTATION-EVENT" uses URL [`https://w3c.github.io/deviceorientation/`](https://w3c.github.io/deviceorientation/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
 - [Accelerometer](https://w3c.github.io/accelerometer/)
-- [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
@@ -15252,7 +15247,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerlock-2/](https://www.w3.org/TR/pointerlock-2/)
 - Crawled URL: [https://w3c.github.io/pointerlock/](https://w3c.github.io/pointerlock/)
-- Crawled version: 15 April 2024
+- Crawled version: 08 May 2024
 - Editor's Draft: [https://w3c.github.io/pointerlock/](https://w3c.github.io/pointerlock/)
 - Latest published version: [https://www.w3.org/TR/pointerlock-2/](https://www.w3.org/TR/pointerlock-2/)
 - Shortname: pointerlock-2
@@ -19112,7 +19107,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
 - Crawled URL: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
-- Crawled version: 22 February 2024
+- Crawled version: 08 May 2024
 - Editor's Draft: [https://w3c.github.io/webrtc-svc/](https://w3c.github.io/webrtc-svc/)
 - Latest published version: [https://www.w3.org/TR/webrtc-svc/](https://www.w3.org/TR/webrtc-svc/)
 - Shortname: webrtc-svc
