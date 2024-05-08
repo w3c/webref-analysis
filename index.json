@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-08T12:40:02.544Z",
+  "date": "2024-05-08T18:32:56.992Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -57012,7 +57012,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "03 May 2024",
+      "date": "08 May 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -59142,7 +59142,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "7 May 2024",
+      "date": "8 May 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59205,7 +59205,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "7 May 2024",
+      "date": "8 May 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
