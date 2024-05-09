@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-09T06:36:13.426Z",
+  "date": "2024-05-09T12:38:53.350Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -35816,7 +35816,7 @@
     {
       "title": "Media Session",
       "shortname": "mediasession",
-      "date": "14 April 2024",
+      "date": "9 May 2024",
       "url": "https://www.w3.org/TR/mediasession/",
       "release": {
         "url": "https://www.w3.org/TR/mediasession/",
@@ -39933,7 +39933,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "8 May 2024",
+      "date": "9 May 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
