@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-09T12:38:53.350Z",
+  "date": "2024-05-09T18:31:55.209Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -22545,7 +22545,7 @@
     {
       "title": "Device Orientation and Motion",
       "shortname": "orientation-event",
-      "date": "8 May 2024",
+      "date": "9 May 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -24565,7 +24565,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "8 May 2024",
+      "date": "9 May 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -34451,11 +34451,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/orientation-event/",
-              "title": "Device Orientation and Motion",
-              "crawled": "https://w3c.github.io/deviceorientation/"
-            },
             {
               "url": "https://www.w3.org/TR/orientation-sensor/",
               "title": "Orientation Sensor",
@@ -46201,7 +46196,7 @@
     {
       "title": "Scalable Video Coding (SVC) Extension for WebRTC",
       "shortname": "webrtc-svc",
-      "date": "08 May 2024",
+      "date": "09 May 2024",
       "url": "https://www.w3.org/TR/webrtc-svc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc-svc/",
