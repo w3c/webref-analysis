@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-10T06:35:57.275Z",
+  "date": "2024-05-10T12:38:48.552Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -39928,7 +39928,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "9 May 2024",
+      "date": "10 May 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -55369,7 +55369,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "9 May 2024",
+      "date": "10 May 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
