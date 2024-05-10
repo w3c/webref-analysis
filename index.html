@@ -21,7 +21,7 @@
   
       <header>
       <h1>Reffy crawl</h1>
-            <h2 class="date">May 09, 2024</h2>
+            <h2 class="date">May 10, 2024</h2>
           </header>
     <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>
@@ -9393,8 +9393,8 @@
   </ul>
   </section>
   </section>
-  <section id="css-style-attributes" class="level3" data-spec="true" data-missingDfns="true" data-ok="true">
-  <h3 data-spec="true" data-missingDfns="true" data-ok="true">CSS Style Attributes</h3>
+  <section id="css-style-attributes" class="level3" data-spec="true" data-error="true">
+  <h3 data-spec="true" data-error="true">CSS Style Attributes</h3>
   <section id="spec-info-241" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -9408,7 +9408,8 @@
   </section>
   <section id="potential-issues-241" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>This specification looks good!</p>
+  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 388)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded       at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)       at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)       at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)       at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)       at CdpFrame.&lt;anonymous&gt; (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)       at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)       at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)       at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)       at async Promise.all (index 388) }</code></p>
+  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
   </section>
   <section id="known-dependencies-on-this-specification-241" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -10451,7 +10452,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/css-view-transitions-1/">https://www.w3.org/TR/css-view-transitions-1/</a></li>
   <li>Crawled URL: <a href="https://drafts.csswg.org/css-view-transitions-1/">https://drafts.csswg.org/css-view-transitions-1/</a></li>
-  <li>Crawled version: 10 April 2024</li>
+  <li>Crawled version: 9 May 2024</li>
   <li>Editor’s Draft: <a href="https://drafts.csswg.org/css-view-transitions-1/">https://drafts.csswg.org/css-view-transitions-1/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/css-view-transitions-1/">https://www.w3.org/TR/css-view-transitions-1/</a></li>
   <li>Shortname: css-view-transitions-1</li>
@@ -10514,8 +10515,8 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="css-viewport-module-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
-  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">CSS Viewport Module Level 1</h3>
+  <section id="css-viewport-module-level-1" class="level3" data-spec="true" data-error="true">
+  <h3 data-spec="true" data-error="true">CSS Viewport Module Level 1</h3>
   <section id="spec-info-259" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -10529,21 +10530,8 @@
   </section>
   <section id="potential-issues-259" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <ul>
-  <li>Missing references for links:
-  <ul>
-  <li><a href="https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/"><code>https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/</code></a></li>
-  <li><a href="https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/"><code>https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
-  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
-  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
-  </ul></li>
-  <li>Inconsistent references for links:
-  <ul>
-  <li><a href="https://w3c.github.io/virtual-keyboard"><code>https://w3c.github.io/virtual-keyboard</code></a>, related reference “VIRTUAL-KEYBOARD” uses URL <a href="https://www.w3.org/TR/virtual-keyboard/"><code>https://www.w3.org/TR/virtual-keyboard/</code></a></li>
-  </ul></li>
-  </ul>
+  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 406)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)</code></p>
+  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
   </section>
   <section id="known-dependencies-on-this-specification-259" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -18002,7 +17990,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webnn/">https://www.w3.org/TR/webnn/</a></li>
   <li>Crawled URL: <a href="https://webmachinelearning.github.io/webnn/">https://webmachinelearning.github.io/webnn/</a></li>
-  <li>Crawled version: 7 May 2024</li>
+  <li>Crawled version: 9 May 2024</li>
   <li>Editor’s Draft: <a href="https://webmachinelearning.github.io/webnn/">https://webmachinelearning.github.io/webnn/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webnn/">https://www.w3.org/TR/webnn/</a></li>
   <li>Shortname: webnn</li>
