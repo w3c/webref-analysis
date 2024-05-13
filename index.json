@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-12T18:32:42.217Z",
+  "date": "2024-05-13T00:45:48.893Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -47644,7 +47644,7 @@
     {
       "title": "Set methods",
       "shortname": "tc39-set-methods",
-      "date": "28 March 2024",
+      "date": "12 May 2024",
       "url": "https://tc39.es/proposal-set-methods/",
       "nightly": {
         "url": "https://tc39.es/proposal-set-methods/",
