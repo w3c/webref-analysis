@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-13T00:45:48.893Z",
+  "date": "2024-05-13T06:35:09.659Z",
   "stats": {
     "crawled": 619,
     "errors": 18,
@@ -4877,7 +4877,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "12 March 2024",
+      "date": "13 May 2024",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -12767,7 +12767,7 @@
     {
       "title": "CSS Grid Layout Module Level 3",
       "shortname": "css-grid-3",
-      "date": "1 November 2023",
+      "date": "18 April 2024",
       "url": "https://drafts.csswg.org/css-grid-3/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-grid-3/",
@@ -27814,7 +27814,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "12 May 2024",
+      "date": "13 May 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
