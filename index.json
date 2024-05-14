@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-14T12:41:13.447Z",
+  "date": "2024-05-14T18:33:02.493Z",
   "stats": {
     "crawled": 619,
     "errors": 19,
@@ -41318,7 +41318,7 @@
     {
       "title": "RDF Dataset Canonicalization",
       "shortname": "rdf-canon",
-      "date": "11 April 2024",
+      "date": "14 May 2024",
       "url": "https://www.w3.org/TR/rdf-canon/",
       "release": {
         "url": "https://www.w3.org/TR/rdf-canon/",
@@ -50277,7 +50277,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "6 May 2024",
+      "date": "14 May 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -50794,7 +50794,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "23 April 2024",
+      "date": "14 May 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -53411,7 +53411,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "16 April 2024",
+      "date": "14 May 2024",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -55375,7 +55375,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "11 May 2024",
+      "date": "14 May 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
