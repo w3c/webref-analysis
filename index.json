@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-13T18:33:12.757Z",
+  "date": "2024-05-14T00:46:56.362Z",
   "stats": {
     "crawled": 619,
-    "errors": 18,
+    "errors": 19,
     "studied": 619
   },
   "results": [
@@ -706,6 +706,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 558)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22690,7 +22691,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "01 May 2024",
+      "date": "13 May 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -33742,7 +33743,7 @@
     {
       "title": "JSON-LD 1.1 Framing",
       "shortname": "json-ld11-framing",
-      "date": "07 March 2024",
+      "date": "13 May 2024",
       "url": "https://www.w3.org/TR/json-ld11-framing/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-framing/",
@@ -33800,7 +33801,7 @@
     {
       "title": "JSON-LD 1.1 Processing Algorithms and API",
       "shortname": "json-ld11-api",
-      "date": "29 March 2024",
+      "date": "13 May 2024",
       "url": "https://www.w3.org/TR/json-ld11-api/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-api/",
@@ -34881,7 +34882,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "02 May 2024",
+      "date": "13 May 2024",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -59574,7 +59575,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "25 April 2024",
+      "date": "13 May 2024",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
