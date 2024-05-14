@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-14T06:34:26.889Z",
+  "date": "2024-05-14T12:41:13.447Z",
   "stats": {
     "crawled": 619,
-    "errors": 20,
+    "errors": 19,
     "studied": 619
   },
   "results": [
@@ -3796,7 +3796,7 @@
             {
               "url": "https://wicg.github.io/digital-identities/",
               "title": "Digital Credentials",
-              "crawled": "https://wicg.github.io/digital-identities/"
+              "crawled": "https://wicg.github.io/digital-credentials"
             },
             {
               "url": "https://fedidcg.github.io/FedCM/",
@@ -22691,7 +22691,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "13 May 2024",
+      "date": "14 May 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -22701,7 +22701,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://wicg.github.io/digital-identities/",
+      "crawled": "https://wicg.github.io/digital-credentials",
       "organization": "W3C",
       "groups": [
         {
@@ -22710,7 +22710,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://wicg.github.io/digital-identities/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:551:21)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 193)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -26193,7 +26192,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "7 May 2024",
+      "date": "14 May 2024",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -29667,7 +29666,7 @@
             {
               "url": "https://wicg.github.io/digital-identities/",
               "title": "Digital Credentials",
-              "crawled": "https://wicg.github.io/digital-identities/"
+              "crawled": "https://wicg.github.io/digital-credentials"
             },
             {
               "url": "https://wicg.github.io/digital-goods/",
@@ -32045,7 +32044,7 @@
             {
               "url": "https://wicg.github.io/digital-identities/",
               "title": "Digital Credentials",
-              "crawled": "https://wicg.github.io/digital-identities/"
+              "crawled": "https://wicg.github.io/digital-credentials"
             },
             {
               "url": "https://wicg.github.io/digital-goods/",
@@ -35303,7 +35302,7 @@
     {
       "title": "Media Queries Level 3",
       "shortname": "mediaqueries-3",
-      "date": "05 April 2022",
+      "date": "14 May 2024",
       "url": "https://www.w3.org/TR/mediaqueries-3/",
       "release": {
         "url": "https://www.w3.org/TR/mediaqueries-3/",
@@ -52362,7 +52361,7 @@
             {
               "url": "https://wicg.github.io/digital-identities/",
               "title": "Digital Credentials",
-              "crawled": "https://wicg.github.io/digital-identities/"
+              "crawled": "https://wicg.github.io/digital-credentials"
             },
             {
               "url": "https://www.w3.org/TR/vc-data-integrity/",
@@ -52812,7 +52811,7 @@
             {
               "url": "https://wicg.github.io/digital-identities/",
               "title": "Digital Credentials",
-              "crawled": "https://wicg.github.io/digital-identities/"
+              "crawled": "https://wicg.github.io/digital-credentials"
             },
             {
               "url": "https://www.w3.org/TR/permissions/",
@@ -54225,7 +54224,7 @@
             {
               "url": "https://wicg.github.io/digital-identities/",
               "title": "Digital Credentials",
-              "crawled": "https://wicg.github.io/digital-identities/"
+              "crawled": "https://wicg.github.io/digital-credentials"
             },
             {
               "url": "https://wicg.github.io/digital-goods/",

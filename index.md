@@ -3424,7 +3424,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Digital Credentials](https://wicg.github.io/digital-identities/)
+- [Digital Credentials](https://wicg.github.io/digital-credentials)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
@@ -9845,7 +9845,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mediaqueries-3/](https://www.w3.org/TR/mediaqueries-3/)
 - Crawled URL: [https://drafts.csswg.org/mediaqueries-3/](https://drafts.csswg.org/mediaqueries-3/)
-- Crawled version: 05 April 2022
+- Crawled version: 14 May 2024
 - Editor's Draft: [https://drafts.csswg.org/mediaqueries-3/](https://drafts.csswg.org/mediaqueries-3/)
 - Latest published version: [https://www.w3.org/TR/mediaqueries-3/](https://www.w3.org/TR/mediaqueries-3/)
 - Shortname: mediaqueries-3
@@ -14259,7 +14259,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [Digital Credentials](https://wicg.github.io/digital-identities/)
+- [Digital Credentials](https://wicg.github.io/digital-credentials)
 - [Verifiable Credential Data Integrity 1.0](https://w3c.github.io/vc-data-integrity/)
 
 No informative reference to this spec from other specs.
@@ -14300,7 +14300,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Digital Credentials](https://wicg.github.io/digital-identities/)
+- [Digital Credentials](https://wicg.github.io/digital-credentials)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
 
@@ -14484,7 +14484,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
-- [Digital Credentials](https://wicg.github.io/digital-identities/)
+- [Digital Credentials](https://wicg.github.io/digital-credentials)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
@@ -17120,27 +17120,21 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Digital Credentials {data-spec=true data-error=true}
+### Digital Credentials {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
-- Crawled URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
-- Crawled version: 13 May 2024
+- Crawled URL: [https://wicg.github.io/digital-credentials](https://wicg.github.io/digital-credentials)
+- Crawled version: 14 May 2024
 - Editor's Draft: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Shortname: digital-identities
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://wicg.github.io/digital-identities/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:551:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 193)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20153,7 +20147,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Crawled URL: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
-- Crawled version: 7 May 2024
+- Crawled version: 14 May 2024
 - Editor's Draft: [https://fetch.spec.whatwg.org/](https://fetch.spec.whatwg.org/)
 - Shortname: fetch
 
@@ -20430,7 +20424,7 @@ Normative references to this spec from:
 - [Device Memory](https://www.w3.org/TR/device-memory/)
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [Digital Credentials](https://wicg.github.io/digital-identities/)
+- [Digital Credentials](https://wicg.github.io/digital-credentials)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
 - [Digital Publishing WAI-ARIA Module 1.1](https://w3c.github.io/dpub-aria/)
@@ -20811,7 +20805,7 @@ Normative references to this spec from:
 - [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [Digital Credentials](https://wicg.github.io/digital-identities/)
+- [Digital Credentials](https://wicg.github.io/digital-credentials)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Digital Publishing Accessibility API Mappings 1.1](https://w3c.github.io/dpub-aam/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
@@ -21489,7 +21483,7 @@ Normative references to this spec from:
 - [Device Memory](https://www.w3.org/TR/device-memory/)
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
-- [Digital Credentials](https://wicg.github.io/digital-identities/)
+- [Digital Credentials](https://wicg.github.io/digital-credentials)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
