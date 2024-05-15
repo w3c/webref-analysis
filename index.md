@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 14, 2024
+% May 15, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -191,7 +191,7 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 The following network or parsing error occurred:
-`Error: Loading https://www.w3.org/Graphics/GIF/spec-gif89a.txt triggered HTTP status 520
+`Error: Loading https://www.w3.org/Graphics/GIF/spec-gif89a.txt triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
@@ -1834,7 +1834,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 7 May 2024
+- Crawled version: 14 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1886,7 +1886,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 7 May 2024
+- Crawled version: 14 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1961,7 +1961,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 7 May 2024
+- Crawled version: 14 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -8043,7 +8043,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Crawled URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
-- Crawled version: 19 March 2024
+- Crawled version: 14 May 2024
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Shortname: css-scroll-snap-2
 
@@ -8060,6 +8060,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 
 No informative reference to this spec from other specs.
@@ -9633,7 +9634,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Crawled URL: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
-- Crawled version: 7 May 2024
+- Crawled version: 14 May 2024
 - Editor's Draft: [https://drafts.csswg.org/cssom-view-1/](https://drafts.csswg.org/cssom-view-1/)
 - Latest published version: [https://www.w3.org/TR/cssom-view-1/](https://www.w3.org/TR/cssom-view-1/)
 - Shortname: cssom-view-1
@@ -10317,7 +10318,7 @@ Informative references to this spec from:
 
 ## DOM Working Group {#group-dom_working_group}
 
-### Document Object Model (DOM) Level 2 Style Specification {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Document Object Model (DOM) Level 2 Style Specification {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -10330,35 +10331,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/about.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/about.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/media.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/media.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/text.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/text.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html)
-     * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html)
-     * [`https://www.w3.org/TR/1998/REC-html40-19980424`](https://www.w3.org/TR/1998/REC-html40-19980424)
-     * [`https://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html`](https://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html)
-     * [`https://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html`](https://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html)
-     * [`https://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html`](https://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html)
-     * [`https://www.w3.org/TR/1998/REC-html40-19980424/types.html`](https://www.w3.org/TR/1998/REC-html40-19980424/types.html)
-     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113)
-     * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113)
+The following network or parsing error occurred:
+`Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 610)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12367,7 +12348,7 @@ No informative reference to this spec from other specs.
 
 ## Patents and Standards Interest Group {#group-patents_and_standards_interest_group}
 
-### W3C Patent Policy {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### W3C Patent Policy {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -12379,8 +12360,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/)
+The following network or parsing error occurred:
+`Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 292)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20404,6 +20392,7 @@ Normative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
 - [CSS Scroll Snap Module Level 1](https://drafts.csswg.org/css-scroll-snap-1/)
+- [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [CSS Text Module Level 3](https://drafts.csswg.org/css-text-3/)

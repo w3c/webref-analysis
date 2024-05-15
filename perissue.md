@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 14, 2024
+% May 15, 2024
 
 619 specifications were crawled in this report.
 
@@ -254,6 +254,12 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 415)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+- [Document Object Model (DOM) Level 2 Style Specification](https://www.w3.org/TR/DOM-Level-2-Style/): `Error: Loading https://www.w3.org/TR/DOM-Level-2-Style/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 610)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 - [Font Metrics API Level 1](https://drafts.css-houdini.org/font-metrics-api-1/): `Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered network error
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
@@ -300,7 +306,7 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 145)`
-- [Graphics Interchange Format](https://www.w3.org/Graphics/GIF/spec-gif89a.txt): `Error: Loading https://www.w3.org/Graphics/GIF/spec-gif89a.txt triggered HTTP status 520
+- [Graphics Interchange Format](https://www.w3.org/Graphics/GIF/spec-gif89a.txt): `Error: Loading https://www.w3.org/Graphics/GIF/spec-gif89a.txt triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
@@ -336,6 +342,12 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
       at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
       at async Promise.all (index 543)
 }`
+- [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/): `Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 292)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 - [W3C Process Document](https://www.w3.org/Consortium/Process/): `Error: Loading https://www.w3.org/Consortium/Process/ triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
@@ -349,7 +361,7 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
     at async Promise.all (index 291)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 
-=> 19 specifications found
+=> 21 specifications found
 
 
 ## Specifications without normative dependencies
@@ -1231,35 +1243,6 @@ Basically all specifications have normative dependencies on some other specifica
 - [Digital Publishing WAI-ARIA Module 1.1](https://w3c.github.io/dpub-aria/) links to:
     * [`https://www.w3.org/TR/dpub-aria-1.0/`](https://www.w3.org/TR/dpub-aria-1.0/) but does not list it in its references
     * [`https://www.w3.org/TR/wai-aria/`](https://www.w3.org/TR/wai-aria/) but does not list it in its references
-- [Document Object Model (DOM) Level 2 Style Specification](https://www.w3.org/TR/DOM-Level-2-Style/) links to:
-    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512`](https://www.w3.org/TR/1998/REC-CSS2-19980512) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/about.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/about.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/cascade.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/colors.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/media.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/media.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/propidx.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/selector.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/text.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/text.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/ui.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html`](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-html40-19980424`](https://www.w3.org/TR/1998/REC-html40-19980424) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html`](https://www.w3.org/TR/1998/REC-html40-19980424/present/styles.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html`](https://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html`](https://www.w3.org/TR/1998/REC-html40-19980424/struct/links.html) but does not list it in its references
-    * [`https://www.w3.org/TR/1998/REC-html40-19980424/types.html`](https://www.w3.org/TR/1998/REC-html40-19980424/types.html) but does not list it in its references
-    * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113) but does not list it in its references
-    * [`https://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113`](https://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113) but does not list it in its references
 - [ECMAScript® 2025 Language Specification](https://tc39.es/ecma262/multipage/) links to:
     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
     * [`https://html.spec.whatwg.org/multipage/obsolete.html`](https://html.spec.whatwg.org/multipage/obsolete.html) but does not list it in its references
@@ -1561,7 +1544,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/vc-imp-guide/`](https://www.w3.org/TR/vc-imp-guide/) but does not list it in its references
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/) links to [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
-- [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/) links to [`https://w3c.github.io/w3process/`](https://w3c.github.io/w3process/) but does not list it in its references
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
 - [Web Animations](https://drafts.csswg.org/web-animations-1/) links to [`https://www.w3.org/TR/css-easing/`](https://www.w3.org/TR/css-easing/) but does not list it in its references
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/) links to [`https://www.w3.org/TR/animation-timing/`](https://www.w3.org/TR/animation-timing/) but does not list it in its references
@@ -1667,7 +1649,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 961 missing references for links found in 242 specifications
+=> 932 missing references for links found in 240 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
