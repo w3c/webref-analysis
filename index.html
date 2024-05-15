@@ -3610,7 +3610,7 @@
   </section>
   <section id="potential-issues-124" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://w3c.github.io/aria/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 558)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: [Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'] {     errno: -2,     code: 'ENOENT',     syscall: 'open',     path: '/tmp/reffy-cache/w3c.github.io!aria.headers'   } }</code></p>
+  <p>The following network or parsing error occurred: <code>Error: Loading https://w3c.github.io/aria/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     ... 2 lines matching cause stack trace ...     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'       at async open (node:internal/fs/promises:636:25)       at async Object.readFile (node:internal/fs/promises:1246:14)       at async readFromCache (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:393:16)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:487:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)       at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)       at async Promise.all (index 558)       at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {     errno: -2,     code: 'ENOENT',     syscall: 'open',     path: '/tmp/reffy-cache/w3c.github.io!aria.headers'   } }</code></p>
   <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
   </section>
   <section id="known-dependencies-on-this-specification-124" class="level4 dependencies">
@@ -9070,7 +9070,6 @@
   <h4 class="dependencies">Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
-  <li><a href="https://drafts.csswg.org/css-scroll-snap-2/">CSS Scroll Snap Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   </ul>
   <p>No informative reference to this spec from other specs.</p>
@@ -10810,7 +10809,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/cssom-view-1/">https://www.w3.org/TR/cssom-view-1/</a></li>
   <li>Crawled URL: <a href="https://drafts.csswg.org/cssom-view-1/">https://drafts.csswg.org/cssom-view-1/</a></li>
-  <li>Crawled version: 14 May 2024</li>
+  <li>Crawled version: 15 May 2024</li>
   <li>Editor’s Draft: <a href="https://drafts.csswg.org/cssom-view-1/">https://drafts.csswg.org/cssom-view-1/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/cssom-view-1/">https://www.w3.org/TR/cssom-view-1/</a></li>
   <li>Shortname: cssom-view-1</li>
@@ -12260,7 +12259,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/encrypted-media/">https://www.w3.org/TR/encrypted-media/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/encrypted-media/">https://w3c.github.io/encrypted-media/</a></li>
-  <li>Crawled version: 27 April 2024</li>
+  <li>Crawled version: 15 May 2024</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/encrypted-media/">https://w3c.github.io/encrypted-media/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/encrypted-media/">https://www.w3.org/TR/encrypted-media/</a></li>
   <li>Shortname: encrypted-media</li>
@@ -12958,7 +12957,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/json-ld11-framing/">https://www.w3.org/TR/json-ld11-framing/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/json-ld-framing/">https://w3c.github.io/json-ld-framing/</a></li>
-  <li>Crawled version: 13 May 2024</li>
+  <li>Crawled version: 15 May 2024</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/json-ld-framing/">https://w3c.github.io/json-ld-framing/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/json-ld11-framing/">https://www.w3.org/TR/json-ld11-framing/</a></li>
   <li>Shortname: json-ld11-framing</li>
@@ -17972,7 +17971,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webnn/">https://www.w3.org/TR/webnn/</a></li>
   <li>Crawled URL: <a href="https://webmachinelearning.github.io/webnn/">https://webmachinelearning.github.io/webnn/</a></li>
-  <li>Crawled version: 14 May 2024</li>
+  <li>Crawled version: 15 May 2024</li>
   <li>Editor’s Draft: <a href="https://webmachinelearning.github.io/webnn/">https://webmachinelearning.github.io/webnn/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webnn/">https://www.w3.org/TR/webnn/</a></li>
   <li>Shortname: webnn</li>
@@ -20294,7 +20293,7 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/turtledove/">https://wicg.github.io/turtledove/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/turtledove/">https://wicg.github.io/turtledove/</a></li>
-  <li>Crawled version: 13 May 2024</li>
+  <li>Crawled version: 15 May 2024</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/turtledove/">https://wicg.github.io/turtledove/</a></li>
   <li>Shortname: turtledove</li>
   </ul>
