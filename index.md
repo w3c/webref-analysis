@@ -11626,7 +11626,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 05 April 2024
+- Crawled version: 16 May 2024
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -11707,7 +11707,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/audio-session/](https://w3c.github.io/audio-session/)
 - Crawled URL: [https://w3c.github.io/audio-session/](https://w3c.github.io/audio-session/)
-- Crawled version: 30 August 2023
+- Crawled version: 16 May 2024
 - Editor's Draft: [https://w3c.github.io/audio-session/](https://w3c.github.io/audio-session/)
 - Shortname: audio-session
 
@@ -15259,7 +15259,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerlock-2/](https://www.w3.org/TR/pointerlock-2/)
 - Crawled URL: [https://w3c.github.io/pointerlock/](https://w3c.github.io/pointerlock/)
-- Crawled version: 08 May 2024
+- Crawled version: 16 May 2024
 - Editor's Draft: [https://w3c.github.io/pointerlock/](https://w3c.github.io/pointerlock/)
 - Latest published version: [https://www.w3.org/TR/pointerlock-2/](https://www.w3.org/TR/pointerlock-2/)
 - Shortname: pointerlock-2
@@ -15512,7 +15512,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Crawled URL: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
-- Crawled version: 02 May 2024
+- Crawled version: 16 May 2024
 - Editor's Draft: [https://w3c.github.io/manifest/](https://w3c.github.io/manifest/)
 - Latest published version: [https://www.w3.org/TR/appmanifest/](https://www.w3.org/TR/appmanifest/)
 - Shortname: appmanifest
@@ -17123,7 +17123,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Crawled URL: [https://wicg.github.io/digital-credentials](https://wicg.github.io/digital-credentials)
-- Crawled version: 14 May 2024
+- Crawled version: 16 May 2024
 - Editor's Draft: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Shortname: digital-identities
 

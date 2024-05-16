@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-16T06:31:40.515Z",
+  "date": "2024-05-16T12:40:00.475Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -1116,7 +1116,7 @@
     {
       "title": "Audio Session",
       "shortname": "audio-session",
-      "date": "30 August 2023",
+      "date": "16 May 2024",
       "url": "https://w3c.github.io/audio-session/",
       "nightly": {
         "url": "https://w3c.github.io/audio-session/",
@@ -22701,7 +22701,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "14 May 2024",
+      "date": "16 May 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -34697,7 +34697,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "05 April 2024",
+      "date": "16 May 2024",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -39319,7 +39319,7 @@
     {
       "title": "Pointer Lock 2.0",
       "shortname": "pointerlock-2",
-      "date": "08 May 2024",
+      "date": "16 May 2024",
       "url": "https://www.w3.org/TR/pointerlock-2/",
       "release": {
         "url": "https://www.w3.org/TR/pointerlock-2/",
@@ -53299,7 +53299,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "02 May 2024",
+      "date": "16 May 2024",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
