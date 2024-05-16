@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-15T18:34:44.027Z",
+  "date": "2024-05-16T00:46:56.299Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -1010,7 +1010,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "13 May 2024",
+      "date": "15 May 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -4565,7 +4565,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "2 May 2024",
+      "date": "15 May 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -4615,6 +4615,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
             {
               "url": "https://www.w3.org/TR/css3-exclusions/",
               "title": "CSS Exclusions Module Level 1",
@@ -5239,7 +5244,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "26 February 2024",
+      "date": "15 May 2024",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -18548,7 +18553,7 @@
     {
       "title": "CSS Text Module Level 3",
       "shortname": "css-text-3",
-      "date": "19 February 2024",
+      "date": "15 May 2024",
       "url": "https://www.w3.org/TR/css-text-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-3/",
@@ -18824,7 +18829,7 @@
     {
       "title": "CSS Text Module Level 4",
       "shortname": "css-text-4",
-      "date": "17 April 2024",
+      "date": "15 May 2024",
       "url": "https://www.w3.org/TR/css-text-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-text-4/",
@@ -26011,7 +26016,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "8 May 2024",
+      "date": "15 May 2024",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -42865,7 +42870,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "14 May 2024",
+      "date": "15 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -53096,7 +53101,7 @@
     {
       "title": "Web Animations Level 2",
       "shortname": "web-animations-2",
-      "date": "29 February 2024",
+      "date": "15 May 2024",
       "url": "https://www.w3.org/TR/web-animations-2/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-2/",
@@ -53532,7 +53537,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "27 April 2024",
+      "date": "15 May 2024",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -53685,7 +53690,7 @@
     {
       "title": "Web Bluetooth",
       "shortname": "web-bluetooth",
-      "date": "23 April 2024",
+      "date": "15 May 2024",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/",
@@ -53751,7 +53756,7 @@
     {
       "title": "Web Bluetooth Scanning",
       "shortname": "web-bluetooth-scanning",
-      "date": "23 April 2024",
+      "date": "15 May 2024",
       "url": "https://webbluetoothcg.github.io/web-bluetooth/scanning.html",
       "nightly": {
         "url": "https://webbluetoothcg.github.io/web-bluetooth/scanning.html",
@@ -59155,7 +59160,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "14 May 2024",
+      "date": "15 May 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59218,7 +59223,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "14 May 2024",
+      "date": "15 May 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
