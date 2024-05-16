@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-16T00:46:56.299Z",
+  "date": "2024-05-16T06:31:40.515Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -39949,7 +39949,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "15 May 2024",
+      "date": "16 May 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -42310,7 +42310,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "14 May 2024",
+      "date": "15 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42597,7 +42597,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "8 May 2024",
+      "date": "15 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -42782,7 +42782,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "14 May 2024",
+      "date": "16 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -43682,7 +43682,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "14 May 2024",
+      "date": "16 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -44030,7 +44030,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "15 May 2024",
+      "date": "16 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -44325,7 +44325,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "9 May 2024",
+      "date": "15 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
