@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-17T06:34:59.669Z",
+  "date": "2024-05-17T12:42:01.160Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -29113,7 +29113,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "10 May 2024",
+      "date": "17 May 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -57196,7 +57196,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "8 May 2024",
+      "date": "17 May 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
