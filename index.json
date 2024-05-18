@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-18T06:32:14.546Z",
+  "date": "2024-05-18T12:40:13.707Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -1010,7 +1010,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "17 May 2024",
+      "date": "18 May 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -8055,7 +8055,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "22 April 2024",
+      "date": "17 May 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -9060,7 +9060,7 @@
     {
       "title": "CSS Containment Module Level 1",
       "shortname": "css-contain-1",
-      "date": "7 August 2023",
+      "date": "17 May 2024",
       "url": "https://www.w3.org/TR/css-contain-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-1/",
@@ -11218,7 +11218,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "4 April 2024",
+      "date": "17 May 2024",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -12266,7 +12266,7 @@
     {
       "title": "CSS Generated Content Module Level 3",
       "shortname": "css-content-3",
-      "date": "5 February 2024",
+      "date": "17 May 2024",
       "url": "https://www.w3.org/TR/css-content-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-content-3/",
@@ -14632,7 +14632,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "24 April 2024",
+      "date": "17 May 2024",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -14682,7 +14682,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "11 April 2024",
+      "date": "17 May 2024",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -21233,7 +21233,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "6 May 2024",
+      "date": "17 May 2024",
       "url": "https://drafts.csswg.org/css-view-transitions-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-view-transitions-2/",
@@ -52914,7 +52914,7 @@
     {
       "title": "Web Animations",
       "shortname": "web-animations-1",
-      "date": "14 April 2024",
+      "date": "17 May 2024",
       "url": "https://www.w3.org/TR/web-animations-1/",
       "release": {
         "url": "https://www.w3.org/TR/web-animations-1/",
