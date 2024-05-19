@@ -1,4 +1,4 @@
-% Diff between report from "May 19, 2024" and reference report from "May 18, 2024"
+% Diff between report from "May 19, 2024" and reference report from "May 19, 2024"
 % Strudy
 % May 19, 2024
 
