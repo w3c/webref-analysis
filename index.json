@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-21T06:38:12.959Z",
+  "date": "2024-05-21T12:43:38.388Z",
   "stats": {
     "crawled": 619,
     "errors": 56,
@@ -2385,7 +2385,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "14 July 2023",
+      "date": "21 May 2024",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -26101,7 +26101,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "8 May 2024",
+      "date": "21 May 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
