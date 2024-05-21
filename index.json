@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-21T00:45:35.859Z",
+  "date": "2024-05-21T06:38:12.959Z",
   "stats": {
     "crawled": 619,
-    "errors": 21,
+    "errors": 56,
     "studied": 619
   },
   "results": [
@@ -4822,6 +4822,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 322)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -4909,6 +4910,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-backgrounds-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 323)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5685,6 +5687,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 324)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5799,6 +5802,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 325)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6658,6 +6662,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 328)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -6808,6 +6813,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-cascade-4/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 329)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7000,6 +7006,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-cascade-5/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 330)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7583,6 +7590,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-cascade-6/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 331)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7741,6 +7749,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-color-adjust-1/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 335)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -7932,6 +7941,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-color-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 332)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8082,6 +8092,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-color-4/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 333)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8417,6 +8428,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-color-5/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 334)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8695,6 +8707,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-conditional-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 336)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8894,6 +8907,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-conditional-4/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 337)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -8968,6 +8982,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-conditional-5/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 338)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9001,7 +9016,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -9086,6 +9101,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-contain-1/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 339)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9205,6 +9221,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-contain-2/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 340)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9413,6 +9430,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-contain-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 341)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9522,6 +9540,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-counter-styles-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 343)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9585,6 +9604,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-highlight-api-1/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 353)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -9602,7 +9622,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -9900,6 +9920,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-display-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 344)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10475,6 +10496,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-easing-1/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 345)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -10910,6 +10932,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 346)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11156,6 +11179,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-font-loading-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 347)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11245,6 +11269,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-fonts-4/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 348)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11543,6 +11568,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 349)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11752,6 +11778,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-break-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 326)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11881,6 +11908,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-break-4/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 327)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12158,6 +12186,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 350)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12293,6 +12322,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-content-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 342)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12439,6 +12469,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-grid-1/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 351)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12562,6 +12593,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 352)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -12870,6 +12902,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-images-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 354)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13135,6 +13168,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-images-4/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 355)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -13396,6 +13430,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://drafts.csswg.org/css-inline-3/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 356)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22550,7 +22585,7 @@
     {
       "title": "Device Orientation and Motion",
       "shortname": "orientation-event",
-      "date": "14 May 2024",
+      "date": "21 May 2024",
       "url": "https://www.w3.org/TR/orientation-event/",
       "release": {
         "url": "https://www.w3.org/TR/orientation-event/",
@@ -25629,7 +25664,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "20 May 2024",
+      "date": "21 May 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -59160,7 +59195,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "18 May 2024",
+      "date": "21 May 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59223,7 +59258,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "18 May 2024",
+      "date": "21 May 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
