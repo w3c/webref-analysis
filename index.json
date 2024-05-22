@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-21T18:36:45.015Z",
+  "date": "2024-05-22T00:47:42.364Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -22798,7 +22798,7 @@
     {
       "title": "Digital Publishing Accessibility API Mappings 1.1",
       "shortname": "dpub-aam-1.1",
-      "date": "29 April 2024",
+      "date": "21 May 2024",
       "url": "https://www.w3.org/TR/dpub-aam-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aam-1.1/",
@@ -24966,6 +24966,11 @@
               "url": "https://www.w3.org/TR/rdf12-concepts/",
               "title": "RDF 1.2 Concepts and Abstract Syntax",
               "crawled": "https://w3c.github.io/rdf-concepts/spec/"
+            },
+            {
+              "url": "https://wicg.github.io/responsive-image-client-hints/",
+              "title": "Responsive Image Client Hints",
+              "crawled": "https://wicg.github.io/responsive-image-client-hints/"
             },
             {
               "url": "https://www.w3.org/TR/screen-capture/",
@@ -33242,6 +33247,11 @@
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
               "crawled": "https://w3c.github.io/webauthn/"
+            },
+            {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
             }
           ],
           "informative": [
@@ -39949,7 +39959,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "16 May 2024",
+      "date": "21 May 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -42160,7 +42170,7 @@
     {
       "title": "Responsive Image Client Hints",
       "shortname": "responsive-image-client-hints",
-      "date": "19 April 2024",
+      "date": "21 May 2024",
       "url": "https://wicg.github.io/responsive-image-client-hints/",
       "nightly": {
         "url": "https://wicg.github.io/responsive-image-client-hints/",
@@ -42597,7 +42607,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "15 May 2024",
+      "date": "21 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -44325,7 +44335,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "15 May 2024",
+      "date": "21 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
@@ -44368,7 +44378,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "15 May 2024",
+      "date": "21 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -57030,7 +57040,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "08 May 2024",
+      "date": "21 May 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -59832,7 +59842,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "23 April 2024",
+      "date": "21 May 2024",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
