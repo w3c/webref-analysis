@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 22, 2024
+% May 23, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -377,7 +377,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 25 April 2024
+- Crawled version: 22 May 2024
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -1107,7 +1107,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 21 May 2024
+- Crawled version: 23 May 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -1962,7 +1962,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 21 May 2024
+- Crawled version: 22 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -10423,7 +10423,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/battery-status/](https://www.w3.org/TR/battery-status/)
 - Crawled URL: [https://w3c.github.io/battery/](https://w3c.github.io/battery/)
-- Crawled version: 05 January 2024
+- Crawled version: 22 May 2024
 - Editor's Draft: [https://w3c.github.io/battery/](https://w3c.github.io/battery/)
 - Latest published version: [https://www.w3.org/TR/battery-status/](https://www.w3.org/TR/battery-status/)
 - Shortname: battery-status
