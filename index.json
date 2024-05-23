@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-23T12:41:25.341Z",
+  "date": "2024-05-23T18:35:01.213Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -1010,7 +1010,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "22 May 2024",
+      "date": "23 May 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1694,7 +1694,7 @@
     {
       "title": "Battery Status API",
       "shortname": "battery-status",
-      "date": "22 May 2024",
+      "date": "23 May 2024",
       "url": "https://www.w3.org/TR/battery-status/",
       "release": {
         "url": "https://www.w3.org/TR/battery-status/",
@@ -25634,7 +25634,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "21 May 2024",
+      "date": "23 May 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -59170,7 +59170,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "22 May 2024",
+      "date": "23 May 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59233,7 +59233,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "22 May 2024",
+      "date": "23 May 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
