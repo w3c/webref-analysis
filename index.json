@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-23T06:36:15.839Z",
+  "date": "2024-05-23T12:41:25.341Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -3747,7 +3747,7 @@
     {
       "title": "Credential Management Level 1",
       "shortname": "credential-management-1",
-      "date": "22 May 2024",
+      "date": "23 May 2024",
       "url": "https://www.w3.org/TR/credential-management-1/",
       "release": {
         "url": "https://www.w3.org/TR/credential-management-1/",

@@ -14467,7 +14467,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
-- Crawled version: 22 May 2024
+- Crawled version: 23 May 2024
 - Editor's Draft: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
 - Latest published version: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
 - Shortname: credential-management-1
