@@ -1641,6 +1641,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [WebDriver BiDi](https://w3c.github.io/webdriver-bidi/) links to:
     * [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/) but does not list it in its references
     * [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/) but does not list it in its references
+    * [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/) but does not list it in its references
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/) links to [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/) but does not list it in its references
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/) links to [`https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html`](https://w3c.github.io/webrtc-interop-reports/webrtc-pc-report.html) but does not list it in its references
 - [WebTransport](https://w3c.github.io/webtransport/) links to:
@@ -1656,7 +1657,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 932 missing references for links found in 240 specifications
+=> 933 missing references for links found in 240 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
