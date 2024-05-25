@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-25T00:47:34.634Z",
+  "date": "2024-05-25T06:36:09.139Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -44330,7 +44330,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "24 May 2024",
+      "date": "25 May 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
