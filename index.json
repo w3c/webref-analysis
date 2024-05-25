@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-25T12:40:51.901Z",
+  "date": "2024-05-25T18:34:21.095Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -56565,7 +56565,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "24 May 2024",
+      "date": "25 May 2024",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
