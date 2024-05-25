@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% May 24, 2024
+% May 25, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -765,7 +765,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
 
 No informative reference to this spec from other specs.
 
@@ -10883,7 +10885,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 23 May 2024
+- Crawled version: 24 May 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10909,7 +10911,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 23 May 2024
+- Crawled version: 24 May 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -16410,6 +16412,7 @@ Normative references to this spec from:
 
 - [DOM Standard](https://dom.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Long Tasks API](https://w3c.github.io/longtasks/)
 
 No informative reference to this spec from other specs.
 
@@ -16420,7 +16423,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Crawled URL: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
-- Crawled version: 11 March 2024
+- Crawled version: 24 May 2024
 - Editor's Draft: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 - Latest published version: [https://www.w3.org/TR/longtasks-1/](https://www.w3.org/TR/longtasks-1/)
 - Shortname: longtasks-1
@@ -16435,7 +16438,6 @@ Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Long Animation Frames API](https://w3c.github.io/long-animation-frames/)
-- [Long Tasks API](https://w3c.github.io/longtasks/)
 - [Timing Entry Names Registry](https://w3c.github.io/timing-entrytypes-registry/)
 
 No informative reference to this spec from other specs.
@@ -16674,7 +16676,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/resource-timing/](https://www.w3.org/TR/resource-timing/)
 - Crawled URL: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
-- Crawled version: 27 April 2024
+- Crawled version: 24 May 2024
 - Editor's Draft: [https://w3c.github.io/resource-timing/](https://w3c.github.io/resource-timing/)
 - Latest published version: [https://www.w3.org/TR/resource-timing/](https://www.w3.org/TR/resource-timing/)
 - Shortname: resource-timing
@@ -16708,7 +16710,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/server-timing/](https://www.w3.org/TR/server-timing/)
 - Crawled URL: [https://w3c.github.io/server-timing/](https://w3c.github.io/server-timing/)
-- Crawled version: 11 April 2023
+- Crawled version: 24 May 2024
 - Editor's Draft: [https://w3c.github.io/server-timing/](https://w3c.github.io/server-timing/)
 - Latest published version: [https://www.w3.org/TR/server-timing/](https://www.w3.org/TR/server-timing/)
 - Shortname: server-timing

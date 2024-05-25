@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-24T18:35:09.906Z",
+  "date": "2024-05-25T00:47:34.634Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -34360,6 +34360,11 @@
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
+            },
+            {
+              "url": "https://www.w3.org/TR/longtasks-1/",
+              "title": "Long Tasks API",
+              "crawled": "https://w3c.github.io/longtasks/"
             }
           ],
           "informative": []
@@ -34370,7 +34375,7 @@
     {
       "title": "Long Tasks API",
       "shortname": "longtasks-1",
-      "date": "11 March 2024",
+      "date": "24 May 2024",
       "url": "https://www.w3.org/TR/longtasks-1/",
       "release": {
         "url": "https://www.w3.org/TR/longtasks-1/",
@@ -34418,11 +34423,6 @@
               "url": "https://w3c.github.io/long-animation-frames/",
               "title": "Long Animation Frames API",
               "crawled": "https://w3c.github.io/long-animation-frames/"
-            },
-            {
-              "url": "https://www.w3.org/TR/longtasks-1/",
-              "title": "Long Tasks API",
-              "crawled": "https://w3c.github.io/longtasks/"
             },
             {
               "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
@@ -42063,7 +42063,7 @@
     {
       "title": "Resource Timing",
       "shortname": "resource-timing",
-      "date": "27 April 2024",
+      "date": "24 May 2024",
       "url": "https://www.w3.org/TR/resource-timing/",
       "release": {
         "url": "https://www.w3.org/TR/resource-timing/",
@@ -47410,7 +47410,7 @@
     {
       "title": "Server Timing",
       "shortname": "server-timing",
-      "date": "11 April 2023",
+      "date": "24 May 2024",
       "url": "https://www.w3.org/TR/server-timing/",
       "release": {
         "url": "https://www.w3.org/TR/server-timing/",
@@ -47888,7 +47888,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -59171,7 +59177,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "23 May 2024",
+      "date": "24 May 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59234,7 +59240,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "23 May 2024",
+      "date": "24 May 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
