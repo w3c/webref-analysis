@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-26T18:34:04.150Z",
+  "date": "2024-05-27T00:47:43.112Z",
   "stats": {
     "crawled": 619,
     "errors": 21,
@@ -32703,11 +32703,6 @@
               "crawled": "https://w3c.github.io/vc-data-integrity/"
             },
             {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
-            },
-            {
               "url": "https://www.w3.org/TR/mediacapture-viewport/",
               "title": "Viewport Capture",
               "crawled": "https://w3c.github.io/mediacapture-viewport/"
@@ -33239,11 +33234,6 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
-            },
-            {
               "url": "https://www.w3.org/TR/webauthn-3/",
               "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
               "crawled": "https://w3c.github.io/webauthn/"
@@ -33733,11 +33723,6 @@
               "url": "https://www.w3.org/TR/vc-data-integrity/",
               "title": "Verifiable Credential Data Integrity 1.0",
               "crawled": "https://w3c.github.io/vc-data-integrity/"
-            },
-            {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
             }
           ],
           "informative": [
@@ -33875,11 +33860,6 @@
               "url": "https://www.w3.org/TR/json-ld11-framing/",
               "title": "JSON-LD 1.1 Framing",
               "crawled": "https://w3c.github.io/json-ld-framing/"
-            },
-            {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
             }
           ],
           "informative": []
@@ -34533,7 +34513,7 @@
     {
       "title": "Manifest Incubations",
       "shortname": "manifest-incubations",
-      "date": "29 April 2024",
+      "date": "27 May 2024",
       "url": "https://wicg.github.io/manifest-incubations/",
       "nightly": {
         "url": "https://wicg.github.io/manifest-incubations/",
@@ -42281,11 +42261,6 @@
               "crawled": "https://w3c.github.io/resource-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
-            },
-            {
               "url": "https://www.w3.org/TR/webdriver2/",
               "title": "WebDriver",
               "crawled": "https://w3c.github.io/webdriver/"
@@ -43247,11 +43222,6 @@
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
               "title": "RFC 9110 - HTTP Semantics",
               "crawled": "https://httpwg.org/specs/rfc9110.html"
-            },
-            {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
             }
           ]
         },
@@ -49922,11 +49892,6 @@
               "url": "https://www.w3.org/TR/pub-manifest/",
               "title": "Publication Manifest",
               "crawled": "https://w3c.github.io/pub-manifest/"
-            },
-            {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
             }
           ],
           "informative": [
@@ -51977,11 +51942,6 @@
               "crawled": "https://w3c.github.io/vc-data-integrity/"
             },
             {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
-            },
-            {
               "url": "https://wicg.github.io/web-app-launch/",
               "title": "Web App Launch Handler API",
               "crawled": "https://wicg.github.io/web-app-launch/"
@@ -52322,13 +52282,7 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/vc-data-model-2.0/",
-              "title": "Verifiable Credentials Data Model v2.0",
-              "crawled": "https://w3c.github.io/vc-data-model/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://www.w3.org/TR/rdf-canon/",
@@ -52343,7 +52297,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "13 May 2024",
+      "date": "26 May 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -52367,7 +52321,7 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -52379,13 +52333,28 @@
           "idl": []
         },
         "missingLinkRef": [
+          "https://infra.spec.whatwg.org/",
+          "https://url.spec.whatwg.org/",
           "https://w3c.github.io/vc-data-model-2.0-test-suite/",
           "https://w3c.github.io/vc-di-bbs/",
+          "https://w3c.github.io/vc-imp-guide/",
+          "https://w3c.github.io/vc-specs-dir/",
           "https://www.w3.org/TR/2019/REC-vc-data-model-20191119/",
           "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
+          "https://www.w3.org/TR/did-core/",
+          "https://www.w3.org/TR/i18n-glossary/",
           "https://www.w3.org/TR/json-ld/",
+          "https://www.w3.org/TR/json-ld11-api/",
+          "https://www.w3.org/TR/json-ld11/",
+          "https://www.w3.org/TR/ld-bp/",
           "https://www.w3.org/TR/ld-glossary/",
-          "https://www.w3.org/TR/vc-imp-guide/"
+          "https://www.w3.org/TR/rdf-schema/",
+          "https://www.w3.org/TR/vc-data-integrity/",
+          "https://www.w3.org/TR/vc-di-bbs/",
+          "https://www.w3.org/TR/vc-imp-guide/",
+          "https://www.w3.org/TR/vc-jose-cose/",
+          "https://www.w3.org/TR/vc-use-cases/",
+          "https://www.w3.org/TR/xmlschema11-2/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
