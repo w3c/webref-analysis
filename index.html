@@ -21,7 +21,7 @@
   
       <header>
       <h1>Reffy crawl</h1>
-            <h2 class="date">May 27, 2024</h2>
+            <h2 class="date">May 28, 2024</h2>
           </header>
     <p><a href="https://github.com/w3c/strudy">Strudy</a> is an <i>analysis tool for Web spec crawl reports</i> created by <a href="https://github.com/w3c/reffy">Reffy</a>. It studes spec extracts created during the crawl such as Web IDL content, term definitions and references.</p>
   <p>
@@ -1288,7 +1288,7 @@
   <ul>
   <li>Initial URL: <a href="https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis">https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis</a></li>
   <li>Crawled URL: <a href="https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html">https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html</a></li>
-  <li>Crawled version: 26 May 2024</li>
+  <li>Crawled version: 28 May 2024</li>
   <li>Editor’s Draft: <a href="https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html">https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html</a></li>
   <li>Shortname: rfc6265bis</li>
   </ul>
@@ -5413,8 +5413,8 @@
   </ul>
   </section>
   </section>
-  <section id="css-color-adjustment-module-level-1" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS Color Adjustment Module Level 1</h3>
+  <section id="css-color-adjustment-module-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">CSS Color Adjustment Module Level 1</h3>
   <section id="spec-info-161" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -5428,8 +5428,20 @@
   </section>
   <section id="potential-issues-161" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-color-adjust-1/ triggered HTTP status 429     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 335)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-161" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -6478,8 +6490,8 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="css-flexible-box-layout-module-level-1" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS Flexible Box Layout Module Level 1</h3>
+  <section id="css-flexible-box-layout-module-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">CSS Flexible Box Layout Module Level 1</h3>
   <section id="spec-info-186" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -6493,8 +6505,31 @@
   </section>
   <section id="potential-issues-186" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-flexbox-1/ triggered HTTP status 429     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 346)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="http://www.w3.org/TR/css-align/"><code>http://www.w3.org/TR/css-align/</code></a></li>
+  <li><a href="http://www.w3.org/TR/css-break/"><code>http://www.w3.org/TR/css-break/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/"><code>https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-display/"><code>https://www.w3.org/TR/css-display/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-speech/"><code>https://www.w3.org/TR/css-speech/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-align/"><code>https://www.w3.org/TR/css3-align/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-break/"><code>https://www.w3.org/TR/css3-break/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-mediaqueries/"><code>https://www.w3.org/TR/css3-mediaqueries/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-multicol/"><code>https://www.w3.org/TR/css3-multicol/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/"><code>https://www.w3.org/TR/2014/WD-css-flexbox-1-20140325/</code></a>, related reference “CSS-FLEXBOX-1” uses URL <a href="https://drafts.csswg.org/css-flexbox-1/"><code>https://drafts.csswg.org/css-flexbox-1/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/"><code>https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/</code></a>, related reference “CSS-FLEXBOX-1” uses URL <a href="https://drafts.csswg.org/css-flexbox-1/"><code>https://drafts.csswg.org/css-flexbox-1/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-writing-modes/"><code>https://www.w3.org/TR/css3-writing-modes/</code></a>, related reference “CSS3-WRITING-MODES” uses URL <a href="https://drafts.csswg.org/css-writing-modes-3/"><code>https://drafts.csswg.org/css-writing-modes-3/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-186" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -6826,8 +6861,8 @@
   </ul>
   </section>
   </section>
-  <section id="css-generated-content-for-paged-media-module" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS Generated Content for Paged Media Module</h3>
+  <section id="css-generated-content-for-paged-media-module" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">CSS Generated Content for Paged Media Module</h3>
   <section id="spec-info-193" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -6841,8 +6876,22 @@
   </section>
   <section id="potential-issues-193" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered HTTP status 429     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 350)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="http://books.spec.whatwg.org/"><code>http://books.spec.whatwg.org/</code></a></li>
+  <li><a href="http://w3c.github.io/dpub-pagination/index.html"><code>http://w3c.github.io/dpub-pagination/index.html</code></a></li>
+  <li><a href="https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/"><code>https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css3-selectors/"><code>https://www.w3.org/TR/css3-selectors/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-193" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -7217,8 +7266,8 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="css-inline-layout-module-level-3" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS Inline Layout Module Level 3</h3>
+  <section id="css-inline-layout-module-level-3" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">CSS Inline Layout Module Level 3</h3>
   <section id="spec-info-202" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -7232,8 +7281,23 @@
   </section>
   <section id="potential-issues-202" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-inline-3/ triggered HTTP status 429     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 356)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://html.spec.whatwg.org/multipage/canvas.html"><code>https://html.spec.whatwg.org/multipage/canvas.html</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-text/"><code>https://www.w3.org/TR/css-text/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/ilreq/"><code>https://www.w3.org/TR/ilreq/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-writing-modes-3/"><code>https://www.w3.org/TR/css-writing-modes-3/</code></a>, related reference “CSS-WRITING-MODES-3” uses URL <a href="https://drafts.csswg.org/css-writing-modes-3/"><code>https://drafts.csswg.org/css-writing-modes-3/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-202" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -7358,8 +7422,8 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="css-lists-and-counters-module-level-3" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS Lists and Counters Module Level 3</h3>
+  <section id="css-lists-and-counters-module-level-3" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">CSS Lists and Counters Module Level 3</h3>
   <section id="spec-info-206" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -7373,8 +7437,20 @@
   </section>
   <section id="potential-issues-206" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-lists-3/ triggered HTTP status 429     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 359)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  <li>Inconsistent references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-values-3/"><code>https://www.w3.org/TR/css-values-3/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a>, related reference “CSS-VALUES-3” uses URL <a href="https://drafts.csswg.org/css-values-3/"><code>https://drafts.csswg.org/css-values-3/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-206" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -15483,7 +15559,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/vc-data-model-2.0/">https://www.w3.org/TR/vc-data-model-2.0/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/vc-data-model/">https://w3c.github.io/vc-data-model/</a></li>
-  <li>Crawled version: 26 May 2024</li>
+  <li>Crawled version: 27 May 2024</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/vc-data-model/">https://w3c.github.io/vc-data-model/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/vc-data-model-2.0/">https://www.w3.org/TR/vc-data-model-2.0/</a></li>
   <li>Shortname: vc-data-model-2.0</li>
