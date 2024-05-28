@@ -4371,7 +4371,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Box Model Module Level 3 {data-spec=true data-error=true}
+### CSS Box Model Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4384,15 +4384,18 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 429
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 324)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
+     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
+     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
+     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
+     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4978,7 +4981,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Color Module Level 3 {data-spec=true data-error=true}
+### CSS Color Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -4991,15 +4994,13 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-color-3/ triggered HTTP status 429
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 332)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/2011/REC-css3-color-20110607/`](https://www.w3.org/TR/2011/REC-css3-color-20110607/)
+     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/)
+     * [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`http://www.w3.org/TR/2011/REC-SVG11-20110816/`](http://www.w3.org/TR/2011/REC-SVG11-20110816/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6477,7 +6478,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Grid Layout Module Level 2 {data-spec=true data-error=true}
+### CSS Grid Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -6490,15 +6491,25 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 429
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 352)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
+     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
+     * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/)
+     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
+     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
+     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
+     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9244,7 +9255,6 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
@@ -17040,27 +17050,6 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Custom State Pseudo Class {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
-- Crawled URL: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
-- Crawled version: 18 January 2021
-- Editor's Draft: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
-- Shortname: custom-state-pseudo-class
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-No informative reference to this spec from other specs.
-
-
 ### DataCue API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -17438,6 +17427,39 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### HTML Standard {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
+- Crawled URL: [https://html.spec.whatwg.org/multipage/custom-elements.html#custom-state-pseudo-class](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-state-pseudo-class)
+- Crawled version: 27 May 2024
+- Editor's Draft: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
+- Shortname: custom-state-pseudo-class
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+- Missing references for links: 
+     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
+     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
+     * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/)
+     * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/)
+     * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/)
+     * [`https://w3c.github.io/html-aam/`](https://w3c.github.io/html-aam/)
+     * [`https://w3c.github.io/html-aria/`](https://w3c.github.io/html-aria/)
+     * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/)
+     * [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/)
+     * [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/)
+     * [`https://xhr.spec.whatwg.org/`](https://xhr.spec.whatwg.org/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20424,7 +20446,6 @@ Normative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [DataCue API](https://wicg.github.io/datacue/)
 - [Device Attributes API](https://wicg.github.io/WebApiDevice/device_attributes/)
 - [Device Memory](https://www.w3.org/TR/device-memory/)
@@ -20808,7 +20829,6 @@ Normative references to this spec from:
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSS Will Change Module Level 1](https://drafts.csswg.org/css-will-change-1/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
-- [Custom State Pseudo Class](https://wicg.github.io/custom-state-pseudo-class/)
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Device Posture API](https://w3c.github.io/device-posture/)
 - [Digital Credentials](https://wicg.github.io/digital-credentials)

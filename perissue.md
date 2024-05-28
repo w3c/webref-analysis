@@ -115,12 +115,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 323)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/): `Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 429
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 324)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 - [CSS Box Model Module Level 4](https://drafts.csswg.org/css-box-4/): `Error: Loading https://drafts.csswg.org/css-box-4/ triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
@@ -150,12 +144,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 331)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-- [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/): `Error: Loading https://drafts.csswg.org/css-color-3/ triggered HTTP status 429
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 332)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/): `Error: Loading https://drafts.csswg.org/css-color-4/ triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
@@ -264,12 +252,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
     at async Promise.all (index 351)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/): `Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 429
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 352)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/): `Error: Loading https://drafts.csswg.org/css-images-4/ triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
@@ -566,7 +548,7 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
     at async Promise.all (index 291)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 
-=> 54 specifications found
+=> 51 specifications found
 
 
 ## Specifications without normative dependencies
@@ -585,6 +567,7 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
 - [ES Promise.withResolvers (2023)](https://tc39.es/proposal-promise-with-resolvers/)
 - [Float16Array](https://tc39.es/proposal-float16array/)
 - [glTF™ 2.0 Specification](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-state-pseudo-class)
 - [Import Attributes](https://tc39.es/proposal-import-attributes/)
 - [Information technology — Coding of audio-visual objects — Part 22: Open Font Format](undefined)
 - [Information technology — Digital compression and coding of continuous-tone still images: JPEG File Interchange Format (JFIF) — Part 5:](undefined)
@@ -665,7 +648,7 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 
-=> 93 specifications found
+=> 94 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -846,6 +829,16 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css3-grid-layout/`](https://www.w3.org/TR/css3-grid-layout/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to:
+    * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/) links to:
     * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/) but does not list it in its references
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -870,6 +863,11 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/) links to:
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/2011/REC-css3-color-20110607/`](https://www.w3.org/TR/2011/REC-css3-color-20110607/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-color-5/`](https://www.w3.org/TR/css-color-5/) but does not list it in its references
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
@@ -933,6 +931,18 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
+    * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to:
+    * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/) but does not list it in its references
+    * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/) but does not list it in its references
+    * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/) but does not list it in its references
+    * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to:
@@ -1293,6 +1303,18 @@ Basically all specifications have normative dependencies on some other specifica
 - [HTML Standard](https://html.spec.whatwg.org/multipage/) links to:
     * [`https://spec.whatwg.org/`](https://spec.whatwg.org/) but does not list it in its references
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but does not list it in its references
+- [HTML Standard](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-state-pseudo-class) links to:
+    * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/) but does not list it in its references
+    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
+    * [`https://w3c.github.io/FileAPI/`](https://w3c.github.io/FileAPI/) but does not list it in its references
+    * [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
+    * [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
+    * [`https://w3c.github.io/html-aam/`](https://w3c.github.io/html-aam/) but does not list it in its references
+    * [`https://w3c.github.io/html-aria/`](https://w3c.github.io/html-aria/) but does not list it in its references
+    * [`https://w3c.github.io/uievents/`](https://w3c.github.io/uievents/) but does not list it in its references
+    * [`https://webidl.spec.whatwg.org/`](https://webidl.spec.whatwg.org/) but does not list it in its references
+    * [`https://www.w3.org/TR/xml/`](https://www.w3.org/TR/xml/) but does not list it in its references
+    * [`https://xhr.spec.whatwg.org/`](https://xhr.spec.whatwg.org/) but does not list it in its references
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/) links to:
     * [`https://w3c.github.io/webrtc-extensions/`](https://w3c.github.io/webrtc-extensions/) but does not list it in its references
     * [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/) but does not list it in its references
@@ -1675,7 +1697,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 779 missing references for links found in 212 specifications
+=> 814 missing references for links found in 216 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1723,6 +1745,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+- [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/) links to [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Box Sizing Module Level 3](https://drafts.csswg.org/css-sizing-3/) links to:
     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/) but related reference "CSS-UI-3" uses URL [`https://drafts.csswg.org/css-ui-3/`](https://drafts.csswg.org/css-ui-3/)
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1737,6 +1760,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Color HDR Module Level 1](https://drafts.csswg.org/css-color-hdr/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Color Module Level 3](https://drafts.csswg.org/css-color-3/) links to [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`http://www.w3.org/TR/2011/REC-SVG11-20110816/`](http://www.w3.org/TR/2011/REC-SVG11-20110816/)
 - [CSS Conditional Values Module Level 1](https://drafts.csswg.org/css-conditional-values-1/) links to [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -1768,6 +1792,13 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/) links to:
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+- [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/) links to:
+    * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/) but related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
+    * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/) but related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
+    * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+    * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/) but related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/) links to:
     * [`https://www.w3.org/TR/css-grid-2/`](https://www.w3.org/TR/css-grid-2/) but related reference "CSS-GRID-2" uses URL [`https://drafts.csswg.org/css-grid-2/`](https://drafts.csswg.org/css-grid-2/)
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
@@ -2103,7 +2134,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/) but related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
-=> 340 inconsistent references for links found in 144 specifications
+=> 348 inconsistent references for links found in 147 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
