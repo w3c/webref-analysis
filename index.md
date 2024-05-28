@@ -377,7 +377,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 23 May 2024
+- Crawled version: 28 May 2024
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -1193,7 +1193,7 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- [Compression Streams](https://wicg.github.io/compression/)
+- [Compression Standard](https://compression.spec.whatwg.org/)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
 
@@ -5793,7 +5793,7 @@ Informative references to this spec from:
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
 
 
-### CSS Easing Functions Level 1 {data-spec=true data-error=true}
+### CSS Easing Functions Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -5806,15 +5806,10 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-easing-1/ triggered HTTP status 429
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 345)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10540,7 +10535,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 08 April 2024
+- Crawled version: 28 May 2024
 - Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
 - Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Shortname: device-posture
@@ -15936,7 +15931,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 23 May 2024
+- Crawled version: 28 May 2024
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Shortname: IFT
@@ -16834,7 +16829,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 24 May 2024
+- Crawled version: 28 May 2024
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -16933,27 +16928,19 @@ Informative references to this spec from:
 - [RFC 8942: HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942)
 
 
-### Compression Streams {data-spec=true data-error=true}
+### Compression Standard {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
-- Crawled URL: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
-- Crawled version: 24 March 2023
+- Crawled URL: [https://compression.spec.whatwg.org/](https://compression.spec.whatwg.org/)
+- Crawled version: 28 May 2024
 - Editor's Draft: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
 - Shortname: compression
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`TypeError: Cannot read properties of null (reading 'status')
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:550:25)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 183)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17444,7 +17431,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/custom-elements.html#custom-state-pseudo-class](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-state-pseudo-class)
-- Crawled version: 27 May 2024
+- Crawled version: 28 May 2024
 - Editor's Draft: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
 - Shortname: custom-state-pseudo-class
 
@@ -18115,7 +18102,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 21 May 2024
+- Crawled version: 28 May 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -20347,7 +20334,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 27 May 2024
+- Crawled version: 28 May 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
@@ -21223,7 +21210,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Background Fetch](https://wicg.github.io/background-fetch/)
-- [Compression Streams](https://wicg.github.io/compression/)
+- [Compression Standard](https://compression.spec.whatwg.org/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [Direct Sockets API](https://wicg.github.io/direct-sockets/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
@@ -21468,7 +21455,7 @@ Normative references to this spec from:
 - [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
-- [Compression Streams](https://wicg.github.io/compression/)
+- [Compression Standard](https://compression.spec.whatwg.org/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
 - [Console Standard](https://console.spec.whatwg.org/)
 - [Contact Picker API](https://w3c.github.io/contact-picker/)

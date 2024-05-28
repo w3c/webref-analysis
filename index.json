@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-05-28T12:41:45.428Z",
+  "date": "2024-05-28T18:37:22.244Z",
   "stats": {
     "crawled": 619,
-    "errors": 48,
+    "errors": 46,
     "studied": 619
   },
   "results": [
@@ -1010,7 +1010,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "24 May 2024",
+      "date": "28 May 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2866,9 +2866,9 @@
       }
     },
     {
-      "title": "Compression Streams",
+      "title": "Compression Standard",
       "shortname": "compression",
-      "date": "24 March 2023",
+      "date": "28 May 2024",
       "url": "https://wicg.github.io/compression/",
       "nightly": {
         "url": "https://wicg.github.io/compression/",
@@ -2878,7 +2878,7 @@
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
-      "crawled": "https://wicg.github.io/compression/",
+      "crawled": "https://compression.spec.whatwg.org/",
       "organization": "W3C",
       "groups": [
         {
@@ -2887,7 +2887,6 @@
         }
       ],
       "report": {
-        "error": "TypeError: Cannot read properties of null (reading 'status')\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:550:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 183)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -2911,7 +2910,7 @@
             }
           ]
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -10493,7 +10492,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-easing-1/ triggered HTTP status 429\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 345)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -22628,7 +22626,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "08 April 2024",
+      "date": "28 May 2024",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -24625,7 +24623,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "23 May 2024",
+      "date": "28 May 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -29098,7 +29096,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "27 May 2024",
+      "date": "28 May 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -30974,7 +30972,7 @@
     {
       "title": "HTML Standard",
       "shortname": "custom-state-pseudo-class",
-      "date": "27 May 2024",
+      "date": "28 May 2024",
       "url": "https://wicg.github.io/custom-state-pseudo-class/",
       "nightly": {
         "url": "https://wicg.github.io/custom-state-pseudo-class/",
@@ -31491,7 +31489,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "23 May 2024",
+      "date": "28 May 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -39958,7 +39956,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "21 May 2024",
+      "date": "28 May 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -43067,8 +43065,8 @@
           "informative": [
             {
               "url": "https://wicg.github.io/compression/",
-              "title": "Compression Streams",
-              "crawled": "https://wicg.github.io/compression/"
+              "title": "Compression Standard",
+              "crawled": "https://compression.spec.whatwg.org/"
             },
             {
               "url": "https://www.rfc-editor.org/rfc/rfc9110",
@@ -49755,8 +49753,8 @@
             },
             {
               "url": "https://wicg.github.io/compression/",
-              "title": "Compression Streams",
-              "crawled": "https://wicg.github.io/compression/"
+              "title": "Compression Standard",
+              "crawled": "https://compression.spec.whatwg.org/"
             },
             {
               "url": "https://wicg.github.io/css-parser-api/",
@@ -54039,8 +54037,8 @@
             },
             {
               "url": "https://wicg.github.io/compression/",
-              "title": "Compression Streams",
-              "crawled": "https://wicg.github.io/compression/"
+              "title": "Compression Standard",
+              "crawled": "https://compression.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/compute-pressure/",
