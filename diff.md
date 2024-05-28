@@ -2,54 +2,61 @@
 % Strudy
 % May 28, 2024
 
-## CSS Box Model Module Level 3
+## Compression Streams
 
-- Initial URL: [https://www.w3.org/TR/css-box-3/](https://www.w3.org/TR/css-box-3/)
+- Initial URL: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-box-3/](https://drafts.csswg.org/css-box-3/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 429
+- Editor's Draft: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
+- Spec could not be rendered: *INS* TypeError: Cannot read properties of null (reading 'status')
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:550:25)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 183)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) / *DEL* Error: Loading https://wicg.github.io/compression/ triggered HTTP status 404
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 324)
+    at async Promise.all (index 183)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)
 
 
-## CSS Color Module Level 3
+## CSS Cascading and Inheritance Level 3
 
-- Initial URL: [https://www.w3.org/TR/css-color-3/](https://www.w3.org/TR/css-color-3/)
+- Initial URL: [https://www.w3.org/TR/css-cascade-3/](https://www.w3.org/TR/css-cascade-3/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-color-3/](https://drafts.csswg.org/css-color-3/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-color-3/ triggered HTTP status 429
+- Editor's Draft: [https://drafts.csswg.org/css-cascade-3/](https://drafts.csswg.org/css-cascade-3/)
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-cascade-3/ triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 332)
+    at async Promise.all (index 328)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)
 
 
-## CSS Grid Layout Module Level 2
+## CSS Display Module Level 3
 
-- Initial URL: [https://www.w3.org/TR/css-grid-2/](https://www.w3.org/TR/css-grid-2/)
+- Initial URL: [https://www.w3.org/TR/css-display-3/](https://www.w3.org/TR/css-display-3/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://drafts.csswg.org/css-grid-2/](https://drafts.csswg.org/css-grid-2/)
-- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 429
+- Editor's Draft: [https://drafts.csswg.org/css-display-3/](https://drafts.csswg.org/css-display-3/)
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-display-3/ triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 352)
+    at async Promise.all (index 344)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)
 
 
-## HTML Standard
+## CSS Logical Properties and Values Level 1
 
-- Initial URL: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
+- Initial URL: [https://www.w3.org/TR/css-logical-1/](https://www.w3.org/TR/css-logical-1/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://wicg.github.io/custom-state-pseudo-class/](https://wicg.github.io/custom-state-pseudo-class/)
-- Spec title: *INS* HTML Standard / *DEL* Custom State Pseudo Class
-- Spec is OK: *INS* false / *DEL* true
-- No normative references found: *INS* true / *DEL* false
-- Missing references for links: *INS* https://dom.spec.whatwg.org/, https://infra.spec.whatwg.org/, https://w3c.github.io/FileAPI/, https://w3c.github.io/aria/, https://w3c.github.io/editing/docs/execCommand/, https://w3c.github.io/html-aam/, https://w3c.github.io/html-aria/, https://w3c.github.io/uievents/, https://webidl.spec.whatwg.org/, https://www.w3.org/TR/xml/, https://xhr.spec.whatwg.org/
+- Editor's Draft: [https://drafts.csswg.org/css-logical-1/](https://drafts.csswg.org/css-logical-1/)
+- Spec could not be rendered: *DEL* Error: Loading https://drafts.csswg.org/css-logical-1/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 360)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)
 
 
 
