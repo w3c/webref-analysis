@@ -4039,7 +4039,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Animations Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Animations Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4052,13 +4052,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-animations-1/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 321)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4074,7 +4076,7 @@ Informative references to this spec from:
 - [SVG Animations](https://svgwg.org/specs/animations/)
 
 
-### CSS Animations Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS Animations Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4087,12 +4089,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-animations-2/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 322)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4108,7 +4113,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Backgrounds and Borders Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Backgrounds and Borders Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4121,29 +4126,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3`](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3)
-     * [`https://www.w3.org/TR/2009/CR-css3-background-20091217/`](https://www.w3.org/TR/2009/CR-css3-background-20091217/)
-     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
-     * [`https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html`](https://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html)
-     * [`https://www.w3.org/TR/2012/CR-css3-background-20120417/`](https://www.w3.org/TR/2012/CR-css3-background-20120417/)
-     * [`https://www.w3.org/TR/2012/CR-css3-background-20120724/`](https://www.w3.org/TR/2012/CR-css3-background-20120724/)
-     * [`https://www.w3.org/TR/2012/WD-css3-background-20120214/`](https://www.w3.org/TR/2012/WD-css3-background-20120214/)
-     * [`https://www.w3.org/TR/2014/CR-css3-background-20140909/`](https://www.w3.org/TR/2014/CR-css3-background-20140909/)
-     * [`https://www.w3.org/TR/2014/WD-css3-background-20140204/`](https://www.w3.org/TR/2014/WD-css3-background-20140204/)
-     * [`https://www.w3.org/TR/css-break/`](https://www.w3.org/TR/css-break/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-images/`](https://www.w3.org/TR/css-images/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css3-images/`](https://www.w3.org/TR/css3-images/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/media-frags/`](https://www.w3.org/TR/media-frags/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-box-3/`](https://www.w3.org/TR/css-box-3/), related reference "CSS-BOX-3" uses URL [`https://drafts.csswg.org/css-box-3/`](https://drafts.csswg.org/css-box-3/)
-     * [`https://www.w3.org/TR/css-color-4/`](https://www.w3.org/TR/css-color-4/), related reference "CSS-COLOR-4" uses URL [`https://drafts.csswg.org/css-color-4/`](https://drafts.csswg.org/css-color-4/)
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-backgrounds-3/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 323)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4382,7 +4373,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Box Model Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Box Model Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4395,18 +4386,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/2018/WD-css3-box-20180731/`](https://www.w3.org/TR/2018/WD-css3-box-20180731/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-display/`](https://www.w3.org/TR/css-display/)
-     * [`https://www.w3.org/TR/css-flexbox/`](https://www.w3.org/TR/css-flexbox/)
-     * [`https://www.w3.org/TR/css-grid/`](https://www.w3.org/TR/css-grid/)
-     * [`https://www.w3.org/TR/css-position/`](https://www.w3.org/TR/css-position/)
-     * [`https://www.w3.org/TR/css-tables/`](https://www.w3.org/TR/css-tables/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-box-3/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 324)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5519,7 +5507,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Custom Highlight API Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Custom Highlight API Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -5532,7 +5520,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-highlight-api-1/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 353)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6132,7 +6128,7 @@ Informative references to this spec from:
 - [WOFF File Format 1.0](https://w3c.github.io/woff/woff1/spec/Overview.html)
 
 
-### CSS Fonts Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Fonts Module Level 5 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6145,15 +6141,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/IFT/Overview.html`](https://w3c.github.io/IFT/Overview.html)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-fonts-4/`](https://www.w3.org/TR/css-fonts-4/), related reference "CSS-FONTS-4" uses URL [`https://drafts.csswg.org/css-fonts-4/`](https://drafts.csswg.org/css-fonts-4/)
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-fonts-5/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 349)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6327,7 +6323,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 
 
-### CSS Generated Content for Paged Media Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Generated Content for Paged Media Module {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6340,16 +6336,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://books.spec.whatwg.org/`](http://books.spec.whatwg.org/)
-     * [`http://w3c.github.io/dpub-pagination/index.html`](http://w3c.github.io/dpub-pagination/index.html)
-     * [`https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/`](https://www.w3.org/TR/2011/WD-css3-gcpm-20111129/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css3-selectors/`](https://www.w3.org/TR/css3-selectors/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-gcpm-3/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 350)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6433,7 +6428,7 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 
 
-### CSS Grid Layout Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Grid Layout Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6446,26 +6441,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/css-align-3/`](http://www.w3.org/TR/css-align-3/)
-     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
-     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
-     * [`http://www.w3.org/TR/css-flexbox/`](http://www.w3.org/TR/css-flexbox/)
-     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
-     * [`https://www.w3.org/TR/css-align-3/`](https://www.w3.org/TR/css-align-3/)
-     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
-     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
-     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
-     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-grid-1/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 351)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6479,7 +6463,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Grid Layout Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Grid Layout Module Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6492,25 +6476,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/css-align/`](http://www.w3.org/TR/css-align/)
-     * [`http://www.w3.org/TR/css-break/`](http://www.w3.org/TR/css-break/)
-     * [`http://www.w3.org/TR/css-grid-1/`](http://www.w3.org/TR/css-grid-1/)
-     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
-     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-grid-1/`](https://www.w3.org/TR/css-grid-1/)
-     * [`https://www.w3.org/TR/css3-break/`](https://www.w3.org/TR/css3-break/)
-     * [`https://www.w3.org/TR/css3-speech/`](https://www.w3.org/TR/css3-speech/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`http://www.w3.org/TR/css-flexbox-1/`](http://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
-     * [`https://www.w3.org/TR/css-flexbox-1/`](https://www.w3.org/TR/css-flexbox-1/), related reference "CSS-FLEXBOX-1" uses URL [`https://drafts.csswg.org/css-flexbox-1/`](https://drafts.csswg.org/css-flexbox-1/)
-     * [`https://www.w3.org/TR/css-sizing-3/`](https://www.w3.org/TR/css-sizing-3/), related reference "CSS-SIZING-3" uses URL [`https://drafts.csswg.org/css-sizing-3/`](https://drafts.csswg.org/css-sizing-3/)
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css3-writing-modes/`](https://www.w3.org/TR/css3-writing-modes/), related reference "CSS3-WRITING-MODES" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-grid-2/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 352)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6576,7 +6550,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Images Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Images Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6589,18 +6563,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/)
-     * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/)
-     * [`https://www.w3.org/TR/2012/CR-css3-images-20120417/`](https://www.w3.org/TR/2012/CR-css3-images-20120417/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-images-3/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 354)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6649,7 +6620,7 @@ Informative references to this spec from:
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 
 
-### CSS Images Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Images Module Level 4 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6662,21 +6633,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- No definition for CSS constructs: 
-     * `<radial-size>`
-- Missing references for links: 
-     * [`http://www.w3.org/TR/css-animations/`](http://www.w3.org/TR/css-animations/)
-     * [`http://www.w3.org/TR/css-transitions/`](http://www.w3.org/TR/css-transitions/)
-     * [`https://www.w3.org/TR/2011/CR-css3-background-20110215/`](https://www.w3.org/TR/2011/CR-css3-background-20110215/)
-     * [`https://www.w3.org/TR/2012/WD-css4-images-20120911/`](https://www.w3.org/TR/2012/WD-css4-images-20120911/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2017/WD-css-images-4-20170413/`](https://www.w3.org/TR/2017/WD-css-images-4-20170413/), related reference "CSS-IMAGES-4" uses URL [`https://www.w3.org/TR/css-images-4/`](https://www.w3.org/TR/css-images-4/)
-     * [`https://www.w3.org/TR/2023/WD-css-images-4-20230217/`](https://www.w3.org/TR/2023/WD-css-images-4-20230217/), related reference "CSS-IMAGES-4" uses URL [`https://www.w3.org/TR/css-images-4/`](https://www.w3.org/TR/css-images-4/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-images-4/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 355)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6737,7 +6702,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Inline Layout Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Inline Layout Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6750,17 +6715,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://html.spec.whatwg.org/multipage/canvas.html`](https://html.spec.whatwg.org/multipage/canvas.html)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-text/`](https://www.w3.org/TR/css-text/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-inline-3/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 356)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6856,7 +6819,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### CSS Line Grid Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Line Grid Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6869,13 +6832,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-line-grid-1/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 358)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6960,7 +6925,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
 
-### CSS Logical Properties and Values Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Logical Properties and Values Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6973,15 +6938,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/css-writing-modes/`](http://www.w3.org/TR/css-writing-modes/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-logical-1/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 360)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7209,7 +7174,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Nesting Module {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Nesting Module {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7222,7 +7187,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-nesting-1/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 365)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7266,7 +7239,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Overflow Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Overflow Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7279,16 +7252,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-backgrounds/`](https://www.w3.org/TR/css-backgrounds/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-text-decor-3/`](https://www.w3.org/TR/css-text-decor-3/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-ui-3/`](https://www.w3.org/TR/css-ui-3/), related reference "CSS-UI-3" uses URL [`https://drafts.csswg.org/css-ui-3/`](https://drafts.csswg.org/css-ui-3/)
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-overflow-3/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 366)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7352,7 +7324,7 @@ Informative references to this spec from:
 - [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 
 
-### CSS Overflow Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Overflow Module Level 4 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7365,18 +7337,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-break-3/`](https://www.w3.org/TR/css-break-3/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2017/WD-css-overflow-4-20170613/`](https://www.w3.org/TR/2017/WD-css-overflow-4-20170613/), related reference "CSS-OVERFLOW-4" uses URL [`https://drafts.csswg.org/css-overflow-4/`](https://drafts.csswg.org/css-overflow-4/)
-     * [`https://www.w3.org/TR/css-overflow-3/`](https://www.w3.org/TR/css-overflow-3/), related reference "CSS-OVERFLOW-3" uses URL [`https://drafts.csswg.org/css-overflow-3/`](https://drafts.csswg.org/css-overflow-3/)
-     * [`https://www.w3.org/TR/css-text-3/`](https://www.w3.org/TR/css-text-3/), related reference "CSS-TEXT-3" uses URL [`https://drafts.csswg.org/css-text-3/`](https://drafts.csswg.org/css-text-3/)
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-overflow-4/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 367)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7397,7 +7366,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 
 
-### CSS Overscroll Behavior Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Overscroll Behavior Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7410,13 +7379,15 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-overscroll-1/ triggered HTTP status 429
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 368)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8341,7 +8312,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Style Attributes {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8354,7 +8325,27 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 388)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded
+      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)
+      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)
+      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)
+      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)
+      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
+      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
+      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+      at async Promise.all (index 388)
+}`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9389,7 +9380,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### CSS Viewport Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Viewport Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9402,15 +9393,15 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/`](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/)
-     * [`https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/`](https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/virtual-keyboard`](https://w3c.github.io/virtual-keyboard), related reference "VIRTUAL-KEYBOARD" uses URL [`https://www.w3.org/TR/virtual-keyboard/`](https://www.w3.org/TR/virtual-keyboard/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/css-viewport-1/ triggered HTTP status 504
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 406)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10149,7 +10140,7 @@ Informative references to this spec from:
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
-### Selectors Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Selectors Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -10162,9 +10153,27 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2011/REC-css3-selectors-20110929/`](http://www.w3.org/TR/2011/REC-css3-selectors-20110929/)
-     * [`https://www.w3.org/TR/css3-namespace/`](https://www.w3.org/TR/css3-namespace/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.csswg.org/selectors-3/ triggered network error
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+    at async Promise.all (index 524)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
+  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded
+      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)
+      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)
+      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)
+      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)
+      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
+      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
+      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
+      at runNextTicks (node:internal/process/task_queues:60:5)
+      at process.processImmediate (node:internal/timers:449:9)
+      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+}`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19306,7 +19315,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 16 May 2024
+- Crawled version: 30 May 2024
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
