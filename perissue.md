@@ -201,24 +201,6 @@ Reffy could not fetch or render these specifications for some reason. This may h
     }
   }
 }`
-- [CSS Style Attributes](https://drafts.csswg.org/css-style-attr/): `Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 388)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
-  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded
-      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)
-      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)
-      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)
-      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)
-      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
-      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
-      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
-      at runNextTicks (node:internal/process/task_queues:60:5)
-      at process.processImmediate (node:internal/timers:449:9)
-      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-}`
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/): `Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered network error
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:493:19)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
@@ -387,9 +369,9 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
       at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
       at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
       at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
-      at runNextTicks (node:internal/process/task_queues:60:5)
-      at process.processImmediate (node:internal/timers:449:9)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+      at async Promise.all (index 524)
 }`
 - [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/): `Error: Loading https://www.w3.org/Consortium/Patent-Policy/ triggered HTTP status 429
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:496:19)
@@ -410,7 +392,7 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
     at async Promise.all (index 291)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21)`
 
-=> 24 specifications found
+=> 23 specifications found
 
 
 ## Specifications without normative dependencies

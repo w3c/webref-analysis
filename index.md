@@ -878,7 +878,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 23 May 2024
+- Crawled version: 31 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -899,7 +899,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 23 May 2024
+- Crawled version: 30 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -1800,7 +1800,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 23 May 2024
+- Crawled version: 30 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1887,7 +1887,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 23 May 2024
+- Crawled version: 30 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1928,7 +1928,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 23 May 2024
+- Crawled version: 31 May 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -8336,7 +8336,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Style Attributes {data-spec=true data-error=true}
+### CSS Style Attributes {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -8349,27 +8349,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://drafts.csswg.org/css-style-attr/ triggered network error
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:548:21)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
-    at async Promise.all (index 388)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {
-  [cause]: TimeoutError: Navigation timeout of 120000 ms exceeded
-      at new Deferred (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:59:34)
-      at Deferred.create (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/Deferred.js:21:16)
-      at new LifecycleWatcher (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/LifecycleWatcher.js:65:60)
-      at CdpFrame.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Frame.js:136:29)
-      at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
-      at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
-      at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
-      at runNextTicks (node:internal/process/task_queues:60:5)
-      at process.processImmediate (node:internal/timers:449:9)
-      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
-}`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10192,9 +10172,9 @@ The following network or parsing error occurred:
       at CdpFrame.<anonymous> (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/util/decorators.js:98:27)
       at CdpPage.goto (/home/runner/work/webref/webref/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:590:43)
       at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:546:35)
-      at runNextTicks (node:internal/process/task_queues:60:5)
-      at process.processImmediate (node:internal/timers:449:9)
       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)
+      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)
+      at async Promise.all (index 524)
 }`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
