@@ -311,7 +311,6 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
 - [Temporal proposal](https://tc39.es/proposal-temporal/)
 - [The OpenGL ES® Shading Language, Version 3.20.8](https://registry.khronos.org/OpenGL/specs/es/3.2/GLSL_ES_Specification_3.20.html)
 - [Uint8Array to/from base64](https://tc39.es/proposal-arraybuffer-base64/spec/)
-- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [Web App Manifest - Application Information](https://w3c.github.io/manifest-app-info/)
 - [WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - [WebGL EXT_blend_minmax Khronos Ratified Extension Specification](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
@@ -357,7 +356,7 @@ async isReady (pptr:evaluate;processSpecification%20(%2Fhome%2Frunner%2Fwork%2Fw
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 
-=> 94 specifications found
+=> 93 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -1416,28 +1415,13 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/) but does not list it in its references
 - [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/) links to:
-    * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/) but does not list it in its references
-    * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/vc-data-model-2.0-test-suite/`](https://w3c.github.io/vc-data-model-2.0-test-suite/) but does not list it in its references
     * [`https://w3c.github.io/vc-di-bbs/`](https://w3c.github.io/vc-di-bbs/) but does not list it in its references
     * [`https://w3c.github.io/vc-imp-guide/`](https://w3c.github.io/vc-imp-guide/) but does not list it in its references
-    * [`https://w3c.github.io/vc-specs-dir/`](https://w3c.github.io/vc-specs-dir/) but does not list it in its references
     * [`https://www.w3.org/TR/2019/REC-vc-data-model-20191119/`](https://www.w3.org/TR/2019/REC-vc-data-model-20191119/) but does not list it in its references
     * [`https://www.w3.org/TR/2022/REC-vc-data-model-20220303/`](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/) but does not list it in its references
-    * [`https://www.w3.org/TR/did-core/`](https://www.w3.org/TR/did-core/) but does not list it in its references
-    * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
     * [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/) but does not list it in its references
-    * [`https://www.w3.org/TR/json-ld11-api/`](https://www.w3.org/TR/json-ld11-api/) but does not list it in its references
-    * [`https://www.w3.org/TR/json-ld11/`](https://www.w3.org/TR/json-ld11/) but does not list it in its references
-    * [`https://www.w3.org/TR/ld-bp/`](https://www.w3.org/TR/ld-bp/) but does not list it in its references
     * [`https://www.w3.org/TR/ld-glossary/`](https://www.w3.org/TR/ld-glossary/) but does not list it in its references
-    * [`https://www.w3.org/TR/rdf-schema/`](https://www.w3.org/TR/rdf-schema/) but does not list it in its references
-    * [`https://www.w3.org/TR/vc-data-integrity/`](https://www.w3.org/TR/vc-data-integrity/) but does not list it in its references
-    * [`https://www.w3.org/TR/vc-di-bbs/`](https://www.w3.org/TR/vc-di-bbs/) but does not list it in its references
-    * [`https://www.w3.org/TR/vc-imp-guide/`](https://www.w3.org/TR/vc-imp-guide/) but does not list it in its references
-    * [`https://www.w3.org/TR/vc-jose-cose/`](https://www.w3.org/TR/vc-jose-cose/) but does not list it in its references
-    * [`https://www.w3.org/TR/vc-use-cases/`](https://www.w3.org/TR/vc-use-cases/) but does not list it in its references
-    * [`https://www.w3.org/TR/xmlschema11-2/`](https://www.w3.org/TR/xmlschema11-2/) but does not list it in its references
 - [Vibration API (Second Edition)](https://w3c.github.io/vibration/) links to [`https://w3c.github.io/page-visibility/`](https://w3c.github.io/page-visibility/) but does not list it in its references
 - [VirtualKeyboard API](https://w3c.github.io/virtual-keyboard/) links to [`https://w3c.github.io/webappsec-secure-contexts/`](https://w3c.github.io/webappsec-secure-contexts/) but does not list it in its references
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/) links to [`https://w3c.github.io/aria/`](https://w3c.github.io/aria/) but does not list it in its references
@@ -1546,7 +1530,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 935 missing references for links found in 236 specifications
+=> 920 missing references for links found in 236 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

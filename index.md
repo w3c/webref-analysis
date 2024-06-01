@@ -1243,6 +1243,7 @@ Informative references to this spec from:
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://httpwg.org/specs/rfc7617.html)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 
 ### RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests {data-spec=true data-missingDfns=true data-ok=true}
@@ -1565,6 +1566,7 @@ Informative references to this spec from:
 - [Fetch Metadata Request Headers](https://w3c.github.io/webappsec-fetch-metadata/)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
 
@@ -1818,6 +1820,7 @@ Normative references to this spec from:
 - [File API](https://w3c.github.io/FileAPI/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Resource Timing](https://w3c.github.io/resource-timing/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
 Informative references to this spec from:
@@ -11358,6 +11361,7 @@ Normative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
 - [WebGPU](https://gpuweb.github.io/gpuweb/)
 
@@ -11393,6 +11397,7 @@ Normative references to this spec from:
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/)
 - [Verifiable Credential Data Integrity 1.0](https://w3c.github.io/vc-data-integrity/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 Informative references to this spec from:
 
@@ -11448,6 +11453,7 @@ Normative references to this spec from:
 
 - [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 No informative reference to this spec from other specs.
 
@@ -14092,50 +14098,36 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 Informative references to this spec from:
 
 - [RDF Dataset Canonicalization](https://w3c.github.io/rdf-canon/spec/)
 
 
-### Verifiable Credentials Data Model v2.0 {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
+### Verifiable Credentials Data Model v2.0 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 27 May 2024
+- Crawled version: 01 June 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
 
 #### Potential issue(s) {.anomalies}
 
-- No normative references found
 - Missing references for links: 
-     * [`https://infra.spec.whatwg.org/`](https://infra.spec.whatwg.org/)
-     * [`https://url.spec.whatwg.org/`](https://url.spec.whatwg.org/)
      * [`https://w3c.github.io/vc-data-model-2.0-test-suite/`](https://w3c.github.io/vc-data-model-2.0-test-suite/)
      * [`https://w3c.github.io/vc-di-bbs/`](https://w3c.github.io/vc-di-bbs/)
      * [`https://w3c.github.io/vc-imp-guide/`](https://w3c.github.io/vc-imp-guide/)
-     * [`https://w3c.github.io/vc-specs-dir/`](https://w3c.github.io/vc-specs-dir/)
      * [`https://www.w3.org/TR/2019/REC-vc-data-model-20191119/`](https://www.w3.org/TR/2019/REC-vc-data-model-20191119/)
      * [`https://www.w3.org/TR/2022/REC-vc-data-model-20220303/`](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/)
-     * [`https://www.w3.org/TR/did-core/`](https://www.w3.org/TR/did-core/)
-     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/)
      * [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/)
-     * [`https://www.w3.org/TR/json-ld11-api/`](https://www.w3.org/TR/json-ld11-api/)
-     * [`https://www.w3.org/TR/json-ld11/`](https://www.w3.org/TR/json-ld11/)
-     * [`https://www.w3.org/TR/ld-bp/`](https://www.w3.org/TR/ld-bp/)
      * [`https://www.w3.org/TR/ld-glossary/`](https://www.w3.org/TR/ld-glossary/)
-     * [`https://www.w3.org/TR/rdf-schema/`](https://www.w3.org/TR/rdf-schema/)
-     * [`https://www.w3.org/TR/vc-data-integrity/`](https://www.w3.org/TR/vc-data-integrity/)
-     * [`https://www.w3.org/TR/vc-di-bbs/`](https://www.w3.org/TR/vc-di-bbs/)
-     * [`https://www.w3.org/TR/vc-imp-guide/`](https://www.w3.org/TR/vc-imp-guide/)
-     * [`https://www.w3.org/TR/vc-jose-cose/`](https://www.w3.org/TR/vc-jose-cose/)
-     * [`https://www.w3.org/TR/vc-use-cases/`](https://www.w3.org/TR/vc-use-cases/)
-     * [`https://www.w3.org/TR/xmlschema11-2/`](https://www.w3.org/TR/xmlschema11-2/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14742,6 +14734,7 @@ Normative references to this spec from:
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 Informative references to this spec from:
 
@@ -20825,6 +20818,7 @@ Normative references to this spec from:
 - [User Timing Level 3](https://w3c.github.io/user-timing/)
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
 - [Verifiable Credential Data Integrity 1.0](https://w3c.github.io/vc-data-integrity/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [Viewport Capture](https://w3c.github.io/mediacapture-viewport/)
 - [Web Animations](https://drafts.csswg.org/web-animations-1/)
 - [Web Animations Level 2](https://drafts.csswg.org/web-animations-2/)
@@ -21264,6 +21258,7 @@ Normative references to this spec from:
 - [URL Pattern Standard](https://urlpattern.spec.whatwg.org/)
 - [User Agent Interaction with Related Website Sets](https://wicg.github.io/first-party-sets/)
 - [Verifiable Credential Data Integrity 1.0](https://w3c.github.io/vc-data-integrity/)
+- [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 - [Web App Launch Handler API](https://wicg.github.io/web-app-launch/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web Authentication: An API for accessing Public Key Credentials - Level 3](https://w3c.github.io/webauthn/)
