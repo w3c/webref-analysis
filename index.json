@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-04T12:57:42.570Z",
+  "date": "2024-06-04T18:35:49.978Z",
   "stats": {
     "crawled": 619,
-    "errors": 115,
+    "errors": 114,
     "studied": 619
   },
   "results": [
@@ -706,6 +706,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/aria/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:494:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    ... 2 lines matching cause stack trace ...\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'\n      at async open (node:internal/fs/promises:636:25)\n      at async Object.readFile (node:internal/fs/promises:1246:14)\n      at async readFromCache (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:393:16)\n      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:488:24)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n      at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n      at async Promise.all (index 558)\n      at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/tmp/reffy-cache/w3c.github.io!aria.headers'\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -1009,7 +1010,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "3 June 2024",
+      "date": "4 June 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2194,7 +2195,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -4369,6 +4370,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-will-change-1/",
               "title": "CSS Will Change Module Level 1",
               "crawled": "https://drafts.csswg.org/css-will-change-1/"
@@ -4538,7 +4544,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/uievents/",
@@ -7475,9 +7481,14 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -8834,7 +8845,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -8867,6 +8878,11 @@
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://webidl.spec.whatwg.org/",
@@ -11513,7 +11529,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -13106,7 +13122,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -14802,9 +14818,14 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/input-events-2/",
@@ -15607,7 +15628,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -18076,6 +18097,11 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/appmanifest/",
               "title": "Web Application Manifest",
               "crawled": "https://w3c.github.io/manifest/"
@@ -19314,7 +19340,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             }
           ]
         },
@@ -20930,9 +20956,14 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-will-change-1/",
@@ -21273,6 +21304,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             }
           ],
           "informative": [
@@ -21289,6 +21325,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
+      "date": "17 May 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-2/",
@@ -21305,6 +21342,7 @@
         "sourcePath": "css-view-transitions-2/Overview.bs",
         "filename": "index.html"
       },
+      "crawled": "https://drafts.csswg.org/css-view-transitions-2/",
       "organization": "W3C",
       "groups": [
         {
@@ -21313,8 +21351,7 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-view-transitions-2/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:494:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 405)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TypeError: fetch failed\n      at node:internal/deps/undici/undici:12502:13\n      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)\n      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)\n      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:488:24)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {\n    [cause]: AggregateError [ETIMEDOUT]: \n        at internalConnectMultiple (node:net:1117:18)\n        at internalConnectMultiple (node:net:1185:5)\n        at Timeout.internalConnectMultipleTimeout (node:net:1711:5)\n        at listOnTimeout (node:internal/timers:575:11)\n        at process.processTimers (node:internal/timers:514:7) {\n      code: 'ETIMEDOUT',\n      [errors]: [Array]\n    }\n  }\n}",
-        "noNormativeRefs": true,
+        "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -21325,7 +21362,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
@@ -21337,7 +21380,7 @@
     {
       "title": "CSS Viewport Module Level 1",
       "shortname": "css-viewport-1",
-      "date": "25 January 2024",
+      "date": "3 June 2024",
       "url": "https://www.w3.org/TR/css-viewport-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-viewport-1/",
@@ -21345,17 +21388,16 @@
         "filename": "Overview.html"
       },
       "nightly": {
-        "url": "https://drafts.csswg.org/css-viewport-1/",
+        "url": "https://drafts.csswg.org/css-viewport/",
         "status": "Editor's Draft",
         "alternateUrls": [
-          "https://w3c.github.io/csswg-drafts/css-viewport-1/",
           "https://w3c.github.io/csswg-drafts/css-viewport/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
         "sourcePath": "css-viewport/Overview.bs",
-        "filename": "Overview.html"
+        "filename": "index.html"
       },
-      "crawled": "https://drafts.csswg.org/css-viewport-1/",
+      "crawled": "https://drafts.csswg.org/css-viewport/",
       "organization": "W3C",
       "groups": [
         {
@@ -21364,7 +21406,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-viewport/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:494:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)\n    at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)\n    at async Promise.all (index 406)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {\n  [cause]: TypeError: fetch failed\n      at node:internal/deps/undici/undici:12502:13\n      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)\n      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)\n      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:488:24)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {\n    [cause]: AggregateError [ETIMEDOUT]: \n        at internalConnectMultiple (node:net:1117:18)\n        at internalConnectMultiple (node:net:1185:5)\n        at Timeout.internalConnectMultipleTimeout (node:net:1711:5)\n        at listOnTimeout (node:internal/timers:575:11)\n        at process.processTimers (node:internal/timers:514:7) {\n      code: 'ETIMEDOUT',\n      [errors]: [Array]\n    }\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -21384,17 +21425,14 @@
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/virtual-keyboard",
-            "ref": {
-              "name": "VIRTUAL-KEYBOARD",
-              "url": "https://www.w3.org/TR/virtual-keyboard/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-cascade-3/",
+              "title": "CSS Cascading and Inheritance Level 3",
+              "crawled": "https://drafts.csswg.org/css-cascade-3/"
+            },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
@@ -21403,10 +21441,26 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
+            },
+            {
+              "url": "https://www.w3.org/TR/cssom-view-1/",
+              "title": "CSSOM View Module",
+              "crawled": "https://drafts.csswg.org/cssom-view-1/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-page-3/",
+              "title": "CSS Paged Media Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-page-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            }
+          ]
         },
         "ok": false
       }
@@ -21754,7 +21808,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/epub-33/",
@@ -22302,7 +22356,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -23544,6 +23598,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
@@ -24596,7 +24655,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "3 June 2024",
+      "date": "4 June 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -26133,7 +26192,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "21 May 2024",
+      "date": "4 June 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -26175,7 +26234,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -29722,6 +29781,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
               "title": "CSS Writing Modes Level 3",
               "crawled": "https://drafts.csswg.org/css-writing-modes-3/"
@@ -31534,7 +31598,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "29 May 2024",
+      "date": "4 June 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -32108,6 +32172,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-will-change-1/",
@@ -33400,7 +33469,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://wicg.github.io/element-timing/",
@@ -35835,7 +35904,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -47314,6 +47383,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/mathml-core/",
               "title": "MathML Core",
               "crawled": "https://w3c.github.io/mathml-core/"
@@ -47483,6 +47557,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
@@ -52669,7 +52748,7 @@
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport-1/"
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             }
           ],
           "informative": []
@@ -54331,6 +54410,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -59957,7 +60041,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "21 May 2024",
+      "date": "4 June 2024",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",

@@ -423,7 +423,7 @@
   <ul>
   <li>Initial URL: <a href="https://tc39.es/ecma402/">https://tc39.es/ecma402/</a></li>
   <li>Crawled URL: <a href="https://tc39.es/ecma402/">https://tc39.es/ecma402/</a></li>
-  <li>Crawled version: 3 June 2024</li>
+  <li>Crawled version: 4 June 2024</li>
   <li>Editor’s Draft: <a href="https://tc39.es/ecma402/">https://tc39.es/ecma402/</a></li>
   <li>Shortname: ecma-402</li>
   </ul>
@@ -3602,8 +3602,8 @@
   </ul>
   </section>
   </section>
-  <section id="accessible-rich-internet-applications-wai-aria-1.3-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">
-  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true" data-inconsistentRef="true">Accessible Rich Internet Applications (WAI-ARIA) 1.3</h3>
+  <section id="accessible-rich-internet-applications-wai-aria-1.3-1" class="level3" data-spec="true" data-error="true">
+  <h3 data-spec="true" data-error="true">Accessible Rich Internet Applications (WAI-ARIA) 1.3</h3>
   <section id="spec-info-124" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
@@ -3617,20 +3617,8 @@
   </section>
   <section id="potential-issues-124" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <ul>
-  <li>Missing references for links:
-  <ul>
-  <li><a href="https://w3c.github.io/aria/"><code>https://w3c.github.io/aria/</code></a></li>
-  <li><a href="https://www.w3.org/TR/css3-selectors/"><code>https://www.w3.org/TR/css3-selectors/</code></a></li>
-  </ul></li>
-  <li>Inconsistent references for links:
-  <ul>
-  <li><a href="https://w3c.github.io/accname/"><code>https://w3c.github.io/accname/</code></a>, related reference “ACCNAME-1.2” uses URL <a href="https://www.w3.org/TR/accname-1.2/"><code>https://www.w3.org/TR/accname-1.2/</code></a></li>
-  <li><a href="https://w3c.github.io/core-aam/"><code>https://w3c.github.io/core-aam/</code></a>, related reference “CORE-AAM-1.2” uses URL <a href="https://www.w3.org/TR/core-aam-1.2/"><code>https://www.w3.org/TR/core-aam-1.2/</code></a></li>
-  <li><a href="https://www.w3.org/TR/2006/REC-xml-names-20060816/"><code>https://www.w3.org/TR/2006/REC-xml-names-20060816/</code></a>, related reference “XML-NAMES” uses URL <a href="https://www.w3.org/TR/xml-names/"><code>https://www.w3.org/TR/xml-names/</code></a></li>
-  <li><a href="https://www.w3.org/TR/dom/"><code>https://www.w3.org/TR/dom/</code></a>, related reference “DOM” uses URL <a href="https://dom.spec.whatwg.org/"><code>https://dom.spec.whatwg.org/</code></a></li>
-  </ul></li>
-  </ul>
+  <p>The following network or parsing error occurred: <code>Error: Loading https://w3c.github.io/aria/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:494:19)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     ... 2 lines matching cause stack trace ...     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: Error: ENOENT: no such file or directory, open '/tmp/reffy-cache/w3c.github.io!aria.headers'       at async open (node:internal/fs/promises:636:25)       at async Object.readFile (node:internal/fs/promises:1246:14)       at async readFromCache (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:393:16)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:488:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)       at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)       at async Promise.all (index 558)       at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {     errno: -2,     code: 'ENOENT',     syscall: 'open',     path: '/tmp/reffy-cache/w3c.github.io!aria.headers'   } }</code></p>
+  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
   </section>
   <section id="known-dependencies-on-this-specification-124" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -4218,7 +4206,7 @@
   <li><a href="https://drafts.csswg.org/css-2022/">CSS Snapshot 2022</a></li>
   <li><a href="https://drafts.csswg.org/css-2023/">CSS Snapshot 2023</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://w3c.github.io/epub-specs/epub33/core/">EPUB 3.3</a></li>
   <li><a href="https://wicg.github.io/layout-instability/">Layout Instability API</a></li>
   <li><a href="https://w3c.github.io/mathml/">Mathematical Markup Language (MathML) Version 4.0</a></li>
@@ -4424,6 +4412,7 @@
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-will-change-1/">CSS Will Change Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-3/">CSS Writing Modes Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
@@ -4460,7 +4449,7 @@
   <li><a href="https://drafts.csswg.org/css-rhythm-1/">CSS Rhythmic Sizing</a></li>
   <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://w3c.github.io/uievents/">UI Events</a></li>
   <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
   </ul>
@@ -5272,7 +5261,8 @@
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-3/">CSS Writing Modes Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a></li>
@@ -5666,7 +5656,7 @@
   <li><a href="https://drafts.csswg.org/css-syntax-3/">CSS Syntax Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/mediaqueries-4/">Media Queries Level 4</a></li>
   <li><a href="https://drafts.csswg.org/mediaqueries-5/">Media Queries Level 5</a></li>
   </ul>
@@ -5676,6 +5666,7 @@
   <li><a href="https://drafts.csswg.org/css-color-adjust-1/">CSS Color Adjustment Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-conditional-values-1/">CSS Conditional Values Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-fonts-4/">CSS Fonts Module Level 4</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://webidl.spec.whatwg.org/">Web IDL Standard</a></li>
   </ul>
   </section>
@@ -6524,7 +6515,7 @@
   <li><a href="https://drafts.csswg.org/css-variables-1/">CSS Custom Properties for Cascading Variables Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-variables-2/">CSS Custom Properties for Cascading Variables Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-pseudo-4/">CSS Pseudo-Elements Module Level 4</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-3/">CSS Writing Modes Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://wicg.github.io/local-font-access/">Local Font Access API</a></li>
@@ -6978,7 +6969,7 @@
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-3/">CSS Writing Modes Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a></li>
@@ -7546,7 +7537,8 @@
   <li><a href="https://drafts.csswg.org/css-images-4/">CSS Images Module Level 4</a></li>
   <li><a href="https://wicg.github.io/css-parser-api/">CSS Parser API</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://w3c.github.io/input-events/">Input Events Level 2</a></li>
   <li><a href="https://svgwg.org/svg2-draft/">Scalable Vector Graphics (SVG) 2</a></li>
   <li><a href="https://w3c.github.io/webdriver/">WebDriver</a></li>
@@ -7756,7 +7748,7 @@
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-3/">CSS Writing Modes Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-page-4/">Proposals for the future of CSS Paged Media</a></li>
@@ -8569,6 +8561,7 @@
   <li><a href="https://wicg.github.io/css-parser-api/">CSS Parser API</a></li>
   <li><a href="https://drafts.csswg.org/css-2022/">CSS Snapshot 2022</a></li>
   <li><a href="https://drafts.csswg.org/css-2023/">CSS Snapshot 2023</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://w3c.github.io/manifest/">Web Application Manifest</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
@@ -8876,7 +8869,7 @@
   <p>Informative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-multicol-1/">CSS Multi-column Layout Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   </ul>
   </section>
   </section>
@@ -9295,7 +9288,8 @@
   <li><a href="https://drafts.css-houdini.org/css-typed-om-2/">CSS Typed OM Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-will-change-1/">CSS Will Change Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-3/">CSS Writing Modes Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
@@ -9401,6 +9395,7 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   </ul>
   <p>Informative references to this spec from:</p>
   <ul>
@@ -9408,13 +9403,14 @@
   </ul>
   </section>
   </section>
-  <section id="css-view-transitions-module-level-2" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS View Transitions Module Level 2</h3>
+  <section id="css-view-transitions-module-level-2" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">CSS View Transitions Module Level 2</h3>
   <section id="spec-info-258" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/css-view-transitions-2/">https://www.w3.org/TR/css-view-transitions-2/</a></li>
-  <li>Crawled URL: <a href="undefined">undefined</a></li>
+  <li>Crawled URL: <a href="https://drafts.csswg.org/css-view-transitions-2/">https://drafts.csswg.org/css-view-transitions-2/</a></li>
+  <li>Crawled version: 17 May 2024</li>
   <li>Editor’s Draft: <a href="https://drafts.csswg.org/css-view-transitions-2/">https://drafts.csswg.org/css-view-transitions-2/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/css-view-transitions-2/">https://www.w3.org/TR/css-view-transitions-2/</a></li>
   <li>Shortname: css-view-transitions-2</li>
@@ -9422,8 +9418,16 @@
   </section>
   <section id="potential-issues-258" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-view-transitions-2/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:494:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 405)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12502:13       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:488:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     [cause]: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1117:18)         at internalConnectMultiple (node:net:1185:5)         at Timeout.internalConnectMultipleTimeout (node:net:1711:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-pseudo/"><code>https://www.w3.org/TR/css-pseudo/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-258" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
@@ -9431,32 +9435,47 @@
   <p>No informative reference to this spec from other specs.</p>
   </section>
   </section>
-  <section id="css-viewport-module-level-1" class="level3" data-spec="true" data-error="true">
-  <h3 data-spec="true" data-error="true">CSS Viewport Module Level 1</h3>
+  <section id="css-viewport-module-level-1" class="level3" data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">
+  <h3 data-spec="true" data-anomaly="true" data-missingDfns="true" data-missingLinkRef="true">CSS Viewport Module Level 1</h3>
   <section id="spec-info-259" class="level4 info">
   <h4 class="info">Spec info</h4>
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/css-viewport-1/">https://www.w3.org/TR/css-viewport-1/</a></li>
-  <li>Crawled URL: <a href="https://drafts.csswg.org/css-viewport-1/">https://drafts.csswg.org/css-viewport-1/</a></li>
-  <li>Crawled version: 25 January 2024</li>
-  <li>Editor’s Draft: <a href="https://drafts.csswg.org/css-viewport-1/">https://drafts.csswg.org/css-viewport-1/</a></li>
+  <li>Crawled URL: <a href="https://drafts.csswg.org/css-viewport/">https://drafts.csswg.org/css-viewport/</a></li>
+  <li>Crawled version: 3 June 2024</li>
+  <li>Editor’s Draft: <a href="https://drafts.csswg.org/css-viewport/">https://drafts.csswg.org/css-viewport/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/css-viewport-1/">https://www.w3.org/TR/css-viewport-1/</a></li>
   <li>Shortname: css-viewport-1</li>
   </ul>
   </section>
   <section id="potential-issues-259" class="level4 anomalies">
   <h4 class="anomalies">Potential issue(s)</h4>
-  <p>The following network or parsing error occurred: <code>Error: Loading https://drafts.csswg.org/css-viewport/ triggered network error     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:494:19)     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22)     at async crawlSpecAndPromise (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:367:22)     at async Promise.all (index 406)     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:375:21) {   [cause]: TypeError: fetch failed       at node:internal/deps/undici/undici:12502:13       at process.processTicksAndRejections (node:internal/process/task_queues:95:5)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)       at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)       at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)       at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:488:24)       at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:98:22) {     [cause]: AggregateError [ETIMEDOUT]:          at internalConnectMultiple (node:net:1117:18)         at internalConnectMultiple (node:net:1185:5)         at Timeout.internalConnectMultipleTimeout (node:net:1711:5)         at listOnTimeout (node:internal/timers:575:11)         at process.processTimers (node:internal/timers:514:7) {       code: 'ETIMEDOUT',       [errors]: [Array]     }   } }</code></p>
-  <p>Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.</p>
+  <ul>
+  <li>Missing references for links:
+  <ul>
+  <li><a href="https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/"><code>https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/</code></a></li>
+  <li><a href="https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/"><code>https://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-cascade/"><code>https://www.w3.org/TR/css-cascade/</code></a></li>
+  <li><a href="https://www.w3.org/TR/css-values/"><code>https://www.w3.org/TR/css-values/</code></a></li>
+  <li><a href="https://www.w3.org/TR/cssom/"><code>https://www.w3.org/TR/cssom/</code></a></li>
+  <li><a href="https://www.w3.org/TR/web-animations/"><code>https://www.w3.org/TR/web-animations/</code></a></li>
+  </ul></li>
+  </ul>
   </section>
   <section id="known-dependencies-on-this-specification-259" class="level4 dependencies">
   <h4 class="dependencies">Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
+  <li><a href="https://drafts.csswg.org/css-cascade-3/">CSS Cascading and Inheritance Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   </ul>
-  <p>No informative reference to this spec from other specs.</p>
+  <p>Informative references to this spec from:</p>
+  <ul>
+  <li><a href="https://drafts.csswg.org/css-page-3/">CSS Paged Media Module Level 3</a></li>
+  <li><a href="https://w3c.github.io/epub-specs/epub33/core/">EPUB 3.3</a></li>
+  </ul>
   </section>
   </section>
   <section id="css-will-change-module-level-1" class="level3" data-spec="true" data-error="true">
@@ -9543,7 +9562,7 @@
   <li><a href="https://drafts.csswg.org/css-text-4/">CSS Text Module Level 4</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://w3c.github.io/epub-specs/epub33/core/">EPUB 3.3</a></li>
   <li><a href="https://drafts.fxtf.org/filter-effects-1/">Filter Effects Module Level 1</a></li>
   <li><a href="https://quirks.spec.whatwg.org/">Quirks Mode Standard</a></li>
@@ -9681,7 +9700,7 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://wicg.github.io/layout-instability/">Layout Instability API</a></li>
   <li><a href="https://w3c.github.io/pointerevents/">Pointer Events</a></li>
   <li><a href="https://w3c.github.io/screen-orientation/">Screen Orientation</a></li>
@@ -9972,7 +9991,7 @@
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-3/">CSS Writing Modes Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
@@ -10172,6 +10191,7 @@
   <li><a href="https://drafts.csswg.org/css-2023/">CSS Snapshot 2023</a></li>
   <li><a href="https://drafts.csswg.org/css-values-3/">CSS Values and Units Module Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://w3c.github.io/mathml-core/">MathML Core</a></li>
   <li><a href="https://drafts.csswg.org/selectors-4/">Selectors Level 4</a></li>
   <li><a href="https://drafts.csswg.org/web-animations-1/">Web Animations</a></li>
@@ -10218,6 +10238,7 @@
   <li><a href="https://drafts.csswg.org/css-2022/">CSS Snapshot 2022</a></li>
   <li><a href="https://drafts.csswg.org/css-2023/">CSS Snapshot 2023</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/selectors-nonelement-1/">Non-element Selectors Module Level 1</a></li>
   </ul>
   <p>No informative reference to this spec from other specs.</p>
@@ -15958,7 +15979,7 @@
   <ul>
   <li><a href="https://drafts.csswg.org/css-contain-2/">CSS Containment Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://wicg.github.io/element-timing/">Element Timing API</a></li>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML Standard</a></li>
   </ul>
@@ -16702,7 +16723,7 @@
   <h4 class="dependencies">Known dependencies on this specification</h4>
   <p>Normative references to this spec from:</p>
   <ul>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   </ul>
   <p>No informative reference to this spec from other specs.</p>
   </section>
@@ -16760,7 +16781,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/IFT/">https://www.w3.org/TR/IFT/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/IFT/Overview.html">https://w3c.github.io/IFT/Overview.html</a></li>
-  <li>Crawled version: 29 May 2024</li>
+  <li>Crawled version: 4 June 2024</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/IFT/Overview.html">https://w3c.github.io/IFT/Overview.html</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/IFT/">https://www.w3.org/TR/IFT/</a></li>
   <li>Shortname: IFT</li>
@@ -17738,7 +17759,7 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/attribution-reporting-api/">https://wicg.github.io/attribution-reporting-api/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/attribution-reporting-api/">https://wicg.github.io/attribution-reporting-api/</a></li>
-  <li>Crawled version: 3 June 2024</li>
+  <li>Crawled version: 4 June 2024</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/attribution-reporting-api/">https://wicg.github.io/attribution-reporting-api/</a></li>
   <li>Shortname: attribution-reporting-api</li>
   </ul>
@@ -18270,7 +18291,7 @@
   <ul>
   <li>Initial URL: <a href="https://wicg.github.io/fenced-frame/">https://wicg.github.io/fenced-frame/</a></li>
   <li>Crawled URL: <a href="https://wicg.github.io/fenced-frame/">https://wicg.github.io/fenced-frame/</a></li>
-  <li>Crawled version: 21 May 2024</li>
+  <li>Crawled version: 4 June 2024</li>
   <li>Editor’s Draft: <a href="https://wicg.github.io/fenced-frame/">https://wicg.github.io/fenced-frame/</a></li>
   <li>Shortname: fenced-frame</li>
   </ul>
@@ -18284,7 +18305,7 @@
   <p>Normative references to this spec from:</p>
   <ul>
   <li><a href="https://wicg.github.io/attribution-reporting-api/">Attribution Reporting</a></li>
-  <li><a href="https://drafts.csswg.org/css-viewport-1/">CSS Viewport Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-viewport/">CSS Viewport Module Level 1</a></li>
   <li><a href="https://wicg.github.io/turtledove/">Protected Audience (formerly FLEDGE)</a></li>
   <li><a href="https://wicg.github.io/shared-storage/">Shared Storage API</a></li>
   </ul>
@@ -21048,7 +21069,7 @@
   <ul>
   <li>Initial URL: <a href="https://www.w3.org/TR/webtransport/">https://www.w3.org/TR/webtransport/</a></li>
   <li>Crawled URL: <a href="https://w3c.github.io/webtransport/">https://w3c.github.io/webtransport/</a></li>
-  <li>Crawled version: 21 May 2024</li>
+  <li>Crawled version: 4 June 2024</li>
   <li>Editor’s Draft: <a href="https://w3c.github.io/webtransport/">https://w3c.github.io/webtransport/</a></li>
   <li>Latest published version: <a href="https://www.w3.org/TR/webtransport/">https://www.w3.org/TR/webtransport/</a></li>
   <li>Shortname: webtransport</li>
@@ -21233,6 +21254,7 @@
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   <li><a href="https://wicg.github.io/WebApiDevice/device_attributes/">Device Attributes API</a></li>
   <li><a href="https://w3c.github.io/deviceorientation/">Device Orientation and Motion</a></li>
@@ -21785,6 +21807,7 @@
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-3/">CSS Writing Modes Level 3</a></li>
   <li><a href="https://drafts.csswg.org/css-writing-modes-4/">CSS Writing Modes Level 4</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
@@ -22174,6 +22197,7 @@
   <li><a href="https://drafts.csswg.org/css-values-4/">CSS Values and Units Module Level 4</a></li>
   <li><a href="https://drafts.csswg.org/css-values-5/">CSS Values and Units Module Level 5</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/css-will-change-1/">CSS Will Change Module Level 1</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   <li><a href="https://w3c.github.io/deviceorientation/">Device Orientation and Motion</a></li>
@@ -22922,6 +22946,7 @@
   <li><a href="https://drafts.csswg.org/css-transitions-2/">CSS Transitions Level 2</a></li>
   <li><a href="https://drafts.css-houdini.org/css-typed-om-1/">CSS Typed OM Level 1</a></li>
   <li><a href="https://drafts.csswg.org/css-view-transitions-1/">CSS View Transitions Module Level 1</a></li>
+  <li><a href="https://drafts.csswg.org/css-view-transitions-2/">CSS View Transitions Module Level 2</a></li>
   <li><a href="https://drafts.csswg.org/cssom-view-1/">CSSOM View Module</a></li>
   <li><a href="https://www.w3.org/TR/device-memory/">Device Memory</a></li>
   <li><a href="https://w3c.github.io/deviceorientation/">Device Orientation and Motion</a></li>
