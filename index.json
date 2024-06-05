@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-05T06:37:03.955Z",
+  "date": "2024-06-05T12:42:36.087Z",
   "stats": {
     "crawled": 619,
     "errors": 13,
@@ -1874,7 +1874,7 @@
     {
       "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
       "shortname": "capture-handle-identity",
-      "date": "06 October 2023",
+      "date": "05 June 2024",
       "url": "https://www.w3.org/TR/capture-handle-identity/",
       "release": {
         "url": "https://www.w3.org/TR/capture-handle-identity/",
@@ -23197,7 +23197,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "22 April 2024",
+      "date": "5 June 2024",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -25967,7 +25967,7 @@
     {
       "title": "Extending Storage Access API (SAA) to non-cookie storage",
       "shortname": "saa-non-cookie-storage",
-      "date": "2 May 2024",
+      "date": "5 June 2024",
       "url": "https://privacycg.github.io/saa-non-cookie-storage/",
       "nightly": {
         "url": "https://privacycg.github.io/saa-non-cookie-storage/",
@@ -40015,7 +40015,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "3 June 2024",
+      "date": "5 June 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -50519,7 +50519,7 @@
     {
       "title": "The Capture-Handle Actions Mechanism",
       "shortname": "mediacapture-handle-actions",
-      "date": "06 October 2023",
+      "date": "05 June 2024",
       "url": "https://w3c.github.io/mediacapture-handle/actions/",
       "nightly": {
         "url": "https://w3c.github.io/mediacapture-handle/actions/",

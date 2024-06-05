@@ -12554,7 +12554,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://privacycg.github.io/saa-non-cookie-storage/](https://privacycg.github.io/saa-non-cookie-storage/)
 - Crawled URL: [https://privacycg.github.io/saa-non-cookie-storage/](https://privacycg.github.io/saa-non-cookie-storage/)
-- Crawled version: 2 May 2024
+- Crawled version: 5 June 2024
 - Editor's Draft: [https://privacycg.github.io/saa-non-cookie-storage/](https://privacycg.github.io/saa-non-cookie-storage/)
 - Shortname: saa-non-cookie-storage
 
@@ -18165,7 +18165,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 3 June 2024
+- Crawled version: 5 June 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18865,7 +18865,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/capture-handle-identity/](https://www.w3.org/TR/capture-handle-identity/)
 - Crawled URL: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
-- Crawled version: 06 October 2023
+- Crawled version: 05 June 2024
 - Editor's Draft: [https://w3c.github.io/mediacapture-handle/identity/](https://w3c.github.io/mediacapture-handle/identity/)
 - Latest published version: [https://www.w3.org/TR/capture-handle-identity/](https://www.w3.org/TR/capture-handle-identity/)
 - Shortname: capture-handle-identity
@@ -19265,7 +19265,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
 - Crawled URL: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
-- Crawled version: 06 October 2023
+- Crawled version: 05 June 2024
 - Editor's Draft: [https://w3c.github.io/mediacapture-handle/actions/](https://w3c.github.io/mediacapture-handle/actions/)
 - Shortname: mediacapture-handle-actions
 
@@ -19902,7 +19902,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 22 April 2024
+- Crawled version: 5 June 2024
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 
