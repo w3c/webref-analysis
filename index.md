@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 05, 2024
+% June 06, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -1102,7 +1102,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 4 June 2024
+- Crawled version: 6 June 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -10631,7 +10631,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 28 May 2024
+- Crawled version: 05 June 2024
 - Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
 - Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Shortname: device-posture
@@ -19500,7 +19500,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
-- Crawled version: 1 May 2024
+- Crawled version: 5 June 2024
 - Editor's Draft: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
 - Shortname: wasm-core-2-fork-memory64
 
