@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-07T06:36:41.452Z",
+  "date": "2024-06-07T12:43:06.511Z",
   "stats": {
     "crawled": 619,
     "errors": 13,
@@ -372,7 +372,7 @@
     {
       "title": "Accelerometer",
       "shortname": "accelerometer",
-      "date": "8 January 2024",
+      "date": "7 June 2024",
       "url": "https://www.w3.org/TR/accelerometer/",
       "release": {
         "url": "https://www.w3.org/TR/accelerometer/",
@@ -50386,7 +50386,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "29 May 2024",
+      "date": "7 June 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -53400,7 +53400,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "06 June 2024",
+      "date": "07 June 2024",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
