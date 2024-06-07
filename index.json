@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-06T18:35:32.700Z",
+  "date": "2024-06-07T00:48:39.662Z",
   "stats": {
     "crawled": 619,
     "errors": 13,
@@ -29162,7 +29162,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "3 June 2024",
+      "date": "6 June 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -47831,7 +47831,7 @@
     {
       "title": "Shared Storage API",
       "shortname": "shared-storage",
-      "date": "17 May 2024",
+      "date": "6 June 2024",
       "url": "https://wicg.github.io/shared-storage/",
       "nightly": {
         "url": "https://wicg.github.io/shared-storage/",
@@ -53400,7 +53400,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "17 May 2024",
+      "date": "06 June 2024",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
@@ -55751,7 +55751,7 @@
     {
       "title": "Web Share API",
       "shortname": "web-share",
-      "date": "11 April 2023",
+      "date": "06 June 2024",
       "url": "https://www.w3.org/TR/web-share/",
       "release": {
         "url": "https://www.w3.org/TR/web-share/",
@@ -59272,7 +59272,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "4 June 2024",
+      "date": "6 June 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59335,7 +59335,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "4 June 2024",
+      "date": "6 June 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
