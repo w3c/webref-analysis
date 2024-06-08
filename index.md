@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 07, 2024
+% June 08, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -1831,7 +1831,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 31 May 2024
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1924,7 +1924,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 31 May 2024
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -3074,7 +3074,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 29 April 2024
+- Crawled version: 07 June 2024
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -10641,7 +10641,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 6 June 2024
+- Crawled version: 8 June 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10667,7 +10667,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 6 June 2024
+- Crawled version: 8 June 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -13828,13 +13828,13 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Window Management {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Window Management {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/window-management/](https://www.w3.org/TR/window-management/)
 - Crawled URL: [https://w3c.github.io/window-management/](https://w3c.github.io/window-management/)
-- Crawled version: 1 April 2024
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://w3c.github.io/window-management/](https://w3c.github.io/window-management/)
 - Latest published version: [https://www.w3.org/TR/window-management/](https://www.w3.org/TR/window-management/)
 - Shortname: window-management
@@ -13843,8 +13843,6 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15159,7 +15157,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/uievents/](https://www.w3.org/TR/uievents/)
 - Crawled URL: [https://w3c.github.io/uievents/](https://w3c.github.io/uievents/)
-- Crawled version: 21 February 2024
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://w3c.github.io/uievents/](https://w3c.github.io/uievents/)
 - Latest published version: [https://www.w3.org/TR/uievents/](https://www.w3.org/TR/uievents/)
 - Shortname: uievents
@@ -15334,7 +15332,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/web-locks/](https://www.w3.org/TR/web-locks/)
 - Crawled URL: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
-- Crawled version: 31 May 2023
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://w3c.github.io/web-locks/](https://w3c.github.io/web-locks/)
 - Latest published version: [https://www.w3.org/TR/web-locks/](https://www.w3.org/TR/web-locks/)
 - Shortname: web-locks
@@ -15785,7 +15783,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 5 June 2024
+- Crawled version: 8 June 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -16718,7 +16716,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
 - Crawled URL: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
-- Crawled version: 4 August 2023
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://wicg.github.io/cookie-store/](https://wicg.github.io/cookie-store/)
 - Shortname: cookie-store
 
@@ -17077,7 +17075,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
 - Crawled URL: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
-- Crawled version: 18 July 2023
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://wicg.github.io/entries-api/](https://wicg.github.io/entries-api/)
 - Shortname: entries-api
 
@@ -17421,7 +17419,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
 - Crawled URL: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
-- Crawled version: 11 July 2023
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://wicg.github.io/local-font-access/](https://wicg.github.io/local-font-access/)
 - Shortname: local-font-access
 

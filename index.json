@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-07T18:49:55.772Z",
+  "date": "2024-06-08T00:50:37.761Z",
   "stats": {
     "crawled": 619,
     "errors": 0,
@@ -456,7 +456,7 @@
     {
       "title": "Accessible Name and Description Computation 1.2",
       "shortname": "accname-1.2",
-      "date": "29 April 2024",
+      "date": "07 June 2024",
       "url": "https://www.w3.org/TR/accname-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/accname-1.2/",
@@ -3448,7 +3448,7 @@
     {
       "title": "Cookie Store API",
       "shortname": "cookie-store",
-      "date": "4 August 2023",
+      "date": "7 June 2024",
       "url": "https://wicg.github.io/cookie-store/",
       "nightly": {
         "url": "https://wicg.github.io/cookie-store/",
@@ -26792,7 +26792,7 @@
     {
       "title": "File and Directory Entries API",
       "shortname": "entries-api",
-      "date": "18 July 2023",
+      "date": "7 June 2024",
       "url": "https://wicg.github.io/entries-api/",
       "nightly": {
         "url": "https://wicg.github.io/entries-api/",
@@ -34301,7 +34301,7 @@
     {
       "title": "Local Font Access API",
       "shortname": "local-font-access",
-      "date": "11 July 2023",
+      "date": "7 June 2024",
       "url": "https://wicg.github.io/local-font-access/",
       "nightly": {
         "url": "https://wicg.github.io/local-font-access/",
@@ -42360,7 +42360,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "31 May 2024",
+      "date": "7 June 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -42837,7 +42837,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "31 May 2024",
+      "date": "7 June 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -51031,7 +51031,7 @@
     {
       "title": "UI Events",
       "shortname": "uievents",
-      "date": "21 February 2024",
+      "date": "7 June 2024",
       "url": "https://www.w3.org/TR/uievents/",
       "release": {
         "url": "https://www.w3.org/TR/uievents/",
@@ -55371,7 +55371,7 @@
     {
       "title": "Web Locks API",
       "shortname": "web-locks",
-      "date": "31 May 2023",
+      "date": "7 June 2024",
       "url": "https://www.w3.org/TR/web-locks/",
       "release": {
         "url": "https://www.w3.org/TR/web-locks/",
@@ -55490,7 +55490,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "5 June 2024",
+      "date": "8 June 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -59259,7 +59259,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "6 June 2024",
+      "date": "8 June 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59322,7 +59322,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "6 June 2024",
+      "date": "8 June 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -61022,7 +61022,7 @@
     {
       "title": "Window Management",
       "shortname": "window-management",
-      "date": "1 April 2024",
+      "date": "7 June 2024",
       "url": "https://www.w3.org/TR/window-management/",
       "release": {
         "url": "https://www.w3.org/TR/window-management/",
@@ -61060,15 +61060,7 @@
         "missingLinkRef": [
           "https://www.w3.org/TR/cssom-view-1/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://www.w3.org/TR/fingerprinting-guidance/",
-            "ref": {
-              "name": "FINGERPRINTING-GUIDANCE",
-              "url": "https://w3c.github.io/fingerprinting-guidance/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": [
