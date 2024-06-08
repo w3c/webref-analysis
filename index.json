@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-08T12:43:51.208Z",
+  "date": "2024-06-08T18:37:49.289Z",
   "stats": {
     "crawled": 619,
     "errors": 0,
@@ -44956,7 +44956,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "31 May 2024",
+      "date": "8 June 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
