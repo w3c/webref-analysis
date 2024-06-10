@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-10T06:40:23.982Z",
+  "date": "2024-06-10T12:46:03.723Z",
   "stats": {
     "crawled": 619,
     "errors": 0,
@@ -29150,7 +29150,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "8 June 2024",
+      "date": "10 June 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34950,7 +34950,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "30 May 2024",
+      "date": "10 June 2024",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -53975,7 +53975,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "8 April 2024",
+      "date": "10 June 2024",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -59691,7 +59691,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "30 May 2024",
+      "date": "10 June 2024",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
