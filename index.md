@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 10, 2024
+% June 11, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -1102,7 +1102,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 9 June 2024
+- Crawled version: 10 June 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -1536,6 +1536,7 @@ Normative references to this spec from:
 - [A Well-Known URL for Passkey Endpoints](https://w3c.github.io/webappsec-passkey-endpoints/passkey-endpoints.html)
 - [Clear Site Data](https://w3c.github.io/webappsec-clear-site-data/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
+- [Cookies: HTTP State Management Mechanism](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
@@ -10636,7 +10637,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 8 June 2024
+- Crawled version: 10 June 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10662,7 +10663,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 8 June 2024
+- Crawled version: 10 June 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -17459,7 +17460,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Crawled URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
-- Crawled version: 07 June 2024
+- Crawled version: 10 June 2024
 - Editor's Draft: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Shortname: manifest-incubations
 
