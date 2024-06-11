@@ -814,7 +814,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-arraybuffer-base64/spec/](https://tc39.es/proposal-arraybuffer-base64/spec/)
 - Crawled URL: [https://tc39.es/proposal-arraybuffer-base64/spec/](https://tc39.es/proposal-arraybuffer-base64/spec/)
-- Crawled version: 25 March 2024
+- Crawled version: 11 June 2024
 - Editor's Draft: [https://tc39.es/proposal-arraybuffer-base64/spec/](https://tc39.es/proposal-arraybuffer-base64/spec/)
 - Shortname: tc39-arraybuffer-base64
 
