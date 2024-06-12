@@ -747,7 +747,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Crawled URL: [https://tc39.es/source-map](https://tc39.es/source-map)
-- Crawled version: 26 April 2024
+- Crawled version: 11 June 2024
 - Editor's Draft: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Shortname: sourcemap
 
@@ -870,7 +870,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 7 June 2024
+- Crawled version: 12 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -921,7 +921,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 7 June 2024
+- Crawled version: 12 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -1495,7 +1495,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 8 June 2024
+- Crawled version: 12 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1884,7 +1884,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 12 June 2024
+- Crawled version: 7 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -3594,8 +3594,6 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/accname-1.2/`](https://www.w3.org/TR/accname-1.2/)
-     * [`https://www.w3.org/TR/core-aam-1.2/`](https://www.w3.org/TR/core-aam-1.2/)
      * [`https://www.w3.org/TR/permissions/`](https://www.w3.org/TR/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
@@ -3939,7 +3937,7 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 
 
-### CSS Animation Worklet API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS Animation Worklet API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -3952,9 +3950,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://w3c.github.io/html/infrastructure.html`](http://w3c.github.io/html/infrastructure.html)
-     * [`https://w3c.github.io/web-animations/level-2/`](https://w3c.github.io/web-animations/level-2/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7523,7 +7519,7 @@ Informative references to this spec from:
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 
 
-### CSS Properties and Values API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS Properties and Values API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -7536,8 +7532,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-scoping-1/`](https://www.w3.org/TR/css-scoping-1/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8693,7 +8688,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### CSS Typed OM Level 1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -8706,8 +8701,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/geometry-1/`](https://www.w3.org/TR/geometry-1/), related reference "GEOMETRY-1" uses URL [`https://drafts.fxtf.org/geometry/`](https://drafts.fxtf.org/geometry/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10118,7 +10112,7 @@ No informative reference to this spec from other specs.
 
 ## Devices and Sensors Working Group {#group-devices_and_sensors_working_group}
 
-### Accelerometer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Accelerometer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -10133,8 +10127,6 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://w3c.github.io/sensors/usecases.html`](https://w3c.github.io/sensors/usecases.html)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/screen-orientation/`](https://www.w3.org/TR/screen-orientation/), related reference "SCREEN-ORIENTATION" uses URL [`https://w3c.github.io/screen-orientation/`](https://w3c.github.io/screen-orientation/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10476,7 +10468,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Orientation Sensor {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Orientation Sensor {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -10489,8 +10481,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2016/CR-orientation-event-20160818/`](https://www.w3.org/TR/2016/CR-orientation-event-20160818/), related reference "ORIENTATION-EVENT" uses URL [`https://w3c.github.io/deviceorientation/`](https://w3c.github.io/deviceorientation/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10943,7 +10934,7 @@ No informative reference to this spec from other specs.
 
 ## Immersive Web Working Group {#group-immersive_web_working_group}
 
-### WebXR Anchors Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### WebXR Anchors Module {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -10955,8 +10946,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -10999,7 +10989,7 @@ Informative references to this spec from:
 - [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 
-### WebXR Depth Sensing Module {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### WebXR Depth Sensing Module {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -11012,9 +11002,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
-     * [`https://www.w3.org/TR/webxrlayers-1/`](https://www.w3.org/TR/webxrlayers-1/), related reference "WEBXRLAYERS-1" uses URL [`https://immersive-web.github.io/layers/`](https://immersive-web.github.io/layers/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11023,7 +11011,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Device API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### WebXR Device API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -11037,11 +11025,8 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/orientation-sensor/`](https://www.w3.org/TR/orientation-sensor/)
      * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
      * [`https://www.w3.org/TR/webxr-gamepads-module-1/`](https://www.w3.org/TR/webxr-gamepads-module-1/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/hr-time/`](https://www.w3.org/TR/hr-time/), related reference "HR-TIME-3" uses URL [`https://www.w3.org/TR/hr-time-3/`](https://www.w3.org/TR/hr-time-3/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11163,7 +11148,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### WebXR Layers API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### WebXR Layers API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -11176,9 +11161,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "COMPOSITING-1" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
-     * [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/), related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11625,7 +11608,7 @@ Informative references to this spec from:
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
 
 
-### Media Capabilities {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Media Capabilities {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -11638,11 +11621,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/media-source/`](https://www.w3.org/TR/media-source/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/encrypted-media/`](https://www.w3.org/TR/encrypted-media/), related reference "ENCRYPTED-MEDIA" uses URL [`https://w3c.github.io/encrypted-media/`](https://w3c.github.io/encrypted-media/)
-     * [`https://www.w3.org/TR/mediastream-recording/`](https://www.w3.org/TR/mediastream-recording/), related reference "MEDIASTREAM-RECORDING" uses URL [`https://w3c.github.io/mediacapture-record/`](https://w3c.github.io/mediacapture-record/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11914,7 +11893,7 @@ Informative references to this spec from:
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
 
 
-### WebCodecs {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### WebCodecs {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -11927,9 +11906,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/mst-content-hint/`](https://www.w3.org/TR/mst-content-hint/), related reference "MST-CONTENT-HINT" uses URL [`https://w3c.github.io/mst-content-hint/`](https://w3c.github.io/mst-content-hint/)
-     * [`https://www.w3.org/TR/webrtc-svc/`](https://www.w3.org/TR/webrtc-svc/), related reference "WebRTC-SVC" uses URL [`https://w3c.github.io/webrtc-svc/`](https://w3c.github.io/webrtc-svc/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -12255,7 +12232,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Navigational-Tracking Mitigations {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Navigational-Tracking Mitigations {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -12267,9 +12244,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/pub-manifest/`](https://www.w3.org/TR/pub-manifest/), related reference "PUB-MANIFEST" uses URL [`https://w3c.github.io/pub-manifest/`](https://w3c.github.io/pub-manifest/)
-     * [`https://www.w3.org/TR/tracking-dnt/`](https://www.w3.org/TR/tracking-dnt/), related reference "TRACKING-DNT" uses URL [`https://w3c.github.io/dnt/drafts/tracking-dnt.html`](https://w3c.github.io/dnt/drafts/tracking-dnt.html)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -13949,7 +13924,7 @@ Informative references to this spec from:
 
 ## Timed Text Working Group {#group-timed_text_working_group}
 
-### WebVTT: The Web Video Text Tracks Format {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### WebVTT: The Web Video Text Tracks Format {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -13962,8 +13937,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://encoding.spec.whatwg.org/`](https://encoding.spec.whatwg.org/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14121,7 +14095,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### A Well-Known URL for Passkey Endpoints {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### A Well-Known URL for Passkey Endpoints {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -14133,10 +14107,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/webauthn-2`](https://www.w3.org/TR/webauthn-2)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/webauthn-3`](https://www.w3.org/TR/webauthn-3), related reference "WEBAUTHN-2" uses URL [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14176,7 +14147,7 @@ Informative references to this spec from:
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 
 
-### Content Security Policy Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Content Security Policy Level 3 {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -14189,8 +14160,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING-1" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14660,7 +14630,7 @@ Informative references to this spec from:
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 
 
-### Trusted Types {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Trusted Types {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -14675,8 +14645,6 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://w3c.github.io/webcomponents/spec/imports/`](https://w3c.github.io/webcomponents/spec/imports/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/trusted-types/`](https://www.w3.org/TR/trusted-types/), related reference "TRUSTED-TYPES" uses URL [`https://w3c.github.io/trusted-types/dist/spec/`](https://w3c.github.io/trusted-types/dist/spec/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15001,7 +14969,7 @@ Informative references to this spec from:
 - [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
 
 
-### Intersection Observer {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Intersection Observer {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -15014,9 +14982,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/css-masking-1/`](http://www.w3.org/TR/css-masking-1/)
-     * [`http://www.w3.org/TR/hr-time/`](http://www.w3.org/TR/hr-time/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15419,7 +15385,7 @@ Informative references to this spec from:
 
 ## Web Bluetooth Community Group {#group-web_bluetooth_community_group}
 
-### Web Bluetooth {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Web Bluetooth {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -15431,8 +15397,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -15941,7 +15906,7 @@ Informative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 
 
-### Secure Payment Confirmation {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Secure Payment Confirmation {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -15956,8 +15921,6 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://www.w3.org/TR/international-specs/`](https://www.w3.org/TR/international-specs/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/), related reference "I18N-GLOSSARY" uses URL [`https://w3c.github.io/i18n-glossary/`](https://w3c.github.io/i18n-glossary/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17180,7 +17143,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Idle Detection API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Idle Detection API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -17192,8 +17155,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/page-visibility-2/`](https://www.w3.org/TR/page-visibility-2/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17204,7 +17166,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Iframe credentialless {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Iframe credentialless {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -17216,8 +17178,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/hr-time//issues/1`](https://www.w3.org/TR/hr-time//issues/1)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17871,7 +17832,7 @@ Informative references to this spec from:
 - [WebXR Layers API Level 1](https://immersive-web.github.io/layers/)
 
 
-### Responsive Image Client Hints {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Responsive Image Client Hints {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -17883,8 +17844,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17966,7 +17926,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Shared Storage API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Shared Storage API {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -17978,8 +17938,7 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/permissions-policy/`](https://www.w3.org/TR/permissions-policy/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17990,7 +17949,7 @@ Informative references to this spec from:
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
 
 
-### Soft Navigations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Soft Navigations {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -18002,10 +17961,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/event-timing/`](https://w3c.github.io/event-timing/)
-     * [`https://www.w3.org/TR/css-view-transitions-1/`](https://www.w3.org/TR/css-view-transitions-1/)
-     * [`https://www.w3.org/TR/paint-timing/`](https://www.w3.org/TR/paint-timing/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18138,7 +18094,6 @@ No informative reference to this spec from other specs.
 
 - Missing references for links: 
      * [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/)
-     * [`https://w3c.github.io/permissions/`](https://w3c.github.io/permissions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -18728,7 +18683,7 @@ Informative references to this spec from:
 - [Media Capture and Streams](https://w3c.github.io/mediacapture-main/)
 
 
-### MediaStream Recording {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### MediaStream Recording {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -18741,11 +18696,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/webrtc-identity/`](https://www.w3.org/TR/webrtc-identity/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/fingerprinting-guidance/`](https://www.w3.org/TR/fingerprinting-guidance/), related reference "FINGERPRINTING-GUIDANCE" uses URL [`https://w3c.github.io/fingerprinting-guidance/`](https://w3c.github.io/fingerprinting-guidance/)
-     * [`https://www.w3.org/TR/mediacapture-streams/`](https://www.w3.org/TR/mediacapture-streams/), related reference "GETUSERMEDIA" uses URL [`https://w3c.github.io/mediacapture-main/`](https://w3c.github.io/mediacapture-main/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20802,7 +20753,7 @@ Informative references to this spec from:
 
 ## Quirks Mode Workstream {#group-quirks_mode_workstream}
 
-### Quirks Mode Standard {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Quirks Mode Standard {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
@@ -20814,8 +20765,7 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-multicol-1/`](https://www.w3.org/TR/css-multicol-1/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
