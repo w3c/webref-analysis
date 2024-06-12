@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-11T18:39:22.405Z",
+  "date": "2024-06-12T00:55:56.791Z",
   "stats": {
     "crawled": 619,
     "errors": 0,
@@ -1009,7 +1009,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "10 June 2024",
+      "date": "11 June 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -5773,7 +5773,7 @@
     {
       "title": "CSS Box Model Module Level 4",
       "shortname": "css-box-4",
-      "date": "22 March 2024",
+      "date": "11 June 2024",
       "url": "https://www.w3.org/TR/css-box-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-box-4/",
@@ -15174,6 +15174,13 @@
             "ref": {
               "name": "CSS-OVERFLOW-3",
               "url": "https://drafts.csswg.org/css-overflow-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/css-overflow-4/",
+            "ref": {
+              "name": "CSS-OVERFLOW-4",
+              "url": "https://drafts.csswg.org/css-overflow-4/"
             }
           },
           {
@@ -27843,7 +27850,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "10 June 2024",
+      "date": "11 June 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -59239,7 +59246,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "10 June 2024",
+      "date": "11 June 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59302,7 +59309,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "10 June 2024",
+      "date": "11 June 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -60615,7 +60622,7 @@
     {
       "title": "WebXR Hit Test Module",
       "shortname": "webxr-hit-test-1",
-      "date": "19 April 2022",
+      "date": "11 June 2024",
       "url": "https://www.w3.org/TR/webxr-hit-test-1/",
       "release": {
         "url": "https://www.w3.org/TR/webxr-hit-test-1/",
@@ -60651,12 +60658,20 @@
           "idl": []
         },
         "missingLinkRef": [],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/webxr/",
+            "ref": {
+              "name": "WEBXR",
+              "url": "https://immersive-web.github.io/webxr/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
