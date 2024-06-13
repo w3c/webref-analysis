@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-13T12:50:06.527Z",
+  "date": "2024-06-13T18:44:11.289Z",
   "stats": {
     "crawled": 619,
     "errors": 0,
@@ -991,7 +991,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "12 June 2024",
+      "date": "13 June 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -2360,7 +2360,7 @@
     {
       "title": "Client Hints Infrastructure",
       "shortname": "client-hints-infrastructure",
-      "date": "21 May 2024",
+      "date": "13 June 2024",
       "url": "https://wicg.github.io/client-hints-infrastructure/",
       "nightly": {
         "url": "https://wicg.github.io/client-hints-infrastructure/",
@@ -9036,7 +9036,7 @@
     {
       "title": "CSS Containment Module Level 1",
       "shortname": "css-contain-1",
-      "date": "31 May 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/css-contain-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-1/",
@@ -9156,7 +9156,7 @@
     {
       "title": "CSS Containment Module Level 2",
       "shortname": "css-contain-2",
-      "date": "30 May 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/css-contain-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-2/",
@@ -24367,7 +24367,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -25286,7 +25292,7 @@
     {
       "title": "Encoding Standard",
       "shortname": "encoding",
-      "date": "13 March 2024",
+      "date": "13 June 2024",
       "url": "https://encoding.spec.whatwg.org/",
       "nightly": {
         "url": "https://encoding.spec.whatwg.org/",
@@ -40752,7 +40758,7 @@
     {
       "title": "RDF 1.2 TriG",
       "shortname": "rdf12-trig",
-      "date": "11 April 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/rdf12-trig/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-trig/",
@@ -40841,7 +40847,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "11 April 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
@@ -59528,7 +59534,7 @@
     {
       "title": "WebRTC: Real-Time Communication in Browsers",
       "shortname": "webrtc",
-      "date": "10 June 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/webrtc/",
       "release": {
         "url": "https://www.w3.org/TR/webrtc/",
