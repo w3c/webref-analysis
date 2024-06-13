@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-13T06:43:48.015Z",
+  "date": "2024-06-13T12:50:06.527Z",
   "stats": {
     "crawled": 619,
     "errors": 0,
@@ -2890,7 +2890,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "07 June 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -3130,7 +3130,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "24 April 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -4451,6 +4451,11 @@
               "crawled": "https://drafts.csswg.org/selectors-4/"
             },
             {
+              "url": "https://www.w3.org/TR/uievents/",
+              "title": "UI Events",
+              "crawled": "https://w3c.github.io/uievents/"
+            },
+            {
               "url": "https://www.w3.org/TR/web-animations-1/",
               "title": "Web Animations",
               "crawled": "https://drafts.csswg.org/web-animations-1/"
@@ -4516,11 +4521,6 @@
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
               "crawled": "https://drafts.csswg.org/css-viewport/"
-            },
-            {
-              "url": "https://www.w3.org/TR/uievents/",
-              "title": "UI Events",
-              "crawled": "https://w3c.github.io/uievents/"
             },
             {
               "url": "https://www.w3.org/TR/web-animations-1/",
@@ -9969,7 +9969,7 @@
     {
       "title": "CSS Display Module Level 4",
       "shortname": "css-display-4",
-      "date": "12 February 2024",
+      "date": "13 June 2024",
       "url": "https://drafts.csswg.org/css-display-4/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-display-4/",
@@ -27811,7 +27811,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "12 June 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -29098,7 +29098,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "12 June 2024",
+      "date": "13 June 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -34874,7 +34874,7 @@
     {
       "title": "Media Capture and Streams",
       "shortname": "mediacapture-streams",
-      "date": "10 June 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/mediacapture-streams/",
       "release": {
         "url": "https://www.w3.org/TR/mediacapture-streams/",
@@ -39318,6 +39318,11 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
+              "url": "https://www.w3.org/TR/uievents/",
+              "title": "UI Events",
+              "crawled": "https://w3c.github.io/uievents/"
+            },
+            {
               "url": "https://www.w3.org/TR/webxr/",
               "title": "WebXR Device API",
               "crawled": "https://immersive-web.github.io/webxr/"
@@ -39333,6 +39338,11 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/uievents/",
+              "title": "UI Events",
+              "crawled": "https://w3c.github.io/uievents/"
             }
           ]
         },
@@ -50233,7 +50243,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "7 June 2024",
+      "date": "13 June 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
@@ -50878,7 +50888,7 @@
     {
       "title": "UI Events",
       "shortname": "uievents",
-      "date": "7 June 2024",
+      "date": "13 June 2024",
       "url": "https://www.w3.org/TR/uievents/",
       "release": {
         "url": "https://www.w3.org/TR/uievents/",
@@ -57123,7 +57133,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "6 June 2024",
+      "date": "13 June 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
