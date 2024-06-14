@@ -2,18 +2,12 @@
 % Strudy
 % June 14, 2024
 
-## RDF 1.1 N-Quads
+## CSS Containment Module Level 3
 
-- Initial URL: [https://www.w3.org/TR/n-quads/](https://www.w3.org/TR/n-quads/)
+- Initial URL: [https://www.w3.org/TR/css-contain-3/](https://www.w3.org/TR/css-contain-3/)
 - Crawled URL: [undefined](undefined)
-- Editor's Draft: [https://www.w3.org/TR/n-quads/](https://www.w3.org/TR/n-quads/)
-- Spec could not be rendered: *INS* Error: Loading https://www.w3.org/TR/n-quads/ triggered HTTP status 520
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:100:22)
-    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:342:22)
-    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 481)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:358:21)
+- Editor's Draft: [https://drafts.csswg.org/css-contain-3/](https://drafts.csswg.org/css-contain-3/)
+- Inconsistent references for links: *INS* https://www.w3.org/TR/2021/WD-css-contain-3-20211221/, https://www.w3.org/TR/2022/WD-css-contain-3-20220818/
 
 
 
