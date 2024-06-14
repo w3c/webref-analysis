@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-14T00:51:11.856Z",
+  "date": "2024-06-14T06:40:00.998Z",
   "stats": {
     "crawled": 619,
-    "errors": 0,
+    "errors": 1,
     "studied": 619
   },
   "results": [
@@ -27822,7 +27822,7 @@
     {
       "title": "Geolocation API",
       "shortname": "geolocation",
-      "date": "13 June 2024",
+      "date": "14 June 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -40234,6 +40234,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://www.w3.org/TR/n-quads/ triggered HTTP status 520\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:100:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:342:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 481)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:358:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
