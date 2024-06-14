@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 13, 2024
+% June 14, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -10631,7 +10631,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 11 June 2024
+- Crawled version: 13 June 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10657,7 +10657,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 11 June 2024
+- Crawled version: 13 June 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14180,6 +14180,7 @@ Normative references to this spec from:
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
@@ -17426,7 +17427,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Crawled URL: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
-- Crawled version: 10 June 2024
+- Crawled version: 13 June 2024
 - Editor's Draft: [https://wicg.github.io/manifest-incubations/](https://wicg.github.io/manifest-incubations/)
 - Shortname: manifest-incubations
 
@@ -17516,7 +17517,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
-- Crawled version: 7 May 2024
+- Crawled version: 13 June 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/no-vary-search.html](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - Shortname: no-vary-search
 
@@ -17656,7 +17657,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
-- Crawled version: 7 May 2024
+- Crawled version: 13 June 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prefetch.html](https://wicg.github.io/nav-speculation/prefetch.html)
 - Shortname: prefetch
 
@@ -17677,7 +17678,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
-- Crawled version: 7 May 2024
+- Crawled version: 13 June 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/prerendering.html](https://wicg.github.io/nav-speculation/prerendering.html)
 - Shortname: prerendering-revamped
 
@@ -17765,7 +17766,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 12 June 2024
+- Crawled version: 13 June 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -17979,7 +17980,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Crawled URL: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
-- Crawled version: 7 May 2024
+- Crawled version: 13 June 2024
 - Editor's Draft: [https://wicg.github.io/nav-speculation/speculation-rules.html](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - Shortname: speculation-rules
 
