@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 14, 2024
+% June 15, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -19290,7 +19290,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Crawled URL: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
-- Crawled version: 25 May 2024
+- Crawled version: 14 June 2024
 - Editor's Draft: [https://webassembly.github.io/exception-handling/js-api/](https://webassembly.github.io/exception-handling/js-api/)
 - Shortname: wasm-js-api-2-fork-exception-handling
 
