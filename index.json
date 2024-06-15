@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-15T06:38:15.942Z",
+  "date": "2024-06-15T12:44:57.086Z",
   "stats": {
     "crawled": 619,
     "errors": 1,
@@ -549,7 +549,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.2",
-      "date": "14 June 2024",
+      "date": "15 June 2024",
       "url": "https://www.w3.org/TR/wai-aria-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -664,7 +664,7 @@
     {
       "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
       "shortname": "wai-aria-1.3",
-      "date": "14 June 2024",
+      "date": "15 June 2024",
       "url": "https://www.w3.org/TR/wai-aria-1.3/",
       "release": {
         "url": "https://www.w3.org/TR/wai-aria-1.3/",
@@ -34625,7 +34625,7 @@
     {
       "title": "MathML Accessibility API Mappings 1.0",
       "shortname": "mathml-aam",
-      "date": "20 February 2024",
+      "date": "15 June 2024",
       "url": "https://w3c.github.io/mathml-aam/",
       "nightly": {
         "url": "https://w3c.github.io/mathml-aam/",
