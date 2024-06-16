@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 15, 2024
+% June 16, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -322,7 +322,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Crawled URL: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
-- Crawled version: 10 April 2024
+- Crawled version: 15 June 2024
 - Editor's Draft: [https://tc39.es/proposal-explicit-resource-management/](https://tc39.es/proposal-explicit-resource-management/)
 - Shortname: tc39-explicit-resource-management
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-15T18:38:19.577Z",
+  "date": "2024-06-16T00:51:02.665Z",
   "stats": {
     "crawled": 619,
     "errors": 1,
@@ -24456,7 +24456,7 @@
     {
       "title": "ECMAScript Explicit Resource Management",
       "shortname": "tc39-explicit-resource-management",
-      "date": "10 April 2024",
+      "date": "15 June 2024",
       "url": "https://tc39.es/proposal-explicit-resource-management/",
       "nightly": {
         "url": "https://tc39.es/proposal-explicit-resource-management/",
