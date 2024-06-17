@@ -9,13 +9,6 @@
 
 Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
 
-- [CSS Form Styling Module Level 1](https://drafts.csswg.org/css-forms-1/): `Error: Loading https://drafts.csswg.org/css-forms-1/ triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:100:22)
-    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:342:22)
-    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 26)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:358:21)`
 - [Opus WebCodecs Registration](https://w3c.github.io/webcodecs/opus_codec_registration.html): `Error: Loading https://w3c.github.io/webcodecs/opus_codec_registration.html triggered HTTP status 503
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:100:22)
@@ -31,7 +24,7 @@ Reffy could not fetch or render these specifications for some reason. This may h
     at async Promise.all (index 481)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:358:21)`
 
-=> 3 specifications found
+=> 2 specifications found
 
 
 ## Specifications without normative dependencies

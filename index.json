@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-17T06:45:27.618Z",
+  "date": "2024-06-17T12:45:58.203Z",
   "stats": {
     "crawled": 619,
-    "errors": 3,
+    "errors": 2,
     "studied": 619
   },
   "results": [
@@ -11665,7 +11665,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://drafts.csswg.org/css-forms-1/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:100:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:342:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 26)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:358:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -11683,7 +11682,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -23126,7 +23125,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "5 June 2024",
+      "date": "17 June 2024",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -26173,7 +26172,7 @@
     {
       "title": "Fetch Standard",
       "shortname": "fetch",
-      "date": "6 June 2024",
+      "date": "17 June 2024",
       "url": "https://fetch.spec.whatwg.org/",
       "nightly": {
         "url": "https://fetch.spec.whatwg.org/",
@@ -29095,7 +29094,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "13 June 2024",
+      "date": "17 June 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
