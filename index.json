@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-17T12:45:58.203Z",
+  "date": "2024-06-17T18:39:07.291Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -2890,7 +2890,7 @@
     {
       "title": "Compute Pressure Level 1",
       "shortname": "compute-pressure",
-      "date": "14 June 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/compute-pressure/",
       "release": {
         "url": "https://www.w3.org/TR/compute-pressure/",
@@ -27901,7 +27901,7 @@
     {
       "title": "Geolocation Sensor",
       "shortname": "geolocation-sensor",
-      "date": "5 January 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/geolocation-sensor/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation-sensor/",
@@ -39252,7 +39252,7 @@
     {
       "title": "Pointer Lock 2.0",
       "shortname": "pointerlock-2",
-      "date": "16 May 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/pointerlock-2/",
       "release": {
         "url": "https://www.w3.org/TR/pointerlock-2/",
@@ -52271,7 +52271,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "14 June 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -55336,7 +55336,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "13 June 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
