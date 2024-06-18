@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-17T18:39:07.291Z",
+  "date": "2024-06-18T00:55:42.424Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -20201,7 +20201,7 @@
     {
       "title": "CSS Values and Units Module Level 4",
       "shortname": "css-values-4",
-      "date": "22 March 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/css-values-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-values-4/",
@@ -34291,7 +34291,7 @@
     {
       "title": "Long Animation Frames API",
       "shortname": "long-animation-frames",
-      "date": "16 April 2024",
+      "date": "17 June 2024",
       "url": "https://w3c.github.io/long-animation-frames/",
       "nightly": {
         "url": "https://w3c.github.io/long-animation-frames/",
@@ -50241,7 +50241,7 @@
     {
       "title": "Temporal proposal",
       "shortname": "tc39-temporal",
-      "date": "14 June 2024",
+      "date": "17 June 2024",
       "url": "https://tc39.es/proposal-temporal/",
       "nightly": {
         "url": "https://tc39.es/proposal-temporal/",
