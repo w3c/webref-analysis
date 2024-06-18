@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-18T12:46:04.372Z",
+  "date": "2024-06-18T18:44:03.767Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -991,7 +991,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "14 June 2024",
+      "date": "18 June 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3016,7 +3016,7 @@
     {
       "title": "Contact Picker API",
       "shortname": "contact-picker",
-      "date": "30 April 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/contact-picker/",
       "release": {
         "url": "https://www.w3.org/TR/contact-picker/",
@@ -3130,7 +3130,7 @@
     {
       "title": "Content Security Policy Level 3",
       "shortname": "CSP3",
-      "date": "13 June 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/CSP3/",
       "release": {
         "url": "https://www.w3.org/TR/CSP3/",
@@ -3569,7 +3569,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "29 April 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -4024,11 +4024,6 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -4498,9 +4493,9 @@
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
             },
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://drafts.csswg.org/css-images-5/",
@@ -5864,14 +5859,14 @@
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-display-3/",
@@ -6215,6 +6210,11 @@
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -6223,11 +6223,6 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -6851,9 +6846,9 @@
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
             },
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -7147,6 +7142,11 @@
               "url": "https://www.w3.org/TR/css-conditional-3/",
               "title": "CSS Conditional Rules Module Level 3",
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://drafts.csswg.org/css-conditional-values-1/",
@@ -8372,7 +8372,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "12 April 2024",
+      "date": "10 June 2024",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -8730,11 +8730,6 @@
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables-1/"
@@ -8923,7 +8918,7 @@
     {
       "title": "CSS Conditional Rules Module Level 5",
       "shortname": "css-conditional-5",
-      "date": "27 February 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/css-conditional-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-5/",
@@ -8960,7 +8955,13 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-pseudo/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -8980,9 +8981,15 @@
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
+            }
+          ]
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -9112,11 +9119,6 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
@@ -9239,6 +9241,11 @@
               "url": "https://www.w3.org/TR/css-sizing-4/",
               "title": "CSS Box Sizing Module Level 4",
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-3/",
@@ -9365,7 +9372,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "14 June 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -9402,37 +9409,42 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/css-cascade/",
-          "https://www.w3.org/TR/css-pseudo/",
-          "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/web-animations/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/2021/WD-css-contain-3-20211221/",
+            "ref": {
+              "name": "CSS-CONTAIN-3",
+              "url": "https://drafts.csswg.org/css-contain-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/2022/WD-css-contain-3-20220818/",
+            "ref": {
+              "name": "CSS-CONTAIN-3",
+              "url": "https://drafts.csswg.org/css-contain-3/"
+            }
+          },
           {
             "link": "https://www.w3.org/TR/css-contain-2/",
             "ref": {
               "name": "CSS-CONTAIN-2",
               "url": "https://drafts.csswg.org/css-contain-2/"
             }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values-3/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/css-values/",
-            "ref": {
-              "name": "CSS-VALUES-3",
-              "url": "https://drafts.csswg.org/css-values-3/"
-            }
           }
         ],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-contain-3/",
+              "title": "CSS Containment Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
             {
               "url": "https://drafts.csswg.org/css-values-5/",
               "title": "CSS Values and Units Module Level 5",
@@ -9725,6 +9737,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://drafts.csswg.org/css-conditional-values-1/",
@@ -10092,6 +10109,11 @@
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -10100,11 +10122,6 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -11418,11 +11435,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-variables-1/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-variables-1/"
@@ -11562,11 +11574,6 @@
               "url": "https://www.w3.org/TR/css-conditional-5/",
               "title": "CSS Conditional Rules Module Level 5",
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-font-loading-3/",
@@ -16056,9 +16063,9 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             }
           ]
         },
@@ -16382,9 +16389,9 @@
               "crawled": "https://drafts.csswg.org/css-cascade-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -19812,11 +19819,6 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
               "title": "CSS Counter Styles Level 3",
               "crawled": "https://drafts.csswg.org/css-counter-styles-3/"
@@ -21839,6 +21841,11 @@
               "crawled": "https://drafts.csswg.org/css-sizing-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-1/",
               "title": "CSS Containment Module Level 1",
               "crawled": "https://drafts.csswg.org/css-contain-1/"
@@ -21847,11 +21854,6 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -23295,14 +23297,14 @@
               "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-highlight-api-1/",
@@ -27805,9 +27807,9 @@
       }
     },
     {
-      "title": "Geolocation API",
+      "title": "Geolocation",
       "shortname": "geolocation",
-      "date": "14 June 2024",
+      "date": "15 June 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -28640,7 +28642,7 @@
             },
             {
               "url": "https://www.w3.org/TR/geolocation/",
-              "title": "Geolocation API",
+              "title": "Geolocation",
               "crawled": "https://w3c.github.io/geolocation/"
             },
             {
@@ -29832,7 +29834,7 @@
             },
             {
               "url": "https://www.w3.org/TR/geolocation/",
-              "title": "Geolocation API",
+              "title": "Geolocation",
               "crawled": "https://w3c.github.io/geolocation/"
             },
             {
@@ -31434,7 +31436,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "4 June 2024",
+      "date": "17 June 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -32166,7 +32168,7 @@
             },
             {
               "url": "https://www.w3.org/TR/geolocation/",
-              "title": "Geolocation API",
+              "title": "Geolocation",
               "crawled": "https://w3c.github.io/geolocation/"
             },
             {
@@ -35625,11 +35627,6 @@
               "crawled": "https://drafts.csswg.org/css-conditional-values-1/"
             },
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
               "crawled": "https://drafts.csswg.org/css-display-3/"
@@ -35790,11 +35787,6 @@
               "url": "https://www.w3.org/TR/css-round-display-1/",
               "title": "CSS Round Display Level 1",
               "crawled": "https://drafts.csswg.org/css-round-display-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-syntax-3/",
-              "title": "CSS Syntax Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-syntax-3/"
             }
           ]
         },
@@ -38476,7 +38468,7 @@
             },
             {
               "url": "https://www.w3.org/TR/geolocation/",
-              "title": "Geolocation API",
+              "title": "Geolocation",
               "crawled": "https://w3c.github.io/geolocation/"
             },
             {
@@ -38820,7 +38812,7 @@
             },
             {
               "url": "https://www.w3.org/TR/geolocation/",
-              "title": "Geolocation API",
+              "title": "Geolocation",
               "crawled": "https://w3c.github.io/geolocation/"
             },
             {
@@ -39806,7 +39798,7 @@
     {
       "title": "Private State Token API",
       "shortname": "trust-token-api",
-      "date": "10 June 2024",
+      "date": "18 June 2024",
       "url": "https://wicg.github.io/trust-token-api/",
       "nightly": {
         "url": "https://wicg.github.io/trust-token-api/",
@@ -39836,13 +39828,15 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://storage.spec.whatwg.org/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -52271,7 +52265,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "17 June 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -52908,14 +52902,14 @@
               "crawled": "https://drafts.csswg.org/css-animations-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-variables-1/",
@@ -54038,14 +54032,14 @@
               "crawled": "https://drafts.csswg.org/css-conditional-3/"
             },
             {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-counter-styles-3/",
@@ -54324,7 +54318,7 @@
             },
             {
               "url": "https://www.w3.org/TR/geolocation/",
-              "title": "Geolocation API",
+              "title": "Geolocation",
               "crawled": "https://w3c.github.io/geolocation/"
             },
             {
@@ -59093,7 +59087,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "13 June 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59156,7 +59150,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "13 June 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
