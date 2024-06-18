@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-18T06:39:47.733Z",
+  "date": "2024-06-18T12:46:04.372Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -50763,7 +50763,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "12 June 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -56959,7 +56959,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "07 June 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
