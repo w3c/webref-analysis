@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-18T18:44:03.767Z",
+  "date": "2024-06-19T00:50:50.983Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -3610,22 +3610,7 @@
           "https://w3c.github.io/webdriver/",
           "https://www.w3.org/TR/fingerprinting-guidance/"
         ],
-        "inconsistentRef": [
-          {
-            "link": "https://w3c.github.io/accname/",
-            "ref": {
-              "name": "accname-1.2",
-              "url": "https://www.w3.org/TR/accname-1.2/"
-            }
-          },
-          {
-            "link": "https://w3c.github.io/aria/",
-            "ref": {
-              "name": "WAI-ARIA-1.2",
-              "url": "https://www.w3.org/TR/wai-aria-1.2/"
-            }
-          }
-        ],
+        "inconsistentRef": [],
         "referencedBy": {
           "normative": [
             {
@@ -25558,7 +25543,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "23 May 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -31436,7 +31421,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "17 June 2024",
+      "date": "18 June 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -39886,7 +39871,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "13 June 2024",
+      "date": "18 June 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -47686,7 +47671,7 @@
     {
       "title": "Shared Storage API",
       "shortname": "shared-storage",
-      "date": "6 June 2024",
+      "date": "18 June 2024",
       "url": "https://wicg.github.io/shared-storage/",
       "nightly": {
         "url": "https://wicg.github.io/shared-storage/",
