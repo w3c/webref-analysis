@@ -806,6 +806,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [High Resolution Time](https://w3c.github.io/hr-time/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 No informative reference to this spec from other specs.
 
@@ -3646,7 +3647,6 @@ Normative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -3694,7 +3694,6 @@ Normative references to this spec from:
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 - [WebXR Augmented Reality Module - Level 1](https://immersive-web.github.io/webxr-ar-module/)
@@ -3737,6 +3736,7 @@ Normative references to this spec from:
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 
 No informative reference to this spec from other specs.
@@ -3980,9 +3980,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
@@ -4078,7 +4076,6 @@ Normative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 Informative references to this spec from:
@@ -4984,7 +4981,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 17 May 2024
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5254,10 +5251,13 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
+- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
 Informative references to this spec from:
 
-- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
+- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
+- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 
 
 ### CSS Conditional Values Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
@@ -5393,8 +5393,6 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2021/WD-css-contain-3-20211221/`](https://www.w3.org/TR/2021/WD-css-contain-3-20211221/), related reference "CSS-CONTAIN-3" uses URL [`https://drafts.csswg.org/css-contain-3/`](https://drafts.csswg.org/css-contain-3/)
-     * [`https://www.w3.org/TR/2022/WD-css-contain-3-20220818/`](https://www.w3.org/TR/2022/WD-css-contain-3-20220818/), related reference "CSS-CONTAIN-3" uses URL [`https://drafts.csswg.org/css-contain-3/`](https://drafts.csswg.org/css-contain-3/)
      * [`https://www.w3.org/TR/css-contain-2/`](https://www.w3.org/TR/css-contain-2/), related reference "CSS-CONTAIN-2" uses URL [`https://drafts.csswg.org/css-contain-2/`](https://drafts.csswg.org/css-contain-2/)
 
 #### Known dependencies on this specification {.dependencies}
@@ -5402,13 +5400,9 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
-- [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
-Informative references to this spec from:
-
-- [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
-- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
+No informative reference to this spec from other specs.
 
 
 ### CSS Counter Styles Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -5580,7 +5574,6 @@ Normative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [WebDriver](https://w3c.github.io/webdriver/)
@@ -5675,6 +5668,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
@@ -7122,8 +7116,6 @@ Normative references to this spec from:
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
-- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
 - [Input Events Level 2](https://w3c.github.io/input-events/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
@@ -7782,7 +7774,6 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
 No informative reference to this spec from other specs.
@@ -8210,7 +8201,6 @@ Normative references to this spec from:
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
-- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 
 Informative references to this spec from:
@@ -8563,7 +8553,6 @@ Normative references to this spec from:
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
@@ -9084,7 +9073,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
-- Crawled version: 13 May 2024
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-1/](https://drafts.csswg.org/css-view-transitions-1/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-1/](https://www.w3.org/TR/css-view-transitions-1/)
 - Shortname: css-view-transitions-1
@@ -9117,7 +9106,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 17 May 2024
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
@@ -9413,7 +9402,6 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
@@ -9958,8 +9946,6 @@ Normative references to this spec from:
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
-- [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
-- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
 
 No informative reference to this spec from other specs.
@@ -14412,7 +14398,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
-- Crawled version: 18 December 2023
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
 - Latest published version: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Shortname: permissions-policy-1
@@ -15677,7 +15663,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Crawled URL: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
-- Crawled version: 18 June 2024
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://w3c.github.io/IFT/Overview.html](https://w3c.github.io/IFT/Overview.html)
 - Latest published version: [https://www.w3.org/TR/IFT/](https://www.w3.org/TR/IFT/)
 - Shortname: IFT
@@ -19998,7 +19984,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 17 June 2024
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

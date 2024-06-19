@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-19T12:46:05.247Z",
+  "date": "2024-06-19T18:44:07.172Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -2169,11 +2169,6 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
               "crawled": "https://drafts.csswg.org/css-viewport/"
@@ -2720,11 +2715,6 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -2827,6 +2817,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/filter-effects-1/",
@@ -4721,13 +4716,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -4986,11 +4975,6 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/mathml-core/",
@@ -8021,7 +8005,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "17 May 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8964,13 +8948,28 @@
               "url": "https://www.w3.org/TR/css-cascade-6/",
               "title": "CSS Cascading and Inheritance Level 6",
               "crawled": "https://drafts.csswg.org/css-cascade-6/"
-            }
-          ],
-          "informative": [
+            },
             {
               "url": "https://www.w3.org/TR/css-contain-3/",
               "title": "CSS Containment Module Level 3",
               "crawled": "https://drafts.csswg.org/css-contain-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-anchor-position-1/",
+              "title": "CSS Anchor Positioning",
+              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-nesting-1/",
+              "title": "CSS Nesting Module",
+              "crawled": "https://drafts.csswg.org/css-nesting-1/"
             }
           ]
         },
@@ -9397,20 +9396,6 @@
         "missingLinkRef": [],
         "inconsistentRef": [
           {
-            "link": "https://www.w3.org/TR/2021/WD-css-contain-3-20211221/",
-            "ref": {
-              "name": "CSS-CONTAIN-3",
-              "url": "https://drafts.csswg.org/css-contain-3/"
-            }
-          },
-          {
-            "link": "https://www.w3.org/TR/2022/WD-css-contain-3-20220818/",
-            "ref": {
-              "name": "CSS-CONTAIN-3",
-              "url": "https://drafts.csswg.org/css-contain-3/"
-            }
-          },
-          {
             "link": "https://www.w3.org/TR/css-contain-2/",
             "ref": {
               "name": "CSS-CONTAIN-2",
@@ -9426,28 +9411,12 @@
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
-              "url": "https://www.w3.org/TR/css-contain-3/",
-              "title": "CSS Containment Module Level 3",
-              "crawled": "https://drafts.csswg.org/css-contain-3/"
-            },
-            {
               "url": "https://drafts.csswg.org/css-values-5/",
               "title": "CSS Values and Units Module Level 5",
               "crawled": "https://drafts.csswg.org/css-values-5/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-anchor-position-1/",
-              "title": "CSS Anchor Positioning",
-              "crawled": "https://drafts.csswg.org/css-anchor-position-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-nesting-1/",
-              "title": "CSS Nesting Module",
-              "crawled": "https://drafts.csswg.org/css-nesting-1/"
-            }
-          ]
+          "informative": []
         },
         "ok": false
       }
@@ -9933,11 +9902,6 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://wicg.github.io/layout-instability/",
               "title": "Layout Instability API",
               "crawled": "https://wicg.github.io/layout-instability/"
@@ -10312,6 +10276,11 @@
               "url": "https://www.w3.org/TR/css-values-4/",
               "title": "CSS Values and Units Module Level 4",
               "crawled": "https://drafts.csswg.org/css-values-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-1/",
+              "title": "CSS View Transitions Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -14687,16 +14656,6 @@
               "crawled": "https://wicg.github.io/css-parser-api/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-2/",
-              "title": "CSS View Transitions Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
               "crawled": "https://drafts.csswg.org/css-viewport/"
@@ -16845,11 +16804,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
@@ -17949,11 +17903,6 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-2/",
-              "title": "CSS View Transitions Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/appmanifest/",
@@ -19162,11 +19111,6 @@
               "url": "https://www.w3.org/TR/css-2023/",
               "title": "CSS Snapshot 2023",
               "crawled": "https://drafts.csswg.org/css-2023/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
               "url": "https://wicg.github.io/layout-instability/",
@@ -21079,7 +21023,7 @@
     {
       "title": "CSS View Transitions Module Level 1",
       "shortname": "css-view-transitions-1",
-      "date": "13 May 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -21153,7 +21097,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "17 May 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-2/",
@@ -22172,11 +22116,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
             {
               "url": "https://www.w3.org/TR/css-viewport-1/",
               "title": "CSS Viewport Module Level 1",
@@ -29081,7 +29020,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "17 June 2024",
+      "date": "19 June 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -31421,7 +31360,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "18 June 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
@@ -38661,7 +38600,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "18 December 2023",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -47294,16 +47233,6 @@
               "crawled": "https://drafts.csswg.org/css-2023/"
             },
             {
-              "url": "https://www.w3.org/TR/css-view-transitions-1/",
-              "title": "CSS View Transitions Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-view-transitions-2/",
-              "title": "CSS View Transitions Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/selectors-nonelement-1/",
               "title": "Non-element Selectors Module Level 1",
               "crawled": "https://drafts.csswg.org/selectors-nonelement-1/"
@@ -50258,6 +50187,11 @@
               "url": "https://www.w3.org/TR/hr-time-3/",
               "title": "High Resolution Time",
               "crawled": "https://w3c.github.io/hr-time/"
+            },
+            {
+              "url": "https://html.spec.whatwg.org/multipage/",
+              "title": "HTML Standard",
+              "crawled": "https://html.spec.whatwg.org/multipage/"
             }
           ],
           "informative": []
