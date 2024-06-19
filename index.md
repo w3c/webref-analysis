@@ -3180,7 +3180,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Crawled URL: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
-- Crawled version: 18 June 2024
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
 - Latest published version: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Shortname: core-aam-1.2
@@ -14645,7 +14645,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Crawled URL: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
-- Crawled version: 18 June 2024
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://w3c.github.io/trusted-types/dist/spec/](https://w3c.github.io/trusted-types/dist/spec/)
 - Latest published version: [https://www.w3.org/TR/trusted-types/](https://www.w3.org/TR/trusted-types/)
 - Shortname: trusted-types
@@ -18198,7 +18198,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
 - Crawled URL: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
-- Crawled version: 13 February 2024
+- Crawled version: 19 June 2024
 - Editor's Draft: [https://wicg.github.io/web-preferences-api/](https://wicg.github.io/web-preferences-api/)
 - Shortname: web-preferences-api
 

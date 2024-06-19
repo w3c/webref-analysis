@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-19T06:39:25.710Z",
+  "date": "2024-06-19T12:46:05.247Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -3569,7 +3569,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "18 June 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -50742,7 +50742,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "18 June 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -55473,7 +55473,7 @@
     {
       "title": "Web Preferences API",
       "shortname": "web-preferences-api",
-      "date": "13 February 2024",
+      "date": "19 June 2024",
       "url": "https://wicg.github.io/web-preferences-api/",
       "nightly": {
         "url": "https://wicg.github.io/web-preferences-api/",
