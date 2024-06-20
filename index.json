@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-19T18:44:07.172Z",
+  "date": "2024-06-20T00:55:42.518Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -3506,7 +3506,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "18 June 2024",
+      "date": "20 June 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -8341,7 +8341,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "10 June 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -27733,7 +27733,7 @@
     {
       "title": "Geolocation",
       "shortname": "geolocation",
-      "date": "15 June 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -32974,7 +32974,7 @@
     {
       "title": "Input Events Level 2",
       "shortname": "input-events-2",
-      "date": "09 January 2024",
+      "date": "19 June 2024",
       "url": "https://www.w3.org/TR/input-events-2/",
       "release": {
         "url": "https://www.w3.org/TR/input-events-2/",
