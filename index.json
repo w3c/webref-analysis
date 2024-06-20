@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-20T00:55:42.518Z",
+  "date": "2024-06-20T06:44:35.026Z",
   "stats": {
     "crawled": 619,
     "errors": 2,
@@ -9356,7 +9356,7 @@
     {
       "title": "CSS Containment Module Level 3",
       "shortname": "css-contain-3",
-      "date": "17 June 2024",
+      "date": "20 June 2024",
       "url": "https://www.w3.org/TR/css-contain-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-contain-3/",
@@ -37332,7 +37332,7 @@
     {
       "title": "No-Vary-Search",
       "shortname": "no-vary-search",
-      "date": "13 June 2024",
+      "date": "19 June 2024",
       "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -39432,7 +39432,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "13 June 2024",
+      "date": "19 June 2024",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -39474,7 +39474,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "13 June 2024",
+      "date": "19 June 2024",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -49351,7 +49351,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "13 June 2024",
+      "date": "19 June 2024",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
