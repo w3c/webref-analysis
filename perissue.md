@@ -1,30 +1,8 @@
 % Reffy crawl
 % Strudy
-% June 20, 2024
+% June 21, 2024
 
 619 specifications were crawled in this report.
-
-
-## Specifications that could not be rendered
-
-Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
-
-- [Opus WebCodecs Registration](https://w3c.github.io/webcodecs/opus_codec_registration.html): `Error: Loading https://w3c.github.io/webcodecs/opus_codec_registration.html triggered HTTP status 503
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:100:22)
-    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:342:22)
-    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 576)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:358:21)`
-- [RDF 1.1 N-Quads](https://www.w3.org/TR/n-quads/): `Error: Loading https://www.w3.org/TR/n-quads/ triggered HTTP status 520
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:100:22)
-    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:342:22)
-    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 481)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:358:21)`
-
-=> 2 specifications found
 
 
 ## Specifications without normative dependencies
@@ -1771,6 +1749,10 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://w3c.github.io/webappsec-csp/`](https://w3c.github.io/webappsec-csp/) but related reference "CSP" uses URL [`https://www.w3.org/TR/CSP3/`](https://www.w3.org/TR/CSP3/)
     * [`https://w3c.github.io/webappsec-referrer-policy/`](https://w3c.github.io/webappsec-referrer-policy/) but related reference "REFERRER-POLICY" uses URL [`https://www.w3.org/TR/referrer-policy/`](https://www.w3.org/TR/referrer-policy/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/) links to [`https://www.w3.org/TR/json-ld/`](https://www.w3.org/TR/json-ld/) but related reference "json-ld10" uses URL [`https://www.w3.org/TR/2014/REC-json-ld-20140116/`](https://www.w3.org/TR/2014/REC-json-ld-20140116/)
+- [RDF 1.1 N-Quads](https://www.w3.org/TR/n-quads/) links to:
+    * [`https://www.w3.org/TR/n-triples/`](https://www.w3.org/TR/n-triples/) but related reference "N-TRIPLES" uses URL [`https://www.w3.org/TR/2014/REC-n-triples-20140225/`](https://www.w3.org/TR/2014/REC-n-triples-20140225/)
+    * [`https://www.w3.org/TR/rdf11-concepts/`](https://www.w3.org/TR/rdf11-concepts/) but related reference "RDF11-CONCEPTS" uses URL [`https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/`](https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
+    * [`https://www.w3.org/TR/turtle/`](https://www.w3.org/TR/turtle/) but related reference "TURTLE" uses URL [`https://www.w3.org/TR/2014/REC-turtle-20140225/`](https://www.w3.org/TR/2014/REC-turtle-20140225/)
 - [RDF 1.2 XML Syntax](https://w3c.github.io/rdf-xml/spec/) links to:
     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.nt) but related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
     * [`https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf`](https://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/example07.rdf) but related reference "rdf-syntax-grammar" uses URL [`https://www.w3.org/TR/rdf-syntax-grammar/`](https://www.w3.org/TR/rdf-syntax-grammar/)
@@ -1922,7 +1904,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/) links to [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 435 inconsistent references for links found in 158 specifications
+=> 438 inconsistent references for links found in 159 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
