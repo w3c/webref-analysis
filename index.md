@@ -4963,6 +4963,7 @@ Normative references to this spec from:
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
+- [UI Events](https://w3c.github.io/uievents/)
 - [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
 
 Informative references to this spec from:
@@ -15107,7 +15108,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/uievents/](https://www.w3.org/TR/uievents/)
 - Crawled URL: [https://w3c.github.io/uievents/](https://w3c.github.io/uievents/)
-- Crawled version: 13 June 2024
+- Crawled version: 22 June 2024
 - Editor's Draft: [https://w3c.github.io/uievents/](https://w3c.github.io/uievents/)
 - Latest published version: [https://www.w3.org/TR/uievents/](https://www.w3.org/TR/uievents/)
 - Shortname: uievents
@@ -20582,6 +20583,7 @@ Normative references to this spec from:
 - [Topics API](https://patcg-individual-drafts.github.io/topics/)
 - [Touch Events - Level 2](https://w3c.github.io/touch-events/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
+- [UI Events](https://w3c.github.io/uievents/)
 - [UI Events KeyboardEvent code Values](https://w3c.github.io/uievents-code/)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Pattern Standard](https://urlpattern.spec.whatwg.org/)

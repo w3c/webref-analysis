@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-22T00:55:43.704Z",
+  "date": "2024-06-22T06:38:47.720Z",
   "stats": {
     "crawled": 619,
     "errors": 0,
@@ -7959,6 +7959,11 @@
               "url": "https://www.w3.org/TR/SVG2/",
               "title": "Scalable Vector Graphics (SVG) 2",
               "crawled": "https://svgwg.org/svg2-draft/"
+            },
+            {
+              "url": "https://www.w3.org/TR/uievents/",
+              "title": "UI Events",
+              "crawled": "https://w3c.github.io/uievents/"
             },
             {
               "url": "https://www.w3.org/TR/webvtt1/",
@@ -32576,6 +32581,11 @@
               "crawled": "https://w3c.github.io/trusted-types/dist/spec/"
             },
             {
+              "url": "https://www.w3.org/TR/uievents/",
+              "title": "UI Events",
+              "crawled": "https://w3c.github.io/uievents/"
+            },
+            {
               "url": "https://www.w3.org/TR/uievents-code/",
               "title": "UI Events KeyboardEvent code Values",
               "crawled": "https://w3c.github.io/uievents-code/"
@@ -50812,7 +50822,7 @@
     {
       "title": "UI Events",
       "shortname": "uievents",
-      "date": "13 June 2024",
+      "date": "22 June 2024",
       "url": "https://www.w3.org/TR/uievents/",
       "release": {
         "url": "https://www.w3.org/TR/uievents/",
