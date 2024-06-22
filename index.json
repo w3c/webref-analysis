@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-21T18:43:51.548Z",
+  "date": "2024-06-22T00:55:43.704Z",
   "stats": {
     "crawled": 619,
     "errors": 0,
@@ -5486,7 +5486,7 @@
     {
       "title": "CSS Box Alignment Module Level 3",
       "shortname": "css-align-3",
-      "date": "31 May 2024",
+      "date": "21 June 2024",
       "url": "https://www.w3.org/TR/css-align-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-align-3/",
@@ -14592,7 +14592,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "17 May 2024",
+      "date": "22 June 2024",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -14693,7 +14693,7 @@
     {
       "title": "CSS Overflow Module Level 3",
       "shortname": "css-overflow-3",
-      "date": "25 March 2024",
+      "date": "21 June 2024",
       "url": "https://www.w3.org/TR/css-overflow-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -17024,7 +17024,7 @@
     {
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
-      "date": "14 May 2024",
+      "date": "21 June 2024",
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
@@ -17066,6 +17066,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/css-overflow-3/",
+              "title": "CSS Overflow Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-overflow-3/"
+            },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
@@ -17378,11 +17383,6 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
-            },
-            {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
-              "title": "CSS Scroll Snap Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -22089,7 +22089,7 @@
     {
       "title": "CSSOM View Module",
       "shortname": "cssom-view-1",
-      "date": "21 May 2024",
+      "date": "21 June 2024",
       "url": "https://www.w3.org/TR/cssom-view-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -29035,7 +29035,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "20 June 2024",
+      "date": "21 June 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -39824,7 +39824,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "20 June 2024",
+      "date": "21 June 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
