@@ -1659,7 +1659,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 23 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -17093,7 +17093,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Crawled URL: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
-- Crawled version: 24 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://wicg.github.io/sanitizer-api/](https://wicg.github.io/sanitizer-api/)
 - Shortname: sanitizer-api
 
