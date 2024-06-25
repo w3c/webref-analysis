@@ -924,7 +924,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 19 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -15734,7 +15734,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 17 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -19976,7 +19976,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 21 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
