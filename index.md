@@ -6450,7 +6450,6 @@ Informative references to this spec from:
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
-- [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
@@ -7079,7 +7078,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
 - Crawled URL: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
-- Crawled version: 17 May 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
 - Latest published version: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
 - Shortname: css-nesting-1
@@ -7101,7 +7100,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
 - Crawled URL: [https://drafts.csswg.org/cssom-1/](https://drafts.csswg.org/cssom-1/)
-- Crawled version: 22 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://drafts.csswg.org/cssom-1/](https://drafts.csswg.org/cssom-1/)
 - Latest published version: [https://www.w3.org/TR/cssom-1/](https://www.w3.org/TR/cssom-1/)
 - Shortname: cssom-1
@@ -8185,7 +8184,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-syntax-3/](https://www.w3.org/TR/css-syntax-3/)
 - Crawled URL: [https://drafts.csswg.org/css-syntax-3/](https://drafts.csswg.org/css-syntax-3/)
-- Crawled version: 22 April 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://drafts.csswg.org/css-syntax-3/](https://drafts.csswg.org/css-syntax-3/)
 - Latest published version: [https://www.w3.org/TR/css-syntax-3/](https://www.w3.org/TR/css-syntax-3/)
 - Shortname: css-syntax-3
