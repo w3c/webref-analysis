@@ -918,7 +918,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 19 June 2024
+- Crawled version: 26 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -2043,7 +2043,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 19 June 2024
+- Crawled version: 26 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -18185,7 +18185,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### User Preference Media Features Client Hints Headers {data-spec=true data-missingDfns=true data-ok=true}
+### User Preference Media Features Client Hints Headers {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -18197,7 +18197,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://wicg.github.io/user-preference-media-features-headers/ triggered HTTP status 503
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
+    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 248)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 

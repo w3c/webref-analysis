@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-26T06:40:29.092Z",
+  "date": "2024-06-26T12:46:43.924Z",
   "stats": {
     "crawled": 623,
-    "errors": 0,
+    "errors": 1,
     "studied": 623
   },
   "results": [
@@ -43787,7 +43787,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "19 June 2024",
+      "date": "26 June 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -43854,7 +43854,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "19 June 2024",
+      "date": "26 June 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -52332,6 +52332,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://wicg.github.io/user-preference-media-features-headers/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 248)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -52355,7 +52356,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {

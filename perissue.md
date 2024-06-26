@@ -5,6 +5,21 @@
 623 specifications were crawled in this report.
 
 
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [User Preference Media Features Client Hints Headers](https://wicg.github.io/user-preference-media-features-headers/): `Error: Loading https://wicg.github.io/user-preference-media-features-headers/ triggered HTTP status 503
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
+    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 248)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)`
+
+=> 1 specification found
+
+
 ## Specifications without normative dependencies
 
 - [A Method for Writing Testable Conformance Requirements](https://www.w3.org/TR/test-methodology/)
