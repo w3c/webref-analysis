@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 25, 2024
+% June 26, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -440,6 +440,7 @@ Normative references to this spec from:
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
+- [Source Map](https://tc39.es/source-map)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -680,6 +681,27 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Promise.try {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-promise-try/](https://tc39.es/proposal-promise-try/)
+- Crawled URL: [https://tc39.es/proposal-promise-try/](https://tc39.es/proposal-promise-try/)
+- Crawled version: 2 June 2024
+- Editor's Draft: [https://tc39.es/proposal-promise-try/](https://tc39.es/proposal-promise-try/)
+- Shortname: tc39-promise-try
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Regular Expression Pattern Modifiers for ECMAScript {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -707,7 +729,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
 - Crawled URL: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
-- Crawled version: 12 May 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://tc39.es/proposal-set-methods/](https://tc39.es/proposal-set-methods/)
 - Shortname: tc39-set-methods
 
@@ -749,7 +771,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Crawled URL: [https://tc39.es/source-map](https://tc39.es/source-map)
-- Crawled version: 11 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Shortname: sourcemap
 
@@ -873,7 +895,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 25 June 2024
+- Crawled version: 26 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -885,7 +907,9 @@ No informative reference to this spec from other specs.
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [RFC 9218 - Extensible Prioritization Scheme for HTTP](https://httpwg.org/specs/rfc9218.html)
 
 
 ### RFC 7578: Returning Values from Forms: multipart/form-data {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true data-missingLinkRef=true}
@@ -924,7 +948,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 25 June 2024
+- Crawled version: 26 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -1553,6 +1577,7 @@ Normative references to this spec from:
 - [RFC 9112 - HTTP/1.1](https://httpwg.org/specs/rfc9112.html)
 - [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
 - [RFC 9114 - HTTP/3](https://httpwg.org/specs/rfc9114.html)
+- [RFC 9218 - Extensible Prioritization Scheme for HTTP](https://httpwg.org/specs/rfc9218.html)
 - [RFC 9530 - Digest Fields](https://httpwg.org/specs/rfc9530.html)
 - [SPARQL 1.2 Protocol](https://w3c.github.io/sparql-protocol/spec/)
 - [SPARQL 1.2 Service Description](https://w3c.github.io/sparql-service-description/spec/)
@@ -1595,6 +1620,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [No-Vary-Search](https://wicg.github.io/nav-speculation/no-vary-search.html)
+- [RFC 9218 - Extensible Prioritization Scheme for HTTP](https://httpwg.org/specs/rfc9218.html)
 
 
 ### RFC 9112 - HTTP/1.1 {data-spec=true data-missingDfns=true data-ok=true}
@@ -1643,7 +1669,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [RFC 9218 - Extensible Prioritization Scheme for HTTP](https://httpwg.org/specs/rfc9218.html)
 
 Informative references to this spec from:
 
@@ -1659,7 +1687,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 25 June 2024
+- Crawled version: 26 June 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1674,6 +1702,31 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+
+### RFC 9218 - Extensible Prioritization Scheme for HTTP {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.rfc-editor.org/rfc/rfc9218](https://www.rfc-editor.org/rfc/rfc9218)
+- Crawled URL: [https://httpwg.org/specs/rfc9218.html](https://httpwg.org/specs/rfc9218.html)
+- Crawled version: 30 May 2024
+- Editor's Draft: [https://httpwg.org/specs/rfc9218.html](https://httpwg.org/specs/rfc9218.html)
+- Shortname: rfc9218
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+Informative references to this spec from:
+
+- [RFC 9113 - HTTP/2](https://httpwg.org/specs/rfc9113.html)
 
 
 ### RFC 9530 - Digest Fields {data-spec=true data-missingDfns=true data-ok=true}
@@ -1871,6 +1924,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Fetch Standard](https://fetch.spec.whatwg.org/)
+- [RFC 9218 - Extensible Prioritization Scheme for HTTP](https://httpwg.org/specs/rfc9218.html)
 
 Informative references to this spec from:
 
@@ -3822,6 +3876,7 @@ Normative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
 - [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
@@ -4519,6 +4574,7 @@ Informative references to this spec from:
 - [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Display Module Level 4](https://drafts.csswg.org/css-display-4/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 
 
@@ -4761,6 +4817,7 @@ Normative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
@@ -5310,6 +5367,7 @@ Normative references to this spec from:
 
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
@@ -5358,6 +5416,7 @@ Normative references to this spec from:
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
@@ -5645,6 +5704,7 @@ Normative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
@@ -5914,6 +5974,7 @@ Normative references to this spec from:
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
@@ -6215,6 +6276,7 @@ Normative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
@@ -6329,6 +6391,7 @@ Normative references to this spec from:
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
 - [CSS Images Module Level 3](https://drafts.csswg.org/css-images-3/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Positioned Layout Module Level 4](https://drafts.csswg.org/css-position-4/)
 - [CSS Pseudo-Elements Module Level 4](https://drafts.csswg.org/css-pseudo-4/)
@@ -7176,6 +7239,7 @@ Normative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
 - [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS Scroll Anchoring Module Level 1](https://drafts.csswg.org/css-scroll-anchoring-1/)
@@ -7248,6 +7312,7 @@ Normative references to this spec from:
 - [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
@@ -7257,6 +7322,33 @@ Informative references to this spec from:
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
+
+
+### CSS Overflow Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
+- Crawled URL: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
+- Crawled version: 13 June 2024
+- Editor's Draft: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
+- Shortname: css-overflow-5
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
+     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
+     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+- Inconsistent references for links: 
+     * [`https://www.w3.org/TR/css-overflow-4/`](https://www.w3.org/TR/css-overflow-4/), related reference "CSS-OVERFLOW-4" uses URL [`https://drafts.csswg.org/css-overflow-4/`](https://drafts.csswg.org/css-overflow-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ### CSS Overscroll Behavior Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -7450,6 +7542,7 @@ Normative references to this spec from:
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Positioned Layout Module Level 4](https://drafts.csswg.org/css-position-4/)
@@ -7585,6 +7678,7 @@ Normative references to this spec from:
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Positioned Layout Module Level 4](https://drafts.csswg.org/css-position-4/)
 - [CSS Ruby Annotation Layout Module Level 1](https://drafts.csswg.org/css-ruby-1/)
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
@@ -8965,6 +9059,7 @@ Normative references to this spec from:
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
 - [CSS Overflow Module Level 4](https://drafts.csswg.org/css-overflow-4/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
 - [CSS Page Floats](https://drafts.csswg.org/css-page-floats-3/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
@@ -9895,6 +9990,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Paged Media Module Level 3](https://drafts.csswg.org/css-page-3/)
 - [CSS Regions Module Level 1](https://drafts.csswg.org/css-regions-1/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
@@ -10335,7 +10431,7 @@ Informative references to this spec from:
 - Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Crawled URL: [https://w3c.github.io/geolocation/](https://w3c.github.io/geolocation/)
 - Crawled version: 19 June 2024
-- Editor's Draft: [https://w3c.github.io/geolocation-api/](https://w3c.github.io/geolocation-api/)
+- Editor's Draft: [https://w3c.github.io/geolocation/](https://w3c.github.io/geolocation/)
 - Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Shortname: geolocation
 
@@ -10348,17 +10444,11 @@ This specification looks good!
 Normative references to this spec from:
 
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
-- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 
 Informative references to this spec from:
 
-- [Generic Sensor API](https://w3c.github.io/sensors/)
-- [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
-- [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
-- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
-- [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 
 
 ### Geolocation Sensor {data-spec=true data-missingDfns=true data-ok=true}
@@ -10617,7 +10707,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 24 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10643,7 +10733,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 24 June 2024
+- Crawled version: 25 June 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14887,6 +14977,33 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### Geolocation {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
+- Crawled URL: [https://w3c.github.io/geolocation/](https://w3c.github.io/geolocation/)
+- Crawled version: 19 June 2024
+- Editor's Draft: [https://w3c.github.io/geolocation/](https://w3c.github.io/geolocation/)
+- Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
+- Shortname: geolocation
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+
+Informative references to this spec from:
+
+- [Permissions](https://w3c.github.io/permissions/)
+- [Permissions Registry](https://w3c.github.io/permissions-registry/)
+
+
 ### Image Resource {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -16030,6 +16147,7 @@ Normative references to this spec from:
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [Geolocation](https://w3c.github.io/geolocation/)
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
+- [Handwriting Recognition API](https://wicg.github.io/handwriting-recognition/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
@@ -16792,7 +16910,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Crawled URL: [https://wicg.github.io/digital-credentials](https://wicg.github.io/digital-credentials)
-- Crawled version: 21 June 2024
+- Crawled version: 22 June 2024
 - Editor's Draft: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Shortname: digital-identities
 
@@ -17078,6 +17196,28 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### Handwriting Recognition API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://wicg.github.io/handwriting-recognition/](https://wicg.github.io/handwriting-recognition/)
+- Crawled URL: [https://wicg.github.io/handwriting-recognition/](https://wicg.github.io/handwriting-recognition/)
+- Crawled version: 24 June 2024
+- Editor's Draft: [https://wicg.github.io/handwriting-recognition/](https://wicg.github.io/handwriting-recognition/)
+- Shortname: handwriting-recognition
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/touch-events/`](https://www.w3.org/TR/touch-events/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19526,6 +19666,7 @@ Normative references to this spec from:
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Overscroll Behavior Module Level 1](https://drafts.csswg.org/css-overscroll-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Positioned Layout Module Level 4](https://drafts.csswg.org/css-position-4/)
@@ -19769,6 +19910,7 @@ Normative references to this spec from:
 - [Push API](https://w3c.github.io/push-api/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
+- [Source Map](https://tc39.es/source-map)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Standard](https://url.spec.whatwg.org/)
@@ -20056,6 +20198,7 @@ Normative references to this spec from:
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)
+- [CSS Overflow Module Level 5](https://drafts.csswg.org/css-overflow-5/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Parser API](https://wicg.github.io/css-parser-api/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
@@ -20122,6 +20265,7 @@ Normative references to this spec from:
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [Global Privacy Control (GPC)](https://privacycg.github.io/gpc-spec/)
+- [Handwriting Recognition API](https://wicg.github.io/handwriting-recognition/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/)
@@ -20493,6 +20637,7 @@ Normative references to this spec from:
 - [Geolocation Sensor](https://w3c.github.io/geolocation-sensor/)
 - [Get Installed Related Apps API](https://wicg.github.io/get-installed-related-apps/spec/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
+- [Handwriting Recognition API](https://wicg.github.io/handwriting-recognition/)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
@@ -20844,7 +20989,7 @@ Informative references to this spec from:
 - Initial URL: [https://compression.spec.whatwg.org/](https://compression.spec.whatwg.org/)
 - Crawled URL: [https://compression.spec.whatwg.org/](https://compression.spec.whatwg.org/)
 - Crawled version: 30 May 2024
-- Editor's Draft: [https://wicg.github.io/compression/](https://wicg.github.io/compression/)
+- Editor's Draft: [https://compression.spec.whatwg.org/](https://compression.spec.whatwg.org/)
 - Shortname: compression
 
 #### Potential issue(s) {.anomalies}
@@ -21203,6 +21348,7 @@ Normative references to this spec from:
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
 - [Global Privacy Control (GPC)](https://privacycg.github.io/gpc-spec/)
 - [Gyroscope](https://w3c.github.io/gyroscope/)
+- [Handwriting Recognition API](https://wicg.github.io/handwriting-recognition/)
 - [HEVC (H.265) WebCodecs Registration](https://w3c.github.io/webcodecs/hevc_codec_registration.html)
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [HTML Media Capture](https://w3c.github.io/html-media-capture/)

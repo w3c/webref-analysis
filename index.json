@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-25T18:44:10.095Z",
+  "date": "2024-06-26T00:59:45.206Z",
   "stats": {
-    "crawled": 619,
+    "crawled": 623,
     "errors": 0,
-    "studied": 619
+    "studied": 623
   },
   "results": [
     {
@@ -61,7 +61,7 @@
       "url": "https://www.w3.org/TR/change-password-url/",
       "release": {
         "url": "https://www.w3.org/TR/change-password-url/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -2845,10 +2845,10 @@
       "date": "30 May 2024",
       "url": "https://compression.spec.whatwg.org/",
       "nightly": {
-        "url": "https://wicg.github.io/compression/",
-        "status": "Draft Community Group Report",
+        "url": "https://compression.spec.whatwg.org/",
+        "status": "Living Standard",
         "alternateUrls": [],
-        "repository": "https://github.com/WICG/compression",
+        "repository": "https://github.com/whatwg/compression",
         "sourcePath": "index.bs",
         "filename": "index.html"
       },
@@ -3846,7 +3846,6 @@
           "https://w3c.github.io/csswg-drafts/css2/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
-        "pages": [],
         "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css2/",
@@ -4159,6 +4158,11 @@
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-overscroll-1/",
@@ -6416,6 +6420,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
@@ -7276,6 +7285,11 @@
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-page-3/",
@@ -9106,6 +9120,11 @@
               "crawled": "https://drafts.csswg.org/css-contain-2/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
@@ -9263,6 +9282,11 @@
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-regions-1/",
@@ -10161,6 +10185,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overscroll-1/",
               "title": "CSS Overscroll Behavior Module Level 1",
               "crawled": "https://drafts.csswg.org/css-overscroll-1/"
@@ -10965,6 +10994,11 @@
               "url": "https://www.w3.org/TR/css-overflow-3/",
               "title": "CSS Overflow Module Level 3",
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-position-3/",
@@ -11959,6 +11993,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-page-floats-3/",
               "title": "CSS Page Floats",
               "crawled": "https://drafts.csswg.org/css-page-floats-3/"
@@ -12279,6 +12318,11 @@
               "url": "https://www.w3.org/TR/css-lists-3/",
               "title": "CSS Lists and Counters Module Level 3",
               "crawled": "https://drafts.csswg.org/css-lists-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-page-3/",
@@ -14869,6 +14913,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overscroll-1/",
               "title": "CSS Overscroll Behavior Module Level 1",
               "crawled": "https://drafts.csswg.org/css-overscroll-1/"
@@ -15149,6 +15198,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-regions-1/",
               "title": "CSS Regions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-regions-1/"
@@ -15181,6 +15235,63 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             }
           ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "CSS Overflow Module Level 5",
+      "shortname": "css-overflow-5",
+      "date": "13 June 2024",
+      "url": "https://drafts.csswg.org/css-overflow-5/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-overflow-5/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-overflow-5/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-overflow-5/Overview.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-overflow-5/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-cascade/",
+          "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/cssom/",
+          "https://www.w3.org/TR/web-animations/"
+        ],
+        "inconsistentRef": [
+          {
+            "link": "https://www.w3.org/TR/css-overflow-4/",
+            "ref": {
+              "name": "CSS-OVERFLOW-4",
+              "url": "https://drafts.csswg.org/css-overflow-4/"
+            }
+          }
+        ],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": false
       }
@@ -15822,6 +15933,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overscroll-1/",
               "title": "CSS Overscroll Behavior Module Level 1",
               "crawled": "https://drafts.csswg.org/css-overscroll-1/"
@@ -16263,6 +16379,11 @@
               "url": "https://www.w3.org/TR/css-overflow-4/",
               "title": "CSS Overflow Module Level 4",
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
             },
             {
               "url": "https://drafts.csswg.org/css-position-4/",
@@ -20579,6 +20700,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-overscroll-1/",
               "title": "CSS Overscroll Behavior Module Level 1",
               "crawled": "https://drafts.csswg.org/css-overscroll-1/"
@@ -22554,7 +22680,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "21 June 2024",
+      "date": "22 June 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -22655,7 +22781,7 @@
       "url": "https://www.w3.org/TR/dpub-aam-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aam-1.1/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -22704,7 +22830,7 @@
       "url": "https://www.w3.org/TR/dpub-aria-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/dpub-aria-1.1/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -23289,6 +23415,11 @@
               "url": "https://www.w3.org/TR/cssom-1/",
               "title": "CSS Object Model (CSSOM)",
               "crawled": "https://drafts.csswg.org/cssom-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-overscroll-1/",
@@ -24861,6 +24992,11 @@
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
+              "url": "https://tc39.es/source-map-spec/",
+              "title": "Source Map",
+              "crawled": "https://tc39.es/source-map"
+            },
+            {
               "url": "https://storage.spec.whatwg.org/",
               "title": "Storage Standard",
               "crawled": "https://storage.spec.whatwg.org/"
@@ -25381,6 +25517,11 @@
               "url": "https://wicg.github.io/shared-storage/",
               "title": "Shared Storage API",
               "crawled": "https://wicg.github.io/shared-storage/"
+            },
+            {
+              "url": "https://tc39.es/source-map-spec/",
+              "title": "Source Map",
+              "crawled": "https://tc39.es/source-map"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -27761,10 +27902,10 @@
         "filename": "Overview.html"
       },
       "nightly": {
-        "url": "https://w3c.github.io/geolocation-api/",
+        "url": "https://w3c.github.io/geolocation/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/geolocation-api",
+        "repository": "https://github.com/w3c/geolocation",
         "sourcePath": "index.html",
         "filename": "index.html"
       },
@@ -27774,6 +27915,10 @@
         {
           "name": "Devices and Sensors Working Group",
           "url": "https://www.w3.org/das/"
+        },
+        {
+          "name": "Web Applications Working Group",
+          "url": "https://www.w3.org/groups/wg/webapps/"
         }
       ],
       "report": {
@@ -27796,29 +27941,9 @@
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
-            },
-            {
-              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-              "title": "Prerendering Revamped",
-              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/generic-sensor/",
-              "title": "Generic Sensor API",
-              "crawled": "https://w3c.github.io/sensors/"
-            },
-            {
-              "url": "https://www.w3.org/TR/geolocation-sensor/",
-              "title": "Geolocation Sensor",
-              "crawled": "https://w3c.github.io/geolocation-sensor/"
-            },
-            {
-              "url": "https://wicg.github.io/idle-detection/",
-              "title": "Idle Detection API",
-              "crawled": "https://wicg.github.io/idle-detection/"
-            },
             {
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
@@ -27828,16 +27953,6 @@
               "url": "https://w3c.github.io/permissions-registry/",
               "title": "Permissions Registry",
               "crawled": "https://w3c.github.io/permissions-registry/"
-            },
-            {
-              "url": "https://www.w3.org/TR/secure-contexts/",
-              "title": "Secure Contexts",
-              "crawled": "https://w3c.github.io/webappsec-secure-contexts/"
-            },
-            {
-              "url": "https://webbluetoothcg.github.io/web-bluetooth/scanning.html",
-              "title": "Web Bluetooth Scanning",
-              "crawled": "https://webbluetoothcg.github.io/web-bluetooth/scanning.html"
             }
           ]
         },
@@ -28388,6 +28503,50 @@
       }
     },
     {
+      "title": "Handwriting Recognition API",
+      "shortname": "handwriting-recognition",
+      "date": "24 June 2024",
+      "url": "https://wicg.github.io/handwriting-recognition/",
+      "nightly": {
+        "url": "https://wicg.github.io/handwriting-recognition/",
+        "status": "Draft Community Group Report",
+        "alternateUrls": [],
+        "repository": "https://github.com/WICG/handwriting-recognition",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://wicg.github.io/handwriting-recognition/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "url": "https://www.w3.org/community/wicg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/touch-events/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "HDR10+ AV1 Metadata Handling Specification",
       "shortname": "av1-hdr10plus",
       "date": "3 October 2023",
@@ -28593,6 +28752,11 @@
               "url": "https://www.w3.org/TR/geolocation-sensor/",
               "title": "Geolocation Sensor",
               "crawled": "https://w3c.github.io/geolocation-sensor/"
+            },
+            {
+              "url": "https://wicg.github.io/handwriting-recognition/",
+              "title": "Handwriting Recognition API",
+              "crawled": "https://wicg.github.io/handwriting-recognition/"
             },
             {
               "url": "https://html.spec.whatwg.org/multipage/",
@@ -29472,6 +29636,11 @@
               "crawled": "https://drafts.csswg.org/css-overflow-3/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-paint-api-1/",
               "title": "CSS Painting API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-paint-api-1/"
@@ -29800,6 +29969,11 @@
               "url": "https://privacycg.github.io/gpc-spec/",
               "title": "Global Privacy Control (GPC)",
               "crawled": "https://privacycg.github.io/gpc-spec/"
+            },
+            {
+              "url": "https://wicg.github.io/handwriting-recognition/",
+              "title": "Handwriting Recognition API",
+              "crawled": "https://wicg.github.io/handwriting-recognition/"
             },
             {
               "url": "https://www.w3.org/TR/hr-time-3/",
@@ -32129,6 +32303,11 @@
               "url": "https://www.w3.org/TR/gyroscope/",
               "title": "Gyroscope",
               "crawled": "https://w3c.github.io/gyroscope/"
+            },
+            {
+              "url": "https://wicg.github.io/handwriting-recognition/",
+              "title": "Handwriting Recognition API",
+              "crawled": "https://wicg.github.io/handwriting-recognition/"
             },
             {
               "url": "https://www.w3.org/TR/hr-time-3/",
@@ -39788,6 +39967,48 @@
       }
     },
     {
+      "title": "Promise.try",
+      "shortname": "tc39-promise-try",
+      "date": "2 June 2024",
+      "url": "https://tc39.es/proposal-promise-try/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-promise-try/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-promise-try",
+        "sourcePath": "spec.emu",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-promise-try/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Proposals for the future of CSS Paged Media",
       "shortname": "css-page-4",
       "date": "12 May 2023",
@@ -43517,7 +43738,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "25 June 2024",
+      "date": "26 June 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -43552,7 +43773,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9218",
+              "title": "RFC 9218 - Extensible Prioritization Scheme for HTTP",
+              "crawled": "https://httpwg.org/specs/rfc9218.html"
+            }
+          ]
         },
         "ok": false
       }
@@ -43908,7 +44135,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "25 June 2024",
+      "date": "26 June 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -44433,6 +44660,11 @@
               "crawled": "https://httpwg.org/specs/rfc9114.html"
             },
             {
+              "url": "https://www.rfc-editor.org/rfc/rfc9218",
+              "title": "RFC 9218 - Extensible Prioritization Scheme for HTTP",
+              "crawled": "https://httpwg.org/specs/rfc9218.html"
+            },
+            {
               "url": "https://www.rfc-editor.org/rfc/rfc9530",
               "title": "RFC 9530 - Digest Fields",
               "crawled": "https://httpwg.org/specs/rfc9530.html"
@@ -44560,6 +44792,11 @@
               "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
               "title": "No-Vary-Search",
               "crawled": "https://wicg.github.io/nav-speculation/no-vary-search.html"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9218",
+              "title": "RFC 9218 - Extensible Prioritization Scheme for HTTP",
+              "crawled": "https://httpwg.org/specs/rfc9218.html"
             }
           ]
         },
@@ -44687,7 +44924,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9218",
+              "title": "RFC 9218 - Extensible Prioritization Scheme for HTTP",
+              "crawled": "https://httpwg.org/specs/rfc9218.html"
+            }
+          ],
           "informative": [
             {
               "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
@@ -44758,6 +45001,11 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9218",
+              "title": "RFC 9218 - Extensible Prioritization Scheme for HTTP",
+              "crawled": "https://httpwg.org/specs/rfc9218.html"
             }
           ],
           "informative": [
@@ -44784,7 +45032,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "25 June 2024",
+      "date": "26 June 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -44826,6 +45074,63 @@
               "url": "https://fetch.spec.whatwg.org/",
               "title": "Fetch Standard",
               "crawled": "https://fetch.spec.whatwg.org/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "RFC 9218 - Extensible Prioritization Scheme for HTTP",
+      "shortname": "rfc9218",
+      "date": "30 May 2024",
+      "url": "https://www.rfc-editor.org/rfc/rfc9218",
+      "nightly": {
+        "url": "https://httpwg.org/specs/rfc9218.html",
+        "status": "Proposed Standard",
+        "alternateUrls": [
+          "https://datatracker.ietf.org/doc/html/rfc9218",
+          "https://tools.ietf.org/html/rfc9218"
+        ],
+        "repository": "https://github.com/httpwg/httpwg.github.io",
+        "sourcePath": "specs/rfc9218.xml",
+        "filename": "rfc9218.html"
+      },
+      "crawled": "https://httpwg.org/specs/rfc9218.html",
+      "organization": "IETF",
+      "groups": [
+        {
+          "name": "HTTP Working Group",
+          "url": "https://datatracker.ietf.org/wg/httpbis/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://fetch.spec.whatwg.org/",
+              "title": "Fetch Standard",
+              "crawled": "https://fetch.spec.whatwg.org/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.rfc-editor.org/rfc/rfc9113",
+              "title": "RFC 9113 - HTTP/2",
+              "crawled": "https://httpwg.org/specs/rfc9113.html"
             }
           ]
         },
@@ -47056,6 +47361,11 @@
               "crawled": "https://drafts.csswg.org/cssom-1/"
             },
             {
+              "url": "https://drafts.csswg.org/css-overflow-5/",
+              "title": "CSS Overflow Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-overflow-5/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-page-3/",
               "title": "CSS Paged Media Module Level 3",
               "crawled": "https://drafts.csswg.org/css-page-3/"
@@ -47539,7 +47849,7 @@
     {
       "title": "Set methods",
       "shortname": "tc39-set-methods",
-      "date": "12 May 2024",
+      "date": "25 June 2024",
       "url": "https://tc39.es/proposal-set-methods/",
       "nightly": {
         "url": "https://tc39.es/proposal-set-methods/",
@@ -47713,7 +48023,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "11 June 2024",
+      "date": "25 June 2024",
       "url": "https://tc39.es/source-map-spec/",
       "nightly": {
         "url": "https://tc39.es/source-map-spec/",
@@ -50703,7 +51013,7 @@
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "index.html"
       },
       "nightly": {
@@ -54282,6 +54592,11 @@
               "url": "https://www.w3.org/TR/gyroscope/",
               "title": "Gyroscope",
               "crawled": "https://w3c.github.io/gyroscope/"
+            },
+            {
+              "url": "https://wicg.github.io/handwriting-recognition/",
+              "title": "Handwriting Recognition API",
+              "crawled": "https://wicg.github.io/handwriting-recognition/"
             },
             {
               "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
@@ -59029,7 +59344,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "24 June 2024",
+      "date": "25 June 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59092,7 +59407,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "24 June 2024",
+      "date": "25 June 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
