@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-26T12:46:43.924Z",
+  "date": "2024-06-26T18:41:45.521Z",
   "stats": {
     "crawled": 623,
-    "errors": 1,
+    "errors": 0,
     "studied": 623
   },
   "results": [
@@ -991,7 +991,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "20 June 2024",
+      "date": "26 June 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -1408,7 +1408,7 @@
     {
       "title": "AV1 Image File Format (AVIF)",
       "shortname": "av1-avif",
-      "date": "15 April 2022",
+      "date": "25 June 2024",
       "url": "https://aomediacodec.github.io/av1-avif/",
       "nightly": {
         "url": "https://aomediacodec.github.io/av1-avif/",
@@ -38649,11 +38649,6 @@
               "crawled": "https://notifications.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/permissions-policy-1/",
-              "title": "Permissions Policy",
-              "crawled": "https://w3c.github.io/webappsec-permissions-policy/"
-            },
-            {
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
@@ -38803,7 +38798,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "19 June 2024",
+      "date": "26 June 2024",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -52332,7 +52327,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://wicg.github.io/user-preference-media-features-headers/ triggered HTTP status 503\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 248)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -52356,7 +52350,7 @@
           ],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -55746,7 +55740,7 @@
     {
       "title": "Web Preferences API",
       "shortname": "web-preferences-api",
-      "date": "19 June 2024",
+      "date": "26 June 2024",
       "url": "https://wicg.github.io/web-preferences-api/",
       "nightly": {
         "url": "https://wicg.github.io/web-preferences-api/",
@@ -56425,7 +56419,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2",
-      "date": "28 April 2024",
+      "date": "26 June 2024",
       "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-2/",
@@ -56672,7 +56666,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "28 April 2024",
+      "date": "26 June 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -56791,7 +56785,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "28 April 2024",
+      "date": "26 June 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -59345,7 +59339,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "25 June 2024",
+      "date": "26 June 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59408,7 +59402,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "25 June 2024",
+      "date": "26 June 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
