@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-06-28T12:50:38.783Z",
+  "date": "2024-06-28T18:39:01.934Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -38804,7 +38804,7 @@
     {
       "title": "Permissions Policy",
       "shortname": "permissions-policy-1",
-      "date": "27 June 2024",
+      "date": "28 June 2024",
       "url": "https://www.w3.org/TR/permissions-policy-1/",
       "release": {
         "url": "https://www.w3.org/TR/permissions-policy-1/",
