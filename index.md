@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% June 30, 2024
+% July 01, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
