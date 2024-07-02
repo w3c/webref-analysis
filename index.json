@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-02T06:41:01.045Z",
+  "date": "2024-07-02T12:45:36.978Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -53482,7 +53482,7 @@
     {
       "title": "Web Application Manifest",
       "shortname": "appmanifest",
-      "date": "12 June 2024",
+      "date": "02 July 2024",
       "url": "https://www.w3.org/TR/appmanifest/",
       "release": {
         "url": "https://www.w3.org/TR/appmanifest/",
@@ -56425,7 +56425,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2",
-      "date": "26 June 2024",
+      "date": "2 July 2024",
       "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-2/",
@@ -56672,7 +56672,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "26 June 2024",
+      "date": "2 July 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -56791,7 +56791,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "26 June 2024",
+      "date": "2 July 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
@@ -57211,7 +57211,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "01 July 2024",
+      "date": "02 July 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
