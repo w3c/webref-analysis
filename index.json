@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-02T12:45:36.978Z",
+  "date": "2024-07-02T18:43:57.186Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -991,7 +991,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "1 July 2024",
+      "date": "2 July 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -14627,7 +14627,7 @@
     {
       "title": "CSS Object Model (CSSOM)",
       "shortname": "cssom-1",
-      "date": "25 June 2024",
+      "date": "2 July 2024",
       "url": "https://www.w3.org/TR/cssom-1/",
       "release": {
         "url": "https://www.w3.org/TR/cssom-1/",
@@ -56241,7 +56241,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-memory64",
-      "date": "1 July 2024",
+      "date": "2 July 2024",
       "url": "https://webassembly.github.io/memory64/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/memory64/core/bikeshed/",
