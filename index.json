@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-03T12:46:17.900Z",
+  "date": "2024-07-03T18:38:03.810Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -52518,7 +52518,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "26 June 2024",
+      "date": "03 July 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -59345,7 +59345,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "1 July 2024",
+      "date": "3 July 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59408,7 +59408,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "1 July 2024",
+      "date": "3 July 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
