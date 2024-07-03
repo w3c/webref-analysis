@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 02, 2024
+% July 03, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -1686,7 +1686,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 2 July 2024
+- Crawled version: 3 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -3956,7 +3956,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
 - Crawled URL: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
-- Crawled version: 1 July 2024
+- Crawled version: 2 June 2024
 - Editor's Draft: [https://drafts.csswg.org/css-anchor-position-1/](https://drafts.csswg.org/css-anchor-position-1/)
 - Latest published version: [https://www.w3.org/TR/css-anchor-position-1/](https://www.w3.org/TR/css-anchor-position-1/)
 - Shortname: css-anchor-position-1
@@ -17886,7 +17886,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 21 June 2024
+- Crawled version: 2 July 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 

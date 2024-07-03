@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-02T18:43:57.186Z",
+  "date": "2024-07-03T00:55:51.578Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -4519,7 +4519,7 @@
     {
       "title": "CSS Anchor Positioning",
       "shortname": "css-anchor-position-1",
-      "date": "1 July 2024",
+      "date": "2 June 2024",
       "url": "https://www.w3.org/TR/css-anchor-position-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-anchor-position-1/",
@@ -40056,7 +40056,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "21 June 2024",
+      "date": "2 July 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -45033,7 +45033,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "2 July 2024",
+      "date": "3 July 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
