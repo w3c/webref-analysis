@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-03T06:40:45.259Z",
+  "date": "2024-07-03T12:46:17.900Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -50857,7 +50857,7 @@
     {
       "title": "Touch Events - Level 2",
       "shortname": "touch-events",
-      "date": "29 June 2022",
+      "date": "03 July 2024",
       "url": "https://www.w3.org/TR/touch-events/",
       "release": {
         "url": "https://www.w3.org/TR/touch-events/",
