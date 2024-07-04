@@ -371,7 +371,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 1 July 2024
+- Crawled version: 4 July 2024
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -814,7 +814,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 1 July 2024
+- Crawled version: 4 July 2024
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -10648,7 +10648,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
-- Crawled version: 11 June 2024
+- Crawled version: 04 July 2024
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/core/](https://w3c.github.io/epub-specs/epub33/core/)
 - Latest published version: [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/)
 - Shortname: epub-33
@@ -10676,7 +10676,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Crawled URL: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
-- Crawled version: 11 June 2024
+- Crawled version: 04 July 2024
 - Editor's Draft: [https://w3c.github.io/epub-specs/epub33/rs/](https://w3c.github.io/epub-specs/epub33/rs/)
 - Latest published version: [https://www.w3.org/TR/epub-rs-33/](https://www.w3.org/TR/epub-rs-33/)
 - Shortname: epub-rs-33
@@ -10704,7 +10704,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 3 July 2024
+- Crawled version: 4 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10730,7 +10730,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 3 July 2024
+- Crawled version: 4 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -15732,7 +15732,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/touch-events/](https://www.w3.org/TR/touch-events/)
 - Crawled URL: [https://w3c.github.io/touch-events/](https://w3c.github.io/touch-events/)
-- Crawled version: 03 July 2024
+- Crawled version: 04 July 2024
 - Editor's Draft: [https://w3c.github.io/touch-events/](https://w3c.github.io/touch-events/)
 - Latest published version: [https://www.w3.org/TR/touch-events/](https://www.w3.org/TR/touch-events/)
 - Shortname: touch-events
@@ -15740,8 +15740,8 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`http://www.w3.org/TR/touch-events-extensions/`](http://www.w3.org/TR/touch-events-extensions/)
      * [`https://w3c.github.io/pointerevents/`](https://w3c.github.io/pointerevents/)
+     * [`https://www.w3.org/TR/touch-events-extensions/`](https://www.w3.org/TR/touch-events-extensions/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16793,20 +16793,19 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Crash Reporting {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### Crash Reporting {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
 - Crawled URL: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
-- Crawled version: 24 June 2020
+- Crawled version: 4 July 2024
 - Editor's Draft: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
 - Shortname: crash-reporting
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/reporting/`](https://w3c.github.io/reporting/), related reference "REPORTING" uses URL [`https://www.w3.org/TR/reporting-1/`](https://www.w3.org/TR/reporting-1/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -21275,6 +21274,7 @@ Normative references to this spec from:
 - [Contact Picker API](https://w3c.github.io/contact-picker/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Crash Reporting](https://wicg.github.io/crash-reporting/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
