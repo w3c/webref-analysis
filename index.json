@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-03T18:38:03.810Z",
+  "date": "2024-07-04T00:50:54.938Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -39970,7 +39970,7 @@
     {
       "title": "Promise.try",
       "shortname": "tc39-promise-try",
-      "date": "2 June 2024",
+      "date": "3 July 2024",
       "url": "https://tc39.es/proposal-promise-try/",
       "nightly": {
         "url": "https://tc39.es/proposal-promise-try/",
@@ -57382,7 +57382,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "1 July 2024",
+      "date": "3 July 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
