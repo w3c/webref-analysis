@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-04T18:39:06.403Z",
+  "date": "2024-07-05T00:51:05.871Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -40433,7 +40433,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "27 June 2024",
+      "date": "04 July 2024",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",

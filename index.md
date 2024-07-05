@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 04, 2024
+% July 05, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -12524,7 +12524,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-concepts/](https://www.w3.org/TR/rdf12-concepts/)
 - Crawled URL: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
-- Crawled version: 27 June 2024
+- Crawled version: 04 July 2024
 - Editor's Draft: [https://w3c.github.io/rdf-concepts/spec/](https://w3c.github.io/rdf-concepts/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-concepts/](https://www.w3.org/TR/rdf12-concepts/)
 - Shortname: rdf12-concepts
