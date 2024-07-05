@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-05T12:50:18.484Z",
+  "date": "2024-07-05T18:39:33.984Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -31537,7 +31537,7 @@
     {
       "title": "Incremental Font Transfer",
       "shortname": "IFT",
-      "date": "19 June 2024",
+      "date": "9 July 2024",
       "url": "https://www.w3.org/TR/IFT/",
       "release": {
         "url": "https://www.w3.org/TR/IFT/",
