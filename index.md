@@ -917,7 +917,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 28 June 2024
+- Crawled version: 5 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -1000,7 +1000,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
-- Crawled version: 28 June 2024
+- Crawled version: 5 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Shortname: rfc8878
 
@@ -1940,7 +1940,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 28 June 2024
+- Crawled version: 5 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1981,7 +1981,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 28 June 2024
+- Crawled version: 5 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -3508,7 +3508,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Crawled URL: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
-- Crawled version: 04 July 2024
+- Crawled version: 06 July 2024
 - Editor's Draft: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
 - Latest published version: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Shortname: webmidi
