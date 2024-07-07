@@ -14058,7 +14058,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Crawled URL: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
-- Crawled version: 01 July 2024
+- Crawled version: 07 July 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
 - Latest published version: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Shortname: vc-data-integrity
