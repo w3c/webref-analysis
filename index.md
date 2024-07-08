@@ -1128,7 +1128,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 7 July 2024
+- Crawled version: 8 July 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -10758,7 +10758,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Crawled URL: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
-- Crawled version: 04 July 2024
+- Crawled version: 08 July 2024
 - Editor's Draft: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
 - Latest published version: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
 - Shortname: encrypted-media
@@ -12442,7 +12442,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
 - Crawled URL: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
-- Crawled version: 3 January 2024
+- Crawled version: 8 July 2024
 - Editor's Draft: [https://patcg-individual-drafts.github.io/topics/](https://patcg-individual-drafts.github.io/topics/)
 - Shortname: topics
 
@@ -15134,7 +15134,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/push-api/](https://www.w3.org/TR/push-api/)
 - Crawled URL: [https://w3c.github.io/push-api/](https://w3c.github.io/push-api/)
-- Crawled version: 30 May 2024
+- Crawled version: 08 July 2024
 - Editor's Draft: [https://w3c.github.io/push-api/](https://w3c.github.io/push-api/)
 - Latest published version: [https://www.w3.org/TR/push-api/](https://www.w3.org/TR/push-api/)
 - Shortname: push-api
@@ -17885,7 +17885,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 2 July 2024
+- Crawled version: 8 July 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -21176,7 +21176,6 @@ Normative references to this spec from:
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
-- [Push API](https://w3c.github.io/push-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [requestStorageAccessFor API](https://privacycg.github.io/requestStorageAccessFor/)
