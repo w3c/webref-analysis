@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 08, 2024
+% July 09, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -356,7 +356,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Web Application Manifest](https://w3c.github.io/manifest/)
 - [Web IDL Standard](https://webidl.spec.whatwg.org/)
 
@@ -425,7 +425,7 @@ Normative references to this spec from:
 - [MiniApp Packaging](https://w3c.github.io/miniapp-packaging/)
 - [Network Error Logging](https://w3c.github.io/network-error-logging/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
@@ -1970,7 +1970,7 @@ Informative references to this spec from:
 - [Generic Sensor API](https://w3c.github.io/sensors/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [RFC 9110 - HTTP Semantics](https://httpwg.org/specs/rfc9110.html)
 - [URL Standard](https://url.spec.whatwg.org/)
 
@@ -5123,7 +5123,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Crawled URL: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
-- Crawled version: 22 June 2024
+- Crawled version: 7 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-5/](https://drafts.csswg.org/css-color-5/)
 - Latest published version: [https://www.w3.org/TR/css-color-5/](https://www.w3.org/TR/css-color-5/)
 - Shortname: css-color-5
@@ -10308,7 +10308,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
-- Crawled version: 18 June 2024
+- Crawled version: 8 July 2024
 - Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Shortname: contact-picker
@@ -14518,7 +14518,7 @@ Normative references to this spec from:
 - [Media Session](https://w3c.github.io/mediasession/)
 - [Orientation Sensor](https://w3c.github.io/orientation-sensor/)
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
@@ -14660,7 +14660,7 @@ Informative references to this spec from:
 
 - [Document Picture-in-Picture Specification](https://wicg.github.io/document-picture-in-picture/)
 - [Generic Sensor API](https://w3c.github.io/sensors/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 - [Remote Playback API](https://w3c.github.io/remote-playback/)
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
@@ -14818,7 +14818,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Crawled URL: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
-- Crawled version: 18 June 2024
+- Crawled version: 8 July 2024
 - Editor's Draft: [https://w3c.github.io/contact-picker/](https://w3c.github.io/contact-picker/)
 - Latest published version: [https://www.w3.org/TR/contact-picker/](https://www.w3.org/TR/contact-picker/)
 - Shortname: contact-picker
@@ -15911,7 +15911,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 
 Informative references to this spec from:
 
@@ -15939,7 +15939,7 @@ Normative references to this spec from:
 
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 
 Informative references to this spec from:
@@ -15973,13 +15973,13 @@ Informative references to this spec from:
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 
 
-### Payment Request API 1.1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Payment Request API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
 - Crawled URL: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
-- Crawled version: 05 February 2024
+- Crawled version: 08 July 2024
 - Editor's Draft: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
 - Latest published version: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
 - Shortname: payment-request-1.1
@@ -15987,7 +15987,8 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://www.w3.org/TR/2021/PR-payment-request-20210930/`](https://www.w3.org/TR/2021/PR-payment-request-20210930/)
+     * [`https://w3c.github.io/contact-picker/`](https://w3c.github.io/contact-picker/)
+     * [`https://www.w3.org/TR/2022/REC-payment-request-20220908/`](https://www.w3.org/TR/2022/REC-payment-request-20220908/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -19747,7 +19748,7 @@ Normative references to this spec from:
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
 - [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
@@ -20009,7 +20010,7 @@ Normative references to this spec from:
 - [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
@@ -20325,7 +20326,7 @@ Normative references to this spec from:
 - [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
@@ -20679,7 +20680,7 @@ Normative references to this spec from:
 - [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
@@ -21165,7 +21166,7 @@ Normative references to this spec from:
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
@@ -21397,7 +21398,7 @@ Normative references to this spec from:
 - [Page Lifecycle](https://wicg.github.io/page-lifecycle/)
 - [Paint Timing](https://w3c.github.io/paint-timing/)
 - [Payment Handler API](https://w3c.github.io/payment-handler/)
-- [Payment Request API 1.1](https://w3c.github.io/payment-request/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)

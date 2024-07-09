@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-08T18:39:30.141Z",
+  "date": "2024-07-09T00:55:30.196Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -3011,7 +3011,7 @@
     {
       "title": "Contact Picker API",
       "shortname": "contact-picker",
-      "date": "18 June 2024",
+      "date": "8 July 2024",
       "url": "https://www.w3.org/TR/contact-picker/",
       "release": {
         "url": "https://www.w3.org/TR/contact-picker/",
@@ -8352,7 +8352,7 @@
     {
       "title": "CSS Color Module Level 5",
       "shortname": "css-color-5",
-      "date": "22 June 2024",
+      "date": "7 July 2024",
       "url": "https://www.w3.org/TR/css-color-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-5/",
@@ -23831,7 +23831,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -24604,7 +24604,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -24906,7 +24906,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -26553,7 +26553,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -30275,7 +30275,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -32519,7 +32519,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -38129,7 +38129,7 @@
           "normative": [
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             }
           ],
@@ -38198,7 +38198,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -38278,9 +38278,9 @@
       }
     },
     {
-      "title": "Payment Request API 1.1",
+      "title": "Payment Request API",
       "shortname": "payment-request-1.1",
-      "date": "05 February 2024",
+      "date": "08 July 2024",
       "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request-1.1/",
@@ -38316,7 +38316,8 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://www.w3.org/TR/2021/PR-payment-request-20210930/"
+          "https://w3c.github.io/contact-picker/",
+          "https://www.w3.org/TR/2022/REC-payment-request-20220908/"
         ],
         "inconsistentRef": [],
         "referencedBy": {
@@ -38987,7 +38988,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -42853,7 +42854,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -47074,7 +47075,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -51976,7 +51977,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
@@ -54848,7 +54849,7 @@
             },
             {
               "url": "https://www.w3.org/TR/payment-request-1.1/",
-              "title": "Payment Request API 1.1",
+              "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
             {
