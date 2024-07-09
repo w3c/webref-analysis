@@ -579,7 +579,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
 - Crawled URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
-- Crawled version: 2 January 2024
+- Crawled version: 9 July 2024
 - Editor's Draft: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
 - Shortname: tc39-intl-locale-info
 
@@ -14058,7 +14058,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Crawled URL: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
-- Crawled version: 07 July 2024
+- Crawled version: 09 July 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
 - Latest published version: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Shortname: vc-data-integrity
@@ -14084,7 +14084,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 06 July 2024
+- Crawled version: 09 July 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
@@ -16649,7 +16649,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 2 July 2024
+- Crawled version: 9 July 2024
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -20858,7 +20858,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
 - Crawled URL: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
-- Crawled version: 4 April 2024
+- Crawled version: 9 July 2024
 - Editor's Draft: [https://notifications.spec.whatwg.org/](https://notifications.spec.whatwg.org/)
 - Shortname: notifications
 
