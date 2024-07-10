@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-10T12:46:43.250Z",
+  "date": "2024-07-10T18:45:09.929Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -991,7 +991,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "9 July 2024",
+      "date": "10 July 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -14016,11 +14016,6 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
-              "title": "CSS Scroll Snap Module Level 2",
-              "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -17133,7 +17128,7 @@
     {
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
-      "date": "21 June 2024",
+      "date": "10 July 2024",
       "url": "https://drafts.csswg.org/css-scroll-snap-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
@@ -34809,7 +34804,7 @@
     {
       "title": "MathML Core",
       "shortname": "mathml-core",
-      "date": "12 June 2024",
+      "date": "10 July 2024",
       "url": "https://www.w3.org/TR/mathml-core/",
       "release": {
         "url": "https://www.w3.org/TR/mathml-core/",
@@ -40232,7 +40227,7 @@
     {
       "title": "Push API",
       "shortname": "push-api",
-      "date": "08 July 2024",
+      "date": "10 July 2024",
       "url": "https://www.w3.org/TR/push-api/",
       "release": {
         "url": "https://www.w3.org/TR/push-api/",
@@ -53609,7 +53604,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "14 May 2024",
+      "date": "10 July 2024",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -55543,7 +55538,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "06 July 2024",
+      "date": "10 July 2024",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
@@ -59353,7 +59348,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "9 July 2024",
+      "date": "10 July 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59416,7 +59411,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "9 July 2024",
+      "date": "10 July 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
