@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-11T00:55:52.869Z",
+  "date": "2024-07-11T06:40:18.974Z",
   "stats": {
     "crawled": 623,
     "errors": 0,
@@ -3506,7 +3506,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "9 July 2024",
+      "date": "11 July 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -24637,7 +24637,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "9 July 2024",
+      "date": "11 July 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -47937,7 +47937,7 @@
     {
       "title": "Shared Storage API",
       "shortname": "shared-storage",
-      "date": "21 June 2024",
+      "date": "11 July 2024",
       "url": "https://wicg.github.io/shared-storage/",
       "nightly": {
         "url": "https://wicg.github.io/shared-storage/",
@@ -55596,7 +55596,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "5 July 2024",
+      "date": "11 July 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
