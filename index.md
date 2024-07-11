@@ -343,7 +343,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 27 June 2024
+- Crawled version: 11 July 2024
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -770,7 +770,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Crawled URL: [https://tc39.es/source-map](https://tc39.es/source-map)
-- Crawled version: 26 June 2024
+- Crawled version: 11 July 2024
 - Editor's Draft: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
 - Shortname: sourcemap
 
@@ -857,7 +857,7 @@ No informative reference to this spec from other specs.
 
 ## FIDO2 Technical Working Group {#group-fido2_technical_working_group}
 
-### Client to Authenticator Protocol (CTAP) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Client to Authenticator Protocol (CTAP) {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -869,11 +869,24 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/)
-     * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/)
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/), related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
+The following network or parsing error occurred:
+`Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.
+        
+https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:530:19
+Array.map (<anonymous>)
+serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:524:53)
+    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:36), <anonymous>:6:28)
+    at #evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:378:56)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:273:16)
+    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:99:16)
+    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:338:20)
+    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:826:20)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:25)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
+    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -894,7 +907,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 3 July 2024
+- Crawled version: 10 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -947,7 +960,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 10 July 2024
+- Crawled version: 4 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -3347,7 +3360,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Crawled URL: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
-- Crawled version: 26 June 2024
+- Crawled version: 11 July 2024
 - Editor's Draft: [https://w3c.github.io/html-aam/](https://w3c.github.io/html-aam/)
 - Latest published version: [https://www.w3.org/TR/html-aam-1.0/](https://www.w3.org/TR/html-aam-1.0/)
 - Shortname: html-aam-1.0
@@ -5174,6 +5187,7 @@ Informative references to this spec from:
 
 - [CSS 2](https://drafts.csswg.org/css2/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Syntax Module Level 3](https://drafts.csswg.org/css-syntax-3/)
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 
@@ -5230,6 +5244,7 @@ Normative references to this spec from:
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Nesting Module](https://drafts.csswg.org/css-nesting-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/)
@@ -5577,6 +5592,7 @@ Normative references to this spec from:
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
 - [CSS Extensions](https://drafts.csswg.org/css-extensions-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Linked Parameters](https://drafts.csswg.org/css-link-params-1/)
 - [CSS Lists and Counters Module Level 3](https://drafts.csswg.org/css-lists-3/)
@@ -5837,6 +5853,7 @@ Normative references to this spec from:
 
 - [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 
 No informative reference to this spec from other specs.
 
@@ -6033,7 +6050,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
-- Crawled version: 17 May 2024
+- Crawled version: 11 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-4/](https://drafts.csswg.org/css-fonts-4/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-4/](https://www.w3.org/TR/css-fonts-4/)
 - Shortname: css-fonts-4
@@ -6110,7 +6127,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Crawled URL: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
-- Crawled version: 22 February 2024
+- Crawled version: 11 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-fonts-5/](https://drafts.csswg.org/css-fonts-5/)
 - Latest published version: [https://www.w3.org/TR/css-fonts-5/](https://www.w3.org/TR/css-fonts-5/)
 - Shortname: css-fonts-5
@@ -6296,6 +6313,28 @@ Informative references to this spec from:
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
+
+
+### CSS Functions and Mixins Module {data-spec=true data-anomaly=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
+- Crawled URL: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
+- Crawled version: 26 June 2024
+- Editor's Draft: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
+- Shortname: css-mixins-1
+
+#### Potential issue(s) {.anomalies}
+
+- No definition for CSS constructs: 
+     * `--*()`
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
 
 
 ### CSS Generated Content for Paged Media Module {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -7623,6 +7662,7 @@ Normative references to this spec from:
 
 - [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Linked Parameters](https://drafts.csswg.org/css-link-params-1/)
 - [CSS Painting API Level 1](https://drafts.css-houdini.org/css-paint-api-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
@@ -9031,6 +9071,7 @@ Normative references to this spec from:
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Fragmentation Module Level 3](https://drafts.csswg.org/css-break-3/)
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
@@ -9158,6 +9199,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Color Module Level 5](https://drafts.csswg.org/css-color-5/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
 - [CSS Generated Content for Paged Media Module Level 4](https://drafts.csswg.org/css-gcpm-4/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
@@ -15459,7 +15501,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 26 June 2024
+- Crawled version: 11 July 2024
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
@@ -17889,7 +17931,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 8 July 2024
+- Crawled version: 11 July 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -20584,6 +20626,7 @@ Normative references to this spec from:
 - [CSS Custom Properties for Cascading Variables Module Level 2](https://drafts.csswg.org/css-variables-2/)
 - [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -21037,6 +21080,7 @@ Normative references to this spec from:
 - [Largest Contentful Paint](https://w3c.github.io/largest-contentful-paint/)
 - [Loading Signed Exchanges](https://wicg.github.io/webpackage/loading.html)
 - [MediaStreamTrack Insertable Media Processing using Streams](https://w3c.github.io/mediacapture-transform/)
+- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Web Serial API](https://wicg.github.io/serial/)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
@@ -21295,6 +21339,7 @@ Normative references to this spec from:
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)

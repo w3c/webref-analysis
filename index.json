@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-11T12:46:44.928Z",
+  "date": "2024-07-11T18:48:34.433Z",
   "stats": {
-    "crawled": 623,
-    "errors": 0,
-    "studied": 623
+    "crawled": 624,
+    "errors": 1,
+    "studied": 624
   },
   "results": [
     {
@@ -448,9 +448,9 @@
       "nightly": {
         "url": "https://w3c.github.io/accname/",
         "status": "Editor's Draft",
+        "repository": "https://github.com/w3c/aria",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/accname",
-        "sourcePath": "index.html",
+        "sourcePath": "accname/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/accname/",
@@ -2443,6 +2443,7 @@
         }
       ],
       "report": {
+        "error": "Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.\n        \nhttps://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:530:19\nArray.map (<anonymous>)\nserializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:524:53)\n    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:36), <anonymous>:6:28)\n    at #evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:378:56)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:273:16)\n    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:99:16)\n    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:338:20)\n    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:826:20)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3570,8 +3571,8 @@
         "url": "https://w3c.github.io/core-aam/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/core-aam",
-        "sourcePath": "index.html",
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "core-aam/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/core-aam/",
@@ -8563,6 +8564,11 @@
               "crawled": "https://drafts.csswg.org/css-color-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
               "crawled": "https://drafts.csswg.org/css-syntax-3/"
@@ -8718,6 +8724,11 @@
               "url": "https://drafts.csswg.org/css-env-1/",
               "title": "CSS Environment Variables Module Level 1",
               "crawled": "https://drafts.csswg.org/css-env-1/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -9739,6 +9750,11 @@
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-layout-api-1/",
               "title": "CSS Layout API Level 1",
               "crawled": "https://drafts.css-houdini.org/css-layout-api-1/"
@@ -10631,6 +10647,11 @@
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
             }
           ],
           "informative": []
@@ -11178,7 +11199,7 @@
     {
       "title": "CSS Fonts Module Level 4",
       "shortname": "css-fonts-4",
-      "date": "17 May 2024",
+      "date": "11 July 2024",
       "url": "https://www.w3.org/TR/css-fonts-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -11472,7 +11493,7 @@
     {
       "title": "CSS Fonts Module Level 5",
       "shortname": "css-fonts-5",
-      "date": "22 February 2024",
+      "date": "11 July 2024",
       "url": "https://www.w3.org/TR/css-fonts-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -12074,6 +12095,59 @@
               "crawled": "https://drafts.csswg.org/css-writing-modes-3/"
             }
           ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "CSS Functions and Mixins Module",
+      "shortname": "css-mixins-1",
+      "date": "26 June 2024",
+      "url": "https://drafts.csswg.org/css-mixins-1/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/css-mixins-1/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/css-mixins-1/",
+          "https://w3c.github.io/csswg-drafts/css-mixins/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "css-mixins-1/Overview.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://drafts.csswg.org/css-mixins-1/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [
+            {
+              "expected": {
+                "linkingText": [
+                  "--*()"
+                ]
+              }
+            }
+          ],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
         },
         "ok": false
       }
@@ -16175,6 +16249,11 @@
               "url": "https://drafts.csswg.org/css-variables-2/",
               "title": "CSS Custom Properties for Cascading Variables Module Level 2",
               "crawled": "https://drafts.csswg.org/css-variables-2/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
             },
             {
               "url": "https://drafts.csswg.org/css-link-params-1/",
@@ -20562,6 +20641,11 @@
               "crawled": "https://drafts.csswg.org/css-break-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-gcpm-3/",
               "title": "CSS Generated Content for Paged Media Module",
               "crawled": "https://drafts.csswg.org/css-gcpm-3/"
@@ -21111,6 +21195,11 @@
               "url": "https://www.w3.org/TR/css-color-5/",
               "title": "CSS Color Module Level 5",
               "crawled": "https://drafts.csswg.org/css-color-5/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-gcpm-3/",
@@ -22771,8 +22860,8 @@
         "url": "https://w3c.github.io/dpub-aam/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/dpub-aam",
-        "sourcePath": "index.html",
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "dpub-aam/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/dpub-aam/",
@@ -22820,8 +22909,8 @@
         "url": "https://w3c.github.io/dpub-aria/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/dpub-aria",
-        "sourcePath": "index.html",
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "dpub-aria/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/dpub-aria/",
@@ -24563,7 +24652,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "27 June 2024",
+      "date": "11 July 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -28310,8 +28399,8 @@
         "url": "https://w3c.github.io/graphics-aam/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/graphics-aam",
-        "sourcePath": "index.html",
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "graphics-aam/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/graphics-aam/",
@@ -28991,7 +29080,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "26 June 2024",
+      "date": "11 July 2024",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -29002,8 +29091,8 @@
         "url": "https://w3c.github.io/html-aam/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/html-aam",
-        "sourcePath": "index.html",
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "html-aam/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/html-aam/",
@@ -32018,6 +32107,11 @@
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-grid-1/",
               "title": "CSS Grid Layout Module Level 1",
               "crawled": "https://drafts.csswg.org/css-grid-1/"
@@ -34754,8 +34848,8 @@
         "url": "https://w3c.github.io/mathml-aam/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/mathml-aam",
-        "sourcePath": "index.html",
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "mathml-aam/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/mathml-aam/",
@@ -40054,7 +40148,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "8 July 2024",
+      "date": "11 July 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -43737,7 +43831,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "3 July 2024",
+      "date": "10 July 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -44134,7 +44228,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "10 July 2024",
+      "date": "4 July 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -48022,7 +48116,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "26 June 2024",
+      "date": "11 July 2024",
       "url": "https://tc39.es/source-map-spec/",
       "nightly": {
         "url": "https://tc39.es/source-map-spec/",
@@ -49982,6 +50076,11 @@
               "crawled": "https://w3c.github.io/mediacapture-transform/"
             },
             {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
+            },
+            {
               "url": "https://www.w3.org/TR/service-workers/",
               "title": "Service Workers Nightly",
               "crawled": "https://w3c.github.io/ServiceWorker/"
@@ -50136,8 +50235,8 @@
         "url": "https://w3c.github.io/svg-aam/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/svg-aam",
-        "sourcePath": "index.html",
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "svg-aam/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/svg-aam/",
@@ -53030,8 +53129,8 @@
         "url": "https://w3c.github.io/graphics-aria/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/graphics-aria",
-        "sourcePath": "index.html",
+        "repository": "https://github.com/w3c/aria",
+        "sourcePath": "graphics-aria/index.html",
         "filename": "index.html"
       },
       "crawled": "https://w3c.github.io/graphics-aria/",
@@ -53713,7 +53812,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "26 June 2024",
+      "date": "11 July 2024",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
@@ -54311,6 +54410,11 @@
               "url": "https://www.w3.org/TR/css-fonts-4/",
               "title": "CSS Fonts Module Level 4",
               "crawled": "https://drafts.csswg.org/css-fonts-4/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-images-4/",
@@ -60040,7 +60144,7 @@
       "groups": [
         {
           "name": "WebTransport Working Group",
-          "url": "https://www.w3.org/webtransport/"
+          "url": "https://www.w3.org/groups/wg/webtransport/"
         }
       ],
       "report": {

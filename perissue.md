@@ -2,7 +2,30 @@
 % Strudy
 % July 11, 2024
 
-623 specifications were crawled in this report.
+624 specifications were crawled in this report.
+
+
+## Specifications that could not be rendered
+
+Reffy could not fetch or render these specifications for some reason. This may happen when a network error occurred or when a specification uses an old version of ReSpec.
+
+- [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html): `Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.
+        
+https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:530:19
+Array.map (<anonymous>)
+serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:524:53)
+    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:36), <anonymous>:6:28)
+    at #evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:378:56)
+    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:273:16)
+    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:99:16)
+    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:338:20)
+    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:826:20)
+    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:25)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
+    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+
+=> 1 specification found
 
 
 ## Specifications without normative dependencies
@@ -151,6 +174,8 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## No definition for CSS constructs
 
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/):
+    * `--*()`
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/):
     * `<radial-size>`
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
@@ -163,7 +188,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/):
     * `<keyframe-selector>`
 
-=> 7 constructs without definition found in 4 specifications
+=> 8 constructs without definition found in 5 specifications
 
 
 ## No definition for IDL constructs
@@ -201,9 +226,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/webdriver/`](https://w3c.github.io/webdriver/) but does not list it in its references
 - [Capture Handle - Bootstrapping Collaboration when Screensharing](https://w3c.github.io/mediacapture-handle/identity/) links to [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/) but does not list it in its references
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/) links to [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
-- [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html) links to:
-    * [`https://w3c.github.io/webauthn/`](https://w3c.github.io/webauthn/) but does not list it in its references
-    * [`https://www.w3.org/TR/webauthn/`](https://www.w3.org/TR/webauthn/) but does not list it in its references
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/) links to [`https://w3c.github.io/editing/`](https://w3c.github.io/editing/) but does not list it in its references
 - [Compatibility Standard](https://compat.spec.whatwg.org/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
@@ -1371,7 +1393,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1007 missing references for links found in 241 specifications
+=> 1005 missing references for links found in 240 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
@@ -1402,7 +1424,6 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/2009/CR-CSS2-20090423`](https://www.w3.org/TR/2009/CR-CSS2-20090423) but related reference "CSS2" uses URL [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
     * [`https://www.w3.org/TR/2009/CR-CSS2-20090908`](https://www.w3.org/TR/2009/CR-CSS2-20090908) but related reference "CSS2" uses URL [`https://www.w3.org/TR/2008/REC-CSS2-20080411/`](https://www.w3.org/TR/2008/REC-CSS2-20080411/)
     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/) but related reference "CSS3COLOR" uses URL [`https://www.w3.org/TR/2010/PR-css3-color-20101028/`](https://www.w3.org/TR/2010/PR-css3-color-20101028/)
-- [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html) links to [`https://w3c.github.io/webappsec-credential-management/`](https://w3c.github.io/webappsec-credential-management/) but related reference "CREDENTIAL-MANAGEMENT-1" uses URL [`https://www.w3.org/TR/credential-management-1/`](https://www.w3.org/TR/credential-management-1/)
 - [Compositing and Blending Level 1](https://drafts.fxtf.org/compositing-1/) links to:
     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html) but related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
@@ -1916,7 +1937,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/) links to [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 438 inconsistent references for links found in 159 specifications
+=> 437 inconsistent references for links found in 158 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
