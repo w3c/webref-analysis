@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-12T12:46:35.327Z",
+  "date": "2024-07-12T15:19:23.228Z",
   "stats": {
     "crawled": 624,
     "errors": 1,
@@ -2443,7 +2443,7 @@
         }
       ],
       "report": {
-        "error": "Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.\n        \nhttps://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:530:19\nArray.map (<anonymous>)\nserializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:524:53)\n    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:36), <anonymous>:6:28)\n    at #evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:378:56)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:273:16)\n    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:99:16)\n    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:338:20)\n    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:826:20)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
+        "error": "Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.\n        \nhttps://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:19\nArray.map (<anonymous>)\nserializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:538:53)\n    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:36), <anonymous>:6:28)\n    at #evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:378:56)\n    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:273:16)\n    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:99:16)\n    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:338:20)\n    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:826:20)\n    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:25)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3502,7 +3502,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "11 July 2024",
+      "date": "12 July 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",

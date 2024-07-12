@@ -11,9 +11,9 @@ Reffy could not fetch or render these specifications for some reason. This may h
 
 - [Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html): `Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.
         
-https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:530:19
+https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:19
 Array.map (<anonymous>)
-serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:524:53)
+serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:538:53)
     at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:36), <anonymous>:6:28)
     at #evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:378:56)
     at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:273:16)
