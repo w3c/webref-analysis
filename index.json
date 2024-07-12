@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-12T15:19:23.228Z",
+  "date": "2024-07-12T18:45:34.861Z",
   "stats": {
     "crawled": 624,
     "errors": 1,
@@ -21370,7 +21370,7 @@
     {
       "title": "CSS Viewport Module Level 1",
       "shortname": "css-viewport-1",
-      "date": "10 July 2024",
+      "date": "12 July 2024",
       "url": "https://www.w3.org/TR/css-viewport-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-viewport-1/",
@@ -23587,11 +23587,6 @@
               "url": "https://www.w3.org/TR/css-view-transitions-2/",
               "title": "CSS View Transitions Module Level 2",
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-viewport-1/",
-              "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -26194,7 +26189,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "10 July 2024",
+      "date": "12 July 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -29811,11 +29806,6 @@
               "url": "https://www.w3.org/TR/css-view-transitions-2/",
               "title": "CSS View Transitions Module Level 2",
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-viewport-1/",
-              "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -39892,7 +39882,7 @@
     {
       "title": "Prioritized Task Scheduling",
       "shortname": "scheduling-apis",
-      "date": "5 June 2024",
+      "date": "12 July 2024",
       "url": "https://wicg.github.io/scheduling-apis/",
       "nightly": {
         "url": "https://wicg.github.io/scheduling-apis/",
@@ -54500,11 +54490,6 @@
               "url": "https://www.w3.org/TR/css-view-transitions-2/",
               "title": "CSS View Transitions Module Level 2",
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-viewport-1/",
-              "title": "CSS Viewport Module Level 1",
-              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",

@@ -9277,7 +9277,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-viewport-1/](https://www.w3.org/TR/css-viewport-1/)
 - Crawled URL: [https://drafts.csswg.org/css-viewport/](https://drafts.csswg.org/css-viewport/)
-- Crawled version: 10 July 2024
+- Crawled version: 12 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-viewport/](https://drafts.csswg.org/css-viewport/)
 - Latest published version: [https://www.w3.org/TR/css-viewport-1/](https://www.w3.org/TR/css-viewport-1/)
 - Shortname: css-viewport-1
@@ -17156,7 +17156,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 10 July 2024
+- Crawled version: 12 July 2024
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -17867,7 +17867,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
 - Crawled URL: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
-- Crawled version: 5 June 2024
+- Crawled version: 12 July 2024
 - Editor's Draft: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
 - Shortname: scheduling-apis
 
@@ -19730,7 +19730,6 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
-- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Device Attributes API](https://wicg.github.io/WebApiDevice/device_attributes/)
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
@@ -20264,7 +20263,6 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
-- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
@@ -21359,7 +21357,6 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
-- [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Device Memory](https://www.w3.org/TR/device-memory/)
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
