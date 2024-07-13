@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-13T00:55:40.276Z",
+  "date": "2024-07-13T06:39:17.372Z",
   "stats": {
     "crawled": 624,
     "errors": 1,
@@ -42384,7 +42384,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "5 July 2024",
+      "date": "12 July 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
