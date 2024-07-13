@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 12, 2024
+% July 13, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -343,7 +343,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 11 July 2024
+- Crawled version: 13 July 2024
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -1013,7 +1013,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
-- Crawled version: 5 July 2024
+- Crawled version: 12 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Shortname: rfc8878
 
@@ -3521,7 +3521,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Crawled URL: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
-- Crawled version: 10 July 2024
+- Crawled version: 12 July 2024
 - Editor's Draft: [https://webaudio.github.io/web-midi-api/](https://webaudio.github.io/web-midi-api/)
 - Latest published version: [https://www.w3.org/TR/webmidi/](https://www.w3.org/TR/webmidi/)
 - Shortname: webmidi
@@ -6315,20 +6315,19 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 
 
-### CSS Functions and Mixins Module {data-spec=true data-anomaly=true data-missingDfns=true}
+### CSS Functions and Mixins Module {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
 - Crawled URL: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
-- Crawled version: 26 June 2024
+- Crawled version: 12 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
 - Shortname: css-mixins-1
 
 #### Potential issue(s) {.anomalies}
 
-- No definition for CSS constructs: 
-     * `--*()`
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6694,6 +6693,7 @@ Normative references to this spec from:
 - [CSS Borders and Box Decorations Module Level 4](https://drafts.csswg.org/css-borders-4/)
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
+- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
 - [CSS Generated Content Module Level 3](https://drafts.csswg.org/css-content-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Images Module Level 5](https://drafts.csswg.org/css-images-5/)
@@ -10749,7 +10749,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 12 July 2024
+- Crawled version: 13 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10775,7 +10775,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 12 July 2024
+- Crawled version: 13 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL

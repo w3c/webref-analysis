@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 12, 2024
+% July 13, 2024
 
 624 specifications were crawled in this report.
 
@@ -174,8 +174,6 @@ Basically all specifications have normative dependencies on some other specifica
 
 ## No definition for CSS constructs
 
-- [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/):
-    * `--*()`
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/):
     * `<radial-size>`
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/):
@@ -188,7 +186,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/):
     * `<keyframe-selector>`
 
-=> 8 constructs without definition found in 5 specifications
+=> 7 constructs without definition found in 4 specifications
 
 
 ## No definition for IDL constructs

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-12T18:45:34.861Z",
+  "date": "2024-07-13T00:55:40.276Z",
   "stats": {
     "crawled": 624,
     "errors": 1,
@@ -12102,7 +12102,7 @@
     {
       "title": "CSS Functions and Mixins Module",
       "shortname": "css-mixins-1",
-      "date": "26 June 2024",
+      "date": "12 July 2024",
       "url": "https://drafts.csswg.org/css-mixins-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-mixins-1/",
@@ -12132,15 +12132,7 @@
         "redefinedIdlNames": [],
         "missingWebIdlRef": [],
         "missingDfns": {
-          "css": [
-            {
-              "expected": {
-                "linkingText": [
-                  "--*()"
-                ]
-              }
-            }
-          ],
+          "css": [],
           "idl": []
         },
         "missingLinkRef": [],
@@ -12149,7 +12141,7 @@
           "normative": [],
           "informative": []
         },
-        "ok": false
+        "ok": true
       }
     },
     {
@@ -13226,6 +13218,11 @@
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/css-mixins-1/",
+              "title": "CSS Functions and Mixins Module",
+              "crawled": "https://drafts.csswg.org/css-mixins-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-content-3/",
@@ -24647,7 +24644,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "11 July 2024",
+      "date": "13 July 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -44513,7 +44510,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "5 July 2024",
+      "date": "12 July 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
@@ -55627,7 +55624,7 @@
     {
       "title": "Web MIDI API",
       "shortname": "webmidi",
-      "date": "10 July 2024",
+      "date": "12 July 2024",
       "url": "https://www.w3.org/TR/webmidi/",
       "release": {
         "url": "https://www.w3.org/TR/webmidi/",
@@ -59437,7 +59434,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "12 July 2024",
+      "date": "13 July 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59500,7 +59497,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "12 July 2024",
+      "date": "13 July 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
