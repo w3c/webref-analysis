@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-13T18:38:07.409Z",
+  "date": "2024-07-14T00:51:19.559Z",
   "stats": {
     "crawled": 624,
     "errors": 1,
@@ -51548,7 +51548,7 @@
     {
       "title": "Uint8Array to/from base64",
       "shortname": "tc39-arraybuffer-base64",
-      "date": "11 June 2024",
+      "date": "13 July 2024",
       "url": "https://tc39.es/proposal-arraybuffer-base64/spec/",
       "nightly": {
         "url": "https://tc39.es/proposal-arraybuffer-base64/spec/",
