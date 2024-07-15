@@ -24,8 +24,15 @@ serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scrip
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
     at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
     at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/): `Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404
+    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
+    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
+    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 156)
+    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)`
 
-=> 1 specification found
+=> 2 specifications found
 
 
 ## Specifications without normative dependencies
@@ -1081,13 +1088,6 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://w3c.github.io/contact-picker/`](https://w3c.github.io/contact-picker/) but does not list it in its references
     * [`https://www.w3.org/TR/2022/REC-payment-request-20220908/`](https://www.w3.org/TR/2022/REC-payment-request-20220908/) but does not list it in its references
 - [Performance Timeline](https://w3c.github.io/performance-timeline/) links to [`https://w3c.github.io/timing-entrytypes-registry/`](https://w3c.github.io/timing-entrytypes-registry/) but does not list it in its references
-- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/) links to:
-    * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/) but does not list it in its references
-    * [`https://www.w3.org/TR/2022/WD-png-3-20221025/`](https://www.w3.org/TR/2022/WD-png-3-20221025/) but does not list it in its references
-    * [`https://www.w3.org/TR/2023/CR-png-3-20230921/`](https://www.w3.org/TR/2023/CR-png-3-20230921/) but does not list it in its references
-    * [`https://www.w3.org/TR/2023/WD-png-3-20230720/`](https://www.w3.org/TR/2023/WD-png-3-20230720/) but does not list it in its references
-    * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/) but does not list it in its references
-    * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/) but does not list it in its references
 - [Portals](https://wicg.github.io/portals/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
 - [Private State Token API](https://wicg.github.io/trust-token-api/) links to [`https://storage.spec.whatwg.org/`](https://storage.spec.whatwg.org/) but does not list it in its references
 - [RDF 1.2 Concepts and Abstract Syntax](https://w3c.github.io/rdf-concepts/spec/) links to [`https://w3c.github.io/rdf-dir-literal/`](https://w3c.github.io/rdf-dir-literal/) but does not list it in its references
@@ -1391,7 +1391,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1005 missing references for links found in 240 specifications
+=> 999 missing references for links found in 239 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

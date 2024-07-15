@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-15T12:46:56.199Z",
+  "date": "2024-07-15T18:44:31.872Z",
   "stats": {
     "crawled": 624,
-    "errors": 1,
+    "errors": 2,
     "studied": 624
   },
   "results": [
@@ -991,7 +991,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "10 July 2024",
+      "date": "15 July 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3418,7 +3418,7 @@
     {
       "title": "Cookie Store API",
       "shortname": "cookie-store",
-      "date": "7 June 2024",
+      "date": "15 July 2024",
       "url": "https://wicg.github.io/cookie-store/",
       "nightly": {
         "url": "https://wicg.github.io/cookie-store/",
@@ -3502,7 +3502,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "13 July 2024",
+      "date": "15 July 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -16783,7 +16783,7 @@
     {
       "title": "CSS Ruby Annotation Layout Module Level 1",
       "shortname": "css-ruby-1",
-      "date": "24 January 2024",
+      "date": "15 July 2024",
       "url": "https://www.w3.org/TR/css-ruby-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-ruby-1/",
@@ -39567,6 +39567,7 @@
         }
       ],
       "report": {
+        "error": "Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 156)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40135,7 +40136,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "11 July 2024",
+      "date": "15 July 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -52538,7 +52539,7 @@
     {
       "title": "Verifiable Credential Data Integrity 1.0",
       "shortname": "vc-data-integrity",
-      "date": "09 July 2024",
+      "date": "15 July 2024",
       "url": "https://www.w3.org/TR/vc-data-integrity/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-integrity/",
@@ -52597,7 +52598,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "09 July 2024",
+      "date": "15 July 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -53690,7 +53691,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "10 July 2024",
+      "date": "15 July 2024",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
