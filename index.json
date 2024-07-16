@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-16T12:45:54.554Z",
+  "date": "2024-07-16T18:44:39.835Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -991,7 +991,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "15 July 2024",
+      "date": "16 July 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -7793,7 +7793,7 @@
     {
       "title": "CSS Color HDR Module Level 1",
       "shortname": "css-color-hdr",
-      "date": "21 June 2024",
+      "date": "16 July 2024",
       "url": "https://drafts.csswg.org/css-color-hdr/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-hdr/",
@@ -29072,7 +29072,7 @@
     {
       "title": "HTML Accessibility API Mappings 1.0",
       "shortname": "html-aam-1.0",
-      "date": "11 July 2024",
+      "date": "16 July 2024",
       "url": "https://www.w3.org/TR/html-aam-1.0/",
       "release": {
         "url": "https://www.w3.org/TR/html-aam-1.0/",
@@ -33577,7 +33577,7 @@
     {
       "title": "Intl Locale Info Proposal",
       "shortname": "tc39-intl-locale-info",
-      "date": "9 July 2024",
+      "date": "16 July 2024",
       "url": "https://tc39.es/proposal-intl-locale-info/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-locale-info/",
@@ -40136,7 +40136,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "15 July 2024",
+      "date": "16 July 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -53691,7 +53691,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "15 July 2024",
+      "date": "16 July 2024",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
