@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-16T00:52:00.610Z",
+  "date": "2024-07-16T06:41:30.515Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -29268,7 +29268,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "15 July 2024",
+      "date": "16 July 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -44511,7 +44511,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "12 July 2024",
+      "date": "16 July 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
@@ -50663,7 +50663,7 @@
     {
       "title": "The <model> element",
       "shortname": "model-element",
-      "date": "22 April 2024",
+      "date": "16 July 2024",
       "url": "https://immersive-web.github.io/model-element/",
       "nightly": {
         "url": "https://immersive-web.github.io/model-element/",
@@ -55678,7 +55678,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "12 July 2024",
+      "date": "16 July 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -56835,7 +56835,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "28 June 2024",
+      "date": "16 July 2024",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -59435,7 +59435,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "13 July 2024",
+      "date": "16 July 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59498,7 +59498,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "13 July 2024",
+      "date": "16 July 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
