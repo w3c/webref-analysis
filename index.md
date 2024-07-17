@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 16, 2024
+% July 17, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -5511,7 +5511,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-highlight-api-1/](https://www.w3.org/TR/css-highlight-api-1/)
 - Crawled URL: [https://drafts.csswg.org/css-highlight-api-1/](https://drafts.csswg.org/css-highlight-api-1/)
-- Crawled version: 5 April 2023
+- Crawled version: 16 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-highlight-api-1/](https://drafts.csswg.org/css-highlight-api-1/)
 - Latest published version: [https://www.w3.org/TR/css-highlight-api-1/](https://www.w3.org/TR/css-highlight-api-1/)
 - Shortname: css-highlight-api-1
@@ -7363,7 +7363,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
 - Crawled URL: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
-- Crawled version: 13 June 2024
+- Crawled version: 16 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
 - Shortname: css-overflow-5
 
@@ -19568,7 +19568,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Crawled URL: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
-- Crawled version: 4 June 2024
+- Crawled version: 16 July 2024
 - Editor's Draft: [https://w3c.github.io/webtransport/](https://w3c.github.io/webtransport/)
 - Latest published version: [https://www.w3.org/TR/webtransport/](https://www.w3.org/TR/webtransport/)
 - Shortname: webtransport

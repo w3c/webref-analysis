@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-16T18:44:39.835Z",
+  "date": "2024-07-17T00:55:50.946Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -9514,7 +9514,7 @@
     {
       "title": "CSS Custom Highlight API Module Level 1",
       "shortname": "css-highlight-api-1",
-      "date": "5 April 2023",
+      "date": "16 July 2024",
       "url": "https://www.w3.org/TR/css-highlight-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-highlight-api-1/",
@@ -15285,7 +15285,7 @@
     {
       "title": "CSS Overflow Module Level 5",
       "shortname": "css-overflow-5",
-      "date": "13 June 2024",
+      "date": "16 July 2024",
       "url": "https://drafts.csswg.org/css-overflow-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-overflow-5/",
@@ -60113,7 +60113,7 @@
     {
       "title": "WebTransport",
       "shortname": "webtransport",
-      "date": "4 June 2024",
+      "date": "16 July 2024",
       "url": "https://www.w3.org/TR/webtransport/",
       "release": {
         "url": "https://www.w3.org/TR/webtransport/",
