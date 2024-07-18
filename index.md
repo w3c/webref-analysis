@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 17, 2024
+% July 18, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -10749,7 +10749,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 17 July 2024
+- Crawled version: 18 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10775,7 +10775,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 17 July 2024
+- Crawled version: 18 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14132,7 +14132,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 15 July 2024
+- Crawled version: 17 July 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
