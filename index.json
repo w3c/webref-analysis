@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-18T00:51:12.815Z",
+  "date": "2024-07-18T06:40:12.693Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -28005,6 +28005,11 @@
               "url": "https://www.w3.org/TR/epub-33/",
               "title": "EPUB 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+              "title": "Prerendering Revamped",
+              "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             }
           ],
           "informative": [
@@ -29268,7 +29273,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "16 July 2024",
+      "date": "18 July 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -37615,7 +37620,7 @@
     {
       "title": "No-Vary-Search",
       "shortname": "no-vary-search",
-      "date": "19 June 2024",
+      "date": "17 July 2024",
       "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
@@ -39716,7 +39721,7 @@
     {
       "title": "Prefetch",
       "shortname": "prefetch",
-      "date": "19 June 2024",
+      "date": "17 July 2024",
       "url": "https://wicg.github.io/nav-speculation/prefetch.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
@@ -39758,7 +39763,7 @@
     {
       "title": "Prerendering Revamped",
       "shortname": "prerendering-revamped",
-      "date": "19 June 2024",
+      "date": "17 July 2024",
       "url": "https://wicg.github.io/nav-speculation/prerendering.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -49765,7 +49770,7 @@
     {
       "title": "Speculation Rules",
       "shortname": "speculation-rules",
-      "date": "19 June 2024",
+      "date": "17 July 2024",
       "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
       "nightly": {
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -50663,7 +50668,7 @@
     {
       "title": "The <model> element",
       "shortname": "model-element",
-      "date": "16 July 2024",
+      "date": "18 July 2024",
       "url": "https://immersive-web.github.io/model-element/",
       "nightly": {
         "url": "https://immersive-web.github.io/model-element/",
@@ -55678,7 +55683,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "17 July 2024",
+      "date": "18 July 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -57472,7 +57477,7 @@
     {
       "title": "WebDriver BiDi",
       "shortname": "webdriver-bidi",
-      "date": "17 July 2024",
+      "date": "18 July 2024",
       "url": "https://w3c.github.io/webdriver-bidi/",
       "nightly": {
         "url": "https://w3c.github.io/webdriver-bidi/",
