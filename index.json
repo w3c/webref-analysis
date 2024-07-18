@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-18T06:40:12.693Z",
+  "date": "2024-07-18T12:47:08.797Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -35010,7 +35010,7 @@
     {
       "title": "Media Capabilities",
       "shortname": "media-capabilities",
-      "date": "11 July 2024",
+      "date": "18 July 2024",
       "url": "https://www.w3.org/TR/media-capabilities/",
       "release": {
         "url": "https://www.w3.org/TR/media-capabilities/",
@@ -35486,11 +35486,6 @@
         "referencedBy": {
           "normative": [],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/media-capabilities/",
-              "title": "Media Capabilities",
-              "crawled": "https://w3c.github.io/media-capabilities/"
-            },
             {
               "url": "https://www.w3.org/TR/media-source-2/",
               "title": "Media Source Extensions™",
@@ -51100,7 +51095,7 @@
     {
       "title": "Trusted Types",
       "shortname": "trusted-types",
-      "date": "19 June 2024",
+      "date": "18 July 2024",
       "url": "https://www.w3.org/TR/trusted-types/",
       "release": {
         "url": "https://www.w3.org/TR/trusted-types/",
@@ -56520,7 +56515,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2",
-      "date": "2 July 2024",
+      "date": "18 July 2024",
       "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-2/",
@@ -56767,7 +56762,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "2 July 2024",
+      "date": "18 July 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -56886,7 +56881,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "2 July 2024",
+      "date": "18 July 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
