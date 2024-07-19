@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-19T01:31:11.956Z",
+  "date": "2024-07-19T06:40:33.235Z",
   "stats": {
     "crawled": 624,
-    "errors": 3,
+    "errors": 2,
     "studied": 624
   },
   "results": [
@@ -29325,7 +29325,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "18 July 2024",
+      "date": "19 July 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -54199,7 +54199,7 @@
     {
       "title": "Web IDL Standard",
       "shortname": "webidl",
-      "date": "10 July 2024",
+      "date": "19 July 2024",
       "url": "https://webidl.spec.whatwg.org/",
       "nightly": {
         "url": "https://webidl.spec.whatwg.org/",
@@ -54218,7 +54218,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://webidl.spec.whatwg.org/ triggered network error\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 179)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21) {\n  [cause]: TypeError: fetch failed\n      at node:internal/deps/undici/undici:12502:13\n      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)\n      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)\n      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:480:24)\n      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22) {\n    [cause]: ConnectTimeoutError: Connect Timeout Error\n        at onConnectTimeout (node:internal/deps/undici/undici:6635:28)\n        at node:internal/deps/undici/undici:6587:50\n        at Immediate._onImmediate (node:internal/deps/undici/undici:6619:13)\n        at process.processImmediate (node:internal/timers:478:21) {\n      code: 'UND_ERR_CONNECT_TIMEOUT'\n    }\n  }\n}",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,

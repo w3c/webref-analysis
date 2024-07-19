@@ -1,4 +1,4 @@
-% Diff between report from "July 19, 2024" and reference report from "July 18, 2024"
+% Diff between report from "July 19, 2024" and reference report from "July 19, 2024"
 % Strudy
 % July 19, 2024
 
@@ -7,7 +7,7 @@
 - Initial URL: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
 - Crawled URL: [undefined](undefined)
 - Editor's Draft: [https://webidl.spec.whatwg.org/](https://webidl.spec.whatwg.org/)
-- Spec could not be rendered: *INS* Error: Loading https://webidl.spec.whatwg.org/ triggered network error
+- Spec could not be rendered: *DEL* Error: Loading https://webidl.spec.whatwg.org/ triggered network error
     at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)

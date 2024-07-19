@@ -31,36 +31,8 @@ serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scrip
     at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
     at async Promise.all (index 156)
     at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)`
-- [Web IDL Standard](https://webidl.spec.whatwg.org/): `Error: Loading https://webidl.spec.whatwg.org/ triggered network error
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:486:19)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
-    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
-    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 179)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21) {
-  [cause]: TypeError: fetch failed
-      at node:internal/deps/undici/undici:12502:13
-      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)
-      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
-      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
-      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)
-      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)
-      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)
-      at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:480:24)
-      at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22) {
-    [cause]: ConnectTimeoutError: Connect Timeout Error
-        at onConnectTimeout (node:internal/deps/undici/undici:6635:28)
-        at node:internal/deps/undici/undici:6587:50
-        at Immediate._onImmediate (node:internal/deps/undici/undici:6619:13)
-        at process.processImmediate (node:internal/timers:478:21) {
-      code: 'UND_ERR_CONNECT_TIMEOUT'
-    }
-  }
-}`
 
-=> 3 specifications found
+=> 2 specifications found
 
 
 ## Specifications without normative dependencies
@@ -1332,6 +1304,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://notifications.spec.whatwg.org/`](https://notifications.spec.whatwg.org/) but does not list it in its references
     * [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
     * [`https://w3c.github.io/webappsec/specs/powerfulfeatures/`](https://w3c.github.io/webappsec/specs/powerfulfeatures/) but does not list it in its references
+- [Web IDL Standard](https://webidl.spec.whatwg.org/) links to [`https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/`](https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/) but does not list it in its references
 - [Web Locks API](https://w3c.github.io/web-locks/) links to [`https://www.w3.org/TR/security-privacy-questionnaire/`](https://www.w3.org/TR/security-privacy-questionnaire/) but does not list it in its references
 - [Web Periodic Background Synchronization](https://wicg.github.io/periodic-background-sync/) links to [`https://w3c.github.io/ServiceWorker/`](https://w3c.github.io/ServiceWorker/) but does not list it in its references
 - [Web Share API](https://w3c.github.io/web-share/) links to:
@@ -1418,7 +1391,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 998 missing references for links found in 238 specifications
+=> 999 missing references for links found in 239 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
