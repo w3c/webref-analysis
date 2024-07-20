@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-19T18:45:02.945Z",
+  "date": "2024-07-20T00:56:14.222Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -10519,7 +10519,7 @@
     {
       "title": "CSS Easing Functions Level 2",
       "shortname": "css-easing-2",
-      "date": "1 December 2023",
+      "date": "19 July 2024",
       "url": "https://drafts.csswg.org/css-easing-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-easing-2/",
@@ -12126,7 +12126,7 @@
     {
       "title": "CSS Functions and Mixins Module",
       "shortname": "css-mixins-1",
-      "date": "12 July 2024",
+      "date": "19 July 2024",
       "url": "https://drafts.csswg.org/css-mixins-1/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-mixins-1/",
@@ -14653,7 +14653,7 @@
     {
       "title": "CSS Nesting Module",
       "shortname": "css-nesting-1",
-      "date": "25 June 2024",
+      "date": "19 July 2024",
       "url": "https://www.w3.org/TR/css-nesting-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-nesting-1/",
@@ -16234,7 +16234,7 @@
     {
       "title": "CSS Properties and Values API Level 1",
       "shortname": "css-properties-values-api-1",
-      "date": "4 April 2024",
+      "date": "19 July 2024",
       "url": "https://www.w3.org/TR/css-properties-values-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-properties-values-api-1/",
@@ -21161,7 +21161,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "10 July 2024",
+      "date": "19 July 2024",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -24713,7 +24713,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "13 July 2024",
+      "date": "19 July 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -33651,7 +33651,7 @@
     {
       "title": "Intl Locale Info Proposal",
       "shortname": "tc39-intl-locale-info",
-      "date": "16 July 2024",
+      "date": "19 July 2024",
       "url": "https://tc39.es/proposal-intl-locale-info/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-locale-info/",

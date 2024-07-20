@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 19, 2024
+% July 20, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -343,7 +343,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 13 July 2024
+- Crawled version: 19 July 2024
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -579,7 +579,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
 - Crawled URL: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
-- Crawled version: 16 July 2024
+- Crawled version: 19 July 2024
 - Editor's Draft: [https://tc39.es/proposal-intl-locale-info/](https://tc39.es/proposal-intl-locale-info/)
 - Shortname: tc39-intl-locale-info
 
@@ -5810,7 +5810,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
 - Crawled URL: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
-- Crawled version: 1 December 2023
+- Crawled version: 19 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
 - Shortname: css-easing-2
 
@@ -6328,7 +6328,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
 - Crawled URL: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
-- Crawled version: 12 July 2024
+- Crawled version: 19 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-mixins-1/](https://drafts.csswg.org/css-mixins-1/)
 - Shortname: css-mixins-1
 
@@ -7181,7 +7181,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
 - Crawled URL: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
-- Crawled version: 25 June 2024
+- Crawled version: 19 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-nesting-1/](https://drafts.csswg.org/css-nesting-1/)
 - Latest published version: [https://www.w3.org/TR/css-nesting-1/](https://www.w3.org/TR/css-nesting-1/)
 - Shortname: css-nesting-1
@@ -7656,7 +7656,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-properties-values-api-1/](https://www.w3.org/TR/css-properties-values-api-1/)
 - Crawled URL: [https://drafts.css-houdini.org/css-properties-values-api-1/](https://drafts.css-houdini.org/css-properties-values-api-1/)
-- Crawled version: 4 April 2024
+- Crawled version: 19 July 2024
 - Editor's Draft: [https://drafts.css-houdini.org/css-properties-values-api-1/](https://drafts.css-houdini.org/css-properties-values-api-1/)
 - Latest published version: [https://www.w3.org/TR/css-properties-values-api-1/](https://www.w3.org/TR/css-properties-values-api-1/)
 - Shortname: css-properties-values-api-1
@@ -9189,7 +9189,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Crawled URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
-- Crawled version: 10 July 2024
+- Crawled version: 19 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Shortname: css-values-5
 
