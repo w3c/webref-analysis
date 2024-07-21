@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 20, 2024
+% July 21, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -14148,7 +14148,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 17 July 2024
+- Crawled version: 20 July 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
