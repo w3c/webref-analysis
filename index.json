@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-22T06:40:40.099Z",
+  "date": "2024-07-22T12:52:39.131Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -21371,7 +21371,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "19 June 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-2/",
@@ -25776,7 +25776,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media",
-      "date": "08 July 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/encrypted-media/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media/",
@@ -33735,7 +33735,7 @@
     {
       "title": "ISO BMFF Byte Stream Format",
       "shortname": "mse-byte-stream-format-isobmff",
-      "date": "04 July 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
@@ -33773,14 +33773,14 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
+          "normative": [],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
               "title": "Media Source Extensions Byte Stream Format Registry",
               "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": true
       }
@@ -36125,7 +36125,7 @@
     {
       "title": "Media Source Extensions Byte Stream Format Registry",
       "shortname": "mse-byte-stream-format-registry",
-      "date": "04 July 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
@@ -36149,7 +36149,7 @@
         }
       ],
       "report": {
-        "noNormativeRefs": false,
+        "noNormativeRefs": true,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
         "unknownExposedNames": [],
@@ -36172,7 +36172,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -36246,11 +36246,6 @@
               "crawled": "https://w3c.github.io/media-capabilities/"
             },
             {
-              "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
-              "title": "Media Source Extensions Byte Stream Format Registry",
-              "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
-            },
-            {
               "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
               "title": "MPEG Audio Byte Stream Format",
               "crawled": "https://w3c.github.io/mse-byte-stream-format-mpeg-audio/"
@@ -36276,6 +36271,11 @@
               "url": "https://w3c.github.io/media-playback-quality/",
               "title": "Media Playback Quality",
               "crawled": "https://w3c.github.io/media-playback-quality/"
+            },
+            {
+              "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
+              "title": "Media Source Extensions Byte Stream Format Registry",
+              "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
             },
             {
               "url": "https://www.w3.org/TR/webcodecs/",
@@ -37249,7 +37249,7 @@
     {
       "title": "MPEG Audio Byte Stream Format",
       "shortname": "mse-byte-stream-format-mpeg-audio",
-      "date": "04 July 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
@@ -37287,14 +37287,14 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
+          "normative": [],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
               "title": "Media Source Extensions Byte Stream Format Registry",
               "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": true
       }
@@ -37302,7 +37302,7 @@
     {
       "title": "MPEG-2 TS Byte Stream Format",
       "shortname": "mse-byte-stream-format-mp2t",
-      "date": "04 July 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
@@ -37340,14 +37340,14 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
+          "normative": [],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
               "title": "Media Source Extensions Byte Stream Format Registry",
               "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": true
       }
@@ -53754,7 +53754,7 @@
     {
       "title": "Web Audio API",
       "shortname": "webaudio",
-      "date": "16 July 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/webaudio/",
       "release": {
         "url": "https://www.w3.org/TR/webaudio/",
@@ -59677,7 +59677,7 @@
     {
       "title": "WebM Byte Stream Format",
       "shortname": "mse-byte-stream-format-webm",
-      "date": "04 July 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
@@ -59715,14 +59715,14 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
+          "normative": [],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
               "title": "Media Source Extensions Byte Stream Format Registry",
               "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
             }
-          ],
-          "informative": []
+          ]
         },
         "ok": true
       }
