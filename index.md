@@ -1853,7 +1853,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 
 No informative reference to this spec from other specs.
 
@@ -3592,7 +3594,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [Audiobooks](https://w3c.github.io/audiobooks/)
-- [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 
 No informative reference to this spec from other specs.
 
@@ -10432,7 +10433,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Crawled URL: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
-- Crawled version: 05 June 2024
+- Crawled version: 22 July 2024
 - Editor's Draft: [https://w3c.github.io/device-posture/](https://w3c.github.io/device-posture/)
 - Latest published version: [https://www.w3.org/TR/device-posture/](https://www.w3.org/TR/device-posture/)
 - Shortname: device-posture
@@ -12374,7 +12375,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
 - Crawled URL: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
-- Crawled version: 28 September 2023
+- Crawled version: 22 July 2024
 - Editor's Draft: [https://privacycg.github.io/nav-tracking-mitigations/](https://privacycg.github.io/nav-tracking-mitigations/)
 - Shortname: nav-tracking-mitigations
 
@@ -17951,7 +17952,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 16 July 2024
+- Crawled version: 22 July 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 

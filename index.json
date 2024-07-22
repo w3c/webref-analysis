@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-22T12:52:39.131Z",
+  "date": "2024-07-22T18:40:02.438Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -3493,7 +3493,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://privacycg.github.io/nav-tracking-mitigations/",
+              "title": "Navigational-Tracking Mitigations",
+              "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -22765,7 +22771,7 @@
     {
       "title": "Device Posture API",
       "shortname": "device-posture",
-      "date": "05 June 2024",
+      "date": "22 July 2024",
       "url": "https://www.w3.org/TR/device-posture/",
       "release": {
         "url": "https://www.w3.org/TR/device-posture/",
@@ -37474,7 +37480,7 @@
     {
       "title": "Navigational-Tracking Mitigations",
       "shortname": "nav-tracking-mitigations",
-      "date": "28 September 2023",
+      "date": "22 July 2024",
       "url": "https://privacycg.github.io/nav-tracking-mitigations/",
       "nightly": {
         "url": "https://privacycg.github.io/nav-tracking-mitigations/",
@@ -40194,7 +40200,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "16 July 2024",
+      "date": "22 July 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -40352,11 +40358,6 @@
               "url": "https://www.w3.org/TR/audiobooks/",
               "title": "Audiobooks",
               "crawled": "https://w3c.github.io/audiobooks/"
-            },
-            {
-              "url": "https://privacycg.github.io/nav-tracking-mitigations/",
-              "title": "Navigational-Tracking Mitigations",
-              "crawled": "https://privacycg.github.io/nav-tracking-mitigations/"
             }
           ],
           "informative": []
