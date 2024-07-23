@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-23T06:49:47.977Z",
+  "date": "2024-07-23T12:47:02.324Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -33746,7 +33746,7 @@
     {
       "title": "ISO BMFF Byte Stream Format",
       "shortname": "mse-byte-stream-format-isobmff",
-      "date": "22 July 2024",
+      "date": "23 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
@@ -36136,7 +36136,7 @@
     {
       "title": "Media Source Extensions Byte Stream Format Registry",
       "shortname": "mse-byte-stream-format-registry",
-      "date": "22 July 2024",
+      "date": "23 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
@@ -37260,7 +37260,7 @@
     {
       "title": "MPEG Audio Byte Stream Format",
       "shortname": "mse-byte-stream-format-mpeg-audio",
-      "date": "22 July 2024",
+      "date": "23 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/",
@@ -37313,7 +37313,7 @@
     {
       "title": "MPEG-2 TS Byte Stream Format",
       "shortname": "mse-byte-stream-format-mp2t",
-      "date": "22 July 2024",
+      "date": "23 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-mp2t/",
@@ -39657,7 +39657,7 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
+        "error": "Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404\n    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)\n    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)\n    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 156)\n    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40215,7 +40215,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "22 July 2024",
+      "date": "23 July 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -56919,7 +56919,7 @@
     {
       "title": "WebAssembly JavaScript Interface: Exception Handling",
       "shortname": "wasm-js-api-2-fork-exception-handling",
-      "date": "16 July 2024",
+      "date": "23 July 2024",
       "url": "https://webassembly.github.io/exception-handling/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/exception-handling/js-api/",
@@ -57385,7 +57385,7 @@
     {
       "title": "WebDriver",
       "shortname": "webdriver2",
-      "date": "17 July 2024",
+      "date": "23 July 2024",
       "url": "https://www.w3.org/TR/webdriver2/",
       "release": {
         "url": "https://www.w3.org/TR/webdriver2/",
@@ -59693,7 +59693,7 @@
     {
       "title": "WebM Byte Stream Format",
       "shortname": "mse-byte-stream-format-webm",
-      "date": "22 July 2024",
+      "date": "23 July 2024",
       "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-webm/",
