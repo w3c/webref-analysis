@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 22, 2024
+% July 23, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -10512,6 +10512,7 @@ Informative references to this spec from:
 
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
+- [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 
 
 ### Geolocation Sensor {data-spec=true data-missingDfns=true data-ok=true}
@@ -10770,7 +10771,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 18 July 2024
+- Crawled version: 22 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10796,7 +10797,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 18 July 2024
+- Crawled version: 22 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -15064,6 +15065,7 @@ Informative references to this spec from:
 
 - [Permissions](https://w3c.github.io/permissions/)
 - [Permissions Registry](https://w3c.github.io/permissions-registry/)
+- [Web Bluetooth Scanning](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 
 
 ### Image Resource {data-spec=true data-missingDfns=true data-ok=true}
@@ -15557,7 +15559,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
-- Crawled version: 15 May 2024
+- Crawled version: 22 July 2024
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/](https://webbluetoothcg.github.io/web-bluetooth/)
 - Shortname: web-bluetooth
 
@@ -15584,7 +15586,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://webbluetoothcg.github.io/web-bluetooth/scanning.html](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 - Crawled URL: [https://webbluetoothcg.github.io/web-bluetooth/scanning.html](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
-- Crawled version: 15 May 2024
+- Crawled version: 22 July 2024
 - Editor's Draft: [https://webbluetoothcg.github.io/web-bluetooth/scanning.html](https://webbluetoothcg.github.io/web-bluetooth/scanning.html)
 - Shortname: web-bluetooth-scanning
 
@@ -15912,7 +15914,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 19 July 2024
+- Crawled version: 22 July 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
