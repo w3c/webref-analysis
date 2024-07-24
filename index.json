@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-23T18:39:19.227Z",
+  "date": "2024-07-24T00:56:05.017Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -8647,7 +8647,7 @@
     {
       "title": "CSS Conditional Rules Module Level 3",
       "shortname": "css-conditional-3",
-      "date": "28 August 2023",
+      "date": "23 July 2024",
       "url": "https://www.w3.org/TR/css-conditional-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -59519,7 +59519,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "23 July 2024",
+      "date": "24 July 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59582,7 +59582,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "23 July 2024",
+      "date": "24 July 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
