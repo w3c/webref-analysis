@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 24, 2024
+% July 25, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -875,16 +875,16 @@ The following network or parsing error occurred:
 https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:550:19
 Array.map (<anonymous>)
 serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:53)
-    at evaluate (evaluate at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:36), <anonymous>:6:28)
-    at #evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:378:56)
-    at async ExecutionContext.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/ExecutionContext.js:273:16)
-    at async IsolatedWorld.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/IsolatedWorld.js:99:16)
-    at async CdpFrame.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Frame.js:338:20)
-    at async CdpPage.evaluate (/home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/cjs/puppeteer/api/Page.js:826:20)
-    at async processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:664:25)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
-    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
-    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+    at evaluate (evaluate at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:36), <anonymous>:6:28)
+    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:375:19)
+    at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)
+    at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:96:16)
+    at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:335:20)
+    at async CdpPage.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:799:20)
+    at async processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:25)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -907,7 +907,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 19 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -930,7 +930,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 18 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -960,7 +960,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 19 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -983,7 +983,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8288](https://www.rfc-editor.org/rfc/rfc8288)
 - Crawled URL: [https://httpwg.org/specs/rfc8288.html](https://httpwg.org/specs/rfc8288.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc8288.html](https://httpwg.org/specs/rfc8288.html)
 - Shortname: rfc8288
 
@@ -1013,7 +1013,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
-- Crawled version: 19 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Shortname: rfc8878
 
@@ -1057,7 +1057,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
-- Crawled version: 19 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Shortname: rfc6386
 
@@ -1087,7 +1087,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6265](https://www.rfc-editor.org/rfc/rfc6265)
 - Crawled URL: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc6265.html](https://httpwg.org/specs/rfc6265.html)
 - Shortname: rfc6265
 
@@ -1141,7 +1141,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 23 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -1166,7 +1166,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6266](https://www.rfc-editor.org/rfc/rfc6266)
 - Crawled URL: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc6266.html](https://httpwg.org/specs/rfc6266.html)
 - Shortname: rfc6266
 
@@ -1191,7 +1191,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7230](https://www.rfc-editor.org/rfc/rfc7230)
 - Crawled URL: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7230.html](https://httpwg.org/specs/rfc7230.html)
 - Shortname: rfc7230
 
@@ -1236,7 +1236,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7231](https://www.rfc-editor.org/rfc/rfc7231)
 - Crawled URL: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7231.html](https://httpwg.org/specs/rfc7231.html)
 - Shortname: rfc7231
 
@@ -1284,7 +1284,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7232](https://www.rfc-editor.org/rfc/rfc7232)
 - Crawled URL: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7232.html](https://httpwg.org/specs/rfc7232.html)
 - Shortname: rfc7232
 
@@ -1315,7 +1315,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7233](https://www.rfc-editor.org/rfc/rfc7233)
 - Crawled URL: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7233.html](https://httpwg.org/specs/rfc7233.html)
 - Shortname: rfc7233
 
@@ -1343,7 +1343,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7234](https://www.rfc-editor.org/rfc/rfc7234)
 - Crawled URL: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7234.html](https://httpwg.org/specs/rfc7234.html)
 - Shortname: rfc7234
 
@@ -1385,7 +1385,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7235](https://www.rfc-editor.org/rfc/rfc7235)
 - Crawled URL: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7235.html](https://httpwg.org/specs/rfc7235.html)
 - Shortname: rfc7235
 
@@ -1415,7 +1415,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7725](https://www.rfc-editor.org/rfc/rfc7725)
 - Crawled URL: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7725.html](https://httpwg.org/specs/rfc7725.html)
 - Shortname: rfc7725
 
@@ -1436,7 +1436,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7838](https://www.rfc-editor.org/rfc/rfc7838)
 - Crawled URL: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7838.html](https://httpwg.org/specs/rfc7838.html)
 - Shortname: rfc7838
 
@@ -1462,7 +1462,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8246](https://www.rfc-editor.org/rfc/rfc8246)
 - Crawled URL: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc8246.html](https://httpwg.org/specs/rfc8246.html)
 - Shortname: rfc8246
 
@@ -1485,7 +1485,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8297](https://www.rfc-editor.org/rfc/rfc8297)
 - Crawled URL: [https://httpwg.org/specs/rfc8297.html](https://httpwg.org/specs/rfc8297.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc8297.html](https://httpwg.org/specs/rfc8297.html)
 - Shortname: rfc8297
 
@@ -1508,7 +1508,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8470](https://www.rfc-editor.org/rfc/rfc8470)
 - Crawled URL: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc8470.html](https://httpwg.org/specs/rfc8470.html)
 - Shortname: rfc8470
 
@@ -1534,7 +1534,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 18 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1560,7 +1560,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9110](https://www.rfc-editor.org/rfc/rfc9110)
 - Crawled URL: [https://httpwg.org/specs/rfc9110.html](https://httpwg.org/specs/rfc9110.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9110.html](https://httpwg.org/specs/rfc9110.html)
 - Shortname: rfc9110
 
@@ -1611,7 +1611,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9111](https://www.rfc-editor.org/rfc/rfc9111)
 - Crawled URL: [https://httpwg.org/specs/rfc9111.html](https://httpwg.org/specs/rfc9111.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9111.html](https://httpwg.org/specs/rfc9111.html)
 - Shortname: rfc9111
 
@@ -1641,7 +1641,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9112](https://www.rfc-editor.org/rfc/rfc9112)
 - Crawled URL: [https://httpwg.org/specs/rfc9112.html](https://httpwg.org/specs/rfc9112.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9112.html](https://httpwg.org/specs/rfc9112.html)
 - Shortname: rfc9112
 
@@ -1671,7 +1671,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9113](https://www.rfc-editor.org/rfc/rfc9113)
 - Crawled URL: [https://httpwg.org/specs/rfc9113.html](https://httpwg.org/specs/rfc9113.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9113.html](https://httpwg.org/specs/rfc9113.html)
 - Shortname: rfc9113
 
@@ -1699,7 +1699,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 19 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1722,7 +1722,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9218](https://www.rfc-editor.org/rfc/rfc9218)
 - Crawled URL: [https://httpwg.org/specs/rfc9218.html](https://httpwg.org/specs/rfc9218.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9218.html](https://httpwg.org/specs/rfc9218.html)
 - Shortname: rfc9218
 
@@ -1747,7 +1747,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9530](https://www.rfc-editor.org/rfc/rfc9530)
 - Crawled URL: [https://httpwg.org/specs/rfc9530.html](https://httpwg.org/specs/rfc9530.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9530.html](https://httpwg.org/specs/rfc9530.html)
 - Shortname: rfc9530
 
@@ -1770,7 +1770,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7616](https://www.rfc-editor.org/rfc/rfc7616)
 - Crawled URL: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7616.html](https://httpwg.org/specs/rfc7616.html)
 - Shortname: rfc7616
 
@@ -1794,7 +1794,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7617](https://www.rfc-editor.org/rfc/rfc7617)
 - Crawled URL: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc7617.html](https://httpwg.org/specs/rfc7617.html)
 - Shortname: rfc7617
 
@@ -1866,7 +1866,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 18 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1902,7 +1902,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 18 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1925,7 +1925,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9114](https://www.rfc-editor.org/rfc/rfc9114)
 - Crawled URL: [https://httpwg.org/specs/rfc9114.html](https://httpwg.org/specs/rfc9114.html)
-- Crawled version: 30 May 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://httpwg.org/specs/rfc9114.html](https://httpwg.org/specs/rfc9114.html)
 - Shortname: rfc9114
 
@@ -1955,7 +1955,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 18 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1996,7 +1996,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 18 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -2030,7 +2030,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 19 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -2057,7 +2057,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 18 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -2196,7 +2196,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - Shortname: ANGLE_instanced_arrays
 
@@ -2217,7 +2217,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - Shortname: EXT_blend_minmax
 
@@ -2238,7 +2238,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - Shortname: EXT_color_buffer_float
 
@@ -2259,7 +2259,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - Shortname: EXT_color_buffer_half_float
 
@@ -2280,7 +2280,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
 - Shortname: EXT_disjoint_timer_query
 
@@ -2301,7 +2301,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Shortname: EXT_disjoint_timer_query_webgl2
 
@@ -2322,7 +2322,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
 - Shortname: EXT_float_blend
 
@@ -2343,7 +2343,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
 - Shortname: EXT_frag_depth
 
@@ -2364,7 +2364,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
 - Shortname: EXT_shader_texture_lod
 
@@ -2385,7 +2385,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
 - Shortname: EXT_sRGB
 
@@ -2406,7 +2406,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
 - Shortname: EXT_texture_compression_bptc
 
@@ -2427,7 +2427,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
 - Shortname: EXT_texture_compression_rgtc
 
@@ -2448,7 +2448,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Shortname: EXT_texture_filter_anisotropic
 
@@ -2469,7 +2469,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
 - Shortname: EXT_texture_norm16
 
@@ -2490,7 +2490,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
 - Shortname: KHR_parallel_shader_compile
 
@@ -2511,7 +2511,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
 - Shortname: OES_draw_buffers_indexed
 
@@ -2532,7 +2532,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
 - Shortname: OES_element_index_uint
 
@@ -2553,7 +2553,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
 - Shortname: OES_fbo_render_mipmap
 
@@ -2574,7 +2574,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
 - Shortname: OES_standard_derivatives
 
@@ -2595,7 +2595,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
 - Shortname: OES_texture_float
 
@@ -2616,7 +2616,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
 - Shortname: OES_texture_float_linear
 
@@ -2637,7 +2637,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
 - Shortname: OES_texture_half_float
 
@@ -2658,7 +2658,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
 - Shortname: OES_texture_half_float_linear
 
@@ -2679,7 +2679,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - Shortname: OES_vertex_array_object
 
@@ -2700,7 +2700,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - Shortname: OVR_multiview2
 
@@ -2741,7 +2741,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Shortname: WEBGL_blend_equation_advanced_coherent
 
@@ -2762,7 +2762,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - Shortname: WEBGL_clip_cull_distance
 
@@ -2783,7 +2783,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - Shortname: WEBGL_color_buffer_float
 
@@ -2804,7 +2804,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Shortname: WEBGL_compressed_texture_astc
 
@@ -2825,7 +2825,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Shortname: WEBGL_compressed_texture_etc
 
@@ -2846,7 +2846,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Shortname: WEBGL_compressed_texture_etc1
 
@@ -2867,7 +2867,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Shortname: WEBGL_compressed_texture_pvrtc
 
@@ -2888,7 +2888,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Shortname: WEBGL_compressed_texture_s3tc
 
@@ -2909,7 +2909,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Shortname: WEBGL_compressed_texture_s3tc_srgb
 
@@ -2930,7 +2930,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
 - Shortname: WEBGL_debug_renderer_info
 
@@ -2951,7 +2951,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
 - Shortname: WEBGL_debug_shaders
 
@@ -2972,7 +2972,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
 - Shortname: WEBGL_depth_texture
 
@@ -2993,7 +2993,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
 - Shortname: WEBGL_draw_buffers
 
@@ -3014,7 +3014,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_draw_instanced_base_vertex_base_instance
 
@@ -3035,7 +3035,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - Shortname: WEBGL_lose_context
 
@@ -3056,7 +3056,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - Shortname: WEBGL_multi_draw
 
@@ -3077,7 +3077,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_multi_draw_instanced_base_vertex_base_instance
 
@@ -3098,7 +3098,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
-- Crawled version: 10 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - Shortname: WEBGL_provoking_vertex
 
@@ -3729,7 +3729,7 @@ Informative references to this spec from:
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
 
 
-### Compositing and Blending Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Compositing and Blending Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -3742,16 +3742,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/compositing-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -3770,7 +3768,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Compositing and Blending Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Compositing and Blending Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -3782,20 +3780,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://dom.spec.whatwg.org/`](https://dom.spec.whatwg.org/)
-     * [`https://www.w3.org/TR/2013/WD-compositing-1-20130625/`](https://www.w3.org/TR/2013/WD-compositing-1-20130625/)
-     * [`https://www.w3.org/TR/2013/WD-compositing-1-20131010/`](https://www.w3.org/TR/2013/WD-compositing-1-20131010/)
-     * [`https://www.w3.org/TR/2014/CR-compositing-1-20140220/`](https://www.w3.org/TR/2014/CR-compositing-1-20140220/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/css3-color/`](https://www.w3.org/TR/css3-color/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html`](https://www.w3.org/TR/2003/REC-SVG11-20030114/masking.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/compositing-2/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -4004,7 +3996,7 @@ Informative references to this spec from:
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 
 
-### CSS Animation Worklet API {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Animation Worklet API {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -4017,7 +4009,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/css-animationworklet-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 324)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5056,7 +5057,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 22 June 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5224,7 +5225,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
-- Crawled version: 23 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Shortname: css-conditional-3
@@ -5301,7 +5302,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### CSS Conditional Rules Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Conditional Rules Module Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -5320,8 +5321,6 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2021/WD-css-conditional-5-20211221/`](https://www.w3.org/TR/2021/WD-css-conditional-5-20211221/), related reference "CSS-CONDITIONAL-5" uses URL [`https://www.w3.org/TR/css-conditional-5/`](https://www.w3.org/TR/css-conditional-5/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5330,7 +5329,6 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
 - [CSS Cascading and Inheritance Level 6](https://drafts.csswg.org/css-cascade-6/)
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 
@@ -5872,7 +5870,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css3-exclusions/](https://www.w3.org/TR/css3-exclusions/)
 - Crawled URL: [https://drafts.csswg.org/css-exclusions-1/](https://drafts.csswg.org/css-exclusions-1/)
-- Crawled version: 5 March 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-exclusions-1/](https://drafts.csswg.org/css-exclusions-1/)
 - Latest published version: [https://www.w3.org/TR/css3-exclusions/](https://www.w3.org/TR/css3-exclusions/)
 - Shortname: css3-exclusions
@@ -5921,7 +5919,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Fill and Stroke Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS Fill and Stroke Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -5934,12 +5932,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 432)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6817,7 +6819,7 @@ Informative references to this spec from:
 - [CSS Line Grid Module Level 1](https://drafts.csswg.org/css-line-grid-1/)
 
 
-### CSS Layout API Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS Layout API Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -6830,8 +6832,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/css-layout-api-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 361)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -6999,7 +7009,7 @@ Informative references to this spec from:
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 
 
-### CSS Masking Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### CSS Masking Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7012,21 +7022,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/2012/WD-css-masking-20121115/`](https://www.w3.org/TR/2012/WD-css-masking-20121115/)
-     * [`https://www.w3.org/TR/2013/WD-css-masking-20130620/`](https://www.w3.org/TR/2013/WD-css-masking-20130620/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/)
-     * [`https://www.w3.org/TR/css3-background/`](https://www.w3.org/TR/css3-background/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/coords.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/painting.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/css-masking-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 365)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7514,7 +7519,7 @@ Informative references to this spec from:
 - [CSS Rhythmic Sizing](https://drafts.csswg.org/css-rhythm-1/)
 
 
-### CSS Painting API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Painting API Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7527,7 +7532,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/css-paint-api-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 375)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -7651,7 +7665,7 @@ Informative references to this spec from:
 - [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 
 
-### CSS Properties and Values API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Properties and Values API Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -7664,7 +7678,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/css-properties-values-api-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 377)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8827,7 +8850,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### CSS Typed OM Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Typed OM Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8840,7 +8863,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 403)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -8862,7 +8894,7 @@ Informative references to this spec from:
 - [CSS Scoping Module Level 1](https://drafts.csswg.org/css-scoping-1/)
 
 
-### CSS Typed OM Level 2 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Typed OM Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -8874,7 +8906,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/css-typed-om-2/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9577,7 +9616,7 @@ Informative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 
 
-### Filter Effects Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Filter Effects Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9590,17 +9629,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html`](http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/intro.html)
-     * [`https://www.w3.org/TR/2012/WD-filter-effects-20121025/`](https://www.w3.org/TR/2012/WD-filter-effects-20121025/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/intro.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/struct.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html`](https://www.w3.org/TR/2011/REC-SVG11-20110816/styling.html), related reference "SVG11" uses URL [`https://www.w3.org/TR/SVG11/`](https://www.w3.org/TR/SVG11/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/filter-effects-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 433)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9626,7 +9664,7 @@ Informative references to this spec from:
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
 
-### Filter Effects Module Level 2 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Filter Effects Module Level 2 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9638,12 +9676,14 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/filter-effects-2/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9657,7 +9697,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Font Metrics API Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Font Metrics API Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9669,7 +9709,14 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.css-houdini.org/font-metrics-api-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9678,7 +9725,7 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### Geometry Interfaces Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### Geometry Interfaces Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9691,7 +9738,16 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/geometry-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 439)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9877,7 +9933,7 @@ Informative references to this spec from:
 - [CSS Round Display Level 1](https://drafts.csswg.org/css-round-display-1/)
 
 
-### Motion Path Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Motion Path Module Level 1 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -9890,13 +9946,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/`](https://www.w3.org/TR/2016/WD-css-round-display-1-20160301/)
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
-- Inconsistent references for links: 
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS3VAL" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/motion-1/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 479)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -11510,7 +11569,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Crawled URL: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
-- Crawled version: 10 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://w3c.github.io/mathml-core/](https://w3c.github.io/mathml-core/)
 - Latest published version: [https://www.w3.org/TR/mathml-core/](https://www.w3.org/TR/mathml-core/)
 - Shortname: mathml-core
@@ -11755,7 +11814,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/media-capabilities/](https://www.w3.org/TR/media-capabilities/)
 - Crawled URL: [https://w3c.github.io/media-capabilities/](https://w3c.github.io/media-capabilities/)
-- Crawled version: 18 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://w3c.github.io/media-capabilities/](https://w3c.github.io/media-capabilities/)
 - Latest published version: [https://www.w3.org/TR/media-capabilities/](https://www.w3.org/TR/media-capabilities/)
 - Shortname: media-capabilities
@@ -12307,12 +12366,10 @@ Informative references to this spec from:
 
 The following network or parsing error occurred:
 `Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404
-    at processSpecification (/home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:489:19)
-    at async crawlSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
-    at async processSpec (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:349:22)
-    at async ThrottledQueue.runThrottled (/home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 156)
-    at async crawlList (/home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:370:21)`
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -13413,7 +13470,7 @@ Informative references to this spec from:
 
 ## SVG Working Group {#group-svg_working_group}
 
-### CSS Fill and Stroke Module Level 3 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### CSS Fill and Stroke Module Level 3 {data-spec=true data-error=true}
 
 #### Spec info {.info}
 
@@ -13426,12 +13483,16 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
-     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
-     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
-     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
+The following network or parsing error occurred:
+`Error: Loading https://drafts.fxtf.org/fill-stroke-3/ triggered HTTP status 504
+    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
+    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
+    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 432)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+
+Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -14150,7 +14211,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 21 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
@@ -14368,7 +14429,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
-- Crawled version: 13 June 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
 - Latest published version: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
 - Shortname: credential-management-1
@@ -14486,6 +14547,7 @@ Normative references to this spec from:
 - [Background Fetch](https://wicg.github.io/background-fetch/)
 - [Badging API](https://w3c.github.io/badging/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [File System Access](https://wicg.github.io/file-system-access/)
 - [File System Standard](https://fs.spec.whatwg.org/)
@@ -14542,7 +14604,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
-- Crawled version: 23 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://w3c.github.io/webappsec-permissions-policy/](https://w3c.github.io/webappsec-permissions-policy/)
 - Latest published version: [https://www.w3.org/TR/permissions-policy-1/](https://www.w3.org/TR/permissions-policy-1/)
 - Shortname: permissions-policy-1
@@ -14563,7 +14625,6 @@ Normative references to this spec from:
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Client Hints Infrastructure](https://wicg.github.io/client-hints-infrastructure/)
 - [Compute Pressure Level 1](https://w3c.github.io/compute-pressure/)
-- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Spatial Navigation Level 1](https://drafts.csswg.org/css-nav-1/)
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [Digital Credentials](https://wicg.github.io/digital-credentials)
@@ -16988,7 +17049,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 
 No informative reference to this spec from other specs.
 
@@ -17956,7 +18019,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 23 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -19261,7 +19324,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 5 July 2024
+- Crawled version: 24 July 2024
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-2-fork-gc
 
@@ -20186,7 +20249,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 19 July 2024
+- Crawled version: 25 July 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 
