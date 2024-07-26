@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-26T06:41:12.573Z",
+  "date": "2024-07-26T12:50:47.752Z",
   "stats": {
     "crawled": 624,
     "errors": 2,
@@ -3691,7 +3691,7 @@
     {
       "title": "Credential Management Level 1",
       "shortname": "credential-management-1",
-      "date": "24 July 2024",
+      "date": "26 July 2024",
       "url": "https://www.w3.org/TR/credential-management-1/",
       "release": {
         "url": "https://www.w3.org/TR/credential-management-1/",
@@ -5188,7 +5188,7 @@
     {
       "title": "CSS Basic User Interface Module Level 4",
       "shortname": "css-ui-4",
-      "date": "17 June 2024",
+      "date": "26 July 2024",
       "url": "https://www.w3.org/TR/css-ui-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-ui-4/",
@@ -9531,7 +9531,7 @@
     {
       "title": "CSS Custom Highlight API Module Level 1",
       "shortname": "css-highlight-api-1",
-      "date": "16 July 2024",
+      "date": "26 July 2024",
       "url": "https://www.w3.org/TR/css-highlight-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-highlight-api-1/",
@@ -13396,7 +13396,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "24 January 2024",
+      "date": "26 July 2024",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -13692,7 +13692,7 @@
     {
       "title": "CSS Line Grid Module Level 1",
       "shortname": "css-line-grid-1",
-      "date": "24 January 2024",
+      "date": "26 July 2024",
       "url": "https://www.w3.org/TR/css-line-grid-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-line-grid-1/",
@@ -21272,11 +21272,6 @@
             }
           ],
           "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-sizing-4/",
-              "title": "CSS Box Sizing Module Level 4",
-              "crawled": "https://drafts.csswg.org/css-sizing-4/"
-            },
             {
               "url": "https://www.w3.org/TR/css-syntax-3/",
               "title": "CSS Syntax Module Level 3",
@@ -59517,7 +59512,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59580,7 +59575,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
