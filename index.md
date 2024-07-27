@@ -11315,6 +11315,7 @@ Normative references to this spec from:
 
 - [JSON-LD 1.1](https://w3c.github.io/json-ld-syntax/)
 - [JSON-LD 1.1 Framing](https://w3c.github.io/json-ld-framing/)
+- [Verifiable Credential Data Integrity 1.0](https://w3c.github.io/vc-data-integrity/)
 - [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/)
 
 No informative reference to this spec from other specs.
@@ -14356,7 +14357,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Crawled URL: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
-- Crawled version: 25 July 2024
+- Crawled version: 27 July 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
 - Latest published version: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Shortname: vc-data-integrity
