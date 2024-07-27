@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 26, 2024
+% July 27, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -456,6 +456,7 @@ Normative references to this spec from:
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/)
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
@@ -803,7 +804,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 
 No informative reference to this spec from other specs.
 
@@ -876,7 +879,7 @@ https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/_
 Array.map (<anonymous>)
 serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:53)
     at evaluate (evaluate at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:36), <anonymous>:6:28)
-    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:375:19)
+    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:383:19)
     at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)
     at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:96:16)
     at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:335:20)
@@ -2196,7 +2199,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/](https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/)
 - Shortname: ANGLE_instanced_arrays
 
@@ -2217,7 +2220,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/](https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/)
 - Shortname: EXT_blend_minmax
 
@@ -2238,7 +2241,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/)
 - Shortname: EXT_color_buffer_float
 
@@ -2259,7 +2262,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/](https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/)
 - Shortname: EXT_color_buffer_half_float
 
@@ -2280,7 +2283,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/)
 - Shortname: EXT_disjoint_timer_query
 
@@ -2301,7 +2304,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/](https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/)
 - Shortname: EXT_disjoint_timer_query_webgl2
 
@@ -2322,7 +2325,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_float_blend/](https://registry.khronos.org/webgl/extensions/EXT_float_blend/)
 - Shortname: EXT_float_blend
 
@@ -2343,7 +2346,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_frag_depth/](https://registry.khronos.org/webgl/extensions/EXT_frag_depth/)
 - Shortname: EXT_frag_depth
 
@@ -2364,7 +2367,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/](https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/)
 - Shortname: EXT_shader_texture_lod
 
@@ -2385,7 +2388,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_sRGB/](https://registry.khronos.org/webgl/extensions/EXT_sRGB/)
 - Shortname: EXT_sRGB
 
@@ -2406,7 +2409,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/)
 - Shortname: EXT_texture_compression_bptc
 
@@ -2427,7 +2430,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/](https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/)
 - Shortname: EXT_texture_compression_rgtc
 
@@ -2448,7 +2451,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/](https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/)
 - Shortname: EXT_texture_filter_anisotropic
 
@@ -2469,7 +2472,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/](https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/)
 - Shortname: EXT_texture_norm16
 
@@ -2490,7 +2493,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/](https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/)
 - Shortname: KHR_parallel_shader_compile
 
@@ -2511,7 +2514,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/](https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/)
 - Shortname: OES_draw_buffers_indexed
 
@@ -2532,7 +2535,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_element_index_uint/](https://registry.khronos.org/webgl/extensions/OES_element_index_uint/)
 - Shortname: OES_element_index_uint
 
@@ -2553,7 +2556,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/](https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/)
 - Shortname: OES_fbo_render_mipmap
 
@@ -2574,7 +2577,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/](https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/)
 - Shortname: OES_standard_derivatives
 
@@ -2595,7 +2598,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float/](https://registry.khronos.org/webgl/extensions/OES_texture_float/)
 - Shortname: OES_texture_float
 
@@ -2616,7 +2619,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/)
 - Shortname: OES_texture_float_linear
 
@@ -2637,7 +2640,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float/)
 - Shortname: OES_texture_half_float
 
@@ -2658,7 +2661,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/](https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/)
 - Shortname: OES_texture_half_float_linear
 
@@ -2679,7 +2682,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/](https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/)
 - Shortname: OES_vertex_array_object
 
@@ -2700,7 +2703,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/OVR_multiview2/](https://registry.khronos.org/webgl/extensions/OVR_multiview2/)
 - Shortname: OVR_multiview2
 
@@ -2741,7 +2744,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/](https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/)
 - Shortname: WEBGL_blend_equation_advanced_coherent
 
@@ -2762,7 +2765,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/](https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/)
 - Shortname: WEBGL_clip_cull_distance
 
@@ -2783,7 +2786,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/](https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/)
 - Shortname: WEBGL_color_buffer_float
 
@@ -2804,7 +2807,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/)
 - Shortname: WEBGL_compressed_texture_astc
 
@@ -2825,7 +2828,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/)
 - Shortname: WEBGL_compressed_texture_etc
 
@@ -2846,7 +2849,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/)
 - Shortname: WEBGL_compressed_texture_etc1
 
@@ -2867,7 +2870,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/)
 - Shortname: WEBGL_compressed_texture_pvrtc
 
@@ -2888,7 +2891,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/)
 - Shortname: WEBGL_compressed_texture_s3tc
 
@@ -2909,7 +2912,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/](https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/)
 - Shortname: WEBGL_compressed_texture_s3tc_srgb
 
@@ -2930,7 +2933,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/)
 - Shortname: WEBGL_debug_renderer_info
 
@@ -2951,7 +2954,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/](https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/)
 - Shortname: WEBGL_debug_shaders
 
@@ -2972,7 +2975,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/](https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/)
 - Shortname: WEBGL_depth_texture
 
@@ -2993,7 +2996,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/)
 - Shortname: WEBGL_draw_buffers
 
@@ -3014,7 +3017,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_draw_instanced_base_vertex_base_instance
 
@@ -3035,7 +3038,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/](https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/)
 - Shortname: WEBGL_lose_context
 
@@ -3056,7 +3059,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/)
 - Shortname: WEBGL_multi_draw
 
@@ -3077,7 +3080,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - Shortname: WEBGL_multi_draw_instanced_base_vertex_base_instance
 
@@ -3098,7 +3101,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - Crawled URL: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
-- Crawled version: 25 July 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 - Shortname: WEBGL_provoking_vertex
 
@@ -7996,10 +7999,11 @@ Informative references to this spec from:
 
 #### Spec info {.info}
 
-- Initial URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
+- Initial URL: [https://www.w3.org/TR/css-scroll-snap-2/](https://www.w3.org/TR/css-scroll-snap-2/)
 - Crawled URL: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
 - Crawled version: 19 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-scroll-snap-2/](https://drafts.csswg.org/css-scroll-snap-2/)
+- Latest published version: [https://www.w3.org/TR/css-scroll-snap-2/](https://www.w3.org/TR/css-scroll-snap-2/)
 - Shortname: css-scroll-snap-2
 
 #### Potential issue(s) {.anomalies}
@@ -10768,7 +10772,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 26 July 2024
+- Crawled version: 27 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10794,7 +10798,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 26 July 2024
+- Crawled version: 27 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -10812,155 +10816,6 @@ Normative references to this spec from:
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
 
 No informative reference to this spec from other specs.
-
-
-## HTML Media Extensions Working Group {#group-html_media_extensions_working_group}
-
-### Encrypted Media Extensions {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
-- Crawled URL: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
-- Crawled version: 22 July 2024
-- Editor's Draft: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
-- Latest published version: [https://www.w3.org/TR/encrypted-media/](https://www.w3.org/TR/encrypted-media/)
-- Shortname: encrypted-media
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Media Capabilities](https://w3c.github.io/media-capabilities/)
-- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
-
-Informative references to this spec from:
-
-- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
-
-
-### ISO BMFF Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
-- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
-- Crawled version: 23 July 2024
-- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
-- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
-- Shortname: mse-byte-stream-format-isobmff
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
-
-
-### Media Source Extensions Byte Stream Format Registry {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
-- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
-- Crawled version: 23 July 2024
-- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
-- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
-- Shortname: mse-byte-stream-format-registry
-
-#### Potential issue(s) {.anomalies}
-
-- No normative references found
-
-#### Known dependencies on this specification {.dependencies}
-
-Normative references to this spec from:
-
-- [Media Source Extensions™](https://w3c.github.io/media-source/)
-
-No informative reference to this spec from other specs.
-
-
-### MPEG Audio Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
-- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
-- Crawled version: 23 July 2024
-- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
-- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
-- Shortname: mse-byte-stream-format-mpeg-audio
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
-
-
-### MPEG-2 TS Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
-- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
-- Crawled version: 23 July 2024
-- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
-- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
-- Shortname: mse-byte-stream-format-mp2t
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
-
-
-### WebM Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
-
-#### Spec info {.info}
-
-- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
-- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
-- Crawled version: 23 July 2024
-- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
-- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
-- Shortname: mse-byte-stream-format-webm
-
-#### Potential issue(s) {.anomalies}
-
-This specification looks good!
-
-#### Known dependencies on this specification {.dependencies}
-
-No normative reference to this spec from other specs.
-
-Informative references to this spec from:
-
-- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
 
 
 ## Immersive Web Community Group {#group-immersive_web_community_group}
@@ -11445,7 +11300,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
 - Crawled URL: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
-- Crawled version: 21 May 2024
+- Crawled version: 26 July 2024
 - Editor's Draft: [https://w3c.github.io/json-ld-api/](https://w3c.github.io/json-ld-api/)
 - Latest published version: [https://www.w3.org/TR/json-ld11-api/](https://www.w3.org/TR/json-ld11-api/)
 - Shortname: json-ld11-api
@@ -11534,6 +11389,86 @@ Informative references to this spec from:
 
 
 ## Media Working Group {#group-media_working_group}
+
+### "cenc" Initialization Data Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/eme-initdata-cenc/](https://www.w3.org/TR/eme-initdata-cenc/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html](https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html](https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html)
+- Latest published version: [https://www.w3.org/TR/eme-initdata-cenc/](https://www.w3.org/TR/eme-initdata-cenc/)
+- Shortname: eme-initdata-cenc
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [ISO Common Encryption Protection Scheme for ISO Base Media File Format Stream Format](https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html)
+
+Informative references to this spec from:
+
+- ["keyids" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html)
+- [Encrypted Media Extensions Initialization Data Format Registry](https://w3c.github.io/encrypted-media/format-registry/initdata/)
+
+
+### "keyids" Initialization Data Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/eme-initdata-keyids/](https://www.w3.org/TR/eme-initdata-keyids/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html](https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html](https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html)
+- Latest published version: [https://www.w3.org/TR/eme-initdata-keyids/](https://www.w3.org/TR/eme-initdata-keyids/)
+- Shortname: eme-initdata-keyids
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+
+Informative references to this spec from:
+
+- ["cenc" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html)
+- [Encrypted Media Extensions Initialization Data Format Registry](https://w3c.github.io/encrypted-media/format-registry/initdata/)
+
+
+### "webm" Initialization Data Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/eme-initdata-webm/](https://www.w3.org/TR/eme-initdata-webm/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html](https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html](https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html)
+- Latest published version: [https://www.w3.org/TR/eme-initdata-webm/](https://www.w3.org/TR/eme-initdata-webm/)
+- Shortname: eme-initdata-webm
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [WebM Stream Format](https://w3c.github.io/encrypted-media/format-registry/stream/webm.html)
+
+Informative references to this spec from:
+
+- [Encrypted Media Extensions Initialization Data Format Registry](https://w3c.github.io/encrypted-media/format-registry/initdata/)
+
 
 ### A-law PCM WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
 
@@ -11674,6 +11609,111 @@ Informative references to this spec from:
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
 
 
+### Encrypted Media Extensions {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/encrypted-media-2/](https://www.w3.org/TR/encrypted-media-2/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/](https://w3c.github.io/encrypted-media/)
+- Latest published version: [https://www.w3.org/TR/encrypted-media-2/](https://www.w3.org/TR/encrypted-media-2/)
+- Shortname: encrypted-media-2
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2017/REC-encrypted-media-20170918/`](https://www.w3.org/TR/2017/REC-encrypted-media-20170918/)
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Media Capabilities](https://w3c.github.io/media-capabilities/)
+- [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+
+Informative references to this spec from:
+
+- [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
+
+
+### Encrypted Media Extensions HDCP Version Registry {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/eme-hdcp-version-registry/](https://www.w3.org/TR/eme-hdcp-version-registry/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/hdcp-version-registry.html](https://w3c.github.io/encrypted-media/hdcp-version-registry.html)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/hdcp-version-registry.html](https://w3c.github.io/encrypted-media/hdcp-version-registry.html)
+- Latest published version: [https://www.w3.org/TR/eme-hdcp-version-registry/](https://www.w3.org/TR/eme-hdcp-version-registry/)
+- Shortname: eme-hdcp-version-registry
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+
+
+### Encrypted Media Extensions Initialization Data Format Registry {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/eme-initdata-registry/](https://www.w3.org/TR/eme-initdata-registry/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/format-registry/initdata/](https://w3c.github.io/encrypted-media/format-registry/initdata/)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/format-registry/initdata/](https://w3c.github.io/encrypted-media/format-registry/initdata/)
+- Latest published version: [https://www.w3.org/TR/eme-initdata-registry/](https://www.w3.org/TR/eme-initdata-registry/)
+- Shortname: eme-initdata-registry
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [ISO Common Encryption Protection Scheme for ISO Base Media File Format Stream Format](https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html)
+- [WebM Stream Format](https://w3c.github.io/encrypted-media/format-registry/stream/webm.html)
+
+No informative reference to this spec from other specs.
+
+
+### Encrypted Media Extensions Stream Format Registry {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/eme-stream-registry/](https://www.w3.org/TR/eme-stream-registry/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/format-registry/stream/](https://w3c.github.io/encrypted-media/format-registry/stream/)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/format-registry/stream/](https://w3c.github.io/encrypted-media/format-registry/stream/)
+- Latest published version: [https://www.w3.org/TR/eme-stream-registry/](https://www.w3.org/TR/eme-stream-registry/)
+- Shortname: eme-stream-registry
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- ["cenc" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html)
+- ["webm" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html)
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/)
+- [Encrypted Media Extensions Initialization Data Format Registry](https://w3c.github.io/encrypted-media/format-registry/initdata/)
+
+
 ### FLAC WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
@@ -11720,6 +11760,55 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### ISO BMFF Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
+- Crawled version: 23 July 2024
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-isobmff/](https://w3c.github.io/mse-byte-stream-format-isobmff/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-isobmff/](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
+- Shortname: mse-byte-stream-format-isobmff
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
+
+
+### ISO Common Encryption Protection Scheme for ISO Base Media File Format Stream Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/eme-stream-mp4/](https://www.w3.org/TR/eme-stream-mp4/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html](https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html](https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html)
+- Latest published version: [https://www.w3.org/TR/eme-stream-mp4/](https://www.w3.org/TR/eme-stream-mp4/)
+- Shortname: eme-stream-mp4
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- ["cenc" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html)
+- [Encrypted Media Extensions Stream Format Registry](https://w3c.github.io/encrypted-media/format-registry/stream/)
 
 
 ### Linear PCM WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
@@ -11821,6 +11910,30 @@ Informative references to this spec from:
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
 
 
+### Media Source Extensions Byte Stream Format Registry {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
+- Crawled version: 23 July 2024
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-registry/](https://w3c.github.io/mse-byte-stream-format-registry/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-registry/](https://www.w3.org/TR/mse-byte-stream-format-registry/)
+- Shortname: mse-byte-stream-format-registry
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+Normative references to this spec from:
+
+- [Media Source Extensions™](https://w3c.github.io/media-source/)
+
+No informative reference to this spec from other specs.
+
+
 ### Media Source Extensions™ {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
@@ -11881,6 +11994,54 @@ No normative reference to this spec from other specs.
 Informative references to this spec from:
 
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+
+
+### MPEG Audio Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
+- Crawled version: 23 July 2024
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mpeg-audio/](https://w3c.github.io/mse-byte-stream-format-mpeg-audio/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/](https://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/)
+- Shortname: mse-byte-stream-format-mpeg-audio
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
+
+
+### MPEG-2 TS Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
+- Crawled version: 23 July 2024
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-mp2t/](https://w3c.github.io/mse-byte-stream-format-mp2t/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-mp2t/](https://www.w3.org/TR/mse-byte-stream-format-mp2t/)
+- Shortname: mse-byte-stream-format-mp2t
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
 
 
 ### Opus WebCodecs Registration {data-spec=true data-missingDfns=true data-ok=true}
@@ -12065,13 +12226,13 @@ Normative references to this spec from:
 - [VP8 WebCodecs Registration](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
 - [VP9 WebCodecs Registration](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
 - [WebCodecs Codec Registry](https://w3c.github.io/webcodecs/codec_registry.html)
+- [WebCodecs VideoFrame Metadata Registry](https://w3c.github.io/webcodecs/video_frame_metadata_registry.html)
 - [WebGPU](https://gpuweb.github.io/gpuweb/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 
 Informative references to this spec from:
 
 - [Web Audio API](https://webaudio.github.io/web-audio-api/)
-- [WebCodecs](https://w3c.github.io/webcodecs/)
 - [WebGL Specification](https://registry.khronos.org/webgl/specs/latest/1.0/)
 
 
@@ -12124,6 +12285,80 @@ Informative references to this spec from:
 - [VP8 WebCodecs Registration](https://w3c.github.io/webcodecs/vp8_codec_registration.html)
 - [VP9 WebCodecs Registration](https://w3c.github.io/webcodecs/vp9_codec_registration.html)
 - [WebCodecs](https://w3c.github.io/webcodecs/)
+
+
+### WebCodecs VideoFrame Metadata Registry {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/](https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/)
+- Crawled URL: [https://w3c.github.io/webcodecs/video_frame_metadata_registry.html](https://w3c.github.io/webcodecs/video_frame_metadata_registry.html)
+- Crawled version: 26 July 2024
+- Editor's Draft: [https://w3c.github.io/webcodecs/video_frame_metadata_registry.html](https://w3c.github.io/webcodecs/video_frame_metadata_registry.html)
+- Latest published version: [https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/](https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/)
+- Shortname: webcodecs-video-frame-metadata-registry
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [WebCodecs](https://w3c.github.io/webcodecs/)
+
+
+### WebM Byte Stream Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
+- Crawled URL: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
+- Crawled version: 23 July 2024
+- Editor's Draft: [https://w3c.github.io/mse-byte-stream-format-webm/](https://w3c.github.io/mse-byte-stream-format-webm/)
+- Latest published version: [https://www.w3.org/TR/mse-byte-stream-format-webm/](https://www.w3.org/TR/mse-byte-stream-format-webm/)
+- Shortname: mse-byte-stream-format-webm
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- [Media Source Extensions Byte Stream Format Registry](https://w3c.github.io/mse-byte-stream-format-registry/)
+
+
+### WebM Stream Format {data-spec=true data-missingDfns=true data-ok=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://www.w3.org/TR/eme-stream-webm/](https://www.w3.org/TR/eme-stream-webm/)
+- Crawled URL: [https://w3c.github.io/encrypted-media/format-registry/stream/webm.html](https://w3c.github.io/encrypted-media/format-registry/stream/webm.html)
+- Crawled version: 22 July 2024
+- Editor's Draft: [https://w3c.github.io/encrypted-media/format-registry/stream/webm.html](https://w3c.github.io/encrypted-media/format-registry/stream/webm.html)
+- Latest published version: [https://www.w3.org/TR/eme-stream-webm/](https://www.w3.org/TR/eme-stream-webm/)
+- Shortname: eme-stream-webm
+
+#### Potential issue(s) {.anomalies}
+
+This specification looks good!
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+Informative references to this spec from:
+
+- ["webm" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html)
+- [Encrypted Media Extensions Stream Format Registry](https://w3c.github.io/encrypted-media/format-registry/stream/)
 
 
 ## MiniApps Working Group {#group-miniapps_working_group}
@@ -12308,7 +12543,7 @@ The following network or parsing error occurred:
     at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
     at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
     at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 156)
+    at async Promise.all (index 155)
     at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
@@ -15913,7 +16148,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 25 July 2024
+- Crawled version: 27 July 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -19403,6 +19638,30 @@ No informative reference to this spec from other specs.
 
 #### Spec info {.info}
 
+- Initial URL: [https://webassembly.github.io/esm-integration/js-api/](https://webassembly.github.io/esm-integration/js-api/)
+- Crawled URL: [https://webassembly.github.io/esm-integration/js-api/](https://webassembly.github.io/esm-integration/js-api/)
+- Crawled version: 12 July 2024
+- Editor's Draft: [https://webassembly.github.io/esm-integration/js-api/](https://webassembly.github.io/esm-integration/js-api/)
+- Shortname: wasm-js-api-2-fork-esm-integration
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
 - Initial URL: [https://webassembly.github.io/js-promise-integration/js-api/](https://webassembly.github.io/js-promise-integration/js-api/)
 - Crawled URL: [https://webassembly.github.io/js-promise-integration/js-api/](https://webassembly.github.io/js-promise-integration/js-api/)
 - Crawled version: 5 March 2024
@@ -19954,6 +20213,7 @@ This specification looks good!
 
 Normative references to this spec from:
 
+- ["keyids" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html)
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [Clipboard API and events](https://w3c.github.io/clipboard-apis/)
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
@@ -19989,6 +20249,7 @@ Normative references to this spec from:
 - [Web NFC](https://w3c.github.io/web-nfc/)
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/threads/js-api/)
@@ -20492,6 +20753,7 @@ Normative references to this spec from:
 - [Web Smart Card API](https://wicg.github.io/web-smart-card/)
 - [Web Speech API](https://wicg.github.io/speech-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/threads/js-api/)
@@ -20542,6 +20804,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [Encrypted Media Extensions Initialization Data Format Registry](https://w3c.github.io/encrypted-media/format-registry/initdata/)
 - [File API](https://w3c.github.io/FileAPI/)
 - [Graphics Accessibility API Mappings](https://w3c.github.io/graphics-aam/)
 - [HTML Accessibility API Mappings 1.0](https://w3c.github.io/html-aam/)
@@ -20830,6 +21093,7 @@ Normative references to this spec from:
 - [Web Share Target API](https://w3c.github.io/web-share-target/)
 - [Web Smart Card API](https://wicg.github.io/web-smart-card/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/threads/js-api/)
@@ -21552,6 +21816,7 @@ Normative references to this spec from:
 - [Web Share API](https://w3c.github.io/web-share/)
 - [Web Smart Card API](https://wicg.github.io/web-smart-card/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)

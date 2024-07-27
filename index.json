@@ -2,13 +2,200 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-26T12:50:47.752Z",
+  "date": "2024-07-27T16:04:00.952Z",
   "stats": {
-    "crawled": 624,
+    "crawled": 634,
     "errors": 2,
-    "studied": 624
+    "studied": 634
   },
   "results": [
+    {
+      "title": "\"cenc\" Initialization Data Format",
+      "shortname": "eme-initdata-cenc",
+      "date": "22 July 2024",
+      "url": "https://www.w3.org/TR/eme-initdata-cenc/",
+      "release": {
+        "url": "https://www.w3.org/TR/eme-initdata-cenc/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html",
+        "status": "Editor's Draft",
+        "sourcePath": "format-registry/initdata/cenc-respec.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/encrypted-media",
+        "filename": "cenc.html"
+      },
+      "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/eme-stream-mp4/",
+              "title": "ISO Common Encryption Protection Scheme for ISO Base Media File Format Stream Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-keyids/",
+              "title": "\"keyids\" Initialization Data Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-registry/",
+              "title": "Encrypted Media Extensions Initialization Data Format Registry",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "\"keyids\" Initialization Data Format",
+      "shortname": "eme-initdata-keyids",
+      "date": "22 July 2024",
+      "url": "https://www.w3.org/TR/eme-initdata-keyids/",
+      "release": {
+        "url": "https://www.w3.org/TR/eme-initdata-keyids/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html",
+        "status": "Editor's Draft",
+        "sourcePath": "format-registry/initdata/keyids-respec.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/encrypted-media",
+        "filename": "keyids.html"
+      },
+      "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-cenc/",
+              "title": "\"cenc\" Initialization Data Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-registry/",
+              "title": "Encrypted Media Extensions Initialization Data Format Registry",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "\"webm\" Initialization Data Format",
+      "shortname": "eme-initdata-webm",
+      "date": "22 July 2024",
+      "url": "https://www.w3.org/TR/eme-initdata-webm/",
+      "release": {
+        "url": "https://www.w3.org/TR/eme-initdata-webm/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html",
+        "status": "Editor's Draft",
+        "sourcePath": "format-registry/initdata/webm-respec.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/encrypted-media",
+        "filename": "webm.html"
+      },
+      "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/eme-stream-webm/",
+              "title": "WebM Stream Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/webm.html"
+            }
+          ],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-registry/",
+              "title": "Encrypted Media Extensions Initialization Data Format Registry",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
     {
       "title": "A Method for Writing Testable Conformance Requirements",
       "shortname": "test-methodology",
@@ -2443,7 +2630,7 @@
         }
       ],
       "report": {
-        "error": "Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.\n        \nhttps://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:550:19\nArray.map (<anonymous>)\nserializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:53)\n    at evaluate (evaluate at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:36), <anonymous>:6:28)\n    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:375:19)\n    at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)\n    at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:96:16)\n    at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:335:20)\n    at async CdpPage.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:799:20)\n    at async processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:25)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
+        "error": "Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.\n        \nhttps://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:550:19\nArray.map (<anonymous>)\nserializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:53)\n    at evaluate (evaluate at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:36), <anonymous>:6:28)\n    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:383:19)\n    at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)\n    at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:96:16)\n    at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:335:20)\n    at async CdpPage.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:799:20)\n    at async processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:25)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -5578,7 +5765,7 @@
               "crawled": "https://drafts.csswg.org/css-multicol-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -8925,7 +9112,7 @@
       "url": "https://www.w3.org/TR/css-conditional-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-5/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -9946,7 +10133,7 @@
               "crawled": "https://drafts.csswg.org/css-multicol-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -15003,7 +15190,7 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -17189,7 +17376,7 @@
               "crawled": "https://drafts.csswg.org/css-scroll-anchoring-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -17234,7 +17421,12 @@
       "title": "CSS Scroll Snap Module Level 2",
       "shortname": "css-scroll-snap-2",
       "date": "19 July 2024",
-      "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+      "url": "https://www.w3.org/TR/css-scroll-snap-2/",
+      "release": {
+        "url": "https://www.w3.org/TR/css-scroll-snap-2/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
         "url": "https://drafts.csswg.org/css-scroll-snap-2/",
         "status": "Editor's Draft",
@@ -20880,7 +21072,7 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -22389,7 +22581,7 @@
               "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -23604,7 +23796,7 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -23714,7 +23906,7 @@
               "crawled": "https://wicg.github.io/element-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -24909,7 +25101,7 @@
               "crawled": "https://wicg.github.io/is-input-pending/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -25207,6 +25399,11 @@
               "url": "https://webassembly.github.io/content-security-policy/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/esm-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/esm-integration/js-api/"
             },
             {
               "url": "https://webassembly.github.io/js-promise-integration/js-api/",
@@ -25531,6 +25728,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://www.w3.org/TR/eme-initdata-keyids/",
+              "title": "\"keyids\" Initialization Data Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html"
+            },
+            {
               "url": "https://wicg.github.io/attribution-reporting-api/",
               "title": "Attribution Reporting",
               "crawled": "https://wicg.github.io/attribution-reporting-api/"
@@ -25571,7 +25773,7 @@
               "crawled": "https://dom.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -25706,6 +25908,11 @@
               "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
             },
             {
+              "url": "https://webassembly.github.io/esm-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/esm-integration/js-api/"
+            },
+            {
               "url": "https://webassembly.github.io/js-promise-integration/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
@@ -25774,12 +25981,12 @@
     },
     {
       "title": "Encrypted Media Extensions",
-      "shortname": "encrypted-media",
+      "shortname": "encrypted-media-2",
       "date": "22 July 2024",
-      "url": "https://www.w3.org/TR/encrypted-media/",
+      "url": "https://www.w3.org/TR/encrypted-media-2/",
       "release": {
-        "url": "https://www.w3.org/TR/encrypted-media/",
-        "status": "Recommendation",
+        "url": "https://www.w3.org/TR/encrypted-media-2/",
+        "status": "First Public Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -25794,8 +26001,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "HTML Media Extensions Working Group",
-          "url": "https://www.w3.org/html/wg/"
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
         }
       ],
       "report": {
@@ -25810,7 +26017,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/2017/REC-encrypted-media-20170918/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -25833,7 +26042,191 @@
             }
           ]
         },
-        "ok": true
+        "ok": false
+      }
+    },
+    {
+      "title": "Encrypted Media Extensions HDCP Version Registry",
+      "shortname": "eme-hdcp-version-registry",
+      "date": "22 July 2024",
+      "url": "https://www.w3.org/TR/eme-hdcp-version-registry/",
+      "release": {
+        "url": "https://www.w3.org/TR/eme-hdcp-version-registry/",
+        "status": "Draft Registry",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/encrypted-media/hdcp-version-registry.html",
+        "status": "Editor's Draft",
+        "sourcePath": "hdcp-version-registry-respec.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/encrypted-media",
+        "filename": "hdcp-version-registry.html"
+      },
+      "crawled": "https://w3c.github.io/encrypted-media/hdcp-version-registry.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Encrypted Media Extensions Initialization Data Format Registry",
+      "shortname": "eme-initdata-registry",
+      "date": "22 July 2024",
+      "url": "https://www.w3.org/TR/eme-initdata-registry/",
+      "release": {
+        "url": "https://www.w3.org/TR/eme-initdata-registry/",
+        "status": "Draft Registry",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/encrypted-media/format-registry/initdata/",
+        "status": "Editor's Draft",
+        "sourcePath": "format-registry/initdata/index-respec.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/encrypted-media",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-stream-mp4/",
+              "title": "ISO Common Encryption Protection Scheme for ISO Base Media File Format Stream Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-stream-webm/",
+              "title": "WebM Stream Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/webm.html"
+            }
+          ],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "Encrypted Media Extensions Stream Format Registry",
+      "shortname": "eme-stream-registry",
+      "date": "22 July 2024",
+      "url": "https://www.w3.org/TR/eme-stream-registry/",
+      "release": {
+        "url": "https://www.w3.org/TR/eme-stream-registry/",
+        "status": "Draft Registry",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/encrypted-media/format-registry/stream/",
+        "status": "Editor's Draft",
+        "sourcePath": "format-registry/stream/index-respec.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/encrypted-media",
+        "filename": "index.html"
+      },
+      "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-cenc/",
+              "title": "\"cenc\" Initialization Data Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-webm/",
+              "title": "\"webm\" Initialization Data Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
+              "title": "Encrypted Media Extensions",
+              "crawled": "https://w3c.github.io/encrypted-media/"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-registry/",
+              "title": "Encrypted Media Extensions Initialization Data Format Registry",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/"
+            }
+          ]
+        },
+        "ok": false
       }
     },
     {
@@ -29823,7 +30216,7 @@
               "crawled": "https://drafts.csswg.org/css-scroll-snap-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -29988,7 +30381,7 @@
               "crawled": "https://wicg.github.io/element-timing/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -30908,6 +31301,11 @@
               "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
             },
             {
+              "url": "https://webassembly.github.io/esm-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/esm-integration/js-api/"
+            },
+            {
               "url": "https://webassembly.github.io/js-promise-integration/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
@@ -31143,6 +31541,11 @@
               "url": "https://encoding.spec.whatwg.org/",
               "title": "Encoding Standard",
               "crawled": "https://encoding.spec.whatwg.org/"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-registry/",
+              "title": "Encrypted Media Extensions Initialization Data Format Registry",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/"
             },
             {
               "url": "https://www.w3.org/TR/FileAPI/",
@@ -32352,7 +32755,7 @@
               "crawled": "https://encoding.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -33072,6 +33475,11 @@
               "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
             },
             {
+              "url": "https://webassembly.github.io/esm-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/esm-integration/js-api/"
+            },
+            {
               "url": "https://webassembly.github.io/js-promise-integration/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
@@ -33758,8 +34166,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "HTML Media Extensions Working Group",
-          "url": "https://www.w3.org/html/wg/"
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
         }
       ],
       "report": {
@@ -33783,6 +34191,64 @@
               "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
               "title": "Media Source Extensions Byte Stream Format Registry",
               "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "ISO Common Encryption Protection Scheme for ISO Base Media File Format Stream Format",
+      "shortname": "eme-stream-mp4",
+      "date": "22 July 2024",
+      "url": "https://www.w3.org/TR/eme-stream-mp4/",
+      "release": {
+        "url": "https://www.w3.org/TR/eme-stream-mp4/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html",
+        "status": "Editor's Draft",
+        "sourcePath": "format-registry/stream/mp4-respec.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/encrypted-media",
+        "filename": "mp4.html"
+      },
+      "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/mp4.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-cenc/",
+              "title": "\"cenc\" Initialization Data Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-stream-registry/",
+              "title": "Encrypted Media Extensions Stream Format Registry",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/"
             }
           ]
         },
@@ -34083,7 +34549,7 @@
     {
       "title": "JSON-LD 1.1 Processing Algorithms and API",
       "shortname": "json-ld11-api",
-      "date": "21 May 2024",
+      "date": "26 July 2024",
       "url": "https://www.w3.org/TR/json-ld11-api/",
       "release": {
         "url": "https://www.w3.org/TR/json-ld11-api/",
@@ -36133,7 +36599,7 @@
       "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
       "release": {
         "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
-        "status": "Note",
+        "status": "Draft Registry",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -36148,8 +36614,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "HTML Media Extensions Working Group",
-          "url": "https://www.w3.org/html/wg/"
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
         }
       ],
       "report": {
@@ -36267,7 +36733,7 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -36593,7 +37059,7 @@
               "crawled": "https://drafts.csswg.org/css-images-4/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -37065,7 +37531,7 @@
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -37272,8 +37738,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "HTML Media Extensions Working Group",
-          "url": "https://www.w3.org/html/wg/"
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
         }
       ],
       "report": {
@@ -37325,8 +37791,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "HTML Media Extensions Working Group",
-          "url": "https://www.w3.org/html/wg/"
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
         }
       ],
       "report": {
@@ -39071,7 +39537,7 @@
               "crawled": "https://wicg.github.io/direct-sockets/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -39650,7 +40116,7 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 156)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)",
+        "error": "Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 155)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -42638,7 +43104,7 @@
               "crawled": "https://w3c.github.io/webappsec-clear-site-data/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -48257,7 +48723,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://webassembly.github.io/esm-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/esm-integration/js-api/"
+            }
+          ],
           "informative": []
         },
         "ok": false
@@ -53850,7 +54322,7 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -54527,7 +54999,7 @@
               "crawled": "https://drafts.csswg.org/css-regions-1/"
             },
             {
-              "url": "https://drafts.csswg.org/css-scroll-snap-2/",
+              "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
             },
@@ -54642,7 +55114,7 @@
               "crawled": "https://encoding.spec.whatwg.org/"
             },
             {
-              "url": "https://www.w3.org/TR/encrypted-media/",
+              "url": "https://www.w3.org/TR/encrypted-media-2/",
               "title": "Encrypted Media Extensions",
               "crawled": "https://w3c.github.io/encrypted-media/"
             },
@@ -55422,6 +55894,11 @@
               "crawled": "https://webassembly.github.io/content-security-policy/js-api/"
             },
             {
+              "url": "https://webassembly.github.io/esm-integration/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/esm-integration/js-api/"
+            },
+            {
               "url": "https://webassembly.github.io/js-promise-integration/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
@@ -55755,7 +56232,7 @@
     {
       "title": "Web Neural Network API",
       "shortname": "webnn",
-      "date": "25 July 2024",
+      "date": "27 July 2024",
       "url": "https://www.w3.org/TR/webnn/",
       "release": {
         "url": "https://www.w3.org/TR/webnn/",
@@ -56700,6 +57177,52 @@
     },
     {
       "title": "WebAssembly JavaScript Interface",
+      "shortname": "wasm-js-api-2-fork-esm-integration",
+      "date": "12 July 2024",
+      "url": "https://webassembly.github.io/esm-integration/js-api/",
+      "nightly": {
+        "url": "https://webassembly.github.io/esm-integration/js-api/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/esm-integration",
+        "sourcePath": "document/js-api/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/esm-integration/js-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2-fork-js-promise-integration",
       "date": "5 March 2024",
       "url": "https://webassembly.github.io/js-promise-integration/js-api/",
@@ -57129,6 +57652,11 @@
               "crawled": "https://w3c.github.io/webcodecs/codec_registry.html"
             },
             {
+              "url": "https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/",
+              "title": "WebCodecs VideoFrame Metadata Registry",
+              "crawled": "https://w3c.github.io/webcodecs/video_frame_metadata_registry.html"
+            },
+            {
               "url": "https://www.w3.org/TR/webgpu/",
               "title": "WebGPU",
               "crawled": "https://gpuweb.github.io/gpuweb/"
@@ -57144,11 +57672,6 @@
               "url": "https://www.w3.org/TR/webaudio/",
               "title": "Web Audio API",
               "crawled": "https://webaudio.github.io/web-audio-api/"
-            },
-            {
-              "url": "https://www.w3.org/TR/webcodecs/",
-              "title": "WebCodecs",
-              "crawled": "https://w3c.github.io/webcodecs/"
             },
             {
               "url": "https://registry.khronos.org/webgl/specs/latest/1.0/",
@@ -57365,6 +57888,61 @@
               "title": "VP9 WebCodecs Registration",
               "crawled": "https://w3c.github.io/webcodecs/vp9_codec_registration.html"
             },
+            {
+              "url": "https://www.w3.org/TR/webcodecs/",
+              "title": "WebCodecs",
+              "crawled": "https://w3c.github.io/webcodecs/"
+            }
+          ]
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebCodecs VideoFrame Metadata Registry",
+      "shortname": "webcodecs-video-frame-metadata-registry",
+      "date": "26 July 2024",
+      "url": "https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/",
+      "release": {
+        "url": "https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/",
+        "status": "Draft Registry",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/webcodecs/video_frame_metadata_registry.html",
+        "status": "Editor's Draft",
+        "sourcePath": "video_frame_metadata_registry.src.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/webcodecs",
+        "filename": "video_frame_metadata_registry.html"
+      },
+      "crawled": "https://w3c.github.io/webcodecs/video_frame_metadata_registry.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://w3c.github.io/mediacapture-extensions/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
             {
               "url": "https://www.w3.org/TR/webcodecs/",
               "title": "WebCodecs",
@@ -57665,7 +58243,7 @@
     {
       "title": "WebGL ANGLE_instanced_arrays Khronos Ratified Extension Specification",
       "shortname": "ANGLE_instanced_arrays",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
@@ -57707,7 +58285,7 @@
     {
       "title": "WebGL EXT_blend_minmax Khronos Ratified Extension Specification",
       "shortname": "EXT_blend_minmax",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
@@ -57749,7 +58327,7 @@
     {
       "title": "WebGL EXT_color_buffer_float Extension Specification",
       "shortname": "EXT_color_buffer_float",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_float/",
@@ -57791,7 +58369,7 @@
     {
       "title": "WebGL EXT_color_buffer_half_float Extension Specification",
       "shortname": "EXT_color_buffer_half_float",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/",
@@ -57833,7 +58411,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query Extension Specification",
       "shortname": "EXT_disjoint_timer_query",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
@@ -57875,7 +58453,7 @@
     {
       "title": "WebGL EXT_disjoint_timer_query_webgl2 Extension Specification",
       "shortname": "EXT_disjoint_timer_query_webgl2",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -57917,7 +58495,7 @@
     {
       "title": "WebGL EXT_float_blend Extension Specification",
       "shortname": "EXT_float_blend",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_float_blend/",
@@ -57959,7 +58537,7 @@
     {
       "title": "WebGL EXT_frag_depth Khronos Ratified Extension Specification",
       "shortname": "EXT_frag_depth",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
@@ -58001,7 +58579,7 @@
     {
       "title": "WebGL EXT_shader_texture_lod Khronos Ratified Extension Specification",
       "shortname": "EXT_shader_texture_lod",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/",
@@ -58043,7 +58621,7 @@
     {
       "title": "WebGL EXT_sRGB Extension Specification",
       "shortname": "EXT_sRGB",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
@@ -58085,7 +58663,7 @@
     {
       "title": "WebGL EXT_texture_compression_bptc Extension Specification",
       "shortname": "EXT_texture_compression_bptc",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_bptc/",
@@ -58127,7 +58705,7 @@
     {
       "title": "WebGL EXT_texture_compression_rgtc Extension Specification",
       "shortname": "EXT_texture_compression_rgtc",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/",
@@ -58169,7 +58747,7 @@
     {
       "title": "WebGL EXT_texture_filter_anisotropic Khronos Ratified Extension Specification",
       "shortname": "EXT_texture_filter_anisotropic",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -58211,7 +58789,7 @@
     {
       "title": "WebGL EXT_texture_norm16 Extension Specification",
       "shortname": "EXT_texture_norm16",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_norm16/",
@@ -58253,7 +58831,7 @@
     {
       "title": "WebGL KHR_parallel_shader_compile Extension Specification",
       "shortname": "KHR_parallel_shader_compile",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/KHR_parallel_shader_compile/",
@@ -58295,7 +58873,7 @@
     {
       "title": "WebGL OES_draw_buffers_indexed Extension Specification",
       "shortname": "OES_draw_buffers_indexed",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/",
@@ -58337,7 +58915,7 @@
     {
       "title": "WebGL OES_element_index_uint Khronos Ratified Extension Specification",
       "shortname": "OES_element_index_uint",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
@@ -58379,7 +58957,7 @@
     {
       "title": "WebGL OES_fbo_render_mipmap Extension Specification",
       "shortname": "OES_fbo_render_mipmap",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/",
@@ -58421,7 +58999,7 @@
     {
       "title": "WebGL OES_standard_derivatives Khronos Ratified Extension Specification",
       "shortname": "OES_standard_derivatives",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
@@ -58463,7 +59041,7 @@
     {
       "title": "WebGL OES_texture_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float/",
@@ -58505,7 +59083,7 @@
     {
       "title": "WebGL OES_texture_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_float_linear",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_float_linear/",
@@ -58547,7 +59125,7 @@
     {
       "title": "WebGL OES_texture_half_float Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float/",
@@ -58589,7 +59167,7 @@
     {
       "title": "WebGL OES_texture_half_float_linear Khronos Ratified Extension Specification",
       "shortname": "OES_texture_half_float_linear",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_texture_half_float_linear/",
@@ -58631,7 +59209,7 @@
     {
       "title": "WebGL OES_vertex_array_object Khronos Ratified Extension Specification",
       "shortname": "OES_vertex_array_object",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
@@ -58673,7 +59251,7 @@
     {
       "title": "WebGL OVR_multiview2 Extension Specification",
       "shortname": "OVR_multiview2",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/OVR_multiview2/",
@@ -58756,7 +59334,7 @@
     {
       "title": "WebGL WEBGL_blend_equation_advanced_coherent Extension Draft Specification",
       "shortname": "WEBGL_blend_equation_advanced_coherent",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -58798,7 +59376,7 @@
     {
       "title": "WebGL WEBGL_clip_cull_distance Extension Specification",
       "shortname": "WEBGL_clip_cull_distance",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_clip_cull_distance/",
@@ -58840,7 +59418,7 @@
     {
       "title": "WebGL WEBGL_color_buffer_float Extension Specification",
       "shortname": "WEBGL_color_buffer_float",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_color_buffer_float/",
@@ -58882,7 +59460,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_astc Extension Specification",
       "shortname": "WEBGL_compressed_texture_astc",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_astc/",
@@ -58924,7 +59502,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc/",
@@ -58966,7 +59544,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_etc1 Extension Specification",
       "shortname": "WEBGL_compressed_texture_etc1",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_etc1/",
@@ -59008,7 +59586,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_pvrtc Extension Specification",
       "shortname": "WEBGL_compressed_texture_pvrtc",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_pvrtc/",
@@ -59050,7 +59628,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc Khronos Ratified Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc/",
@@ -59092,7 +59670,7 @@
     {
       "title": "WebGL WEBGL_compressed_texture_s3tc_srgb Extension Specification",
       "shortname": "WEBGL_compressed_texture_s3tc_srgb",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_compressed_texture_s3tc_srgb/",
@@ -59134,7 +59712,7 @@
     {
       "title": "WebGL WEBGL_debug_renderer_info Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_renderer_info",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/",
@@ -59176,7 +59754,7 @@
     {
       "title": "WebGL WEBGL_debug_shaders Khronos Ratified Extension Specification",
       "shortname": "WEBGL_debug_shaders",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
@@ -59218,7 +59796,7 @@
     {
       "title": "WebGL WEBGL_depth_texture Khronos Ratified Extension Specification",
       "shortname": "WEBGL_depth_texture",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/",
@@ -59260,7 +59838,7 @@
     {
       "title": "WebGL WEBGL_draw_buffers Khronos Ratified Extension Specification",
       "shortname": "WEBGL_draw_buffers",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
@@ -59302,7 +59880,7 @@
     {
       "title": "WebGL WEBGL_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_draw_instanced_base_vertex_base_instance",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -59344,7 +59922,7 @@
     {
       "title": "WebGL WEBGL_lose_context Khronos Ratified Extension Specification",
       "shortname": "WEBGL_lose_context",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/",
@@ -59386,7 +59964,7 @@
     {
       "title": "WebGL WEBGL_multi_draw Extension Specification",
       "shortname": "WEBGL_multi_draw",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw/",
@@ -59428,7 +60006,7 @@
     {
       "title": "WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification",
       "shortname": "WEBGL_multi_draw_instanced_base_vertex_base_instance",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -59470,7 +60048,7 @@
     {
       "title": "WebGL WEBGL_provoking_vertex Extension Specification",
       "shortname": "WEBGL_provoking_vertex",
-      "date": "25 July 2024",
+      "date": "26 July 2024",
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
       "nightly": {
         "url": "https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/",
@@ -59512,7 +60090,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "26 July 2024",
+      "date": "27 July 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -59575,7 +60153,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "26 July 2024",
+      "date": "27 July 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -59705,8 +60283,8 @@
       "organization": "W3C",
       "groups": [
         {
-          "name": "HTML Media Extensions Working Group",
-          "url": "https://www.w3.org/html/wg/"
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
         }
       ],
       "report": {
@@ -59730,6 +60308,64 @@
               "url": "https://www.w3.org/TR/mse-byte-stream-format-registry/",
               "title": "Media Source Extensions Byte Stream Format Registry",
               "crawled": "https://w3c.github.io/mse-byte-stream-format-registry/"
+            }
+          ]
+        },
+        "ok": true
+      }
+    },
+    {
+      "title": "WebM Stream Format",
+      "shortname": "eme-stream-webm",
+      "date": "22 July 2024",
+      "url": "https://www.w3.org/TR/eme-stream-webm/",
+      "release": {
+        "url": "https://www.w3.org/TR/eme-stream-webm/",
+        "status": "Note",
+        "filename": "Overview.html"
+      },
+      "nightly": {
+        "url": "https://w3c.github.io/encrypted-media/format-registry/stream/webm.html",
+        "status": "Editor's Draft",
+        "sourcePath": "format-registry/stream/webm-respec.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/encrypted-media",
+        "filename": "webm.html"
+      },
+      "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/webm.html",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Media Working Group",
+          "url": "https://www.w3.org/media-wg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-webm/",
+              "title": "\"webm\" Initialization Data Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/webm.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/eme-stream-registry/",
+              "title": "Encrypted Media Extensions Stream Format Registry",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/stream/"
             }
           ]
         },

@@ -1,8 +1,8 @@
 % Reffy crawl
 % Strudy
-% July 26, 2024
+% July 27, 2024
 
-624 specifications were crawled in this report.
+634 specifications were crawled in this report.
 
 
 ## Specifications that could not be rendered
@@ -15,7 +15,7 @@ https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/_
 Array.map (<anonymous>)
 serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:53)
     at evaluate (evaluate at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:36), <anonymous>:6:28)
-    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:375:19)
+    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:383:19)
     at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)
     at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:96:16)
     at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:335:20)
@@ -29,7 +29,7 @@ serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scrip
     at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
     at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
     at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 156)
+    at async Promise.all (index 155)
     at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
 
 => 2 specifications found
@@ -47,6 +47,9 @@ serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scrip
 - [ECMAScript Async Explicit Resource Management](https://tc39.es/proposal-async-explicit-resource-management/)
 - [ECMAScript Explicit Resource Management](https://tc39.es/proposal-explicit-resource-management/)
 - [ECMAScript® 2025 Language Specification](https://tc39.es/ecma262/multipage/)
+- [Encrypted Media Extensions HDCP Version Registry](https://w3c.github.io/encrypted-media/hdcp-version-registry.html)
+- [Encrypted Media Extensions Initialization Data Format Registry](https://w3c.github.io/encrypted-media/format-registry/initdata/)
+- [Encrypted Media Extensions Stream Format Registry](https://w3c.github.io/encrypted-media/format-registry/stream/)
 - [ES Array.fromAsync (2022)](https://tc39.es/proposal-array-from-async/)
 - [ES Promise.withResolvers (2023)](https://tc39.es/proposal-promise-with-resolvers/)
 - [Float16Array](https://tc39.es/proposal-float16array/)
@@ -133,7 +136,7 @@ serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scrip
 - [WebGL WEBGL_multi_draw_instanced_base_vertex_base_instance Extension Draft Specification](https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/)
 - [WebGL WEBGL_provoking_vertex Extension Specification](https://registry.khronos.org/webgl/extensions/WEBGL_provoking_vertex/)
 
-=> 95 specifications found
+=> 98 specifications found
 
 Basically all specifications have normative dependencies on some other specification. Reffy could not find any normative dependencies for the specifications mentioned above, which seems strange.
 
@@ -980,6 +983,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://html.spec.whatwg.org/`](https://html.spec.whatwg.org/) but does not list it in its references
     * [`https://html.spec.whatwg.org/multipage/obsolete.html`](https://html.spec.whatwg.org/multipage/obsolete.html) but does not list it in its references
 - [EditContext API](https://w3c.github.io/edit-context/) links to [`https://w3c.github.io/editing/docs/execCommand/`](https://w3c.github.io/editing/docs/execCommand/) but does not list it in its references
+- [Encrypted Media Extensions](https://w3c.github.io/encrypted-media/) links to [`https://www.w3.org/TR/2017/REC-encrypted-media-20170918/`](https://www.w3.org/TR/2017/REC-encrypted-media-20170918/) but does not list it in its references
 - [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/) links to:
     * [`https://w3c.github.io/epub-structural-tests/`](https://w3c.github.io/epub-structural-tests/) but does not list it in its references
     * [`https://w3c.github.io/epub-tests/index.html`](https://w3c.github.io/epub-tests/index.html) but does not list it in its references
@@ -1352,6 +1356,10 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/) links to:
+    * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
+    * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/) links to:
     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
@@ -1376,6 +1384,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/) but does not list it in its references
     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/) but does not list it in its references
+- [WebCodecs VideoFrame Metadata Registry](https://w3c.github.io/webcodecs/video_frame_metadata_registry.html) links to [`https://w3c.github.io/mediacapture-extensions/`](https://w3c.github.io/mediacapture-extensions/) but does not list it in its references
 - [WebDriver](https://w3c.github.io/webdriver/) links to:
     * [`https://w3c.github.io/contentEditable`](https://w3c.github.io/contentEditable) but does not list it in its references
     * [`https://w3c.github.io/editing/execCommand.html`](https://w3c.github.io/editing/execCommand.html) but does not list it in its references
@@ -1392,7 +1401,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 999 missing references for links found in 239 specifications
+=> 1004 missing references for links found in 242 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
