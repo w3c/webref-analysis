@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 27, 2024
+% July 28, 2024
 
 634 specifications were crawled in this report.
 
