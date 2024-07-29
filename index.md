@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 28, 2024
+% July 29, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -18191,7 +18191,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 24 July 2024
+- Crawled version: 28 July 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
