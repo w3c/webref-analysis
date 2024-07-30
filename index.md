@@ -555,7 +555,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/proposal-import-attributes/](https://tc39.es/proposal-import-attributes/)
 - Crawled URL: [https://tc39.es/proposal-import-attributes/](https://tc39.es/proposal-import-attributes/)
-- Crawled version: 28 September 2023
+- Crawled version: 30 July 2024
 - Editor's Draft: [https://tc39.es/proposal-import-attributes/](https://tc39.es/proposal-import-attributes/)
 - Shortname: tc39-import-attributes
 
@@ -9268,7 +9268,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 22 July 2024
+- Crawled version: 30 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Shortname: css-view-transitions-2

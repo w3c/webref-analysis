@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-30T06:40:56.712Z",
+  "date": "2024-07-30T12:51:43.370Z",
   "stats": {
     "crawled": 634,
     "errors": 2,
@@ -21556,7 +21556,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "22 July 2024",
+      "date": "30 July 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-2/",
@@ -32054,7 +32054,7 @@
     {
       "title": "Import Attributes",
       "shortname": "tc39-import-attributes",
-      "date": "28 September 2023",
+      "date": "30 July 2024",
       "url": "https://tc39.es/proposal-import-attributes/",
       "nightly": {
         "url": "https://tc39.es/proposal-import-attributes/",
