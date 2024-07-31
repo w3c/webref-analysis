@@ -4237,7 +4237,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-ui-4/](https://www.w3.org/TR/css-ui-4/)
 - Crawled URL: [https://drafts.csswg.org/css-ui-4/](https://drafts.csswg.org/css-ui-4/)
-- Crawled version: 26 July 2024
+- Crawled version: 31 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-ui-4/](https://drafts.csswg.org/css-ui-4/)
 - Latest published version: [https://www.w3.org/TR/css-ui-4/](https://www.w3.org/TR/css-ui-4/)
 - Shortname: css-ui-4
@@ -19496,7 +19496,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
-- Crawled version: 24 July 2024
+- Crawled version: 31 July 2024
 - Editor's Draft: [https://webassembly.github.io/gc/core/bikeshed/](https://webassembly.github.io/gc/core/bikeshed/)
 - Shortname: wasm-core-2-fork-gc
 
@@ -19544,7 +19544,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/multi-memory/core/bikeshed/](https://webassembly.github.io/multi-memory/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/multi-memory/core/bikeshed/](https://webassembly.github.io/multi-memory/core/bikeshed/)
-- Crawled version: 28 June 2024
+- Crawled version: 31 July 2024
 - Editor's Draft: [https://webassembly.github.io/multi-memory/core/bikeshed/](https://webassembly.github.io/multi-memory/core/bikeshed/)
 - Shortname: wasm-core-2-fork-multi-memory
 
