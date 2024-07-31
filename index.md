@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% July 30, 2024
+% July 31, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -7372,7 +7372,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
 - Crawled URL: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
-- Crawled version: 16 July 2024
+- Crawled version: 30 July 2024
 - Editor's Draft: [https://drafts.csswg.org/css-overflow-5/](https://drafts.csswg.org/css-overflow-5/)
 - Shortname: css-overflow-5
 
@@ -10772,7 +10772,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 29 July 2024
+- Crawled version: 30 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10798,7 +10798,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 29 July 2024
+- Crawled version: 30 July 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL

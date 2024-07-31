@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-07-30T18:40:16.766Z",
+  "date": "2024-07-31T00:55:28.691Z",
   "stats": {
     "crawled": 634,
     "errors": 2,
@@ -15494,7 +15494,7 @@
     {
       "title": "CSS Overflow Module Level 5",
       "shortname": "css-overflow-5",
-      "date": "16 July 2024",
+      "date": "30 July 2024",
       "url": "https://drafts.csswg.org/css-overflow-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-overflow-5/",
@@ -60100,7 +60100,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "29 July 2024",
+      "date": "30 July 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -60163,7 +60163,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "29 July 2024",
+      "date": "30 July 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
