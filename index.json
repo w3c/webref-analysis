@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-01T12:57:55.902Z",
+  "date": "2024-08-01T18:44:39.934Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -1178,7 +1178,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "31 July 2024",
+      "date": "1 August 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -13589,7 +13589,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "26 July 2024",
+      "date": "1 August 2024",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -24915,7 +24915,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "19 July 2024",
+      "date": "1 August 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -25993,7 +25993,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media-2",
-      "date": "22 July 2024",
+      "date": "01 August 2024",
       "url": "https://www.w3.org/TR/encrypted-media-2/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media-2/",
@@ -41097,7 +41097,7 @@
     {
       "title": "RDF 1.2 Concepts and Abstract Syntax",
       "shortname": "rdf12-concepts",
-      "date": "04 July 2024",
+      "date": "01 August 2024",
       "url": "https://www.w3.org/TR/rdf12-concepts/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-concepts/",
@@ -56922,7 +56922,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-memory64",
-      "date": "2 July 2024",
+      "date": "1 August 2024",
       "url": "https://webassembly.github.io/memory64/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/memory64/core/bikeshed/",
