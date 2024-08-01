@@ -201,7 +201,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
-- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/png/)
 - [WebP Image Format](https://www.ietf.org/archive/id/draft-zern-webp-15.html)
 
 
@@ -439,7 +439,7 @@ Normative references to this spec from:
 - [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
-- [Source Map](https://tc39.es/source-map)
+- [Source Map](https://tc39.es/source-map/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
@@ -769,10 +769,10 @@ No informative reference to this spec from other specs.
 
 #### Spec info {.info}
 
-- Initial URL: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
-- Crawled URL: [https://tc39.es/source-map](https://tc39.es/source-map)
+- Initial URL: [https://tc39.es/source-map/](https://tc39.es/source-map/)
+- Crawled URL: [https://tc39.es/source-map/](https://tc39.es/source-map/)
 - Crawled version: 22 July 2024
-- Editor's Draft: [https://tc39.es/source-map-spec/](https://tc39.es/source-map-spec/)
+- Editor's Draft: [https://tc39.es/source-map/](https://tc39.es/source-map/)
 - Shortname: sourcemap
 
 #### Potential issue(s) {.anomalies}
@@ -781,9 +781,7 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [WebGPU](https://gpuweb.github.io/gpuweb/)
+No normative reference to this spec from other specs.
 
 No informative reference to this spec from other specs.
 
@@ -5071,12 +5069,12 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-color-3/`](https://www.w3.org/TR/css-color-3/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
-     * [`https://www.w3.org/TR/png-3/`](https://www.w3.org/TR/png-3/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/compositing-1/`](https://www.w3.org/TR/compositing-1/), related reference "Compositing" uses URL [`https://drafts.fxtf.org/compositing-1/`](https://drafts.fxtf.org/compositing-1/)
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
+     * [`https://www.w3.org/TR/png-3/`](https://www.w3.org/TR/png-3/), related reference "PNG" uses URL [`https://w3c.github.io/png/`](https://w3c.github.io/png/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9884,7 +9882,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/motion-1/](https://www.w3.org/TR/motion-1/)
 - Crawled URL: [https://drafts.fxtf.org/motion-1/](https://drafts.fxtf.org/motion-1/)
-- Crawled version: 1 August 2023
+- Crawled version: 1 August 2024
 - Editor's Draft: [https://drafts.fxtf.org/motion-1/](https://drafts.fxtf.org/motion-1/)
 - Latest published version: [https://www.w3.org/TR/motion-1/](https://www.w3.org/TR/motion-1/)
 - Shortname: motion-1
@@ -12526,36 +12524,37 @@ Informative references to this spec from:
 
 ## Portable Network Graphics (PNG) Working Group {#group-portable_network_graphics_png_working_group}
 
-### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-error=true}
+### Portable Network Graphics (PNG) Specification (Third Edition) {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled URL: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Crawled version: 21 September 2023
-- Editor's Draft: [https://w3c.github.io/PNG-spec/](https://w3c.github.io/PNG-spec/)
-- Shortname: PNG-spec
+- Initial URL: [https://www.w3.org/TR/png-3/](https://www.w3.org/TR/png-3/)
+- Crawled URL: [https://w3c.github.io/png/](https://w3c.github.io/png/)
+- Crawled version: 18 July 2024
+- Editor's Draft: [https://w3c.github.io/png/](https://w3c.github.io/png/)
+- Latest published version: [https://www.w3.org/TR/png-3/](https://www.w3.org/TR/png-3/)
+- Shortname: png-3
 
 #### Potential issue(s) {.anomalies}
 
-The following network or parsing error occurred:
-`Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404
-    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
-    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
-    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
-    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 155)
-    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
-
-Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
+- Missing references for links: 
+     * [`https://www.w3.org/TR/2003/REC-PNG-20031110/`](https://www.w3.org/TR/2003/REC-PNG-20031110/)
+     * [`https://www.w3.org/TR/i18n-glossary/`](https://www.w3.org/TR/i18n-glossary/)
+     * [`https://www.w3.org/TR/png/`](https://www.w3.org/TR/png/)
 
 #### Known dependencies on this specification {.dependencies}
 
 Normative references to this spec from:
 
-- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
+- [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
+- [CSS Basic User Interface Module Level 4](https://drafts.csswg.org/css-ui-4/)
+- [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
+- [EPUB 3.3](https://w3c.github.io/epub-specs/epub33/core/)
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/png/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
 
 
 ## Privacy Community Group {#group-privacy_community_group}
@@ -17209,7 +17208,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Crawled URL: [https://wicg.github.io/digital-credentials](https://wicg.github.io/digital-credentials)
-- Crawled version: 22 July 2024
+- Crawled version: 30 July 2024
 - Editor's Draft: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Shortname: digital-identities
 
@@ -19781,7 +19780,7 @@ No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
-- [Source Map](https://tc39.es/source-map)
+- [Source Map](https://tc39.es/source-map/)
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
 
 
@@ -20235,12 +20234,12 @@ Normative references to this spec from:
 - [MIME Sniffing Standard](https://mimesniff.spec.whatwg.org/)
 - [No-Vary-Search](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
-- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/PNG-spec/)
+- [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/png/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
-- [Source Map](https://tc39.es/source-map)
+- [Source Map](https://tc39.es/source-map/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/)
 - [URL Standard](https://url.spec.whatwg.org/)
@@ -20364,7 +20363,7 @@ Normative references to this spec from:
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Soft Navigations](https://wicg.github.io/soft-navigations/)
-- [Source Map](https://tc39.es/source-map)
+- [Source Map](https://tc39.es/source-map/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
@@ -21052,7 +21051,7 @@ Normative references to this spec from:
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Soft Navigations](https://wicg.github.io/soft-navigations/)
-- [Source Map](https://tc39.es/source-map)
+- [Source Map](https://tc39.es/source-map/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
@@ -21527,7 +21526,7 @@ Normative references to this spec from:
 - [Selectors Level 4](https://drafts.csswg.org/selectors-4/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
-- [Source Map](https://tc39.es/source-map)
+- [Source Map](https://tc39.es/source-map/)
 - [Speculation Rules](https://wicg.github.io/nav-speculation/speculation-rules.html)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [The Storage Access API](https://privacycg.github.io/storage-access/)
@@ -21777,7 +21776,7 @@ Normative references to this spec from:
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 - [Soft Navigations](https://wicg.github.io/soft-navigations/)
-- [Source Map](https://tc39.es/source-map)
+- [Source Map](https://tc39.es/source-map/)
 - [Storage Buckets API](https://wicg.github.io/storage-buckets/)
 - [Storage Standard](https://storage.spec.whatwg.org/)
 - [Streams Standard](https://streams.spec.whatwg.org/)

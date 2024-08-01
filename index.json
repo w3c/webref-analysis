@@ -2,10 +2,10 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-01T06:40:50.096Z",
+  "date": "2024-08-01T12:57:55.902Z",
   "stats": {
     "crawled": 634,
-    "errors": 2,
+    "errors": 1,
     "studied": 634
   },
   "results": [
@@ -8259,7 +8259,6 @@
           "https://www.w3.org/TR/css-color-3/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/cssom/",
-          "https://www.w3.org/TR/png-3/",
           "https://www.w3.org/TR/web-animations/"
         ],
         "inconsistentRef": [
@@ -8282,6 +8281,13 @@
             "ref": {
               "name": "CSS-VALUES-3",
               "url": "https://drafts.csswg.org/css-values-3/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/png-3/",
+            "ref": {
+              "name": "PNG",
+              "url": "https://w3c.github.io/png/"
             }
           }
         ],
@@ -23003,7 +23009,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "22 July 2024",
+      "date": "30 July 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -25321,9 +25327,9 @@
               "crawled": "https://w3c.github.io/ServiceWorker/"
             },
             {
-              "url": "https://tc39.es/source-map-spec/",
+              "url": "https://tc39.es/source-map/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map"
+              "crawled": "https://tc39.es/source-map/"
             },
             {
               "url": "https://storage.spec.whatwg.org/",
@@ -25833,9 +25839,9 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://w3c.github.io/PNG-spec/",
+              "url": "https://www.w3.org/TR/png-3/",
               "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
-              "crawled": "https://w3c.github.io/PNG-spec/"
+              "crawled": "https://w3c.github.io/png/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -25858,9 +25864,9 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
-              "url": "https://tc39.es/source-map-spec/",
+              "url": "https://tc39.es/source-map/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map"
+              "crawled": "https://tc39.es/source-map/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -27199,9 +27205,9 @@
               "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
-              "url": "https://tc39.es/source-map-spec/",
+              "url": "https://tc39.es/source-map/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map"
+              "crawled": "https://tc39.es/source-map/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -28967,9 +28973,9 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://w3c.github.io/PNG-spec/",
+              "url": "https://www.w3.org/TR/png-3/",
               "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
-              "crawled": "https://w3c.github.io/PNG-spec/"
+              "crawled": "https://w3c.github.io/png/"
             },
             {
               "url": "https://datatracker.ietf.org/doc/html/draft-zern-webp/",
@@ -33265,9 +33271,9 @@
               "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
-              "url": "https://tc39.es/source-map-spec/",
+              "url": "https://tc39.es/source-map/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map"
+              "crawled": "https://tc39.es/source-map/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -37595,7 +37601,7 @@
     {
       "title": "Motion Path Module Level 1",
       "shortname": "motion-1",
-      "date": "1 August 2023",
+      "date": "1 August 2024",
       "url": "https://www.w3.org/TR/motion-1/",
       "release": {
         "url": "https://www.w3.org/TR/motion-1/",
@@ -40106,18 +40112,23 @@
     },
     {
       "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
-      "shortname": "PNG-spec",
-      "date": "21 September 2023",
-      "url": "https://w3c.github.io/PNG-spec/",
+      "shortname": "png-3",
+      "date": "18 July 2024",
+      "url": "https://www.w3.org/TR/png-3/",
+      "release": {
+        "url": "https://www.w3.org/TR/png-3/",
+        "status": "Candidate Recommendation Draft",
+        "filename": "Overview.html"
+      },
       "nightly": {
-        "url": "https://w3c.github.io/PNG-spec/",
+        "url": "https://w3c.github.io/png/",
         "status": "Editor's Draft",
         "alternateUrls": [],
-        "repository": "https://github.com/w3c/PNG-spec",
+        "repository": "https://github.com/w3c/png",
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "crawled": "https://w3c.github.io/PNG-spec/",
+      "crawled": "https://w3c.github.io/png/",
       "organization": "W3C",
       "groups": [
         {
@@ -40126,7 +40137,6 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://w3c.github.io/PNG-spec/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 155)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40140,9 +40150,6 @@
         },
         "missingLinkRef": [
           "https://www.w3.org/TR/2003/REC-PNG-20031110/",
-          "https://www.w3.org/TR/2022/WD-png-3-20221025/",
-          "https://www.w3.org/TR/2023/CR-png-3-20230921/",
-          "https://www.w3.org/TR/2023/WD-png-3-20230720/",
           "https://www.w3.org/TR/i18n-glossary/",
           "https://www.w3.org/TR/png/"
         ],
@@ -40150,12 +40157,38 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://w3c.github.io/PNG-spec/",
+              "url": "https://www.w3.org/TR/css-ui-3/",
+              "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
+              "crawled": "https://drafts.csswg.org/css-ui-3/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-ui-4/",
+              "title": "CSS Basic User Interface Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-ui-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-images-4/",
+              "title": "CSS Images Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-images-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/epub-33/",
+              "title": "EPUB 3.3",
+              "crawled": "https://w3c.github.io/epub-specs/epub33/core/"
+            },
+            {
+              "url": "https://www.w3.org/TR/png-3/",
               "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
-              "crawled": "https://w3c.github.io/PNG-spec/"
+              "crawled": "https://w3c.github.io/png/"
             }
           ],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://www.w3.org/TR/css-color-4/",
+              "title": "CSS Color Module Level 4",
+              "crawled": "https://drafts.csswg.org/css-color-4/"
+            }
+          ]
         },
         "ok": false
       }
@@ -48653,16 +48686,16 @@
       "title": "Source Map",
       "shortname": "sourcemap",
       "date": "22 July 2024",
-      "url": "https://tc39.es/source-map-spec/",
+      "url": "https://tc39.es/source-map/",
       "nightly": {
-        "url": "https://tc39.es/source-map-spec/",
+        "url": "https://tc39.es/source-map/",
         "status": "Editor's Draft",
         "sourcePath": "source-map.bs",
         "alternateUrls": [],
-        "repository": "https://github.com/tc39/source-map-spec",
+        "repository": "https://github.com/tc39/source-map",
         "filename": "index.html"
       },
-      "crawled": "https://tc39.es/source-map",
+      "crawled": "https://tc39.es/source-map/",
       "organization": "Ecma International",
       "groups": [
         {
@@ -48685,13 +48718,7 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/webgpu/",
-              "title": "WebGPU",
-              "crawled": "https://gpuweb.github.io/gpuweb/"
-            }
-          ],
+          "normative": [],
           "informative": []
         },
         "ok": true
@@ -52732,9 +52759,9 @@
               "crawled": "https://wicg.github.io/shared-storage/"
             },
             {
-              "url": "https://tc39.es/source-map-spec/",
+              "url": "https://tc39.es/source-map/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map"
+              "crawled": "https://tc39.es/source-map/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
@@ -55699,9 +55726,9 @@
               "crawled": "https://wicg.github.io/soft-navigations/"
             },
             {
-              "url": "https://tc39.es/source-map-spec/",
+              "url": "https://tc39.es/source-map/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map"
+              "crawled": "https://tc39.es/source-map/"
             },
             {
               "url": "https://wicg.github.io/storage-buckets/",
@@ -57124,9 +57151,9 @@
           "normative": [],
           "informative": [
             {
-              "url": "https://tc39.es/source-map-spec/",
+              "url": "https://tc39.es/source-map/",
               "title": "Source Map",
-              "crawled": "https://tc39.es/source-map"
+              "crawled": "https://tc39.es/source-map/"
             },
             {
               "url": "https://www.w3.org/TR/WGSL/",
