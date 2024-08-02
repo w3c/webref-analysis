@@ -1142,7 +1142,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 1 August 2024
+- Crawled version: 2 August 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -3147,7 +3147,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Crawled URL: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
-- Crawled version: 10 July 2024
+- Crawled version: 02 August 2024
 - Editor's Draft: [https://w3c.github.io/accname/](https://w3c.github.io/accname/)
 - Latest published version: [https://www.w3.org/TR/accname-1.2/](https://www.w3.org/TR/accname-1.2/)
 - Shortname: accname-1.2
@@ -6756,7 +6756,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
 - Crawled URL: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
-- Crawled version: 1 August 2024
+- Crawled version: 2 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
 - Latest published version: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
 - Shortname: css-inline-3
@@ -6771,6 +6771,12 @@ No informative reference to this spec from other specs.
      * [`https://www.w3.org/TR/ilreq/`](https://www.w3.org/TR/ilreq/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
+     * [`https://www.w3.org/TR/2018/WD-css-inline-3-20180808/`](https://www.w3.org/TR/2018/WD-css-inline-3-20180808/), related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+     * [`https://www.w3.org/TR/2020/WD-css-inline-3-20200604/`](https://www.w3.org/TR/2020/WD-css-inline-3-20200604/), related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+     * [`https://www.w3.org/TR/2020/WD-css-inline-3-20200618/`](https://www.w3.org/TR/2020/WD-css-inline-3-20200618/), related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+     * [`https://www.w3.org/TR/2020/WD-css-inline-3-20200827/`](https://www.w3.org/TR/2020/WD-css-inline-3-20200827/), related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+     * [`https://www.w3.org/TR/2022/WD-css-inline-3-20221114/`](https://www.w3.org/TR/2022/WD-css-inline-3-20221114/), related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+     * [`https://www.w3.org/TR/2023/WD-css-inline-3-20230401/`](https://www.w3.org/TR/2023/WD-css-inline-3-20230401/), related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
      * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/), related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
      * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/), related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
@@ -6788,6 +6794,7 @@ Normative references to this spec from:
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid-1/)
 - [CSS Grid Layout Module Level 2](https://drafts.csswg.org/css-grid-2/)
+- [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/)
 - [CSS Layout API Level 1](https://drafts.css-houdini.org/css-layout-api-1/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/)

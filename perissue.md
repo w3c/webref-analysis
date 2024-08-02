@@ -1588,6 +1588,12 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
     * [`https://www.w3.org/TR/2023/WD-css-images-4-20230217/`](https://www.w3.org/TR/2023/WD-css-images-4-20230217/) but related reference "CSS-IMAGES-4" uses URL [`https://www.w3.org/TR/css-images-4/`](https://www.w3.org/TR/css-images-4/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/)
 - [CSS Inline Layout Module Level 3](https://drafts.csswg.org/css-inline-3/) links to:
+    * [`https://www.w3.org/TR/2018/WD-css-inline-3-20180808/`](https://www.w3.org/TR/2018/WD-css-inline-3-20180808/) but related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+    * [`https://www.w3.org/TR/2020/WD-css-inline-3-20200604/`](https://www.w3.org/TR/2020/WD-css-inline-3-20200604/) but related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+    * [`https://www.w3.org/TR/2020/WD-css-inline-3-20200618/`](https://www.w3.org/TR/2020/WD-css-inline-3-20200618/) but related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+    * [`https://www.w3.org/TR/2020/WD-css-inline-3-20200827/`](https://www.w3.org/TR/2020/WD-css-inline-3-20200827/) but related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+    * [`https://www.w3.org/TR/2022/WD-css-inline-3-20221114/`](https://www.w3.org/TR/2022/WD-css-inline-3-20221114/) but related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
+    * [`https://www.w3.org/TR/2023/WD-css-inline-3-20230401/`](https://www.w3.org/TR/2023/WD-css-inline-3-20230401/) but related reference "CSS-INLINE-3" uses URL [`https://drafts.csswg.org/css-inline-3/`](https://drafts.csswg.org/css-inline-3/)
     * [`https://www.w3.org/TR/css-values-3/`](https://www.w3.org/TR/css-values-3/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but related reference "CSS-VALUES-3" uses URL [`https://drafts.csswg.org/css-values-3/`](https://drafts.csswg.org/css-values-3/)
     * [`https://www.w3.org/TR/css-writing-modes-3/`](https://www.w3.org/TR/css-writing-modes-3/) but related reference "CSS-WRITING-MODES-3" uses URL [`https://drafts.csswg.org/css-writing-modes-3/`](https://drafts.csswg.org/css-writing-modes-3/)
@@ -1943,7 +1949,7 @@ Note Strudy only reports on links to "well-known" specs and ignores links to non
 - [WebXR Hand Input Module - Level 1](https://immersive-web.github.io/webxr-hand-input/) links to [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 - [WebXR Hit Test Module](https://immersive-web.github.io/hit-test/) links to [`https://www.w3.org/TR/webxr/`](https://www.w3.org/TR/webxr/) but related reference "WEBXR" uses URL [`https://immersive-web.github.io/webxr/`](https://immersive-web.github.io/webxr/)
 
-=> 439 inconsistent references for links found in 158 specifications
+=> 445 inconsistent references for links found in 158 specifications
 
 Links in the body of a specification should be to the same document as that pointed to by the related reference in the References section. The specifications reported here use a different URL. For instance, they may use a link to the Editor's Draft but target the latest published version in the References section. There should be some consistency across the specification.
 
