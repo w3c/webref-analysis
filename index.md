@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 01, 2024
+% August 02, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -8363,7 +8363,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-tables-3/](https://www.w3.org/TR/css-tables-3/)
 - Crawled URL: [https://drafts.csswg.org/css-tables-3/](https://drafts.csswg.org/css-tables-3/)
-- Crawled version: 14 January 2024
+- Crawled version: 1 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-tables-3/](https://drafts.csswg.org/css-tables-3/)
 - Latest published version: [https://www.w3.org/TR/css-tables-3/](https://www.w3.org/TR/css-tables-3/)
 - Shortname: css-tables-3
@@ -9631,7 +9631,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
 - Crawled URL: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
-- Crawled version: 11 March 2024
+- Crawled version: 1 August 2024
 - Editor's Draft: [https://drafts.fxtf.org/filter-effects-2/](https://drafts.fxtf.org/filter-effects-2/)
 - Shortname: filter-effects-2
 
@@ -13020,7 +13020,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/rdf12-turtle/](https://www.w3.org/TR/rdf12-turtle/)
 - Crawled URL: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
-- Crawled version: 13 June 2024
+- Crawled version: 01 August 2024
 - Editor's Draft: [https://w3c.github.io/rdf-turtle/spec/](https://w3c.github.io/rdf-turtle/spec/)
 - Latest published version: [https://www.w3.org/TR/rdf12-turtle/](https://www.w3.org/TR/rdf12-turtle/)
 - Shortname: rdf12-turtle

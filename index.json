@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-01T18:44:39.934Z",
+  "date": "2024-08-02T00:56:12.409Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -18362,7 +18362,7 @@
     {
       "title": "CSS Table Module Level 3",
       "shortname": "css-tables-3",
-      "date": "14 January 2024",
+      "date": "1 August 2024",
       "url": "https://www.w3.org/TR/css-tables-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-tables-3/",
@@ -27876,7 +27876,7 @@
     {
       "title": "Filter Effects Module Level 2",
       "shortname": "filter-effects-2",
-      "date": "11 March 2024",
+      "date": "1 August 2024",
       "url": "https://drafts.fxtf.org/filter-effects-2/",
       "nightly": {
         "url": "https://drafts.fxtf.org/filter-effects-2/",
@@ -41658,7 +41658,7 @@
     {
       "title": "RDF 1.2 Turtle",
       "shortname": "rdf12-turtle",
-      "date": "13 June 2024",
+      "date": "01 August 2024",
       "url": "https://www.w3.org/TR/rdf12-turtle/",
       "release": {
         "url": "https://www.w3.org/TR/rdf12-turtle/",
