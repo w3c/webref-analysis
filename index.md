@@ -9882,7 +9882,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/motion-1/](https://www.w3.org/TR/motion-1/)
 - Crawled URL: [https://drafts.fxtf.org/motion-1/](https://drafts.fxtf.org/motion-1/)
-- Crawled version: 1 August 2024
+- Crawled version: 2 August 2024
 - Editor's Draft: [https://drafts.fxtf.org/motion-1/](https://drafts.fxtf.org/motion-1/)
 - Latest published version: [https://www.w3.org/TR/motion-1/](https://www.w3.org/TR/motion-1/)
 - Shortname: motion-1
@@ -17257,7 +17257,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
 - Crawled URL: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
-- Crawled version: 25 April 2024
+- Crawled version: 02 August 2024
 - Editor's Draft: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
 - Shortname: direct-sockets
 
