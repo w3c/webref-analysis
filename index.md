@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 02, 2024
+% August 03, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -5539,7 +5539,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-variables-1/](https://www.w3.org/TR/css-variables-1/)
 - Crawled URL: [https://drafts.csswg.org/css-variables-1/](https://drafts.csswg.org/css-variables-1/)
-- Crawled version: 27 February 2024
+- Crawled version: 2 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-variables-1/](https://drafts.csswg.org/css-variables-1/)
 - Latest published version: [https://www.w3.org/TR/css-variables-1/](https://www.w3.org/TR/css-variables-1/)
 - Shortname: css-variables-1
@@ -9196,7 +9196,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Crawled URL: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
-- Crawled version: 19 July 2024
+- Crawled version: 2 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-values-5/](https://drafts.csswg.org/css-values-5/)
 - Shortname: css-values-5
 
@@ -19526,7 +19526,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
-- Crawled version: 1 August 2024
+- Crawled version: 2 August 2024
 - Editor's Draft: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
 - Shortname: wasm-core-2-fork-memory64
 
@@ -21633,6 +21633,7 @@ Normative references to this spec from:
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Counter Styles Level 3](https://drafts.csswg.org/css-counter-styles-3/)
 - [CSS Custom Highlight API Module Level 1](https://drafts.csswg.org/css-highlight-api-1/)
+- [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables-1/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Functions and Mixins Module](https://drafts.csswg.org/css-mixins-1/)
