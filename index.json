@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-04T12:44:59.450Z",
+  "date": "2024-08-04T18:39:02.171Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -28605,7 +28605,7 @@
     {
       "title": "Geometry Interfaces Module Level 1",
       "shortname": "geometry-1",
-      "date": "10 February 2022",
+      "date": "4 August 2024",
       "url": "https://www.w3.org/TR/geometry-1/",
       "release": {
         "url": "https://www.w3.org/TR/geometry-1/",
@@ -53229,7 +53229,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "03 August 2024",
+      "date": "04 August 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",

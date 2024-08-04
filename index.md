@@ -9692,7 +9692,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/geometry-1/](https://www.w3.org/TR/geometry-1/)
 - Crawled URL: [https://drafts.fxtf.org/geometry-1/](https://drafts.fxtf.org/geometry-1/)
-- Crawled version: 10 February 2022
+- Crawled version: 4 August 2024
 - Editor's Draft: [https://drafts.fxtf.org/geometry-1/](https://drafts.fxtf.org/geometry-1/)
 - Latest published version: [https://www.w3.org/TR/geometry-1/](https://www.w3.org/TR/geometry-1/)
 - Shortname: geometry-1
@@ -14391,7 +14391,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 03 August 2024
+- Crawled version: 04 August 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
