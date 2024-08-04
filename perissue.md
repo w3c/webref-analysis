@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 03, 2024
+% August 04, 2024
 
 634 specifications were crawled in this report.
 
@@ -483,6 +483,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/webarch/`](https://www.w3.org/TR/webarch/) but does not list it in its references
 - [CSS Easing Functions Level 1](https://drafts.csswg.org/css-easing-1/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
 - [CSS Easing Functions Level 2](https://drafts.csswg.org/css-easing-2/) links to [`https://www.w3.org/TR/css3-transitions/`](https://www.w3.org/TR/css3-transitions/) but does not list it in its references
+- [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/) links to [`https://www.w3.org/TR/css-variables-1/`](https://www.w3.org/TR/css-variables-1/) but does not list it in its references
 - [CSS Exclusions Module Level 1](https://drafts.csswg.org/css-exclusions-1/) links to:
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-shapes/`](https://www.w3.org/TR/css-shapes/) but does not list it in its references
@@ -890,6 +891,7 @@ Basically all specifications have normative dependencies on some other specifica
     * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/) but does not list it in its references
     * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/) but does not list it in its references
     * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/) but does not list it in its references
+    * [`https://www.w3.org/TR/css-variables-1/`](https://www.w3.org/TR/css-variables-1/) but does not list it in its references
     * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/) but does not list it in its references
     * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/) but does not list it in its references
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/) links to:
@@ -1397,7 +1399,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1006 missing references for links found in 243 specifications
+=> 1008 missing references for links found in 244 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 

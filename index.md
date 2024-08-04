@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 03, 2024
+% August 04, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -5839,7 +5839,7 @@ Informative references to this spec from:
 - [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
 
 
-### CSS Environment Variables Module Level 1 {data-spec=true data-missingDfns=true data-ok=true}
+### CSS Environment Variables Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
 
 #### Spec info {.info}
 
@@ -5851,7 +5851,8 @@ Informative references to this spec from:
 
 #### Potential issue(s) {.anomalies}
 
-This specification looks good!
+- Missing references for links: 
+     * [`https://www.w3.org/TR/css-variables-1/`](https://www.w3.org/TR/css-variables-1/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -9211,6 +9212,7 @@ Informative references to this spec from:
      * [`https://www.w3.org/TR/css-cascade/`](https://www.w3.org/TR/css-cascade/)
      * [`https://www.w3.org/TR/css-pseudo/`](https://www.w3.org/TR/css-pseudo/)
      * [`https://www.w3.org/TR/css-values/`](https://www.w3.org/TR/css-values/)
+     * [`https://www.w3.org/TR/css-variables-1/`](https://www.w3.org/TR/css-variables-1/)
      * [`https://www.w3.org/TR/cssom/`](https://www.w3.org/TR/cssom/)
      * [`https://www.w3.org/TR/web-animations/`](https://www.w3.org/TR/web-animations/)
 - Inconsistent references for links: 
@@ -9300,7 +9302,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-viewport-1/](https://www.w3.org/TR/css-viewport-1/)
 - Crawled URL: [https://drafts.csswg.org/css-viewport/](https://drafts.csswg.org/css-viewport/)
-- Crawled version: 12 July 2024
+- Crawled version: 3 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-viewport/](https://drafts.csswg.org/css-viewport/)
 - Latest published version: [https://www.w3.org/TR/css-viewport-1/](https://www.w3.org/TR/css-viewport-1/)
 - Shortname: css-viewport-1
@@ -14363,7 +14365,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Crawled URL: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
-- Crawled version: 30 July 2024
+- Crawled version: 03 August 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
 - Latest published version: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Shortname: vc-data-integrity
@@ -14389,7 +14391,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 27 July 2024
+- Crawled version: 03 August 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0

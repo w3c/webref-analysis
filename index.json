@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-03T18:39:19.286Z",
+  "date": "2024-08-04T00:56:10.091Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -10844,7 +10844,9 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [],
+        "missingLinkRef": [
+          "https://www.w3.org/TR/css-variables-1/"
+        ],
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
@@ -10866,7 +10868,7 @@
           ],
           "informative": []
         },
-        "ok": true
+        "ok": false
       }
     },
     {
@@ -21464,6 +21466,7 @@
           "https://www.w3.org/TR/css-cascade/",
           "https://www.w3.org/TR/css-pseudo/",
           "https://www.w3.org/TR/css-values/",
+          "https://www.w3.org/TR/css-variables-1/",
           "https://www.w3.org/TR/cssom/",
           "https://www.w3.org/TR/web-animations/"
         ],
@@ -21664,7 +21667,7 @@
     {
       "title": "CSS Viewport Module Level 1",
       "shortname": "css-viewport-1",
-      "date": "12 July 2024",
+      "date": "3 August 2024",
       "url": "https://www.w3.org/TR/css-viewport-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-viewport-1/",
@@ -53167,7 +53170,7 @@
     {
       "title": "Verifiable Credential Data Integrity 1.0",
       "shortname": "vc-data-integrity",
-      "date": "30 July 2024",
+      "date": "03 August 2024",
       "url": "https://www.w3.org/TR/vc-data-integrity/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-integrity/",
@@ -53226,7 +53229,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "27 July 2024",
+      "date": "03 August 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
