@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-05T00:51:35.943Z",
+  "date": "2024-08-05T06:41:01.672Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -23582,7 +23582,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "17 June 2024",
+      "date": "5 August 2024",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -29800,7 +29800,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "2 August 2024",
+      "date": "5 August 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -38320,7 +38320,7 @@
     {
       "title": "Notifications API Standard",
       "shortname": "notifications",
-      "date": "17 July 2024",
+      "date": "5 August 2024",
       "url": "https://notifications.spec.whatwg.org/",
       "nightly": {
         "url": "https://notifications.spec.whatwg.org/",
@@ -50605,7 +50605,7 @@
     {
       "title": "Streams Standard",
       "shortname": "streams",
-      "date": "12 July 2024",
+      "date": "5 August 2024",
       "url": "https://streams.spec.whatwg.org/",
       "nightly": {
         "url": "https://streams.spec.whatwg.org/",
@@ -53229,7 +53229,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "04 August 2024",
+      "date": "05 August 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
