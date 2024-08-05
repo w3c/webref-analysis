@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-04T18:39:02.171Z",
+  "date": "2024-08-05T00:51:35.943Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -53170,7 +53170,7 @@
     {
       "title": "Verifiable Credential Data Integrity 1.0",
       "shortname": "vc-data-integrity",
-      "date": "03 August 2024",
+      "date": "05 August 2024",
       "url": "https://www.w3.org/TR/vc-data-integrity/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-integrity/",

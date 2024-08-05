@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 04, 2024
+% August 05, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -14365,7 +14365,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Crawled URL: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
-- Crawled version: 03 August 2024
+- Crawled version: 05 August 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-integrity/](https://w3c.github.io/vc-data-integrity/)
 - Latest published version: [https://www.w3.org/TR/vc-data-integrity/](https://www.w3.org/TR/vc-data-integrity/)
 - Shortname: vc-data-integrity
