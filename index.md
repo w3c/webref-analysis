@@ -1142,7 +1142,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis)
 - Crawled URL: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
-- Crawled version: 4 August 2024
+- Crawled version: 5 August 2024
 - Editor's Draft: [https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html](https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html)
 - Shortname: rfc6265bis
 
@@ -16157,7 +16157,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 31 July 2024
+- Crawled version: 5 August 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -17556,21 +17556,19 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
-### HTMLVideoElement.requestVideoFrameCallback() {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
+### HTMLVideoElement.requestVideoFrameCallback() {data-spec=true data-missingDfns=true data-ok=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://wicg.github.io/video-rvfc/](https://wicg.github.io/video-rvfc/)
 - Crawled URL: [https://wicg.github.io/video-rvfc/](https://wicg.github.io/video-rvfc/)
-- Crawled version: 19 September 2022
+- Crawled version: 2 August 2024
 - Editor's Draft: [https://wicg.github.io/video-rvfc/](https://wicg.github.io/video-rvfc/)
 - Shortname: video-rvfc
 
 #### Potential issue(s) {.anomalies}
 
-- Inconsistent references for links: 
-     * [`https://w3c.github.io/hr-time/`](https://w3c.github.io/hr-time/), related reference "HR-TIME-2" uses URL [`https://www.w3.org/TR/hr-time-2/`](https://www.w3.org/TR/hr-time-2/)
-     * [`https://w3c.github.io/media-capabilities`](https://w3c.github.io/media-capabilities), related reference "MEDIA-CAPABILITIES" uses URL [`https://www.w3.org/TR/media-capabilities/`](https://www.w3.org/TR/media-capabilities/)
+This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -20983,6 +20981,7 @@ Normative references to this spec from:
 - [High Resolution Time](https://w3c.github.io/hr-time/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [HTMLVideoElement.requestVideoFrameCallback()](https://wicg.github.io/video-rvfc/)
 - [Identifiers for WebRTC's Statistics API](https://w3c.github.io/webrtc-stats/)
 - [Idle Detection API](https://wicg.github.io/idle-detection/)
 - [Iframe credentialless](https://wicg.github.io/anonymous-iframe/)
