@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-06T12:47:23.976Z",
+  "date": "2024-08-06T18:40:32.517Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -40757,7 +40757,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "31 July 2024",
+      "date": "6 August 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
