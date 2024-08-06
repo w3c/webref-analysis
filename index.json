@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-05T18:40:03.334Z",
+  "date": "2024-08-06T00:56:29.339Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -11322,7 +11322,7 @@
     {
       "title": "CSS Font Loading Module Level 3",
       "shortname": "css-font-loading-3",
-      "date": "18 July 2024",
+      "date": "5 August 2024",
       "url": "https://www.w3.org/TR/css-font-loading-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-font-loading-3/",
@@ -16984,7 +16984,7 @@
     {
       "title": "CSS Round Display Level 1",
       "shortname": "css-round-display-1",
-      "date": "27 February 2023",
+      "date": "1 August 2024",
       "url": "https://www.w3.org/TR/css-round-display-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-round-display-1/",
@@ -17790,7 +17790,7 @@
     {
       "title": "CSS Shapes Module Level 2",
       "shortname": "css-shapes-2",
-      "date": "31 July 2024",
+      "date": "1 August 2024",
       "url": "https://drafts.csswg.org/css-shapes-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-shapes-2/",
@@ -60172,7 +60172,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "31 July 2024",
+      "date": "5 August 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -60235,7 +60235,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "31 July 2024",
+      "date": "5 August 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
