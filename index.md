@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 06, 2024
+% August 07, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -14391,7 +14391,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 05 August 2024
+- Crawled version: 06 August 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
@@ -17111,7 +17111,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
 - Crawled URL: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
-- Crawled version: 4 July 2024
+- Crawled version: 17 July 2024
 - Editor's Draft: [https://wicg.github.io/crash-reporting/](https://wicg.github.io/crash-reporting/)
 - Shortname: crash-reporting
 
@@ -17319,7 +17319,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Crash Reporting](https://wicg.github.io/crash-reporting/)
 
 No informative reference to this spec from other specs.
 
@@ -19981,6 +19983,7 @@ Normative references to this spec from:
 - [Content Security Policy: Embedded Enforcement](https://w3c.github.io/webappsec-cspee/)
 - [ContentEditable](https://w3c.github.io/contentEditable/)
 - [Cookie Store API](https://wicg.github.io/cookie-store/)
+- [Crash Reporting](https://wicg.github.io/crash-reporting/)
 - [Credential Management Level 1](https://w3c.github.io/webappsec-credential-management/)
 - [CSS Anchor Positioning](https://drafts.csswg.org/css-anchor-position-1/)
 - [CSS Animation Worklet API](https://drafts.css-houdini.org/css-animationworklet-1/)
