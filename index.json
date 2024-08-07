@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-07T00:51:04.794Z",
+  "date": "2024-08-07T06:40:52.841Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -29811,7 +29811,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "5 August 2024",
+      "date": "7 August 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
