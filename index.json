@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-07T12:47:06.413Z",
+  "date": "2024-08-07T18:40:00.494Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -3695,7 +3695,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "6 August 2024",
+      "date": "7 August 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -26054,7 +26054,7 @@
     {
       "title": "Encrypted Media Extensions",
       "shortname": "encrypted-media-2",
-      "date": "01 August 2024",
+      "date": "07 August 2024",
       "url": "https://www.w3.org/TR/encrypted-media-2/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media-2/",
@@ -26304,7 +26304,7 @@
     {
       "title": "EPUB 3.3",
       "shortname": "epub-33",
-      "date": "30 July 2024",
+      "date": "07 August 2024",
       "url": "https://www.w3.org/TR/epub-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-33/",
@@ -26370,7 +26370,7 @@
     {
       "title": "EPUB Reading Systems 3.3",
       "shortname": "epub-rs-33",
-      "date": "30 July 2024",
+      "date": "07 August 2024",
       "url": "https://www.w3.org/TR/epub-rs-33/",
       "release": {
         "url": "https://www.w3.org/TR/epub-rs-33/",
