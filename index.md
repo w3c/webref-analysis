@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 07, 2024
+% August 08, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -371,7 +371,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Crawled URL: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
-- Crawled version: 17 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://tc39.es/ecma262/multipage/](https://tc39.es/ecma262/multipage/)
 - Shortname: ecmascript
 
@@ -601,7 +601,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
 - Crawled URL: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
-- Crawled version: 23 May 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://tc39.es/proposal-intl-duration-format/](https://tc39.es/proposal-intl-duration-format/)
 - Shortname: tc39-intl-duration-format
 
@@ -908,7 +908,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
-- Crawled version: 31 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7239](https://www.rfc-editor.org/rfc/rfc7239)
 - Shortname: rfc7239
 
@@ -931,7 +931,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
-- Crawled version: 31 July 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7578](https://www.rfc-editor.org/rfc/rfc7578)
 - Shortname: rfc7578
 
@@ -961,7 +961,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
-- Crawled version: 1 August 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7932](https://www.rfc-editor.org/rfc/rfc7932)
 - Shortname: rfc7932
 
@@ -1014,7 +1014,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
-- Crawled version: 1 August 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8878](https://www.rfc-editor.org/rfc/rfc8878)
 - Shortname: rfc8878
 
@@ -1058,7 +1058,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
-- Crawled version: 31 July 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6386](https://www.rfc-editor.org/rfc/rfc6386)
 - Shortname: rfc6386
 
@@ -1535,7 +1535,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
-- Crawled version: 1 August 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc8942](https://www.rfc-editor.org/rfc/rfc8942)
 - Shortname: rfc8942
 
@@ -1700,7 +1700,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
-- Crawled version: 31 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc9163](https://www.rfc-editor.org/rfc/rfc9163)
 - Shortname: rfc9163
 
@@ -1867,7 +1867,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
-- Crawled version: 31 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc2397](https://www.rfc-editor.org/rfc/rfc2397)
 - Shortname: rfc2397
 
@@ -1903,7 +1903,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
-- Crawled version: 31 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc4120](https://www.rfc-editor.org/rfc/rfc4120)
 - Shortname: rfc4120
 
@@ -1956,7 +1956,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
-- Crawled version: 31 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6454](https://www.rfc-editor.org/rfc/rfc6454)
 - Shortname: rfc6454
 
@@ -1997,7 +1997,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
-- Crawled version: 31 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc6797](https://www.rfc-editor.org/rfc/rfc6797)
 - Shortname: rfc6797
 
@@ -2031,7 +2031,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
-- Crawled version: 1 August 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7034](https://www.rfc-editor.org/rfc/rfc7034)
 - Shortname: rfc7034
 
@@ -2058,7 +2058,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Crawled URL: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
-- Crawled version: 31 July 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://www.rfc-editor.org/rfc/rfc7469](https://www.rfc-editor.org/rfc/rfc7469)
 - Shortname: rfc7469
 
@@ -3802,6 +3802,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [CSS Color Module Level 6](https://drafts.csswg.org/css-color-6/)
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
@@ -4050,9 +4051,7 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
@@ -5204,7 +5203,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-color-6/](https://drafts.csswg.org/css-color-6/)
 - Crawled URL: [https://drafts.csswg.org/css-color-6/](https://drafts.csswg.org/css-color-6/)
-- Crawled version: 25 February 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-6/](https://drafts.csswg.org/css-color-6/)
 - Shortname: css-color-6
 
@@ -5308,7 +5307,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-5/](https://www.w3.org/TR/css-conditional-5/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-5/](https://drafts.csswg.org/css-conditional-5/)
-- Crawled version: 18 July 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-5/](https://drafts.csswg.org/css-conditional-5/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-5/](https://www.w3.org/TR/css-conditional-5/)
 - Shortname: css-conditional-5
@@ -5558,7 +5557,6 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 
@@ -5593,6 +5591,7 @@ Normative references to this spec from:
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Conditional Values Module Level 1](https://drafts.csswg.org/css-conditional-values-1/)
 - [CSS Containment Module Level 3](https://drafts.csswg.org/css-contain-3/)
 - [CSS Environment Variables Module Level 1](https://drafts.csswg.org/css-env-1/)
@@ -5650,7 +5649,6 @@ Normative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Multi-column Layout Module Level 1](https://drafts.csswg.org/css-multicol-1/)
@@ -5707,6 +5705,7 @@ Normative references to this spec from:
 - [CSS Box Sizing Module Level 4](https://drafts.csswg.org/css-sizing-4/)
 - [CSS Cascading and Inheritance Level 4](https://drafts.csswg.org/css-cascade-4/)
 - [CSS Cascading and Inheritance Level 5](https://drafts.csswg.org/css-cascade-5/)
+- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
 - [CSS Flexible Box Layout Module Level 1](https://drafts.csswg.org/css-flexbox-1/)
@@ -6757,7 +6756,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
 - Crawled URL: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
-- Crawled version: 2 August 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
 - Latest published version: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
 - Shortname: css-inline-3
@@ -7225,7 +7224,6 @@ Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -7926,9 +7924,7 @@ Normative references to this spec from:
 
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
-Informative references to this spec from:
-
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+No informative reference to this spec from other specs.
 
 
 ### CSS Scroll Anchoring Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -8083,9 +8079,7 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+No informative reference to this spec from other specs.
 
 
 ### CSS Shapes Module Level 1 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -8351,7 +8345,6 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
@@ -8790,9 +8783,7 @@ Informative references to this spec from:
 
 #### Known dependencies on this specification {.dependencies}
 
-Normative references to this spec from:
-
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
+No normative reference to this spec from other specs.
 
 Informative references to this spec from:
 
@@ -9571,7 +9562,6 @@ This specification looks good!
 
 Normative references to this spec from:
 
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Scroll Snap Module Level 2](https://drafts.csswg.org/css-scroll-snap-2/)
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
 - [Layout Instability API](https://wicg.github.io/layout-instability/)
@@ -10114,7 +10104,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [CSS Conditional Rules Module Level 5](https://drafts.csswg.org/css-conditional-5/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
@@ -15767,7 +15756,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 31 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
@@ -18135,7 +18124,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
 - Crawled URL: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
-- Crawled version: 12 July 2024
+- Crawled version: 7 August 2024
 - Editor's Draft: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
 - Shortname: scheduling-apis
 
@@ -18147,7 +18136,9 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
 
 
 ### Private Network Access {data-spec=true data-missingDfns=true data-ok=true}

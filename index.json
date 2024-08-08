@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-07T18:40:00.494Z",
+  "date": "2024-08-08T00:56:34.488Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -2987,6 +2987,11 @@
         "referencedBy": {
           "normative": [
             {
+              "url": "https://drafts.csswg.org/css-color-6/",
+              "title": "CSS Color Module Level 6",
+              "crawled": "https://drafts.csswg.org/css-color-6/"
+            },
+            {
               "url": "https://www.w3.org/TR/css-tables-3/",
               "title": "CSS Table Module Level 3",
               "crawled": "https://drafts.csswg.org/css-tables-3/"
@@ -4901,13 +4906,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-2022/",
@@ -8796,7 +8795,7 @@
     {
       "title": "CSS Color Module Level 6",
       "shortname": "css-color-6",
-      "date": "25 February 2024",
+      "date": "8 August 2024",
       "url": "https://drafts.csswg.org/css-color-6/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-6/",
@@ -9114,7 +9113,7 @@
     {
       "title": "CSS Conditional Rules Module Level 5",
       "shortname": "css-conditional-5",
-      "date": "18 July 2024",
+      "date": "8 August 2024",
       "url": "https://www.w3.org/TR/css-conditional-5/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-5/",
@@ -9836,11 +9835,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-2022/",
               "title": "CSS Snapshot 2022",
               "crawled": "https://drafts.csswg.org/css-2022/"
@@ -9933,6 +9927,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://drafts.csswg.org/css-conditional-values-1/",
@@ -10119,11 +10118,6 @@
               "crawled": "https://drafts.csswg.org/css-box-3/"
             },
             {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            },
-            {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
               "title": "CSS Fill and Stroke Module Level 3",
               "crawled": "https://drafts.fxtf.org/fill-stroke-3/"
@@ -10308,6 +10302,11 @@
               "url": "https://www.w3.org/TR/css-cascade-5/",
               "title": "CSS Cascading and Inheritance Level 5",
               "crawled": "https://drafts.csswg.org/css-cascade-5/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-conditional-5/",
+              "title": "CSS Conditional Rules Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-contain-1/",
@@ -13591,7 +13590,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "2 August 2024",
+      "date": "8 August 2024",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -14989,11 +14988,6 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/css-display-3/",
@@ -17269,13 +17263,7 @@
               "crawled": "https://svgwg.org/svg2-draft/"
             }
           ],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            }
-          ]
+          "informative": []
         },
         "ok": true
       }
@@ -17669,13 +17657,7 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            }
-          ]
+          "informative": []
         },
         "ok": true
       }
@@ -18355,11 +18337,6 @@
               "url": "https://www.w3.org/TR/css-animations-1/",
               "title": "CSS Animations Level 1",
               "crawled": "https://drafts.csswg.org/css-animations-1/"
-            },
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
             },
             {
               "url": "https://www.w3.org/TR/fill-stroke-3/",
@@ -19833,13 +19810,7 @@
           }
         ],
         "referencedBy": {
-          "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            }
-          ],
+          "normative": [],
           "informative": [
             {
               "url": "https://www.w3.org/TR/css-animations-1/",
@@ -22632,11 +22603,6 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            },
-            {
               "url": "https://www.w3.org/TR/css-scroll-snap-2/",
               "title": "CSS Scroll Snap Module Level 2",
               "crawled": "https://drafts.csswg.org/css-scroll-snap-2/"
@@ -25045,7 +25011,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "17 July 2024",
+      "date": "7 August 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -34167,7 +34133,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "23 May 2024",
+      "date": "7 August 2024",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -40512,7 +40478,7 @@
     {
       "title": "Prioritized Task Scheduling",
       "shortname": "scheduling-apis",
-      "date": "12 July 2024",
+      "date": "7 August 2024",
       "url": "https://wicg.github.io/scheduling-apis/",
       "nightly": {
         "url": "https://wicg.github.io/scheduling-apis/",
@@ -40546,7 +40512,13 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": []
+          "informative": [
+            {
+              "url": "https://wicg.github.io/scheduling-apis/",
+              "title": "Prioritized Task Scheduling",
+              "crawled": "https://wicg.github.io/scheduling-apis/"
+            }
+          ]
         },
         "ok": true
       }
@@ -43012,7 +42984,7 @@
     {
       "title": "RFC 2397: The \"data\" URL scheme",
       "shortname": "rfc2397",
-      "date": "31 July 2024",
+      "date": "7 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc2397",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc2397",
@@ -43112,7 +43084,7 @@
     {
       "title": "RFC 4120: The Kerberos Network Authentication Service (V5)",
       "shortname": "rfc4120",
-      "date": "31 July 2024",
+      "date": "7 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc4120",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc4120",
@@ -43404,7 +43376,7 @@
     {
       "title": "RFC 6386: VP8 Data Format and Decoding Guide",
       "shortname": "rfc6386",
-      "date": "31 July 2024",
+      "date": "8 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6386",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6386",
@@ -43474,7 +43446,7 @@
     {
       "title": "RFC 6454: The Web Origin Concept",
       "shortname": "rfc6454",
-      "date": "31 July 2024",
+      "date": "7 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6454",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6454",
@@ -43589,7 +43561,7 @@
     {
       "title": "RFC 6797: HTTP Strict Transport Security (HSTS)",
       "shortname": "rfc6797",
-      "date": "31 July 2024",
+      "date": "7 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc6797",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc6797",
@@ -43677,7 +43649,7 @@
     {
       "title": "RFC 7034: HTTP Header Field X-Frame-Options",
       "shortname": "rfc7034",
-      "date": "1 August 2024",
+      "date": "8 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7034",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7034",
@@ -44446,7 +44418,7 @@
     {
       "title": "RFC 7239: Forwarded HTTP Extension",
       "shortname": "rfc7239",
-      "date": "31 July 2024",
+      "date": "7 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7239",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7239",
@@ -44495,7 +44467,7 @@
     {
       "title": "RFC 7469: Public Key Pinning Extension for HTTP",
       "shortname": "rfc7469",
-      "date": "31 July 2024",
+      "date": "8 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7469",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7469",
@@ -44562,7 +44534,7 @@
     {
       "title": "RFC 7578: Returning Values from Forms: multipart/form-data",
       "shortname": "rfc7578",
-      "date": "31 July 2024",
+      "date": "8 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7578",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7578",
@@ -44843,7 +44815,7 @@
     {
       "title": "RFC 7932: Brotli Compressed Data Format",
       "shortname": "rfc7932",
-      "date": "1 August 2024",
+      "date": "7 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc7932",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc7932",
@@ -45138,7 +45110,7 @@
     {
       "title": "RFC 8878: Zstandard Compression and the 'application/zstd' Media Type",
       "shortname": "rfc8878",
-      "date": "1 August 2024",
+      "date": "8 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8878",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8878",
@@ -45181,7 +45153,7 @@
     {
       "title": "RFC 8942: HTTP Client Hints",
       "shortname": "rfc8942",
-      "date": "1 August 2024",
+      "date": "8 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc8942",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc8942",
@@ -45740,7 +45712,7 @@
     {
       "title": "RFC 9163: Expect-CT Extension for HTTP",
       "shortname": "rfc9163",
-      "date": "31 July 2024",
+      "date": "7 August 2024",
       "url": "https://www.rfc-editor.org/rfc/rfc9163",
       "nightly": {
         "url": "https://www.rfc-editor.org/rfc/rfc9163",
@@ -48253,11 +48225,6 @@
         ],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://www.w3.org/TR/css-conditional-5/",
-              "title": "CSS Conditional Rules Module Level 5",
-              "crawled": "https://drafts.csswg.org/css-conditional-5/"
-            },
             {
               "url": "https://www.w3.org/TR/css-display-3/",
               "title": "CSS Display Module Level 3",
@@ -54437,7 +54404,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "31 July 2024",
+      "date": "7 August 2024",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
