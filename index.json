@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-09T06:41:22.127Z",
+  "date": "2024-08-09T12:52:01.815Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -2671,7 +2671,7 @@
     {
       "title": "Clipboard API and events",
       "shortname": "clipboard-apis",
-      "date": "4 June 2024",
+      "date": "9 August 2024",
       "url": "https://www.w3.org/TR/clipboard-apis/",
       "release": {
         "url": "https://www.w3.org/TR/clipboard-apis/",
@@ -35284,7 +35284,7 @@
     {
       "title": "Mathematical Markup Language (MathML) Version 4.0",
       "shortname": "mathml4",
-      "date": "08 November 2023",
+      "date": "09 August 2024",
       "url": "https://www.w3.org/TR/mathml4/",
       "release": {
         "url": "https://www.w3.org/TR/mathml4/",
@@ -57077,7 +57077,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2",
-      "date": "18 July 2024",
+      "date": "9 August 2024",
       "url": "https://www.w3.org/TR/wasm-core-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-core-2/",
@@ -57370,7 +57370,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2",
-      "date": "18 July 2024",
+      "date": "9 August 2024",
       "url": "https://www.w3.org/TR/wasm-js-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -57489,7 +57489,7 @@
     {
       "title": "WebAssembly Web API",
       "shortname": "wasm-web-api-2",
-      "date": "18 July 2024",
+      "date": "9 August 2024",
       "url": "https://www.w3.org/TR/wasm-web-api-2/",
       "release": {
         "url": "https://www.w3.org/TR/wasm-web-api-2/",
