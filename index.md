@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 08, 2024
+% August 09, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -343,7 +343,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 1 August 2024
+- Crawled version: 8 August 2024
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -15220,7 +15220,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/gamepad/](https://www.w3.org/TR/gamepad/)
 - Crawled URL: [https://w3c.github.io/gamepad/](https://w3c.github.io/gamepad/)
-- Crawled version: 11 April 2024
+- Crawled version: 09 August 2024
 - Editor's Draft: [https://w3c.github.io/gamepad/](https://w3c.github.io/gamepad/)
 - Latest published version: [https://www.w3.org/TR/gamepad/](https://www.w3.org/TR/gamepad/)
 - Shortname: gamepad
@@ -15247,7 +15247,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
 - Crawled URL: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
-- Crawled version: 11 April 2024
+- Crawled version: 09 August 2024
 - Editor's Draft: [https://w3c.github.io/gamepad/extensions.html](https://w3c.github.io/gamepad/extensions.html)
 - Shortname: gamepad-extensions
 
@@ -15971,7 +15971,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/selection-api/](https://www.w3.org/TR/selection-api/)
 - Crawled URL: [https://w3c.github.io/selection-api/](https://w3c.github.io/selection-api/)
-- Crawled version: 20 March 2024
+- Crawled version: 08 August 2024
 - Editor's Draft: [https://w3c.github.io/selection-api/](https://w3c.github.io/selection-api/)
 - Latest published version: [https://www.w3.org/TR/selection-api/](https://www.w3.org/TR/selection-api/)
 - Shortname: selection-api
@@ -17248,7 +17248,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
 - Crawled URL: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
-- Crawled version: 02 August 2024
+- Crawled version: 08 August 2024
 - Editor's Draft: [https://wicg.github.io/direct-sockets/](https://wicg.github.io/direct-sockets/)
 - Shortname: direct-sockets
 

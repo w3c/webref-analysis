@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-08T18:46:35.361Z",
+  "date": "2024-08-09T00:56:26.056Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -23191,7 +23191,7 @@
     {
       "title": "Direct Sockets API",
       "shortname": "direct-sockets",
-      "date": "02 August 2024",
+      "date": "08 August 2024",
       "url": "https://wicg.github.io/direct-sockets/",
       "nightly": {
         "url": "https://wicg.github.io/direct-sockets/",
@@ -24890,7 +24890,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "1 August 2024",
+      "date": "8 August 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -28192,7 +28192,7 @@
     {
       "title": "Gamepad",
       "shortname": "gamepad",
-      "date": "11 April 2024",
+      "date": "09 August 2024",
       "url": "https://www.w3.org/TR/gamepad/",
       "release": {
         "url": "https://www.w3.org/TR/gamepad/",
@@ -28256,7 +28256,7 @@
     {
       "title": "Gamepad Extensions",
       "shortname": "gamepad-extensions",
-      "date": "11 April 2024",
+      "date": "09 August 2024",
       "url": "https://w3c.github.io/gamepad/extensions.html",
       "nightly": {
         "url": "https://w3c.github.io/gamepad/extensions.html",
@@ -47831,7 +47831,7 @@
     {
       "title": "Selection API",
       "shortname": "selection-api",
-      "date": "20 March 2024",
+      "date": "08 August 2024",
       "url": "https://www.w3.org/TR/selection-api/",
       "release": {
         "url": "https://www.w3.org/TR/selection-api/",
