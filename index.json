@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-09T12:52:01.815Z",
+  "date": "2024-08-09T18:40:22.222Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -24890,7 +24890,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "8 August 2024",
+      "date": "9 August 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
