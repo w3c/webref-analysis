@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-09T18:40:22.222Z",
+  "date": "2024-08-10T00:56:37.081Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -5671,7 +5671,7 @@
     {
       "title": "CSS Box Alignment Module Level 3",
       "shortname": "css-align-3",
-      "date": "4 August 2024",
+      "date": "9 August 2024",
       "url": "https://www.w3.org/TR/css-align-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-align-3/",
@@ -11070,7 +11070,7 @@
     {
       "title": "CSS Flexible Box Layout Module Level 1",
       "shortname": "css-flexbox-1",
-      "date": "28 August 2023",
+      "date": "9 August 2024",
       "url": "https://www.w3.org/TR/css-flexbox-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-flexbox-1/",
@@ -16026,7 +16026,7 @@
     {
       "title": "CSS Positioned Layout Module Level 3",
       "shortname": "css-position-3",
-      "date": "29 May 2024",
+      "date": "10 August 2024",
       "url": "https://www.w3.org/TR/css-position-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-position-3/",
@@ -16385,6 +16385,11 @@
               "url": "https://www.w3.org/TR/css-contain-2/",
               "title": "CSS Containment Module Level 2",
               "crawled": "https://drafts.csswg.org/css-contain-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-position-3/",
+              "title": "CSS Positioned Layout Module Level 3",
+              "crawled": "https://drafts.csswg.org/css-position-3/"
             },
             {
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
@@ -21536,7 +21541,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "30 July 2024",
+      "date": "9 August 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-2/",
@@ -28405,7 +28410,7 @@
     {
       "title": "Geolocation",
       "shortname": "geolocation",
-      "date": "02 July 2024",
+      "date": "09 August 2024",
       "url": "https://www.w3.org/TR/geolocation/",
       "release": {
         "url": "https://www.w3.org/TR/geolocation/",
@@ -38087,7 +38092,7 @@
     {
       "title": "Network Reporting API",
       "shortname": "network-reporting",
-      "date": "10 November 2023",
+      "date": "9 August 2024",
       "url": "https://w3c.github.io/reporting/network-reporting.html",
       "nightly": {
         "url": "https://w3c.github.io/reporting/network-reporting.html",
@@ -40426,7 +40431,7 @@
     {
       "title": "Prioritized Task Scheduling",
       "shortname": "scheduling-apis",
-      "date": "7 August 2024",
+      "date": "9 August 2024",
       "url": "https://wicg.github.io/scheduling-apis/",
       "nightly": {
         "url": "https://wicg.github.io/scheduling-apis/",
@@ -40460,13 +40465,7 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [],
-          "informative": [
-            {
-              "url": "https://wicg.github.io/scheduling-apis/",
-              "title": "Prioritized Task Scheduling",
-              "crawled": "https://wicg.github.io/scheduling-apis/"
-            }
-          ]
+          "informative": []
         },
         "ok": true
       }
@@ -42428,7 +42427,7 @@
     {
       "title": "Reporting API",
       "shortname": "reporting-1",
-      "date": "10 November 2023",
+      "date": "9 August 2024",
       "url": "https://www.w3.org/TR/reporting-1/",
       "release": {
         "url": "https://www.w3.org/TR/reporting-1/",
@@ -53145,7 +53144,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "08 August 2024",
+      "date": "09 August 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",

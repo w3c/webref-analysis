@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 09, 2024
+% August 10, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -4329,7 +4329,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
 - Crawled URL: [https://drafts.csswg.org/css-align-3/](https://drafts.csswg.org/css-align-3/)
-- Crawled version: 4 August 2024
+- Crawled version: 9 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-align-3/](https://drafts.csswg.org/css-align-3/)
 - Latest published version: [https://www.w3.org/TR/css-align-3/](https://www.w3.org/TR/css-align-3/)
 - Shortname: css-align-3
@@ -5954,7 +5954,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Crawled URL: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
-- Crawled version: 28 August 2023
+- Crawled version: 9 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-flexbox-1/](https://drafts.csswg.org/css-flexbox-1/)
 - Latest published version: [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
 - Shortname: css-flexbox-1
@@ -7543,7 +7543,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-position-3/](https://www.w3.org/TR/css-position-3/)
 - Crawled URL: [https://drafts.csswg.org/css-position-3/](https://drafts.csswg.org/css-position-3/)
-- Crawled version: 29 May 2024
+- Crawled version: 10 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-position-3/](https://drafts.csswg.org/css-position-3/)
 - Latest published version: [https://www.w3.org/TR/css-position-3/](https://www.w3.org/TR/css-position-3/)
 - Shortname: css-position-3
@@ -7639,6 +7639,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
+- [CSS Positioned Layout Module Level 3](https://drafts.csswg.org/css-position-3/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Fullscreen API Standard](https://fullscreen.spec.whatwg.org/)
@@ -9259,7 +9260,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 30 July 2024
+- Crawled version: 9 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
@@ -10482,7 +10483,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Crawled URL: [https://w3c.github.io/geolocation/](https://w3c.github.io/geolocation/)
-- Crawled version: 02 July 2024
+- Crawled version: 09 August 2024
 - Editor's Draft: [https://w3c.github.io/geolocation/](https://w3c.github.io/geolocation/)
 - Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Shortname: geolocation
@@ -14373,7 +14374,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 08 August 2024
+- Crawled version: 09 August 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
@@ -15270,7 +15271,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Crawled URL: [https://w3c.github.io/geolocation/](https://w3c.github.io/geolocation/)
-- Crawled version: 02 July 2024
+- Crawled version: 09 August 2024
 - Editor's Draft: [https://w3c.github.io/geolocation/](https://w3c.github.io/geolocation/)
 - Latest published version: [https://www.w3.org/TR/geolocation/](https://www.w3.org/TR/geolocation/)
 - Shortname: geolocation
@@ -16637,7 +16638,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/reporting/network-reporting.html](https://w3c.github.io/reporting/network-reporting.html)
 - Crawled URL: [https://w3c.github.io/reporting/network-reporting.html](https://w3c.github.io/reporting/network-reporting.html)
-- Crawled version: 10 November 2023
+- Crawled version: 9 August 2024
 - Editor's Draft: [https://w3c.github.io/reporting/network-reporting.html](https://w3c.github.io/reporting/network-reporting.html)
 - Shortname: network-reporting
 
@@ -16729,7 +16730,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Crawled URL: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
-- Crawled version: 10 November 2023
+- Crawled version: 9 August 2024
 - Editor's Draft: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
 - Latest published version: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Shortname: reporting-1
@@ -18117,7 +18118,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
 - Crawled URL: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
-- Crawled version: 7 August 2024
+- Crawled version: 9 August 2024
 - Editor's Draft: [https://wicg.github.io/scheduling-apis/](https://wicg.github.io/scheduling-apis/)
 - Shortname: scheduling-apis
 
@@ -18129,9 +18130,7 @@ This specification looks good!
 
 No normative reference to this spec from other specs.
 
-Informative references to this spec from:
-
-- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+No informative reference to this spec from other specs.
 
 
 ### Private Network Access {data-spec=true data-missingDfns=true data-ok=true}
