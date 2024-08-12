@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-12T12:48:02.912Z",
+  "date": "2024-08-12T18:45:32.275Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -21330,7 +21330,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "2 August 2024",
+      "date": "12 August 2024",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -34086,7 +34086,7 @@
     {
       "title": "Intl.DurationFormat",
       "shortname": "tc39-intl-duration-format",
-      "date": "7 August 2024",
+      "date": "12 August 2024",
       "url": "https://tc39.es/proposal-intl-duration-format/",
       "nightly": {
         "url": "https://tc39.es/proposal-intl-duration-format/",
@@ -40431,7 +40431,7 @@
     {
       "title": "Prioritized Task Scheduling",
       "shortname": "scheduling-apis",
-      "date": "9 August 2024",
+      "date": "12 August 2024",
       "url": "https://wicg.github.io/scheduling-apis/",
       "nightly": {
         "url": "https://wicg.github.io/scheduling-apis/",
@@ -62157,7 +62157,7 @@
     {
       "title": "XMLHttpRequest Standard",
       "shortname": "xhr",
-      "date": "6 June 2024",
+      "date": "12 August 2024",
       "url": "https://xhr.spec.whatwg.org/",
       "nightly": {
         "url": "https://xhr.spec.whatwg.org/",
@@ -62227,11 +62227,6 @@
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
-            },
-            {
-              "url": "https://xhr.spec.whatwg.org/",
-              "title": "XMLHttpRequest Standard",
-              "crawled": "https://xhr.spec.whatwg.org/"
             }
           ],
           "informative": [
