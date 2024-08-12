@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 11, 2024
+% August 12, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -14383,7 +14383,6 @@ Informative references to this spec from:
 
 - Missing references for links: 
      * [`https://w3c.github.io/vc-data-model-2.0-test-suite/`](https://w3c.github.io/vc-data-model-2.0-test-suite/)
-     * [`https://w3c.github.io/vc-di-bbs/`](https://w3c.github.io/vc-di-bbs/)
      * [`https://w3c.github.io/vc-imp-guide/`](https://w3c.github.io/vc-imp-guide/)
      * [`https://www.w3.org/TR/2019/REC-vc-data-model-20191119/`](https://www.w3.org/TR/2019/REC-vc-data-model-20191119/)
      * [`https://www.w3.org/TR/2022/REC-vc-data-model-20220303/`](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/)

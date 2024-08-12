@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 11, 2024
+% August 12, 2024
 
 634 specifications were crawled in this report.
 
@@ -1287,7 +1287,6 @@ Basically all specifications have normative dependencies on some other specifica
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) links to [`https://w3c.github.io/device-memory/`](https://w3c.github.io/device-memory/) but does not list it in its references
 - [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/) links to:
     * [`https://w3c.github.io/vc-data-model-2.0-test-suite/`](https://w3c.github.io/vc-data-model-2.0-test-suite/) but does not list it in its references
-    * [`https://w3c.github.io/vc-di-bbs/`](https://w3c.github.io/vc-di-bbs/) but does not list it in its references
     * [`https://w3c.github.io/vc-imp-guide/`](https://w3c.github.io/vc-imp-guide/) but does not list it in its references
     * [`https://www.w3.org/TR/2019/REC-vc-data-model-20191119/`](https://www.w3.org/TR/2019/REC-vc-data-model-20191119/) but does not list it in its references
     * [`https://www.w3.org/TR/2022/REC-vc-data-model-20220303/`](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/) but does not list it in its references
@@ -1399,7 +1398,7 @@ Basically all specifications have normative dependencies on some other specifica
 - [Window Management](https://w3c.github.io/window-management/) links to [`https://www.w3.org/TR/cssom-view-1/`](https://www.w3.org/TR/cssom-view-1/) but does not list it in its references
 - [XMLHttpRequest Standard](https://xhr.spec.whatwg.org/) links to [`https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html`](https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/svgudom.html) but does not list it in its references
 
-=> 1008 missing references for links found in 244 specifications
+=> 1007 missing references for links found in 244 specifications
 
 Any link to an external document from within a specification should trigger the creation of a corresponding entry in the references section.
 
