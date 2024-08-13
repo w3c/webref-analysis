@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 12, 2024
+% August 13, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -6756,7 +6756,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
 - Crawled URL: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
-- Crawled version: 8 August 2024
+- Crawled version: 12 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-inline-3/](https://drafts.csswg.org/css-inline-3/)
 - Latest published version: [https://www.w3.org/TR/css-inline-3/](https://www.w3.org/TR/css-inline-3/)
 - Shortname: css-inline-3
@@ -7543,7 +7543,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-position-3/](https://www.w3.org/TR/css-position-3/)
 - Crawled URL: [https://drafts.csswg.org/css-position-3/](https://drafts.csswg.org/css-position-3/)
-- Crawled version: 10 August 2024
+- Crawled version: 12 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-position-3/](https://drafts.csswg.org/css-position-3/)
 - Latest published version: [https://www.w3.org/TR/css-position-3/](https://www.w3.org/TR/css-position-3/)
 - Shortname: css-position-3
@@ -16111,7 +16111,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/WOFF2/](https://www.w3.org/TR/WOFF2/)
 - Crawled URL: [https://w3c.github.io/woff/woff2/](https://w3c.github.io/woff/woff2/)
-- Crawled version: 10 March 2022
+- Crawled version: 08 August 2024
 - Editor's Draft: [https://w3c.github.io/woff/woff2/](https://w3c.github.io/woff/woff2/)
 - Latest published version: [https://www.w3.org/TR/WOFF2/](https://www.w3.org/TR/WOFF2/)
 - Shortname: WOFF2
@@ -16942,7 +16942,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 1 August 2024
+- Crawled version: 12 August 2024
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-12T18:45:32.275Z",
+  "date": "2024-08-13T00:56:17.206Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -1178,7 +1178,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "1 August 2024",
+      "date": "12 August 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -13590,7 +13590,7 @@
     {
       "title": "CSS Inline Layout Module Level 3",
       "shortname": "css-inline-3",
-      "date": "8 August 2024",
+      "date": "12 August 2024",
       "url": "https://www.w3.org/TR/css-inline-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-inline-3/",
@@ -16026,7 +16026,7 @@
     {
       "title": "CSS Positioned Layout Module Level 3",
       "shortname": "css-position-3",
-      "date": "10 August 2024",
+      "date": "12 August 2024",
       "url": "https://www.w3.org/TR/css-position-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-position-3/",
@@ -62015,7 +62015,7 @@
     {
       "title": "WOFF File Format 2.0",
       "shortname": "WOFF2",
-      "date": "10 March 2022",
+      "date": "08 August 2024",
       "url": "https://www.w3.org/TR/WOFF2/",
       "release": {
         "url": "https://www.w3.org/TR/WOFF2/",
