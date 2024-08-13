@@ -781,7 +781,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [WebGPU](https://gpuweb.github.io/gpuweb/)
 
 No informative reference to this spec from other specs.
 
@@ -3250,7 +3252,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Crawled URL: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
-- Crawled version: 21 June 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://w3c.github.io/core-aam/](https://w3c.github.io/core-aam/)
 - Latest published version: [https://www.w3.org/TR/core-aam-1.2/](https://www.w3.org/TR/core-aam-1.2/)
 - Shortname: core-aam-1.2
@@ -6032,7 +6034,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-font-loading-3/](https://www.w3.org/TR/css-font-loading-3/)
 - Crawled URL: [https://drafts.csswg.org/css-font-loading-3/](https://drafts.csswg.org/css-font-loading-3/)
-- Crawled version: 5 August 2024
+- Crawled version: 11 May 2024
 - Editor's Draft: [https://drafts.csswg.org/css-font-loading-3/](https://drafts.csswg.org/css-font-loading-3/)
 - Latest published version: [https://www.w3.org/TR/css-font-loading-3/](https://www.w3.org/TR/css-font-loading-3/)
 - Shortname: css-font-loading-3
@@ -10777,7 +10779,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 5 August 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10803,7 +10805,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 5 August 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -14606,7 +14608,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
 - Crawled URL: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
-- Crawled version: 29 July 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://w3c.github.io/webappsec-credential-management/](https://w3c.github.io/webappsec-credential-management/)
 - Latest published version: [https://www.w3.org/TR/credential-management-1/](https://www.w3.org/TR/credential-management-1/)
 - Shortname: credential-management-1
@@ -16286,7 +16288,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
 - Crawled URL: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
-- Crawled version: 08 July 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
 - Latest published version: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
 - Shortname: payment-request-1.1
@@ -16651,7 +16653,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://w3c.github.io/reporting/network-reporting.html](https://w3c.github.io/reporting/network-reporting.html)
 - Crawled URL: [https://w3c.github.io/reporting/network-reporting.html](https://w3c.github.io/reporting/network-reporting.html)
-- Crawled version: 9 August 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://w3c.github.io/reporting/network-reporting.html](https://w3c.github.io/reporting/network-reporting.html)
 - Shortname: network-reporting
 
@@ -16743,7 +16745,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Crawled URL: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
-- Crawled version: 9 August 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://w3c.github.io/reporting/](https://w3c.github.io/reporting/)
 - Latest published version: [https://www.w3.org/TR/reporting-1/](https://www.w3.org/TR/reporting-1/)
 - Shortname: reporting-1
@@ -17422,7 +17424,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Crawled URL: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
-- Crawled version: 12 July 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://wicg.github.io/fenced-frame/](https://wicg.github.io/fenced-frame/)
 - Shortname: fenced-frame
 
@@ -18195,7 +18197,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 8 August 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -19524,7 +19526,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
 - Crawled URL: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
-- Crawled version: 2 August 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://webassembly.github.io/memory64/core/bikeshed/](https://webassembly.github.io/memory64/core/bikeshed/)
 - Shortname: wasm-core-2-fork-memory64
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-13T12:52:38.062Z",
+  "date": "2024-08-13T18:45:38.443Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -3763,7 +3763,7 @@
     {
       "title": "Core Accessibility API Mappings 1.2",
       "shortname": "core-aam-1.2",
-      "date": "21 June 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/core-aam-1.2/",
       "release": {
         "url": "https://www.w3.org/TR/core-aam-1.2/",
@@ -3888,7 +3888,7 @@
     {
       "title": "Credential Management Level 1",
       "shortname": "credential-management-1",
-      "date": "29 July 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/credential-management-1/",
       "release": {
         "url": "https://www.w3.org/TR/credential-management-1/",
@@ -11343,7 +11343,7 @@
     {
       "title": "CSS Font Loading Module Level 3",
       "shortname": "css-font-loading-3",
-      "date": "5 August 2024",
+      "date": "11 May 2024",
       "url": "https://www.w3.org/TR/css-font-loading-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-font-loading-3/",
@@ -26695,7 +26695,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "12 July 2024",
+      "date": "13 August 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -38159,7 +38159,7 @@
     {
       "title": "Network Reporting API",
       "shortname": "network-reporting",
-      "date": "9 August 2024",
+      "date": "13 August 2024",
       "url": "https://w3c.github.io/reporting/network-reporting.html",
       "nightly": {
         "url": "https://w3c.github.io/reporting/network-reporting.html",
@@ -38958,7 +38958,7 @@
     {
       "title": "Payment Request API",
       "shortname": "payment-request-1.1",
-      "date": "08 July 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request-1.1/",
@@ -40754,7 +40754,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "8 August 2024",
+      "date": "13 August 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -42494,7 +42494,7 @@
     {
       "title": "Reporting API",
       "shortname": "reporting-1",
-      "date": "9 August 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/reporting-1/",
       "release": {
         "url": "https://www.w3.org/TR/reporting-1/",
@@ -48750,7 +48750,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://www.w3.org/TR/webgpu/",
+              "title": "WebGPU",
+              "crawled": "https://gpuweb.github.io/gpuweb/"
+            }
+          ],
           "informative": []
         },
         "ok": true
@@ -56953,7 +56959,7 @@
     {
       "title": "WebAssembly Core Specification",
       "shortname": "wasm-core-2-fork-memory64",
-      "date": "2 August 2024",
+      "date": "13 August 2024",
       "url": "https://webassembly.github.io/memory64/core/bikeshed/",
       "nightly": {
         "url": "https://webassembly.github.io/memory64/core/bikeshed/",
@@ -60158,7 +60164,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "5 August 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -60221,7 +60227,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "5 August 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
