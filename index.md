@@ -3709,6 +3709,7 @@ Normative references to this spec from:
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
 - [CSS Box Model Module Level 3](https://drafts.csswg.org/css-box-3/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -3857,7 +3858,6 @@ Normative references to this spec from:
 - [CSS Color Adjustment Module Level 1](https://drafts.csswg.org/css-color-adjust-1/)
 - [CSS Color HDR Module Level 1](https://drafts.csswg.org/css-color-hdr/)
 - [CSS Color Module Level 4](https://drafts.csswg.org/css-color-4/)
-- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Conditional Values Module Level 1](https://drafts.csswg.org/css-conditional-values-1/)
 - [CSS Containment Module Level 1](https://drafts.csswg.org/css-contain-1/)
 - [CSS Containment Module Level 2](https://drafts.csswg.org/css-contain-2/)
@@ -4051,7 +4051,9 @@ No informative reference to this spec from other specs.
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 
 Informative references to this spec from:
 
@@ -4152,6 +4154,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 
 
 ### CSS Backgrounds Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
@@ -5224,7 +5227,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Crawled URL: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
-- Crawled version: 27 July 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-conditional-3/](https://drafts.csswg.org/css-conditional-3/)
 - Latest published version: [https://www.w3.org/TR/css-conditional-3/](https://www.w3.org/TR/css-conditional-3/)
 - Shortname: css-conditional-3
@@ -5232,8 +5235,8 @@ No informative reference to this spec from other specs.
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`http://www.w3.org/TR/css3-mediaqueries/`](http://www.w3.org/TR/css3-mediaqueries/)
      * [`https://www.w3.org/TR/2013/CR-css3-conditional-20130404/`](https://www.w3.org/TR/2013/CR-css3-conditional-20130404/)
+     * [`https://www.w3.org/TR/css3-mediaqueries/`](https://www.w3.org/TR/css3-mediaqueries/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -5659,7 +5662,9 @@ Normative references to this spec from:
 - [MathML Core](https://w3c.github.io/mathml-core/)
 - [WebDriver](https://w3c.github.io/webdriver/)
 
-No informative reference to this spec from other specs.
+Informative references to this spec from:
+
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 
 
 ### CSS Display Module Level 4 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
@@ -5767,7 +5772,6 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS Cascading and Inheritance Level 3](https://drafts.csswg.org/css-cascade-3/)
-- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Fonts Module Level 4](https://drafts.csswg.org/css-fonts-4/)
 - [CSS Fonts Module Level 5](https://drafts.csswg.org/css-fonts-5/)
 - [CSS Transitions Level 2](https://drafts.csswg.org/css-transitions-2/)
@@ -5779,7 +5783,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-easing-1/](https://www.w3.org/TR/css-easing-1/)
 - Crawled URL: [https://drafts.csswg.org/css-easing-1/](https://drafts.csswg.org/css-easing-1/)
-- Crawled version: 1 December 2023
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-easing-1/](https://drafts.csswg.org/css-easing-1/)
 - Latest published version: [https://www.w3.org/TR/css-easing-1/](https://www.w3.org/TR/css-easing-1/)
 - Shortname: css-easing-1
@@ -5808,7 +5812,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
 - Crawled URL: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
-- Crawled version: 19 July 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
 - Shortname: css-easing-2
 
@@ -7166,6 +7170,7 @@ No informative reference to this spec from other specs.
 
 Normative references to this spec from:
 
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Non-element Selectors Module Level 1](https://drafts.csswg.org/selectors-nonelement-1/)
@@ -7217,6 +7222,7 @@ Normative references to this spec from:
 
 - [Content Security Policy Level 3](https://w3c.github.io/webappsec-csp/)
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Display Module Level 3](https://drafts.csswg.org/css-display-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Images Module Level 4](https://drafts.csswg.org/css-images-4/)
@@ -8339,6 +8345,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Fill and Stroke Module Level 3](https://drafts.fxtf.org/fill-stroke-3/)
 - [CSS Font Loading Module Level 3](https://drafts.csswg.org/css-font-loading-3/)
 - [CSS Generated Content for Paged Media Module](https://drafts.csswg.org/css-gcpm-3/)
@@ -8783,6 +8790,7 @@ Informative references to this spec from:
 
 - [CSS Animations Level 1](https://drafts.csswg.org/css-animations-1/)
 - [CSS Basic User Interface Module Level 3 (CSS3 UI)](https://drafts.csswg.org/css-ui-3/)
+- [CSS Conditional Rules Module Level 3](https://drafts.csswg.org/css-conditional-3/)
 - [CSS Snapshot 2022](https://drafts.csswg.org/css-2022/)
 - [CSS Snapshot 2023](https://drafts.csswg.org/css-2023/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
