@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-13T06:46:28.329Z",
+  "date": "2024-08-13T12:52:38.062Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -5028,7 +5028,7 @@
     {
       "title": "CSS Backgrounds and Borders Module Level 3",
       "shortname": "css-backgrounds-3",
-      "date": "13 May 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/css-backgrounds-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -5672,6 +5672,11 @@
               "url": "https://www.w3.org/TR/css-typed-om-1/",
               "title": "CSS Typed OM Level 1",
               "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             }
           ],
           "informative": []
@@ -8462,6 +8467,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -14529,6 +14539,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://www.w3.org/TR/filter-effects-1/",
               "title": "Filter Effects Module Level 1",
               "crawled": "https://drafts.fxtf.org/filter-effects-1/"
@@ -15277,6 +15292,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -19693,6 +19713,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://screen-share.github.io/element-capture/",
               "title": "Element Capture",
               "crawled": "https://screen-share.github.io/element-capture/"
@@ -21573,7 +21598,7 @@
     {
       "title": "CSS View Transitions Module Level 2",
       "shortname": "css-view-transitions-2",
-      "date": "9 August 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/css-view-transitions-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-view-transitions-2/",
@@ -23544,7 +23569,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "5 August 2024",
+      "date": "13 August 2024",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -27844,6 +27869,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
             },
             {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
               "url": "https://drafts.fxtf.org/filter-effects-2/",
               "title": "Filter Effects Module Level 2",
               "crawled": "https://drafts.fxtf.org/filter-effects-2/"
@@ -28630,6 +28660,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-view-transitions-2/",
+              "title": "CSS View Transitions Module Level 2",
+              "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -51714,11 +51749,6 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
-            {
-              "url": "https://dom.spec.whatwg.org/",
-              "title": "DOM Standard",
-              "crawled": "https://dom.spec.whatwg.org/"
-            },
             {
               "url": "https://wicg.github.io/sanitizer-api/",
               "title": "HTML Sanitizer API",

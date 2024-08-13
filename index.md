@@ -4103,7 +4103,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
 - Crawled URL: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
-- Crawled version: 13 May 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-backgrounds-3/](https://drafts.csswg.org/css-backgrounds-3/)
 - Latest published version: [https://www.w3.org/TR/css-backgrounds-3/](https://www.w3.org/TR/css-backgrounds-3/)
 - Shortname: css-backgrounds-3
@@ -4322,6 +4322,7 @@ Normative references to this spec from:
 - [CSS Masking Module Level 1](https://drafts.fxtf.org/css-masking-1/)
 - [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom-1/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 
 No informative reference to this spec from other specs.
 
@@ -5114,6 +5115,7 @@ Normative references to this spec from:
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [Federated Credential Management API](https://fedidcg.github.io/FedCM/)
 - [MathML Core](https://w3c.github.io/mathml-core/)
@@ -7048,6 +7050,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [Filter Effects Module Level 1](https://drafts.fxtf.org/filter-effects-1/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
@@ -7302,6 +7305,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 4](https://drafts.csswg.org/css-values-4/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSS Writing Modes Level 3](https://drafts.csswg.org/css-writing-modes-3/)
 - [CSS Writing Modes Level 4](https://drafts.csswg.org/css-writing-modes-4/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
@@ -8747,6 +8751,7 @@ Normative references to this spec from:
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS Values and Units Module Level 5](https://drafts.csswg.org/css-values-5/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [Element Capture](https://screen-share.github.io/element-capture/)
 - [Geometry Interfaces Module Level 1](https://drafts.fxtf.org/geometry-1/)
 - [Motion Path Module Level 1](https://drafts.fxtf.org/motion-1/)
@@ -9268,7 +9273,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 9 August 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
@@ -9614,6 +9619,7 @@ Normative references to this spec from:
 - [CSS Table Module Level 3](https://drafts.csswg.org/css-tables-3/)
 - [CSS Transforms Module Level 2](https://drafts.csswg.org/css-transforms-2/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [Filter Effects Module Level 2](https://drafts.fxtf.org/filter-effects-2/)
 - [Scalable Vector Graphics (SVG) 2](https://svgwg.org/svg2-draft/)
 
@@ -9702,6 +9708,7 @@ Normative references to this spec from:
 - [Compatibility Standard](https://compat.spec.whatwg.org/)
 - [CSS Typed OM Level 1](https://drafts.css-houdini.org/css-typed-om-1/)
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [CSSOM View Module](https://drafts.csswg.org/cssom-view-1/)
 - [EditContext API](https://w3c.github.io/edit-context/)
 - [Element Timing API](https://wicg.github.io/element-timing/)
@@ -15021,7 +15028,6 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
-- [DOM Standard](https://dom.spec.whatwg.org/)
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Service Workers Nightly](https://w3c.github.io/ServiceWorker/)
@@ -19943,7 +19949,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 5 August 2024
+- Crawled version: 13 August 2024
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 
