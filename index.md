@@ -343,7 +343,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Crawled URL: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
-- Crawled version: 9 August 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://tc39.es/ecma402/](https://tc39.es/ecma402/)
 - Shortname: ecma-402
 
@@ -771,7 +771,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/source-map/](https://tc39.es/source-map/)
 - Crawled URL: [https://tc39.es/source-map/](https://tc39.es/source-map/)
-- Crawled version: 22 July 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://tc39.es/source-map/](https://tc39.es/source-map/)
 - Shortname: sourcemap
 
@@ -5062,7 +5062,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Crawled URL: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
-- Crawled version: 25 July 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-4/](https://drafts.csswg.org/css-color-4/)
 - Latest published version: [https://www.w3.org/TR/css-color-4/](https://www.w3.org/TR/css-color-4/)
 - Shortname: css-color-4
@@ -5210,7 +5210,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://drafts.csswg.org/css-color-6/](https://drafts.csswg.org/css-color-6/)
 - Crawled URL: [https://drafts.csswg.org/css-color-6/](https://drafts.csswg.org/css-color-6/)
-- Crawled version: 11 August 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-color-6/](https://drafts.csswg.org/css-color-6/)
 - Shortname: css-color-6
 
@@ -5816,7 +5816,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
 - Crawled URL: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
-- Crawled version: 13 August 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-easing-2/](https://drafts.csswg.org/css-easing-2/)
 - Shortname: css-easing-2
 
@@ -10399,6 +10399,7 @@ Informative references to this spec from:
 Normative references to this spec from:
 
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 
 No informative reference to this spec from other specs.
 
@@ -12506,7 +12507,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Crawled URL: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
-- Crawled version: 26 March 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://w3c.github.io/pointerevents/](https://w3c.github.io/pointerevents/)
 - Latest published version: [https://www.w3.org/TR/pointerevents3/](https://www.w3.org/TR/pointerevents3/)
 - Shortname: pointerevents3
@@ -12530,6 +12531,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
+- [Pointer Events](https://w3c.github.io/pointerevents/)
 
 
 ## Portable Network Graphics (PNG) Working Group {#group-portable_network_graphics_png_working_group}
@@ -15143,6 +15145,7 @@ No informative reference to this spec from other specs.
 Normative references to this spec from:
 
 - [CSS Fragmentation Module Level 4](https://drafts.csswg.org/css-break-4/)
+- [Payment Request API](https://w3c.github.io/payment-request/)
 
 No informative reference to this spec from other specs.
 
@@ -15766,7 +15769,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Crawled URL: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
-- Crawled version: 7 August 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://w3c.github.io/webauthn/](https://w3c.github.io/webauthn/)
 - Latest published version: [https://www.w3.org/TR/webauthn-3/](https://www.w3.org/TR/webauthn-3/)
 - Shortname: webauthn-3
@@ -16283,13 +16286,13 @@ Informative references to this spec from:
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 
 
-### Payment Request API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+### Payment Request API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
 - Initial URL: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
 - Crawled URL: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
-- Crawled version: 13 August 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
 - Latest published version: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
 - Shortname: payment-request-1.1
@@ -16297,8 +16300,9 @@ Informative references to this spec from:
 #### Potential issue(s) {.anomalies}
 
 - Missing references for links: 
-     * [`https://w3c.github.io/contact-picker/`](https://w3c.github.io/contact-picker/)
      * [`https://www.w3.org/TR/2022/REC-payment-request-20220908/`](https://www.w3.org/TR/2022/REC-payment-request-20220908/)
+- Inconsistent references for links: 
+     * [`https://w3c.github.io/contact-picker/`](https://w3c.github.io/contact-picker/), related reference "contact-picker" uses URL [`https://www.w3.org/TR/contact-picker/`](https://www.w3.org/TR/contact-picker/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -16959,7 +16963,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Crawled URL: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
-- Crawled version: 13 August 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://wicg.github.io/attribution-reporting-api/](https://wicg.github.io/attribution-reporting-api/)
 - Shortname: attribution-reporting-api
 
@@ -17401,7 +17405,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Crawled URL: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
-- Crawled version: 15 May 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://fedidcg.github.io/FedCM/](https://fedidcg.github.io/FedCM/)
 - Shortname: FedCM
 
@@ -18198,7 +18202,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 13 August 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -18211,7 +18215,6 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
-- [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 
 Informative references to this spec from:
 

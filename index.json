@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-14T12:47:15.029Z",
+  "date": "2024-08-14T18:45:03.292Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -1178,7 +1178,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "13 August 2024",
+      "date": "14 August 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3255,6 +3255,11 @@
               "url": "https://www.w3.org/TR/css-break-4/",
               "title": "CSS Fragmentation Module Level 4",
               "crawled": "https://drafts.csswg.org/css-break-4/"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "title": "Payment Request API",
+              "crawled": "https://w3c.github.io/payment-request/"
             }
           ],
           "informative": []
@@ -8231,7 +8236,7 @@
     {
       "title": "CSS Color Module Level 4",
       "shortname": "css-color-4",
-      "date": "25 July 2024",
+      "date": "14 August 2024",
       "url": "https://www.w3.org/TR/css-color-4/",
       "release": {
         "url": "https://www.w3.org/TR/css-color-4/",
@@ -8816,7 +8821,7 @@
     {
       "title": "CSS Color Module Level 6",
       "shortname": "css-color-6",
-      "date": "11 August 2024",
+      "date": "14 August 2024",
       "url": "https://drafts.csswg.org/css-color-6/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-color-6/",
@@ -10726,7 +10731,7 @@
     {
       "title": "CSS Easing Functions Level 2",
       "shortname": "css-easing-2",
-      "date": "13 August 2024",
+      "date": "14 August 2024",
       "url": "https://drafts.csswg.org/css-easing-2/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-easing-2/",
@@ -24957,7 +24962,7 @@
     {
       "title": "ECMAScript® 2024 Internationalization API Specification",
       "shortname": "ecma-402",
-      "date": "9 August 2024",
+      "date": "14 August 2024",
       "url": "https://tc39.es/ecma402/",
       "nightly": {
         "url": "https://tc39.es/ecma402/",
@@ -26650,7 +26655,7 @@
     {
       "title": "Federated Credential Management API",
       "shortname": "FedCM",
-      "date": "15 May 2024",
+      "date": "14 August 2024",
       "url": "https://fedidcg.github.io/FedCM/",
       "nightly": {
         "url": "https://fedidcg.github.io/FedCM/",
@@ -38963,7 +38968,7 @@
     {
       "title": "Payment Request API",
       "shortname": "payment-request-1.1",
-      "date": "13 August 2024",
+      "date": "14 August 2024",
       "url": "https://www.w3.org/TR/payment-request-1.1/",
       "release": {
         "url": "https://www.w3.org/TR/payment-request-1.1/",
@@ -38999,10 +39004,17 @@
           "idl": []
         },
         "missingLinkRef": [
-          "https://w3c.github.io/contact-picker/",
           "https://www.w3.org/TR/2022/REC-payment-request-20220908/"
         ],
-        "inconsistentRef": [],
+        "inconsistentRef": [
+          {
+            "link": "https://w3c.github.io/contact-picker/",
+            "ref": {
+              "name": "contact-picker",
+              "url": "https://www.w3.org/TR/contact-picker/"
+            }
+          }
+        ],
         "referencedBy": {
           "normative": [
             {
@@ -39966,7 +39978,7 @@
     {
       "title": "Pointer Events",
       "shortname": "pointerevents3",
-      "date": "26 March 2024",
+      "date": "14 August 2024",
       "url": "https://www.w3.org/TR/pointerevents3/",
       "release": {
         "url": "https://www.w3.org/TR/pointerevents3/",
@@ -40049,6 +40061,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-1/",
               "title": "CSS View Transitions Module Level 1",
               "crawled": "https://drafts.csswg.org/css-view-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/pointerevents3/",
+              "title": "Pointer Events",
+              "crawled": "https://w3c.github.io/pointerevents/"
             }
           ]
         },
@@ -40759,7 +40776,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "13 August 2024",
+      "date": "14 August 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -40797,11 +40814,6 @@
               "url": "https://wicg.github.io/fenced-frame/",
               "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
-            },
-            {
-              "url": "https://wicg.github.io/turtledove/",
-              "title": "Protected Audience (formerly FLEDGE)",
-              "crawled": "https://wicg.github.io/turtledove/"
             }
           ],
           "informative": [
@@ -48727,7 +48739,7 @@
     {
       "title": "Source Map",
       "shortname": "sourcemap",
-      "date": "22 July 2024",
+      "date": "14 August 2024",
       "url": "https://tc39.es/source-map/",
       "nightly": {
         "url": "https://tc39.es/source-map/",
@@ -54433,7 +54445,7 @@
     {
       "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
       "shortname": "webauthn-3",
-      "date": "7 August 2024",
+      "date": "14 August 2024",
       "url": "https://www.w3.org/TR/webauthn-3/",
       "release": {
         "url": "https://www.w3.org/TR/webauthn-3/",
