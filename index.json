@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-13T18:45:38.443Z",
+  "date": "2024-08-14T00:56:21.621Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -1178,7 +1178,7 @@
     {
       "title": "Attribution Reporting",
       "shortname": "attribution-reporting-api",
-      "date": "12 August 2024",
+      "date": "13 August 2024",
       "url": "https://wicg.github.io/attribution-reporting-api/",
       "nightly": {
         "url": "https://wicg.github.io/attribution-reporting-api/",
@@ -3705,7 +3705,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "11 August 2024",
+      "date": "13 August 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -12779,7 +12779,7 @@
     {
       "title": "CSS Grid Layout Module Level 2",
       "shortname": "css-grid-2",
-      "date": "4 August 2024",
+      "date": "13 August 2024",
       "url": "https://www.w3.org/TR/css-grid-2/",
       "release": {
         "url": "https://www.w3.org/TR/css-grid-2/",
@@ -20006,6 +20006,11 @@
               "crawled": "https://drafts.csswg.org/css-values-4/"
             },
             {
+              "url": "https://drafts.csswg.org/css-values-5/",
+              "title": "CSS Values and Units Module Level 5",
+              "crawled": "https://drafts.csswg.org/css-values-5/"
+            },
+            {
               "url": "https://drafts.css-houdini.org/font-metrics-api-1/",
               "title": "Font Metrics API Level 1",
               "crawled": "https://drafts.css-houdini.org/font-metrics-api-1/"
@@ -21387,7 +21392,7 @@
     {
       "title": "CSS Values and Units Module Level 5",
       "shortname": "css-values-5",
-      "date": "12 August 2024",
+      "date": "13 August 2024",
       "url": "https://drafts.csswg.org/css-values-5/",
       "nightly": {
         "url": "https://drafts.csswg.org/css-values-5/",
@@ -25021,7 +25026,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "9 August 2024",
+      "date": "13 August 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
@@ -40792,6 +40797,11 @@
               "url": "https://wicg.github.io/fenced-frame/",
               "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
+              "url": "https://wicg.github.io/turtledove/",
+              "title": "Protected Audience (formerly FLEDGE)",
+              "crawled": "https://wicg.github.io/turtledove/"
             }
           ],
           "informative": [
