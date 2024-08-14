@@ -19953,7 +19953,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Crawled URL: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
-- Crawled version: 13 August 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 - Shortname: dom
 
@@ -20873,7 +20873,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Crawled URL: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
-- Crawled version: 24 January 2024
+- Crawled version: 14 August 2024
 - Editor's Draft: [https://infra.spec.whatwg.org/](https://infra.spec.whatwg.org/)
 - Shortname: infra
 
@@ -21565,6 +21565,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Encoding Standard](https://encoding.spec.whatwg.org/)
+- [Infra Standard](https://infra.spec.whatwg.org/)
 - [Internationalization Glossary](https://w3c.github.io/i18n-glossary/)
 - [Media Source Extensions™](https://w3c.github.io/media-source/)
 - [Origin-bound one-time codes delivered via SMS](https://wicg.github.io/sms-one-time-codes/)

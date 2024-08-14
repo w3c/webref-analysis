@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-14T06:40:35.237Z",
+  "date": "2024-08-14T12:47:15.029Z",
   "stats": {
     "crawled": 634,
     "errors": 1,
@@ -23574,7 +23574,7 @@
     {
       "title": "DOM Standard",
       "shortname": "dom",
-      "date": "13 August 2024",
+      "date": "14 August 2024",
       "url": "https://dom.spec.whatwg.org/",
       "nightly": {
         "url": "https://dom.spec.whatwg.org/",
@@ -32398,7 +32398,7 @@
     {
       "title": "Infra Standard",
       "shortname": "infra",
-      "date": "24 January 2024",
+      "date": "14 August 2024",
       "url": "https://infra.spec.whatwg.org/",
       "nightly": {
         "url": "https://infra.spec.whatwg.org/",
@@ -52932,6 +52932,11 @@
               "url": "https://encoding.spec.whatwg.org/",
               "title": "Encoding Standard",
               "crawled": "https://encoding.spec.whatwg.org/"
+            },
+            {
+              "url": "https://infra.spec.whatwg.org/",
+              "title": "Infra Standard",
+              "crawled": "https://infra.spec.whatwg.org/"
             },
             {
               "url": "https://www.w3.org/TR/i18n-glossary/",
