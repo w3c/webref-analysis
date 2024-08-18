@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-18T12:46:25.642Z",
+  "date": "2024-08-18T18:38:29.689Z",
   "stats": {
     "crawled": 634,
     "errors": 2,
@@ -53246,7 +53246,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "17 August 2024",
+      "date": "18 August 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
