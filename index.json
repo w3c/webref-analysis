@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-17T18:38:53.416Z",
+  "date": "2024-08-18T00:51:30.141Z",
   "stats": {
     "crawled": 634,
     "errors": 2,
@@ -25031,7 +25031,7 @@
     {
       "title": "ECMAScript® 2025 Language Specification",
       "shortname": "ecmascript",
-      "date": "13 August 2024",
+      "date": "17 August 2024",
       "url": "https://tc39.es/ecma262/multipage/",
       "nightly": {
         "url": "https://tc39.es/ecma262/multipage/",
