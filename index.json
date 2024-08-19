@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-19T00:50:58.975Z",
+  "date": "2024-08-19T06:41:02.371Z",
   "stats": {
     "crawled": 634,
     "errors": 2,
@@ -52421,7 +52421,7 @@
     {
       "title": "URL Standard",
       "shortname": "url",
-      "date": "25 March 2024",
+      "date": "19 August 2024",
       "url": "https://url.spec.whatwg.org/",
       "nightly": {
         "url": "https://url.spec.whatwg.org/",
