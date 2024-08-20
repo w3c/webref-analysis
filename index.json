@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-19T18:40:01.937Z",
+  "date": "2024-08-20T00:56:07.800Z",
   "stats": {
     "crawled": 634,
     "errors": 2,
@@ -10891,6 +10891,11 @@
               "url": "https://drafts.csswg.org/css-mixins-1/",
               "title": "CSS Functions and Mixins Module",
               "crawled": "https://drafts.csswg.org/css-mixins-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             }
           ],
           "informative": []
@@ -21664,7 +21669,7 @@
     {
       "title": "CSS Viewport Module Level 1",
       "shortname": "css-viewport-1",
-      "date": "3 August 2024",
+      "date": "12 July 2024",
       "url": "https://www.w3.org/TR/css-viewport-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-viewport-1/",
@@ -23039,6 +23044,11 @@
           "normative": [],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
+            },
+            {
               "url": "https://html.spec.whatwg.org/multipage/",
               "title": "HTML Standard",
               "crawled": "https://html.spec.whatwg.org/multipage/"
@@ -23391,7 +23401,7 @@
     {
       "title": "Document Picture-in-Picture Specification",
       "shortname": "document-picture-in-picture",
-      "date": "11 June 2024",
+      "date": "19 August 2024",
       "url": "https://wicg.github.io/document-picture-in-picture/",
       "nightly": {
         "url": "https://wicg.github.io/document-picture-in-picture/",
@@ -23898,6 +23908,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-2/",
               "title": "CSS View Transitions Module Level 2",
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
@@ -26665,7 +26680,7 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://fedidcg.github.io/FedCM/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
+        "error": "Error: Loading https://fedidcg.github.io/FedCM/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 43)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -28669,6 +28684,11 @@
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
             },
             {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
+            },
+            {
               "url": "https://www.w3.org/TR/cssom-view-1/",
               "title": "CSSOM View Module",
               "crawled": "https://drafts.csswg.org/cssom-view-1/"
@@ -30334,6 +30354,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-2/",
               "title": "CSS View Transitions Module Level 2",
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/css-writing-modes-3/",
@@ -40768,7 +40793,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "14 August 2024",
+      "date": "19 August 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -47367,6 +47392,11 @@
           ],
           "informative": [
             {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
+            },
+            {
               "url": "https://www.w3.org/TR/orientation-event/",
               "title": "Device Orientation and Motion",
               "crawled": "https://w3c.github.io/deviceorientation/"
@@ -53231,7 +53261,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "18 August 2024",
+      "date": "19 August 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -55130,6 +55160,11 @@
               "url": "https://www.w3.org/TR/css-view-transitions-2/",
               "title": "CSS View Transitions Module Level 2",
               "crawled": "https://drafts.csswg.org/css-view-transitions-2/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-viewport-1/",
+              "title": "CSS Viewport Module Level 1",
+              "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
               "url": "https://www.w3.org/TR/cssom-view-1/",
