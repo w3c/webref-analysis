@@ -430,6 +430,7 @@ Normative references to this spec from:
 - [Pointer Events](https://w3c.github.io/pointerevents/)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Publication Manifest](https://w3c.github.io/pub-manifest/)
@@ -459,6 +460,7 @@ Normative references to this spec from:
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-string-builtins/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)
@@ -703,6 +705,27 @@ No normative reference to this spec from other specs.
 No informative reference to this spec from other specs.
 
 
+### RegExp.escape {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-regex-escaping/](https://tc39.es/proposal-regex-escaping/)
+- Crawled URL: [https://tc39.es/proposal-regex-escaping/](https://tc39.es/proposal-regex-escaping/)
+- Crawled version: 30 July 2024
+- Editor's Draft: [https://tc39.es/proposal-regex-escaping/](https://tc39.es/proposal-regex-escaping/)
+- Shortname: tc39-regex-escaping
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Regular Expression Pattern Modifiers for ECMAScript {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -836,6 +859,27 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+### Time Zone Canonicalization proposal {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://tc39.es/proposal-canonical-tz/](https://tc39.es/proposal-canonical-tz/)
+- Crawled URL: [https://tc39.es/proposal-canonical-tz/](https://tc39.es/proposal-canonical-tz/)
+- Crawled version: 25 September 2023
+- Editor's Draft: [https://tc39.es/proposal-canonical-tz/](https://tc39.es/proposal-canonical-tz/)
+- Shortname: tc39-canonical-tz
+
+#### Potential issue(s) {.anomalies}
+
+- No normative references found
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Uint8Array to/from base64 {data-spec=true data-anomaly=true data-noNormativeRefs=true data-missingDfns=true}
 
 #### Spec info {.info}
@@ -883,8 +927,8 @@ serializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scrip
     at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:383:19)
     at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)
     at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:96:16)
-    at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:335:20)
-    at async CdpPage.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:799:20)
+    at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:336:20)
+    at async CdpPage.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:801:20)
     at async processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:25)
     at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
     at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
@@ -3473,6 +3517,7 @@ Normative references to this spec from:
 
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 Informative references to this spec from:
@@ -3641,6 +3686,7 @@ Normative references to this spec from:
 - [Media Capture Automation](https://w3c.github.io/mediacapture-automation/)
 - [Navigational-Tracking Mitigations](https://privacycg.github.io/nav-tracking-mitigations/)
 - [Permissions](https://w3c.github.io/permissions/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
 - [Reporting API](https://w3c.github.io/reporting/)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
@@ -10129,6 +10175,33 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
+### Selectors Level 5 {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://drafts.csswg.org/selectors-5/](https://drafts.csswg.org/selectors-5/)
+- Crawled URL: [https://drafts.csswg.org/selectors-5/](https://drafts.csswg.org/selectors-5/)
+- Crawled version: 13 August 2024
+- Editor's Draft: [https://drafts.csswg.org/selectors-5/](https://drafts.csswg.org/selectors-5/)
+- Shortname: selectors-5
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`http://www.w3.org/TR/css3-namespace/`](http://www.w3.org/TR/css3-namespace/)
+     * [`http://www.w3.org/TR/css3-selectors/`](http://www.w3.org/TR/css3-selectors/)
+     * [`http://www.w3.org/TR/html40/interact/forms.html`](http://www.w3.org/TR/html40/interact/forms.html)
+     * [`https://www.w3.org/TR/2013/WD-selectors4-20130502/`](https://www.w3.org/TR/2013/WD-selectors4-20130502/)
+     * [`https://www.w3.org/TR/selectors-4`](https://www.w3.org/TR/selectors-4)
+     * [`https://www.w3.org/TR/selectors-4/`](https://www.w3.org/TR/selectors-4/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
 ### Web Animations {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
 
 #### Spec info {.info}
@@ -10786,7 +10859,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
-- Crawled version: 19 August 2024
+- Crawled version: 20 August 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/](https://gpuweb.github.io/gpuweb/)
 - Latest published version: [https://www.w3.org/TR/webgpu/](https://www.w3.org/TR/webgpu/)
 - Shortname: webgpu
@@ -10812,7 +10885,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Crawled URL: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
-- Crawled version: 19 August 2024
+- Crawled version: 20 August 2024
 - Editor's Draft: [https://gpuweb.github.io/gpuweb/wgsl/](https://gpuweb.github.io/gpuweb/wgsl/)
 - Latest published version: [https://www.w3.org/TR/WGSL/](https://www.w3.org/TR/WGSL/)
 - Shortname: WGSL
@@ -11428,7 +11501,6 @@ Normative references to this spec from:
 
 Informative references to this spec from:
 
-- ["keyids" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html)
 - [Encrypted Media Extensions Initialization Data Format Registry](https://w3c.github.io/encrypted-media/format-registry/initdata/)
 
 
@@ -11438,7 +11510,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/eme-initdata-keyids/](https://www.w3.org/TR/eme-initdata-keyids/)
 - Crawled URL: [https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html](https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html)
-- Crawled version: 22 July 2024
+- Crawled version: 20 August 2024
 - Editor's Draft: [https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html](https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html)
 - Latest published version: [https://www.w3.org/TR/eme-initdata-keyids/](https://www.w3.org/TR/eme-initdata-keyids/)
 - Shortname: eme-initdata-keyids
@@ -11644,6 +11716,7 @@ Informative references to this spec from:
 
 Normative references to this spec from:
 
+- ["keyids" Initialization Data Format](https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html)
 - [Media Capabilities](https://w3c.github.io/media-capabilities/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 
@@ -12750,6 +12823,28 @@ Informative references to this spec from:
 
 
 ## Private Advertising Technology Community Group {#group-private_advertising_technology_community_group}
+
+### Private Aggregation API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
+- Initial URL: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
+- Crawled URL: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
+- Crawled version: 19 August 2024
+- Editor's Draft: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
+- Shortname: private-aggregation-api
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/design-principles/`](https://www.w3.org/TR/design-principles/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
 
 ### Topics API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
@@ -14446,6 +14541,7 @@ Normative references to this spec from:
 
 - [Device Orientation and Motion](https://w3c.github.io/deviceorientation/)
 - [EPUB Reading Systems 3.3](https://w3c.github.io/epub-specs/epub33/rs/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/)
 
 Informative references to this spec from:
@@ -14837,6 +14933,7 @@ Normative references to this spec from:
 - [Payment Request API](https://w3c.github.io/payment-request/)
 - [Permissions](https://w3c.github.io/permissions/)
 - [Picture-in-Picture](https://w3c.github.io/picture-in-picture/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Proximity Sensor](https://w3c.github.io/proximity/)
@@ -14960,6 +15057,7 @@ Normative references to this spec from:
 - [Network Reporting API](https://w3c.github.io/reporting/network-reporting.html)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Referrer Policy](https://w3c.github.io/webappsec-referrer-policy/)
@@ -15876,6 +15974,7 @@ Normative references to this spec from:
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Secure Curves in the Web Cryptography API](https://wicg.github.io/webcrypto-secure-curves/)
 - [WebRTC Encoded Transform](https://w3c.github.io/webrtc-encoded-transform/)
 - [WebRTC: Real-Time Communication in Browsers](https://w3c.github.io/webrtc-pc/)
@@ -16292,21 +16391,19 @@ Informative references to this spec from:
 - [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 
 
-### Payment Request API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Payment Request API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
-- Initial URL: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
+- Initial URL: [https://www.w3.org/TR/payment-request/](https://www.w3.org/TR/payment-request/)
 - Crawled URL: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
 - Crawled version: 14 August 2024
 - Editor's Draft: [https://w3c.github.io/payment-request/](https://w3c.github.io/payment-request/)
-- Latest published version: [https://www.w3.org/TR/payment-request-1.1/](https://www.w3.org/TR/payment-request-1.1/)
-- Shortname: payment-request-1.1
+- Latest published version: [https://www.w3.org/TR/payment-request/](https://www.w3.org/TR/payment-request/)
+- Shortname: payment-request
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/2022/REC-payment-request-20220908/`](https://www.w3.org/TR/2022/REC-payment-request-20220908/)
 - Inconsistent references for links: 
      * [`https://w3c.github.io/contact-picker/`](https://w3c.github.io/contact-picker/), related reference "contact-picker" uses URL [`https://www.w3.org/TR/contact-picker/`](https://www.w3.org/TR/contact-picker/)
 
@@ -16317,6 +16414,7 @@ Normative references to this spec from:
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
 - [Digital Goods API](https://wicg.github.io/digital-goods/)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [Payment Handler API](https://w3c.github.io/payment-handler/)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Secure Payment Confirmation](https://w3c.github.io/secure-payment-confirmation/)
@@ -16324,6 +16422,7 @@ Normative references to this spec from:
 Informative references to this spec from:
 
 - [Capability Delegation](https://wicg.github.io/capability-delegation/spec.html)
+- [Payment Method Identifiers](https://w3c.github.io/payment-method-id/)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 
 
@@ -16482,6 +16581,7 @@ Normative references to this spec from:
 - [Performance Timeline](https://w3c.github.io/performance-timeline/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
@@ -16979,6 +17079,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 
 No informative reference to this spec from other specs.
@@ -17223,7 +17324,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Crawled URL: [https://wicg.github.io/digital-credentials](https://wicg.github.io/digital-credentials)
-- Crawled version: 30 July 2024
+- Crawled version: 12 August 2024
 - Editor's Draft: [https://wicg.github.io/digital-identities/](https://wicg.github.io/digital-identities/)
 - Shortname: digital-identities
 
@@ -17242,7 +17343,7 @@ Normative references to this spec from:
 No informative reference to this spec from other specs.
 
 
-### Digital Goods API {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true data-inconsistentRef=true}
+### Digital Goods API {data-spec=true data-anomaly=true data-missingDfns=true data-inconsistentRef=true}
 
 #### Spec info {.info}
 
@@ -17254,10 +17355,9 @@ No informative reference to this spec from other specs.
 
 #### Potential issue(s) {.anomalies}
 
-- Missing references for links: 
-     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/)
 - Inconsistent references for links: 
      * [`https://www.w3.org/TR/payment-method-id/`](https://www.w3.org/TR/payment-method-id/), related reference "PAYMENT-METHOD-ID" uses URL [`https://w3c.github.io/payment-method-id/`](https://w3c.github.io/payment-method-id/)
+     * [`https://www.w3.org/TR/payment-request/`](https://www.w3.org/TR/payment-request/), related reference "PAYMENT-REQUEST" uses URL [`https://w3c.github.io/payment-request/`](https://w3c.github.io/payment-request/)
 
 #### Known dependencies on this specification {.dependencies}
 
@@ -17452,6 +17552,7 @@ Normative references to this spec from:
 
 - [Attribution Reporting](https://wicg.github.io/attribution-reporting-api/)
 - [CSS Viewport Module Level 1](https://drafts.csswg.org/css-viewport/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Shared Storage API](https://wicg.github.io/shared-storage/)
 
@@ -18224,6 +18325,7 @@ This specification looks good!
 Normative references to this spec from:
 
 - [Fenced Frame](https://wicg.github.io/fenced-frame/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 
 Informative references to this spec from:
 
@@ -18391,7 +18493,9 @@ This specification looks good!
 
 #### Known dependencies on this specification {.dependencies}
 
-No normative reference to this spec from other specs.
+Normative references to this spec from:
+
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 
 Informative references to this spec from:
 
@@ -19707,6 +19811,30 @@ No informative reference to this spec from other specs.
 
 #### Spec info {.info}
 
+- Initial URL: [https://webassembly.github.io/js-string-builtins/js-api/](https://webassembly.github.io/js-string-builtins/js-api/)
+- Crawled URL: [https://webassembly.github.io/js-string-builtins/js-api/](https://webassembly.github.io/js-string-builtins/js-api/)
+- Crawled version: 8 August 2024
+- Editor's Draft: [https://webassembly.github.io/js-string-builtins/js-api/](https://webassembly.github.io/js-string-builtins/js-api/)
+- Shortname: wasm-js-api-2-fork-js-string-builtins
+
+#### Potential issue(s) {.anomalies}
+
+- Missing references for links: 
+     * [`https://www.w3.org/TR/wasm-core/`](https://www.w3.org/TR/wasm-core/)
+     * [`https://www.w3.org/TR/wasm-js-api/`](https://www.w3.org/TR/wasm-js-api/)
+     * [`https://www.w3.org/TR/wasm-web-api/`](https://www.w3.org/TR/wasm-web-api/)
+
+#### Known dependencies on this specification {.dependencies}
+
+No normative reference to this spec from other specs.
+
+No informative reference to this spec from other specs.
+
+
+### WebAssembly JavaScript Interface {data-spec=true data-anomaly=true data-missingDfns=true data-missingLinkRef=true}
+
+#### Spec info {.info}
+
 - Initial URL: [https://webassembly.github.io/js-types/js-api/](https://webassembly.github.io/js-types/js-api/)
 - Crawled URL: [https://webassembly.github.io/js-types/js-api/](https://webassembly.github.io/js-types/js-api/)
 - Crawled version: 12 October 2023
@@ -20113,6 +20241,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
@@ -20257,6 +20386,7 @@ Normative references to this spec from:
 - [No-Vary-Search](https://wicg.github.io/nav-speculation/no-vary-search.html)
 - [Payment Method Manifest](https://w3c.github.io/payment-method-manifest/)
 - [Portable Network Graphics (PNG) Specification (Third Edition)](https://w3c.github.io/png/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
 - [Push API](https://w3c.github.io/push-api/)
 - [Scripting Policy](https://wicg.github.io/csp-next/scripting-policy.html)
@@ -20274,6 +20404,7 @@ Normative references to this spec from:
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-string-builtins/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/threads/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
@@ -20370,6 +20501,7 @@ Normative references to this spec from:
 - [Portals](https://wicg.github.io/portals/)
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
@@ -20694,6 +20826,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
@@ -20779,6 +20912,7 @@ Normative references to this spec from:
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-string-builtins/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/threads/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
@@ -20844,6 +20978,7 @@ Informative references to this spec from:
 - [RDF 1.2 Turtle](https://w3c.github.io/rdf-turtle/spec/)
 - [RFC 8288 - Web Linking](https://httpwg.org/specs/rfc8288.html)
 - [Selectors Level 3](https://drafts.csswg.org/selectors-3/)
+- [Selectors Level 5](https://drafts.csswg.org/selectors-5/)
 - [SVG Integration](https://svgwg.org/specs/integration/)
 - [WAI-ARIA Graphics Module](https://w3c.github.io/graphics-aria/)
 
@@ -21049,6 +21184,7 @@ Normative references to this spec from:
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
@@ -21120,6 +21256,7 @@ Normative references to this spec from:
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-string-builtins/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/threads/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
@@ -21534,6 +21671,7 @@ Normative references to this spec from:
 - [Prefetch](https://wicg.github.io/nav-speculation/prefetch.html)
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private Click Measurement](https://privacycg.github.io/private-click-measurement/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
@@ -21775,6 +21913,7 @@ Normative references to this spec from:
 - [Prerendering Revamped](https://wicg.github.io/nav-speculation/prerendering.html)
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [Private Aggregation API](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - [Private Network Access](https://wicg.github.io/private-network-access/)
 - [Private State Token API](https://wicg.github.io/trust-token-api/)
 - [Protected Audience (formerly FLEDGE)](https://wicg.github.io/turtledove/)
@@ -21846,6 +21985,7 @@ Normative references to this spec from:
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/content-security-policy/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/esm-integration/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-promise-integration/js-api/)
+- [WebAssembly JavaScript Interface](https://webassembly.github.io/js-string-builtins/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/js-types/js-api/)
 - [WebAssembly JavaScript Interface](https://webassembly.github.io/spec/js-api/)
 - [WebAssembly JavaScript Interface: Exception Handling](https://webassembly.github.io/exception-handling/js-api/)

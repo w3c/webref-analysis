@@ -2,11 +2,11 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-20T12:47:30.545Z",
+  "date": "2024-08-20T18:49:18.168Z",
   "stats": {
-    "crawled": 634,
+    "crawled": 639,
     "errors": 2,
-    "studied": 634
+    "studied": 639
   },
   "results": [
     {
@@ -59,11 +59,6 @@
           ],
           "informative": [
             {
-              "url": "https://www.w3.org/TR/eme-initdata-keyids/",
-              "title": "\"keyids\" Initialization Data Format",
-              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html"
-            },
-            {
               "url": "https://www.w3.org/TR/eme-initdata-registry/",
               "title": "Encrypted Media Extensions Initialization Data Format Registry",
               "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/"
@@ -76,7 +71,7 @@
     {
       "title": "\"keyids\" Initialization Data Format",
       "shortname": "eme-initdata-keyids",
-      "date": "22 July 2024",
+      "date": "20 August 2024",
       "url": "https://www.w3.org/TR/eme-initdata-keyids/",
       "release": {
         "url": "https://www.w3.org/TR/eme-initdata-keyids/",
@@ -1216,6 +1211,11 @@
               "url": "https://wicg.github.io/fenced-frame/",
               "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -2635,7 +2635,7 @@
         }
       ],
       "report": {
-        "error": "Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.\n        \nhttps://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:550:19\nArray.map (<anonymous>)\nserializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:53)\n    at evaluate (evaluate at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:36), <anonymous>:6:28)\n    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:383:19)\n    at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)\n    at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:96:16)\n    at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:335:20)\n    at async CdpPage.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:799:20)\n    at async processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:25)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
+        "error": "Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.\n        \nhttps://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:550:19\nArray.map (<anonymous>)\nserializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:53)\n    at evaluate (evaluate at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:36), <anonymous>:6:28)\n    at #evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:383:19)\n    at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)\n    at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:96:16)\n    at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:336:20)\n    at async CdpPage.evaluate (file:///home/runner/work/webref/webref/node_modules/reffy/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:801:20)\n    at async processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:25)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -3257,7 +3257,7 @@
               "crawled": "https://drafts.csswg.org/css-break-4/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             }
@@ -8870,7 +8870,7 @@
       "url": "https://www.w3.org/TR/css-conditional-3/",
       "release": {
         "url": "https://www.w3.org/TR/css-conditional-3/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -21683,7 +21683,7 @@
           "https://w3c.github.io/csswg-drafts/css-viewport/"
         ],
         "repository": "https://github.com/w3c/csswg-drafts",
-        "sourcePath": "css-viewport/Overview.bs",
+        "sourcePath": "css-viewport-1/Overview.bs",
         "filename": "index.html"
       },
       "crawled": "https://drafts.csswg.org/css-viewport/",
@@ -23061,7 +23061,7 @@
     {
       "title": "Digital Credentials",
       "shortname": "digital-identities",
-      "date": "30 July 2024",
+      "date": "12 August 2024",
       "url": "https://wicg.github.io/digital-identities/",
       "nightly": {
         "url": "https://wicg.github.io/digital-identities/",
@@ -23142,15 +23142,20 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/payment-request/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
             "link": "https://www.w3.org/TR/payment-method-id/",
             "ref": {
               "name": "PAYMENT-METHOD-ID",
               "url": "https://w3c.github.io/payment-method-id/"
+            }
+          },
+          {
+            "link": "https://www.w3.org/TR/payment-request/",
+            "ref": {
+              "name": "PAYMENT-REQUEST",
+              "url": "https://w3c.github.io/payment-request/"
             }
           }
         ],
@@ -24245,7 +24250,7 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -24303,6 +24308,11 @@
               "url": "https://wicg.github.io/scheduling-apis/",
               "title": "Prioritized Task Scheduling",
               "crawled": "https://wicg.github.io/scheduling-apis/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://privacycg.github.io/private-click-measurement/",
@@ -25018,7 +25028,7 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -25320,7 +25330,7 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -25343,6 +25353,11 @@
               "url": "https://wicg.github.io/scheduling-apis/",
               "title": "Prioritized Task Scheduling",
               "crawled": "https://wicg.github.io/scheduling-apis/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://wicg.github.io/turtledove/",
@@ -25488,6 +25503,11 @@
               "url": "https://webassembly.github.io/js-promise-integration/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-string-builtins/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-string-builtins/js-api/"
             },
             {
               "url": "https://webassembly.github.io/js-types/js-api/",
@@ -25912,6 +25932,11 @@
               "crawled": "https://w3c.github.io/png/"
             },
             {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
+            },
+            {
               "url": "https://wicg.github.io/turtledove/",
               "title": "Protected Audience (formerly FLEDGE)",
               "crawled": "https://wicg.github.io/turtledove/"
@@ -25997,6 +26022,11 @@
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
             },
             {
+              "url": "https://webassembly.github.io/js-string-builtins/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-string-builtins/js-api/"
+            },
+            {
               "url": "https://webassembly.github.io/js-types/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-types/js-api/"
@@ -26065,7 +26095,7 @@
       "url": "https://www.w3.org/TR/encrypted-media-2/",
       "release": {
         "url": "https://www.w3.org/TR/encrypted-media-2/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -26102,6 +26132,11 @@
         "inconsistentRef": [],
         "referencedBy": {
           "normative": [
+            {
+              "url": "https://www.w3.org/TR/eme-initdata-keyids/",
+              "title": "\"keyids\" Initialization Data Format",
+              "crawled": "https://w3c.github.io/encrypted-media/format-registry/initdata/keyids.html"
+            },
             {
               "url": "https://www.w3.org/TR/media-capabilities/",
               "title": "Media Capabilities",
@@ -26757,6 +26792,11 @@
               "crawled": "https://drafts.csswg.org/css-viewport/"
             },
             {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
+            },
+            {
               "url": "https://wicg.github.io/turtledove/",
               "title": "Protected Audience (formerly FLEDGE)",
               "crawled": "https://wicg.github.io/turtledove/"
@@ -27159,7 +27199,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -27182,6 +27222,11 @@
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
               "title": "Prerendering Revamped",
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://wicg.github.io/private-network-access/",
@@ -29474,6 +29519,11 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
+            },
+            {
               "url": "https://wicg.github.io/trust-token-api/",
               "title": "Private State Token API",
               "crawled": "https://wicg.github.io/trust-token-api/"
@@ -30911,7 +30961,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -30969,6 +31019,11 @@
               "url": "https://wicg.github.io/scheduling-apis/",
               "title": "Prioritized Task Scheduling",
               "crawled": "https://wicg.github.io/scheduling-apis/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://privacycg.github.io/private-click-measurement/",
@@ -31396,6 +31451,11 @@
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
             },
             {
+              "url": "https://webassembly.github.io/js-string-builtins/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-string-builtins/js-api/"
+            },
+            {
               "url": "https://webassembly.github.io/js-types/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-types/js-api/"
@@ -31706,6 +31766,11 @@
               "url": "https://www.w3.org/TR/selectors-3/",
               "title": "Selectors Level 3",
               "crawled": "https://drafts.csswg.org/selectors-3/"
+            },
+            {
+              "url": "https://drafts.csswg.org/selectors-5/",
+              "title": "Selectors Level 5",
+              "crawled": "https://drafts.csswg.org/selectors-5/"
             },
             {
               "url": "https://www.w3.org/TR/svg-integration/",
@@ -33160,7 +33225,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -33203,6 +33268,11 @@
               "url": "https://wicg.github.io/scheduling-apis/",
               "title": "Prioritized Task Scheduling",
               "crawled": "https://wicg.github.io/scheduling-apis/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://privacycg.github.io/private-click-measurement/",
@@ -33558,6 +33628,11 @@
               "url": "https://webassembly.github.io/js-promise-integration/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-string-builtins/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-string-builtins/js-api/"
             },
             {
               "url": "https://webassembly.github.io/js-types/js-api/",
@@ -38833,7 +38908,7 @@
         "referencedBy": {
           "normative": [
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             }
@@ -38902,7 +38977,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -38984,12 +39059,12 @@
     },
     {
       "title": "Payment Request API",
-      "shortname": "payment-request-1.1",
+      "shortname": "payment-request",
       "date": "14 August 2024",
-      "url": "https://www.w3.org/TR/payment-request-1.1/",
+      "url": "https://www.w3.org/TR/payment-request/",
       "release": {
-        "url": "https://www.w3.org/TR/payment-request-1.1/",
-        "status": "Working Draft",
+        "url": "https://www.w3.org/TR/payment-request/",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -39020,9 +39095,7 @@
           "css": [],
           "idl": []
         },
-        "missingLinkRef": [
-          "https://www.w3.org/TR/2022/REC-payment-request-20220908/"
-        ],
+        "missingLinkRef": [],
         "inconsistentRef": [
           {
             "link": "https://w3c.github.io/contact-picker/",
@@ -39050,6 +39123,11 @@
               "crawled": "https://html.spec.whatwg.org/multipage/"
             },
             {
+              "url": "https://www.w3.org/TR/payment-handler/",
+              "title": "Payment Handler API",
+              "crawled": "https://w3c.github.io/payment-handler/"
+            },
+            {
               "url": "https://www.w3.org/TR/payment-method-manifest/",
               "title": "Payment Method Manifest",
               "crawled": "https://w3c.github.io/payment-method-manifest/"
@@ -39070,6 +39148,11 @@
               "url": "https://wicg.github.io/capability-delegation/spec.html",
               "title": "Capability Delegation",
               "crawled": "https://wicg.github.io/capability-delegation/spec.html"
+            },
+            {
+              "url": "https://www.w3.org/TR/payment-method-id/",
+              "title": "Payment Method Identifiers",
+              "crawled": "https://w3c.github.io/payment-method-id/"
             },
             {
               "url": "https://wicg.github.io/nav-speculation/prerendering.html",
@@ -39709,7 +39792,7 @@
               "crawled": "https://wicg.github.io/page-lifecycle/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -39722,6 +39805,11 @@
               "url": "https://www.w3.org/TR/picture-in-picture/",
               "title": "Picture-in-Picture",
               "crawled": "https://w3c.github.io/picture-in-picture/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://wicg.github.io/trust-token-api/",
@@ -40577,6 +40665,50 @@
       }
     },
     {
+      "title": "Private Aggregation API",
+      "shortname": "private-aggregation-api",
+      "date": "19 August 2024",
+      "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+      "nightly": {
+        "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+        "status": "Unofficial Proposal Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/patcg-individual-drafts/private-aggregation-api",
+        "sourcePath": "spec.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Private Advertising Technology Community Group",
+          "url": "https://www.w3.org/community/patcg/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/design-principles/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Private Click Measurement",
       "shortname": "private-click-measurement",
       "date": "20 April 2021",
@@ -40831,6 +40963,11 @@
               "url": "https://wicg.github.io/fenced-frame/",
               "title": "Fenced Frame",
               "crawled": "https://wicg.github.io/fenced-frame/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             }
           ],
           "informative": [
@@ -42326,6 +42463,48 @@
       }
     },
     {
+      "title": "RegExp.escape",
+      "shortname": "tc39-regex-escaping",
+      "date": "30 July 2024",
+      "url": "https://tc39.es/proposal-regex-escaping/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-regex-escaping/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-regex-escaping",
+        "sourcePath": "spec.emu",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-regex-escaping/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Region Capture",
       "shortname": "mediacapture-region",
       "date": "12 December 2023",
@@ -43592,7 +43771,7 @@
               "crawled": "https://w3c.github.io/fingerprinting-guidance/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -47751,6 +47930,11 @@
               "crawled": "https://w3c.github.io/presentation-api/"
             },
             {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
+            },
+            {
               "url": "https://wicg.github.io/private-network-access/",
               "title": "Private Network Access",
               "crawled": "https://wicg.github.io/private-network-access/"
@@ -47818,7 +48002,7 @@
               "crawled": "https://w3c.github.io/sensors/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -48315,6 +48499,57 @@
       }
     },
     {
+      "title": "Selectors Level 5",
+      "shortname": "selectors-5",
+      "date": "13 August 2024",
+      "url": "https://drafts.csswg.org/selectors-5/",
+      "nightly": {
+        "url": "https://drafts.csswg.org/selectors-5/",
+        "status": "Editor's Draft",
+        "alternateUrls": [
+          "https://w3c.github.io/csswg-drafts/selectors-5/"
+        ],
+        "repository": "https://github.com/w3c/csswg-drafts",
+        "sourcePath": "selectors-5/Overview.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://drafts.csswg.org/selectors-5/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Cascading Style Sheets (CSS) Working Group",
+          "url": "https://www.w3.org/Style/CSS/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "http://www.w3.org/TR/css3-namespace/",
+          "http://www.w3.org/TR/css3-selectors/",
+          "http://www.w3.org/TR/html40/interact/forms.html",
+          "https://www.w3.org/TR/2013/WD-selectors4-20130502/",
+          "https://www.w3.org/TR/selectors-4",
+          "https://www.w3.org/TR/selectors-4/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Server Timing",
       "shortname": "server-timing",
       "date": "24 May 2024",
@@ -48704,7 +48939,13 @@
         "missingLinkRef": [],
         "inconsistentRef": [],
         "referencedBy": {
-          "normative": [],
+          "normative": [
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
+            }
+          ],
           "informative": [
             {
               "url": "https://wicg.github.io/fenced-frame/",
@@ -51506,6 +51747,48 @@
       }
     },
     {
+      "title": "Time Zone Canonicalization proposal",
+      "shortname": "tc39-canonical-tz",
+      "date": "25 September 2023",
+      "url": "https://tc39.es/proposal-canonical-tz/",
+      "nightly": {
+        "url": "https://tc39.es/proposal-canonical-tz/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/tc39/proposal-canonical-tz",
+        "sourcePath": "spec.html",
+        "filename": "index.html"
+      },
+      "crawled": "https://tc39.es/proposal-canonical-tz/",
+      "organization": "Ecma International",
+      "groups": [
+        {
+          "name": "TC39",
+          "url": "https://tc39.es/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": true,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
       "title": "Timing Entry Names Registry",
       "shortname": "timing-entrytypes-registry",
       "date": "23 January 2024",
@@ -52726,7 +53009,7 @@
               "crawled": "https://w3c.github.io/payment-method-manifest/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -52754,6 +53037,11 @@
               "url": "https://www.w3.org/TR/presentation-api/",
               "title": "Presentation API",
               "crawled": "https://w3c.github.io/presentation-api/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://privacycg.github.io/private-click-measurement/",
@@ -53737,6 +54025,11 @@
               "url": "https://www.w3.org/TR/epub-rs-33/",
               "title": "EPUB Reading Systems 3.3",
               "crawled": "https://w3c.github.io/epub-specs/epub33/rs/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://www.w3.org/TR/secure-contexts/",
@@ -54781,6 +55074,11 @@
               "crawled": "https://wicg.github.io/nav-speculation/prerendering.html"
             },
             {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
+            },
+            {
               "url": "https://wicg.github.io/webcrypto-secure-curves/",
               "title": "Secure Curves in the Web Cryptography API",
               "crawled": "https://wicg.github.io/webcrypto-secure-curves/"
@@ -55622,7 +55920,7 @@
               "crawled": "https://w3c.github.io/payment-handler/"
             },
             {
-              "url": "https://www.w3.org/TR/payment-request-1.1/",
+              "url": "https://www.w3.org/TR/payment-request/",
               "title": "Payment Request API",
               "crawled": "https://w3c.github.io/payment-request/"
             },
@@ -55675,6 +55973,11 @@
               "url": "https://wicg.github.io/scheduling-apis/",
               "title": "Prioritized Task Scheduling",
               "crawled": "https://wicg.github.io/scheduling-apis/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://wicg.github.io/private-network-access/",
@@ -56030,6 +56333,11 @@
               "url": "https://webassembly.github.io/js-promise-integration/js-api/",
               "title": "WebAssembly JavaScript Interface",
               "crawled": "https://webassembly.github.io/js-promise-integration/js-api/"
+            },
+            {
+              "url": "https://webassembly.github.io/js-string-builtins/js-api/",
+              "title": "WebAssembly JavaScript Interface",
+              "crawled": "https://webassembly.github.io/js-string-builtins/js-api/"
             },
             {
               "url": "https://webassembly.github.io/js-types/js-api/",
@@ -57397,6 +57705,52 @@
     },
     {
       "title": "WebAssembly JavaScript Interface",
+      "shortname": "wasm-js-api-2-fork-js-string-builtins",
+      "date": "8 August 2024",
+      "url": "https://webassembly.github.io/js-string-builtins/js-api/",
+      "nightly": {
+        "url": "https://webassembly.github.io/js-string-builtins/js-api/",
+        "status": "Editor's Draft",
+        "alternateUrls": [],
+        "repository": "https://github.com/WebAssembly/js-string-builtins",
+        "sourcePath": "document/js-api/index.bs",
+        "filename": "index.html"
+      },
+      "crawled": "https://webassembly.github.io/js-string-builtins/js-api/",
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "WebAssembly Community Group",
+          "url": "https://www.w3.org/community/webassembly/"
+        }
+      ],
+      "report": {
+        "noNormativeRefs": false,
+        "noRefToWebIDL": false,
+        "hasInvalidIdl": false,
+        "unknownExposedNames": [],
+        "unknownIdlNames": [],
+        "redefinedIdlNames": [],
+        "missingWebIdlRef": [],
+        "missingDfns": {
+          "css": [],
+          "idl": []
+        },
+        "missingLinkRef": [
+          "https://www.w3.org/TR/wasm-core/",
+          "https://www.w3.org/TR/wasm-js-api/",
+          "https://www.w3.org/TR/wasm-web-api/"
+        ],
+        "inconsistentRef": [],
+        "referencedBy": {
+          "normative": [],
+          "informative": []
+        },
+        "ok": false
+      }
+    },
+    {
+      "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2-fork-js-types",
       "date": "12 October 2023",
       "url": "https://webassembly.github.io/js-types/js-api/",
@@ -58205,6 +58559,11 @@
               "url": "https://www.w3.org/TR/permissions/",
               "title": "Permissions",
               "crawled": "https://w3c.github.io/permissions/"
+            },
+            {
+              "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
+              "title": "Private Aggregation API",
+              "crawled": "https://patcg-individual-drafts.github.io/private-aggregation-api/"
             },
             {
               "url": "https://www.w3.org/TR/proximity/",
@@ -60218,7 +60577,7 @@
     {
       "title": "WebGPU",
       "shortname": "webgpu",
-      "date": "19 August 2024",
+      "date": "20 August 2024",
       "url": "https://www.w3.org/TR/webgpu/",
       "release": {
         "url": "https://www.w3.org/TR/webgpu/",
@@ -60238,7 +60597,7 @@
       "groups": [
         {
           "name": "GPU for the Web Working Group",
-          "url": "https://www.w3.org/2020/gpu/"
+          "url": "https://www.w3.org/groups/wg/gpu/"
         }
       ],
       "report": {
@@ -60281,7 +60640,7 @@
     {
       "title": "WebGPU Shading Language",
       "shortname": "WGSL",
-      "date": "19 August 2024",
+      "date": "20 August 2024",
       "url": "https://www.w3.org/TR/WGSL/",
       "release": {
         "url": "https://www.w3.org/TR/WGSL/",
@@ -60301,7 +60660,7 @@
       "groups": [
         {
           "name": "GPU for the Web Working Group",
-          "url": "https://www.w3.org/2020/gpu/"
+          "url": "https://www.w3.org/groups/wg/gpu/"
         }
       ],
       "report": {
