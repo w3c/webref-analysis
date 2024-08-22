@@ -1,6 +1,6 @@
 % Reffy crawl
 % Strudy
-% August 21, 2024
+% August 22, 2024
 
 # Alliance for Open Media {#org-alliance_for_open_media}
 
@@ -841,7 +841,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Crawled URL: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
-- Crawled version: 8 August 2024
+- Crawled version: 21 August 2024
 - Editor's Draft: [https://tc39.es/proposal-temporal/](https://tc39.es/proposal-temporal/)
 - Shortname: tc39-temporal
 
@@ -9325,7 +9325,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Crawled URL: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
-- Crawled version: 13 August 2024
+- Crawled version: 21 August 2024
 - Editor's Draft: [https://drafts.csswg.org/css-view-transitions-2/](https://drafts.csswg.org/css-view-transitions-2/)
 - Latest published version: [https://www.w3.org/TR/css-view-transitions-2/](https://www.w3.org/TR/css-view-transitions-2/)
 - Shortname: css-view-transitions-2
@@ -11416,7 +11416,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/mathml4/](https://www.w3.org/TR/mathml4/)
 - Crawled URL: [https://w3c.github.io/mathml/](https://w3c.github.io/mathml/)
-- Crawled version: 09 August 2024
+- Crawled version: 22 August 2024
 - Editor's Draft: [https://w3c.github.io/mathml/](https://w3c.github.io/mathml/)
 - Latest published version: [https://www.w3.org/TR/mathml4/](https://www.w3.org/TR/mathml4/)
 - Shortname: mathml4
@@ -12830,7 +12830,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - Crawled URL: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
-- Crawled version: 19 August 2024
+- Crawled version: 21 August 2024
 - Editor's Draft: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - Shortname: private-aggregation-api
 
@@ -17521,7 +17521,9 @@ The following network or parsing error occurred:
     at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
     at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
     at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
-    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 44)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
