@@ -12830,7 +12830,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - Crawled URL: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
-- Crawled version: 21 August 2024
+- Crawled version: 22 August 2024
 - Editor's Draft: [https://patcg-individual-drafts.github.io/private-aggregation-api/](https://patcg-individual-drafts.github.io/private-aggregation-api/)
 - Shortname: private-aggregation-api
 
@@ -14496,7 +14496,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 21 August 2024
+- Crawled version: 22 August 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
@@ -16266,7 +16266,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Crawled URL: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
-- Crawled version: 5 August 2024
+- Crawled version: 22 August 2024
 - Editor's Draft: [https://webmachinelearning.github.io/webnn/](https://webmachinelearning.github.io/webnn/)
 - Latest published version: [https://www.w3.org/TR/webnn/](https://www.w3.org/TR/webnn/)
 - Shortname: webnn
@@ -17520,7 +17520,9 @@ The following network or parsing error occurred:
     at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
     at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
     at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
-    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
+    at async Promise.all (index 44)
+    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -18313,7 +18315,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 21 August 2024
+- Crawled version: 22 August 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -19501,7 +19503,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Crawled URL: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
-- Crawled version: 19 August 2024
+- Crawled version: 22 August 2024
 - Editor's Draft: [https://w3c.github.io/webrtc-pc/](https://w3c.github.io/webrtc-pc/)
 - Latest published version: [https://www.w3.org/TR/webrtc/](https://www.w3.org/TR/webrtc/)
 - Shortname: webrtc
