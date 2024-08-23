@@ -711,7 +711,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://tc39.es/proposal-regex-escaping/](https://tc39.es/proposal-regex-escaping/)
 - Crawled URL: [https://tc39.es/proposal-regex-escaping/](https://tc39.es/proposal-regex-escaping/)
-- Crawled version: 30 July 2024
+- Crawled version: 23 August 2024
 - Editor's Draft: [https://tc39.es/proposal-regex-escaping/](https://tc39.es/proposal-regex-escaping/)
 - Shortname: tc39-regex-escaping
 
@@ -14239,7 +14239,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://www.w3.org/TR/presentation-api/](https://www.w3.org/TR/presentation-api/)
 - Crawled URL: [https://w3c.github.io/presentation-api/](https://w3c.github.io/presentation-api/)
-- Crawled version: 22 August 2024
+- Crawled version: 23 August 2024
 - Editor's Draft: [https://w3c.github.io/presentation-api/](https://w3c.github.io/presentation-api/)
 - Latest published version: [https://www.w3.org/TR/presentation-api/](https://www.w3.org/TR/presentation-api/)
 - Shortname: presentation-api
@@ -14496,7 +14496,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Crawled URL: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
-- Crawled version: 22 August 2024
+- Crawled version: 23 August 2024
 - Editor's Draft: [https://w3c.github.io/vc-data-model/](https://w3c.github.io/vc-data-model/)
 - Latest published version: [https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 - Shortname: vc-data-model-2.0
@@ -17520,9 +17520,7 @@ The following network or parsing error occurred:
     at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)
     at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)
     at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)
-    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)
-    at async Promise.all (index 44)
-    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)`
+    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)`
 
 Reffy could not render this specification as a DOM tree and cannot say anything about it as a result. In particular, it cannot include content defined in this specification in the analysis of other specifications crawled in this report.
 
@@ -18315,7 +18313,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Crawled URL: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
-- Crawled version: 22 August 2024
+- Crawled version: 23 August 2024
 - Editor's Draft: [https://wicg.github.io/turtledove/](https://wicg.github.io/turtledove/)
 - Shortname: turtledove
 
@@ -19816,7 +19814,7 @@ No informative reference to this spec from other specs.
 
 - Initial URL: [https://webassembly.github.io/js-string-builtins/js-api/](https://webassembly.github.io/js-string-builtins/js-api/)
 - Crawled URL: [https://webassembly.github.io/js-string-builtins/js-api/](https://webassembly.github.io/js-string-builtins/js-api/)
-- Crawled version: 21 August 2024
+- Crawled version: 23 August 2024
 - Editor's Draft: [https://webassembly.github.io/js-string-builtins/js-api/](https://webassembly.github.io/js-string-builtins/js-api/)
 - Shortname: wasm-js-api-2-fork-js-string-builtins
 
@@ -20604,7 +20602,7 @@ Informative references to this spec from:
 
 - Initial URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Crawled URL: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
-- Crawled version: 21 August 2024
+- Crawled version: 23 August 2024
 - Editor's Draft: [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 - Shortname: html
 

@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-23T12:47:39.507Z",
+  "date": "2024-08-23T18:39:58.686Z",
   "stats": {
     "crawled": 639,
     "errors": 2,
@@ -26715,7 +26715,7 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://fedidcg.github.io/FedCM/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 44)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)",
+        "error": "Error: Loading https://fedidcg.github.io/FedCM/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -29869,7 +29869,7 @@
     {
       "title": "HTML Standard",
       "shortname": "html",
-      "date": "21 August 2024",
+      "date": "23 August 2024",
       "url": "https://html.spec.whatwg.org/multipage/",
       "nightly": {
         "url": "https://html.spec.whatwg.org/multipage/",
@@ -40552,7 +40552,7 @@
     {
       "title": "Presentation API",
       "shortname": "presentation-api",
-      "date": "22 August 2024",
+      "date": "23 August 2024",
       "url": "https://www.w3.org/TR/presentation-api/",
       "release": {
         "url": "https://www.w3.org/TR/presentation-api/",
@@ -40926,7 +40926,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "22 August 2024",
+      "date": "23 August 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
@@ -42466,7 +42466,7 @@
     {
       "title": "RegExp.escape",
       "shortname": "tc39-regex-escaping",
-      "date": "30 July 2024",
+      "date": "23 August 2024",
       "url": "https://tc39.es/proposal-regex-escaping/",
       "nightly": {
         "url": "https://tc39.es/proposal-regex-escaping/",
@@ -53550,7 +53550,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "22 August 2024",
+      "date": "23 August 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
@@ -57707,7 +57707,7 @@
     {
       "title": "WebAssembly JavaScript Interface",
       "shortname": "wasm-js-api-2-fork-js-string-builtins",
-      "date": "21 August 2024",
+      "date": "23 August 2024",
       "url": "https://webassembly.github.io/js-string-builtins/js-api/",
       "nightly": {
         "url": "https://webassembly.github.io/js-string-builtins/js-api/",
