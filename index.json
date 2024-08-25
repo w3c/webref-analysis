@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-25T00:51:27.157Z",
+  "date": "2024-08-25T06:40:20.476Z",
   "stats": {
     "crawled": 639,
     "errors": 2,
@@ -3710,7 +3710,7 @@
     {
       "title": "Cookies: HTTP State Management Mechanism",
       "shortname": "rfc6265bis",
-      "date": "24 August 2024",
+      "date": "25 August 2024",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-rfc6265bis",
       "nightly": {
         "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
@@ -8458,6 +8458,11 @@
               "url": "https://www.w3.org/TR/css-transitions-1/",
               "title": "CSS Transitions Level 1",
               "crawled": "https://drafts.csswg.org/css-transitions-1/"
+            },
+            {
+              "url": "https://www.w3.org/TR/css-typed-om-1/",
+              "title": "CSS Typed OM Level 1",
+              "crawled": "https://drafts.css-houdini.org/css-typed-om-1/"
             },
             {
               "url": "https://www.w3.org/TR/css-values-4/",
@@ -13859,7 +13864,7 @@
     {
       "title": "CSS Layout API Level 1",
       "shortname": "css-layout-api-1",
-      "date": "15 July 2022",
+      "date": "24 August 2024",
       "url": "https://www.w3.org/TR/css-layout-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-layout-api-1/",
@@ -15978,7 +15983,7 @@
     {
       "title": "CSS Painting API Level 1",
       "shortname": "css-paint-api-1",
-      "date": "15 December 2020",
+      "date": "24 August 2024",
       "url": "https://www.w3.org/TR/css-paint-api-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-paint-api-1/",
@@ -19942,7 +19947,7 @@
     {
       "title": "CSS Typed OM Level 1",
       "shortname": "css-typed-om-1",
-      "date": "4 March 2024",
+      "date": "22 August 2024",
       "url": "https://www.w3.org/TR/css-typed-om-1/",
       "release": {
         "url": "https://www.w3.org/TR/css-typed-om-1/",
@@ -26715,7 +26720,7 @@
         }
       ],
       "report": {
-        "error": "Error: Loading https://fedidcg.github.io/FedCM/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
+        "error": "Error: Loading https://fedidcg.github.io/FedCM/ triggered HTTP status 404\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 44)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)",
         "noNormativeRefs": false,
         "noRefToWebIDL": false,
         "hasInvalidIdl": false,
@@ -40926,7 +40931,7 @@
     {
       "title": "Protected Audience (formerly FLEDGE)",
       "shortname": "turtledove",
-      "date": "23 August 2024",
+      "date": "25 August 2024",
       "url": "https://wicg.github.io/turtledove/",
       "nightly": {
         "url": "https://wicg.github.io/turtledove/",
