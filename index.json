@@ -2,7 +2,7 @@
   "type": "study",
   "title": "Reffy crawl",
   "description": "",
-  "date": "2024-08-25T18:38:35.940Z",
+  "date": "2024-08-26T00:51:15.109Z",
   "stats": {
     "crawled": 639,
     "errors": 2,
@@ -26752,7 +26752,7 @@
     {
       "title": "Fenced Frame",
       "shortname": "fenced-frame",
-      "date": "13 August 2024",
+      "date": "25 August 2024",
       "url": "https://wicg.github.io/fenced-frame/",
       "nightly": {
         "url": "https://wicg.github.io/fenced-frame/",
@@ -53555,7 +53555,7 @@
     {
       "title": "Verifiable Credentials Data Model v2.0",
       "shortname": "vc-data-model-2.0",
-      "date": "24 August 2024",
+      "date": "25 August 2024",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "release": {
         "url": "https://www.w3.org/TR/vc-data-model-2.0/",
