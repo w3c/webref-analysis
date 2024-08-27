@@ -1,5 +1,8 @@
 # Webref data analyses
 
+> [!Important]
+> Analyses are no longer published here (last update in August 2024). Specific issues are now rather directly reported in the repositories that host the specs, on a semi-automated basis. To run your own analyses, see [Strudy](https://github.com/w3c/strudy).
+
 ## Description
 
 This repository contains **machine-readable and human-readable analysis reports of Web spec crawls**. The contents of the repository are updated roughly **every 6 hours**, whenever new data gets published to [Webref](https://github.com/w3c/webref).
